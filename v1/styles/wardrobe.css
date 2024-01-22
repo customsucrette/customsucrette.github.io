@@ -1,0 +1,1341 @@
+html {
+    box-sizing: border-box;
+    font-family: Arvo, serif;
+    color: #333;
+    overflow-y: scroll;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body, html {
+    box-sizing: border-box;
+    font-family: Arvo, serif;
+    color: #333;
+    height: 100%;
+    min-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+*, :after, :before {
+    box-sizing: inherit;
+}
+
+a {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+img {
+    border-style: none;
+}
+
+#main-wrapper {
+    background: url(https://www.corazondemelon.es/image/backgrounds/s1/site.png) 50% no-repeat;
+    display: block;
+    min-width: 1100px;
+    min-height: 100%;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+}
+
+#site-wrap {
+    width: 978px;
+    height: auto;
+    margin: auto;
+    min-height: 100%;
+    position: relative;
+}
+
+#site-header {
+    width: 100%;
+    height: 160px;
+    position: relative;
+}
+
+#site-logo {
+    width: 658px;
+    float: left;
+    height: 100%;
+    text-align: center;
+    margin: 0;
+}
+
+#site-wrap .halo {
+    position: absolute;
+    left: -101px;
+    width: 783px;
+    height: 401px;
+    background-image: url(https://www.corazondemelon.es/image/halo.png);
+}
+
+#site-logo a {
+    position: relative;
+    margin-top: 5px;
+}
+
+.logo-as {
+    max-height: 160px;
+}
+
+#panel-connected {
+    position: absolute;
+    z-index: 2;
+    top: -5px;
+    right: 0;
+    width: 320px;
+    height: 150px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.panel-connected {
+    background-color: #fff;
+    box-shadow: 0 0 5px .1px rgba(24,24,24,.73);
+    height: 100%;
+    position: relative;
+}
+
+.panel-connected .line-container {
+    width: 100%;
+    position: relative;
+}
+
+/* NUEVO */
+.panel-connected .line-container paper-clip-title {
+    position: relative;
+    display: inline-block;
+    z-index: 10;
+    box-shadow: 1px 1px 2px rgba(64,137,162,.631);
+    vertical-align: top;
+    margin-top: 4px;
+}
+
+.blue {
+  background-color: #239dd6;
+}
+
+.panel-connected .line-container paper-clip-title .title-container {
+    padding: 7px 0 7px 30px;
+    width: 200px;
+    height: 32px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    position: relative;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.title-container .trombone {
+    background: url(https://www.corazondemelon.es/image/paper-clip/left.png) no-repeat;
+    background-size: contain;
+    height: 13px;
+    width: 40px;
+    position: absolute;
+    top: calc(50% - 7.5px);
+    left: -15px;
+}
+
+.panel-connected .line-container paper-clip-title .title-container .menu-title {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    text-shadow: 0 1px 1px rgba(23,137,176,.75);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.panel-connected .line-container season-selector {
+    margin-bottom: 10px;
+}
+
+season-selector {    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 37px;
+    width: 100%;
+    overflow: hidden;
+}
+
+season-selector a {
+    cursor: pointer !important;
+}
+
+season-selector-button .v1 {
+    background: rgba(248,80,132,.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: 100%;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all .3s;
+    font-size: 15px;
+}
+
+.icon-container {
+    width: 50px;
+    transition: color .3s;
+    padding-left: 5px;
+    font-size: 30px;
+    font-family: "IconMenu",serif;
+    position: relative;
+}
+
+
+
+.v1 {
+    background: rgba(248,80,132,.5);
+}
+
+.v2 {
+    background: rgba(41,160,173,.5);
+}
+
+.v1 .icon-container {
+    color: #f85084;
+}
+
+.v2 .icon-container {
+    color: #29a0ad;
+}
+
+.v1 .icon-container .icon {
+    background: url(https://www.corazondemelon.es/image/home/s1/icon/season-icon-hover.png) no-repeat;
+    background-size: contain;
+}
+
+.v2 .icon-container .icon {
+      background: url(https://www.corazondemelon.es/image/home/s3/icon/season-icon-hover.png) no-repeat;
+      background-size: contain;
+}
+
+.icon-container .icon {
+    height: 20px;
+    width: 30px;
+    background-size: contain;
+    transition: background .3s;
+}
+
+.v1.on-hover .icon {
+    background: url(https://www.corazondemelon.es/image/home/s1/icon/season-icon.png) no-repeat !important;
+    background-size: contain !important;
+}
+
+.v2.on-hover .icon {
+    background: url(https://www.corazondemelon.es/image/home/s3/icon/season-icon.png) no-repeat !important;
+    background-size: contain !important;
+}
+
+.icon-container .switch {
+    font-size: 15px;
+    position: absolute;
+    top: 4px;
+    left: 28px;
+    transform: rotate(125deg);
+    transition: transform .3s;
+}
+
+.icon-container .switch.rotate {
+    transform: rotate(175deg);
+}
+
+.on-hover .icon-container {
+    color: #fff !important;
+}
+
+.text {
+    overflow: hidden;
+    width: 0;
+    transition: width .3s;
+    text-align: center;
+}
+
+.v1 .content {
+    width: 142px;
+}
+
+.text .content {
+    width: 194px;
+}
+
+.v1.on-hover {
+    background: #f85084;
+}
+
+.v2.on-hover {
+    background: #29a0ad;
+}
+
+season-selector-button {
+    margin-right: -1px;
+    display: flex;
+    padding: 10px 0 10px 5px;
+}
+.on-hover {
+    color: #fff !important;
+}
+
+.text.visible {
+  width: 194px;
+}
+
+.current-season {
+    background: white;
+    cursor: default;
+}
+
+.v1.current-season {
+    color: #f85084;
+}
+
+.v2.current-season {
+    color: #29a0ad;
+}
+
+.code-input {
+    width: 100%;
+    display: flex;
+}
+
+.code-input form {
+    display: contents;
+}
+
+.code-input form input, .code-container {
+    margin: 13px auto;
+    width: 250px;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+}
+
+/* FIN NUEVO */
+
+.line-container .intro-text {
+    text-align: center;
+    padding: 10px;
+}
+
+.line-container .change-ver, .copy-code {
+    background-color: #fff;
+    color: #239dd6;
+    box-shadow: 1px 1px 2px 0 #656565;
+    padding: 5px;
+    margin: 5px auto;
+    max-width: 130px;
+    max-width: 210px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
+.line-container .change-ver.active, .code-input input, .code-container, .copy-code.active {
+    background-color: #239dd6;
+    color: #fff;
+    box-shadow: none;
+}
+
+.change-ver:hover, .copy-code:hover {
+    background: #239dd6;
+    color: #fff;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.code-container {
+    resize: none;
+    height: 100px;
+    width: 480px;
+}
+
+#site-menu {
+    height: 45px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.navigation-menu {
+    display: block;
+    text-align: center;
+    position: relative;
+    height: 45px;
+    line-height: 45px;
+}
+
+.navigation-menu a {
+    background: #f55083;
+    text-decoration: none;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    padding: 8px 6px;
+    display: inline-block;
+    color: #fff;
+    height: 36px;
+    font-size: 17px;
+    line-height: 16px;
+    text-align: center;
+    position: relative;
+    margin-left: 3px;
+    margin-right: 3px;
+    vertical-align: bottom;
+    transition: background .3s,color .3s,height .3s;
+}
+
+.navigation-menu a.active {
+    color: #f55083;
+    background: #fff;
+    height: 45px;
+}
+
+.navigation-menu a.unactive {
+    filter: grayscale(100%);
+    cursor: default;
+    pointer-events: none;
+}
+
+.navigation-menu .text-menu {
+    display: inline-block;
+    vertical-align: middle;
+    height: 18px;
+}
+
+.navigation-menu a:hover:not(.active):not(.unactive) {
+    height: 40px;
+    color: #f55083;
+    cursor: pointer;
+    background: #fff;
+}
+
+#site-content {
+    z-index:10;
+    padding-bottom: 95px;
+}
+
+#side-links {
+    display: block;
+    position: absolute;
+    top: 205px;
+    left: -50px;
+    height: 555px;
+    width: 50px;
+}
+
+#side-link-event {
+    position: absolute;
+    top: 20px;
+}
+
+#site-content #pages {
+    position: relative;
+    z-index:10;
+}
+
+/* Pagina */
+.color-primary {
+    color: #f55083;
+}
+
+#page-sheet-container {
+    display: block;
+    box-shadow: 0 0 5px 0.1px rgb(24 24 24 / 73%);
+    width: 978px;
+    margin: auto;
+    background-color: #fff;
+    position: relative;
+}
+
+#page-sheet-container > h2 {
+    margin: 0;
+    background: #fff;
+    padding: 15px 25px;
+    font-size: 24px;
+    font-weight: 700;
+    border-bottom: 1px dashed #cecfcf;
+}
+
+.page-sheet-content {
+    min-height: 500px;
+    position: relative;
+}
+
+.fitting-room {
+    width: 256px;
+    height: 615px;
+    float: left;
+    box-shadow: inset 0 3px 4px 0 rgb(202 159 176 / 32%);
+    position: relative;
+}
+
+.season-s1 .fitting-room {
+    background: url(https://www.corazondemelon.es/image/cupboard/s1/fitting-room.jpg);
+}
+
+.fitting-room .player-container {
+    margin-top: 80px;
+}
+
+#player-avatar {
+    display:block;
+}
+
+#avatar {
+    opacity: 0;
+    transition: opacity .3s;
+}
+
+#avatar.visible {
+    opacity: 1;
+}
+
+#stage {
+    opacity: 0;
+    transition: opacity .3s;
+}
+
+#stage.rendered {
+    opacity: 1;
+}
+
+#cupboard-panel {
+    background: linear-gradient(0deg,#edd0c2,50%,#fff 100%);
+    position: absolute;
+    bottom: 0;
+    left: 39px;
+    display: block;
+    box-shadow: 0 0 7px 0 rgba(135,98,80,.61);
+    height: 69px;
+    width: 180px;
+    text-align: center;
+    padding-top: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+
+#cupboard-panel a.button {
+    background: #e03e71 url(https://www.corazondemelon.es/image/common/cloth-category-reflect.png);
+    display: inline-block;
+    border-radius: 14px;
+    border: 2px solid #fff;
+    box-shadow: 0 3px 5px 0 rgba(182,122,94,.71);
+    cursor: pointer;
+    padding: 0;
+    transition: background-color .3s;
+    width: 48px;
+    height: 52px;
+    vertical-align: bottom;
+}
+
+#cupboard-panel a.button.disabled {
+    filter: grayscale(100%);
+    cursor: default;
+}
+
+#cupboard-panel a.button:hover:not(.disabled) {
+    background-color: #e76a91;
+}
+
+/* NUEVO */
+.save-popup {
+    background-color: #fff;
+    border-radius: 5px;
+    top: -6px;
+    position: absolute;
+    left: -48px;
+    box-shadow: 2px 2px 10px #666;
+}
+
+.save-popup.hidden {
+    display: none;
+}
+.popup-line {
+    padding: 5px 20px;
+    margin: 9px 8px;
+    cursor: pointer;
+}
+
+.popup-line:hover {
+  background: #afec54;
+  border-radius: 5px;
+}
+
+.popup-arrow {
+    border-color: transparent transparent transparent #fff;
+    border-width: 7px 0 7px 14px;
+    border-style: solid;
+    display: inline-block;
+    position: absolute;
+    top: 33px;
+    right: -13px;
+}
+/* FIN NUEVO */
+
+.cupboard {
+    margin-left: 256px;
+    height: 615px;
+    position: relative;
+}
+
+.cupboard .panel {
+    background: linear-gradient(0deg, #e8e6e5, #fff);
+    box-shadow: 0 3px 4px 0 #d6d2c8;
+    position: relative;
+    z-index: 2;
+    height: 175px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    height: 147px;
+}
+
+.cupboard .panel .title {
+    margin-bottom: 15px;
+}
+
+.season-s1 .title {
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+}
+
+#category-selector {
+    width: 100%;
+    position: relative;
+}
+
+.categories-container {
+    width: 675px;
+    position: relative;
+    margin-left: 22px;
+}
+
+.categories-wrapper {
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    width: 675px;
+}
+
+.categories {
+    text-align: center;
+    transition: left .3s ease-in-out;
+    display: inline-block;
+    position: relative;
+    transform-origin: center top;
+}
+
+.arrow {
+    position: absolute;
+    z-index: 2;
+    top: 25px;
+    cursor: pointer;
+    transition: opacity .3s;
+    color: #bdbdbd;
+    font-size: 25px;
+}
+
+.arrow.left {
+    left: -17px;
+}
+
+.arrow.right {
+    right: -17px;
+}
+
+.arrow.disabled {
+    cursor: default;
+    opacity: .2;
+}
+
+#category-selector .category {
+    color: #fff;
+    background: url(https://www.corazondemelon.es/image/common/cloth-category-reflect.png) #58c5ea;
+    border: 2px solid #fff;
+    font-family: IconPlacard, sans-serif;
+    text-shadow: 0 1px 1px #2bb5e4;
+    border-radius: 8px;
+    font-size: 50px;
+    box-shadow: 0 3px 4px 0 rgb(91 136 162 / 15%);
+    transition: background-color .3s;
+    cursor: pointer;
+}
+
+#category-selector .category:hover {
+    background-color: #6fcded;
+}
+
+.category {
+    display: inline-block;
+    width: 65px;
+    height: 65px;
+    margin: 5px;
+}
+
+.category.selected {
+    background-color: #fff !important;
+    border-color: #2bb5e4 !important;
+    color: #2bb5e4 !important;
+    box-shadow: none;
+    cursor: default;
+}
+
+.categories-wrapper .category span {
+    background-image: url(../assets/img/category-icon.png);
+}
+
+.categories-wrapper .category.selected span {
+    background-image: url(../assets/img/category-icon-selected.png);
+}
+
+.face-categories .category span {
+    background-image: url(../assets/img/avatar-category.png);
+}
+
+.face-categories .category.selected span {
+    background-image: url(../assets/img/avatar-category-selected.png);
+}
+
+.categories-wrapper .category span, .categories-wrapper .category.selected span,
+.face-categories .category span, .face-categories .category.selected span {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 0px;
+    top: 3px;
+}
+
+.face-categories .category span, .face-categories .category.selected span {
+    left: -1px;
+}
+
+.face-categories {
+    text-align: center;
+}
+
+.icon-category-wig {background-position: 0px 0px;}
+.icon-category-hairAccessory {background-position: -50px 0px;}
+.icon-category-jacket {background-position: -100px 0px;}
+.icon-category-shirt {background-position: -150px 0px;}
+.icon-category-underwears {background-position: -200px 0px;}
+.icon-category-pants {background-position: -250px 0px;}
+.icon-category-socks {background-position: -300px 0px;}
+
+.icon-category-shoes {background-position: 0px -50px;}
+.icon-category-necklace {background-position: -50px -50px;}
+.icon-category-dress {background-position: -100px -50px;}
+.icon-category-highHeels {background-position: -150px -50px;}
+.icon-category-accessory {background-position: -200px -50px;}
+.icon-category-purse {background-position: -250px -50px;}
+.icon-category-skin {background-position: -300px -50px;}
+
+
+.icon-category-hairStyle {background-position: 0px 0px ;}
+.icon-category-hairColor {background-position: -50px 0px ;}
+.icon-category-eyeType {background-position: -100px 0px ;}
+.icon-category-eyeColor {background-position: -150px 0px ;}
+.icon-category-eyebrow {background-position: -200px 0px ;}
+.icon-category-mouth {background-position: -250px 0px ;}
+.icon-category-makeUp {background-position: -300px 0px ;}
+
+.season-s1 .category-name {
+    color: #2bb5e4;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#cloth-list {
+    background: url(https://www.corazondemelon.es/image/cupboard/s1/background.jpg);
+    display: block;
+    position: relative;
+    height: 468px;
+}
+
+#cloth-list button {
+    height: 50px;
+    overflow: hidden;
+    font-family: Arvo, serif;
+    border-radius: 0 0 30px 30px !important;
+    border: 2px solid #fff !important;
+    font-size: 13px !important;
+    width: auto !important;
+    min-width: 194px !important;
+    position: absolute;
+    left: 39px;
+    top: -50px;
+    opacity: 0;
+    pointer-events: none;
+    background: linear-gradient(0deg,#fd69ab,#f899c3);
+    background-size: 101%;
+    box-shadow: 0 1px 8px rgba(0,0,0,.23921568627450981);
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 1px 1px #9a1a51;
+    transition: all .3s;
+    padding: 18px 11px 9px;
+}
+
+#cloth-list button.visible {
+    top: -14px !important;
+    opacity: 1;
+    pointer-events: auto;
+}
+
+#cloth-list button::after {
+    content: "";
+    width: 194px;
+    height: 70px;
+    background: url(../assets/img/button-texture.png);
+    background-size: cover;
+    position: absolute;
+    top: calc(50% - 35px);
+    left: -2px;
+    opacity: .6;
+    transition: opacity .3s;
+}
+
+#cloth-list button:hover {
+    filter: brightness(1.1);
+}
+
+#cloth-list button:hover:after {
+    opacity: 1;
+}
+
+.showcase {
+    width: 100%;
+    height: 440px;
+    overflow: hidden;
+    text-align: center;
+    padding-top: 55px;
+}
+
+.declinable-hanger, .declinable-avatar {
+    position: relative;
+    z-index: 8;
+    display: inline-block;
+    margin: 0 5px 25px 0;    
+}
+
+.hanger-container {
+    display: block;
+    position: relative;
+}
+
+.hanger.clickable {
+    background-color: #ededed;
+    background-image: linear-gradient(hsla(0,0%,100%,.8),hsla(0,0%,100%,0) 62%);
+    border: 3px solid #fff;
+    z-index: 2;
+    position: relative;
+    border-radius: 9px;
+    height: 157px;
+    width: 157px;
+    transition: background-color .3s,width .3s,height .3s;
+    box-shadow: 2px 2px 4px 0 rgba(208,148,122,.59);
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.hanger.clickable.selected {
+    background-color: #afec54;
+}
+
+.hanger.clickable:hover:not(.selected) {
+    background-color: #fafafa;
+}
+
+.declinations {
+    height: 42px;
+    position: absolute;
+    right: -85px;
+    top: 0;
+    color: #3ab6c4;
+    font-size: 11px;
+    font-weight: 700;
+    z-index: 5;
+    transition: all .3s ease;
+}
+
+.hanger.clickable:not(.little) .declinations.isHover {
+    right: 0;
+}
+
+.declinations .panel {
+    height: 100%;
+    width: 130px;
+    background: #d5e4ed;
+    border-bottom-left-radius: 50px;
+    position: relative;
+    box-shadow: none;
+}
+
+.declinations .panel .counter {
+    position: absolute;
+    left: 3px;
+    top: 3px;
+    height: 46px;
+    width: 46px;
+    text-align: center;
+}
+
+.declinations .panel .counter .declination-picto {
+    display: inline-block;
+    width: 33px;
+    height: 18px;
+    background: url(https://www.corazondemelon.es/image/cloth-store/declination-picto.png);
+}
+
+.declinations .panel .text {
+    display: inline-block;
+    position: absolute;
+    left: 46px;
+    text-align: center;
+    top: 0;
+    height: 42px;
+}
+
+.declinations .panel .text .text-content {
+    display: table;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.declinations .panel .text .text-content p {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.item {
+    overflow: hidden;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.item img {
+    margin-top: 8px;
+    width: calc(100% - 15px);
+    height: calc(100% - 15px);
+}
+
+.custom-pagination {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 8px;
+}
+
+.pagination {
+    display: inline-block;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.pagination .page {
+    background: #e1b19b;
+    box-shadow: none;
+    min-width: 28px;
+    height: 28px;
+    display: block;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: center;
+    transition: all .3s;
+}
+
+.pagination .page:hover {
+    filter: brightness(.9);
+    cursor: pointer;
+}
+
+.pagination .selected {
+    background: #e03e71;
+    color: #fff;
+}
+
+/* Overlay */
+.overlay-container {
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 10;
+    visibility: inherit;
+    text-align: center;
+    overflow: auto;
+}
+
+.overlay.navigation-menu {
+    top: 48px;
+}
+
+.overlay-popup {
+    padding: 30px;
+    background-color: white;
+    border-radius: 20px;
+    z-index: 11;
+    position: relative;
+    top: 42px;
+    margin: auto;
+    margin-bottom: 80px;
+    display: inline-block;
+}
+
+.overlay-popup.code-popup {
+  transform: translateY(30%);
+}
+
+.button-close {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    border-radius: 50px;
+    width: 36px;
+    height: 36px;
+    border: 2px solid #fff;
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+    line-height: 30px;
+    cursor: pointer;
+    background-color: #f55083;
+    transition: all .3s;
+}
+
+.button-close:hover {
+    filter: brightness(1.1);
+}
+
+.overlay-canvas {
+    border: 1px solid #000;
+}
+
+/* MOVE PANEL */
+.layout-move-panel {
+    position: absolute;
+    z-index: 9;
+    top: -147px;
+    width: 100%;
+    height: 615px;
+    background: rgba(0,0,0,.5);
+    opacity: 0;
+    transition: opacity .3s;
+    pointer-events: none;
+}
+
+.layout-move-panel.visible {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.closable-zone {
+    position: absolute;
+    width: 100%;
+    height: 615px;
+    z-index: 5;
+    pointer-events: none;
+}
+
+.layout-move-panel.visible .closable-zone {
+    pointer-events: auto;
+}
+
+#move-panel {
+    position: relative;
+    z-index: 6;
+    margin: auto;
+    margin-top: 39px;
+    transition: transform .3s;
+    transform: scaleY(0);
+    display: block;
+    width: 375px;
+}
+
+.layout-move-panel.visible #move-panel {
+    transform: scaleY(1);
+}
+
+#move-panel .title {
+    background-color: #e03e71;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    width: 100%;
+    height: 55px;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+    padding-top: 21px;
+}
+
+.clothes-container {
+    height: 450px;
+    overflow-y: auto;
+    background: #fff;
+}
+
+#move-panel .end {
+    background-color: #e03e71;
+    height: 30px;
+    width: 100%;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+#move-panel .close-panel {
+    background-color: #f55083;
+    height: 36px;
+    width: 36px;
+    position: absolute;
+    top: -10.8px;
+    right: -10.8px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    font-size: 22.4px;
+    color: #fff;
+    transition: background-color .3s;
+    line-height: 1.3;
+}
+
+#move-panel .close-panel:hover {
+    background-color: #f880a5;
+}
+
+.row-z-index-manager {
+    background: #fff;
+    box-shadow: 0 1px 6px 0 hsla(0,0%,84.7%,.5);
+    width: 100%;
+    height: 64px;
+    position: relative;
+    margin-bottom: 5px;
+}
+
+.row-z-index-manager .cloth-asset {
+    box-shadow: 0 0 13px 0 hsla(0,0%,56.5%,.33);
+    border-radius: 6px;
+    box-sizing: border-box;
+    background-color: #fff;
+    width: 51px;
+    height: 51px;
+    float: left;
+    margin-left: 12px;
+    margin-top: 6px;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.row-z-index-manager .cloth-asset img {
+    height: 45px;
+}
+
+.row-z-index-manager .cloth-name {
+    height: 100%;
+    color: #968d8e;
+    font-size: 12px;
+    float: left;
+    width: 185px;
+    margin-left: 10px;
+    padding-top: 25px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.row-z-index-manager .delete {
+    background-color: #e03e71;
+    width: 21px;
+    height: 21px;
+    border-radius: 50%;
+    position: absolute;
+    top: 19px;
+    text-align: center;
+    padding-top: 2px;
+    padding-left: 1px;
+    right: 12px;
+    color: #fff;
+    cursor: pointer;
+    z-index: 2;
+    transition: all .3s;
+    line-height: 1;
+}
+
+.row-z-index-manager .delete:hover, .row-z-index-manager .selector:hover:not(.disabled) {
+    background-color: #fbb0c7;
+}
+
+.selector-position {
+    position: absolute;
+    top: 18px;
+    right: 40px;
+}
+
+.row-z-index-manager .selector {
+    position: relative;
+    font-size: 16px;
+    color: #fff;
+    background-color: #e03e71;
+    float: left;
+    padding: 2px 5px;
+    cursor: pointer;
+}
+
+.row-z-index-manager .selector:nth-child(1) {
+    border-radius: 10px 0 0 10px;
+    padding-left: 8px;
+}
+
+.row-z-index-manager .selector:nth-child(2) {
+    border-radius: 0 10px 10px 0;
+    padding-right: 8px;
+}
+
+.row-z-index-manager .selector.disabled {
+    background-color: #bdbdbd;
+    cursor: default;
+}
+
+.cdk-drag-placeholder {:not(.disabled);
+    opacity: 0;
+}
+
+/* Buscador */
+.search {
+    position: absolute;
+    z-index: 3;
+    display: inline-block;
+    top: 15px;
+    right: 22px;
+    display: none;
+}
+
+.search input {
+    border-radius: 8px;
+    border: 1px solid #dcdcdc;
+    background-color: #fff;
+    box-shadow: 0 0 6px 0 rgba(91,91,91,.26);
+    width: 130px;
+    height: 27px;
+    color: #908f8f;
+    font-size: 13px;
+    padding: 0 25px 0 9px;
+    transition: width .3s;
+}
+
+.search input:focus {
+    outline: none;
+    width: 335px;
+}
+
+.search img {
+    position: absolute;
+    top: 4px;
+    right: 7px;
+}
+
+#size-chooser {
+    position: absolute;
+    bottom: 4px;
+    right: 10px;
+    z-index: 8;
+    display: none;
+}
+
+.size-button {
+    width: 38px;
+    height: 28px;
+    border-radius: 7px;
+    display: inline-block;
+    cursor: pointer;
+    transition: all .3s;
+    transform: scale(.8);
+}
+
+.size-button.little {
+    background: #e1b19b url(https://www.corazondemelon.es/image/common/size/little.png) no-repeat center center;
+}
+
+.size-button.big {
+    background: #e1b19b url(https://www.corazondemelon.es/image/common/size/big.png) no-repeat center center;
+}
+
+.size-button:hover {
+    background-color: #d59274;
+    transform: scale(1);
+}
+
+.size-button.actif {
+    background-color: #e03e71;
+    transform: scale(1);
+}
+
+.hanger.clickable.little {
+    width: 90px;
+    height: 90px;
+}
+
+.hanger.clickable.little .declination-picto {
+    display: none;
+}
+
+.hanger.clickable.little .declinations .panel {
+    height: 45%;
+}
+
+#overlay-popup-config {
+    position: absolute;
+    width: calc(100% - 60px);
+    top: 0;
+    display: none;
+}
+
+#overlay-popup-config > div {
+    width: 328px;
+    margin: auto;
+}
+
+#overlay-popup-config > div .inner {
+    width: auto;
+    background-color: #fff;
+    position: relative;
+    float: right;
+    box-shadow: 2px 2px 10px;
+    padding: 10px 20px;
+}

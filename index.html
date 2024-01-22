@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1200, shrink-to-fit=no">
+    <link rel="icon" href="assets/favicon-w.png" type="image/png">
+    <link href="https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/protocol.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            const cv1 = new XMLHttpRequest();cv1.open("GET", "data/v1/clothe.json");
+            cv1.responseType = "json";cv1.send();cv1.onload = function() {
+                const cv2 = new XMLHttpRequest();cv2.open("GET", "data/v2/clothe.json");
+                cv2.responseType = "json";cv2.send();cv2.onload = function() {
+                    clothe1 = cv1.response;
+                    clothe2 = cv2.response;
+
+                    var counter = '<div class="main">Prendas disponibles totales: <span class="color-primary">' + (clothe1.length + clothe2.length) 
+                                + '</span>.</div><div class="sub">(<span class="color-primary">' + clothe1.length + '</span> en Instituto. <span class="color-primary">' 
+                                + clothe2.length + '</span> en Universidad/Amor)</div>';
+
+                    $("#home-bottom .infos").html(counter);
+                };
+            };
+
+        });
+    </script>
+
+    <link rel="stylesheet" href="v2/styles/wardrobe.css">
+    <link rel="stylesheet" href="styles/general.css">
+    <link rel="stylesheet" href="styles/home.css">
+    <title>Custom Sucrette - Crea y personaliza a la Sucrette de tus sueños</title>
+    <meta property="og:image" content="assets/meta/image.png" />
+    <meta property="og:description" content="Vestidor online y gratuito basado en Corazón de Melón. Hecho por y para fans." />
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JW74RBLL7D"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-JW74RBLL7D');
+    </script>
+</head>
+<body class="season-s2">
+    <div id="main-wrapper">
+        <div id="site-wrap">
+            <div id="site-header">
+                <div id="site-logo">
+                    <div class="halo"></div>
+                    <div class="logo-container">
+                        <a href="">
+                            <img class="logo-sm" src="assets/img/clean-logo.png" alt="Custom Sucrette">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div id="site-content" style="height: auto !important;">
+                <!--<div id="side-links">
+                        <div id="side-link-event"></div>
+                        <div id="side-link-parameters"></div>
+                        <div id="side-link-social"></div>
+                </div>-->
+                <div id="pages">
+                    <div id="page-sheet-container">
+                        <div class ="header"></div>
+                        <div class="page-sheet-content defaultBackground">
+                            <div id="dashboard-container">
+                                <div class="portrait version1">
+                                    <a href="v1/wardrobe.html">
+                                        <h3><div class="title-container">INSTITUTO</div></h3>
+                                        <img src="assets/img/portrait-v1.png">
+                                    </a>
+                                </div>
+                                <div class="main center">
+                                    <img src="assets/favicon-w.png">
+                                    <h2 class="color-primary">¡Bienvenido a Custom Sucrette!</h2>
+                                    <span class="separator"></span>
+                                    <p>Vestidor online y gratuito basado en CDM. Hecho por y para fans.</p> 
+                                    <p>Elige las características de tu personaje y vístela como siempre siempre has querido.</p>
+                                    <span class="separator"></span>
+                                    <p>Para empezar, elige la versión con la que prefieras comenzar a crear:</p>
+                                </div>
+                                <div class="portrait version2">
+                                    <a href="v2/wardrobe.html">
+                                        <h3><div class="title-container">UNIVERSIDAD / AMOR</div></h3>
+                                        <img src="assets/img/portrait-v2.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="home-bottom">
+                        <div class="infos">Cargando...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

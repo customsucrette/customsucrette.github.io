@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1200, shrink-to-fit=no">
+    <link rel="icon" href="../assets/favicon-w.png" type="image/png">
+    <link href="https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/protocol.js"></script>
+    <script type="text/javascript" src="../js/normalize.js"></script>
+    <script type="text/javascript" src="js/wardrobe.js"></script>
+    <script type="text/javascript" src="../js/season-codes.js"></script>
+
+    <link rel="stylesheet" href="styles/wardrobe.css">
+    <title>Vestidor - Instituto - Custom Sucrette</title>
+    <meta property="og:image" content="../assets/meta/image.png" />
+    <meta property="og:description" content="Vestidor online y gratuito basado en Corazón de Melón. Hecho por y para fans." />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JW74RBLL7D"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-JW74RBLL7D');
+    </script>
+</head>
+<body class="season-s1">
+    <div id="main-wrapper">
+        <div id="site-wrap">
+            <div id="site-header">
+                <div id="site-logo">
+                    <div class="halo"></div>
+                    <div class="logo-container">
+                        <a href="../">
+                            <img class="logo-sm" src="assets/img/logo-v1.png" alt="Custom Sucrette">
+                        </a>
+                    </div>
+                </div>
+                <div id="panel-connected">
+                    <div class="panel-connected">
+                        <!-- NUEVO -->
+                        <div class="line-container">
+                            <paper-clip-title _ngcontent-hpa-c110="" _nghost-hpa-c106="" class="blue">
+                                <div _ngcontent-hpa-c106="" class="title-container">
+                                    <div _ngcontent-hpa-c106="" class="trombone"></div>
+                                    <div class="menu-title"> Menú</div>
+                                </div>
+                            </paper-clip-title>
+
+                            <div class="line-container">
+                                <season-selector>
+                                    <a href="../v1/wardrobe.html"><season-selector-button class="v1 current-season">
+                                        <div class="icon-container">
+                                            <div class="icon v1"></div>
+                                            <div class="switch"><i class="fa fa-refresh" aria-hidden="true"></i></div>
+                                        </div>
+                                        <div class="text visible">
+                                            <div class="content">
+                                                <!---->
+                                                <div class="go-to">
+                                                    Instituto
+                                                </div><!---->
+                                            </div>
+                                        </div>
+                                    </season-selector-button></a>
+                                    <a href="../v2/wardrobe.html"><season-selector-button class="v2">
+                                        <div class="icon-container">
+                                            <div class="icon v2"></div>
+                                            <div class="switch"><i class="fa fa-refresh" aria-hidden="true"></i></div>
+                                        </div>
+                                        <div class="text">
+                                            <div class="content">
+                                                <!---->
+                                                <div class="go-to">
+                                                    Universidad/Amor
+                                                </div><!---->
+                                            </div>
+                                        </div>
+                                    </season-selector-button></a>
+                                </season-selector>
+                            </div>
+
+                            <div class="line-container">
+                                <div class="code-input">
+                                    <form onsubmit="saveTempCode(); return false">
+                                        <input type="text" placeholder="Código...">
+                                    </form>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- FIN NUEVO -->
+                    </div>
+                </div>
+            </div>
+            <div id="site-menu">
+                <div class="navigation-menu">
+                    <a href="../" class=""><div class="text-menu"><span class="fa fa-home" style="font-size: 28px; line-height: .7;"></span></div>
+                    <a class="active"><div class="text-menu"> Vestidor </div></a>
+                    <!--<a class="unactive"><div class="text-menu"> Galería </div></a>-->
+                    <a href="submit.html" class=""><div class="text-menu"> Aportes </div></a>
+                    <a href="about.html" class=""><div class="text-menu"> Información </div></a>
+                    <a href="support.html" class=""><div class="text-menu"> Ayuda </div></a>
+                </div>
+            </div>
+            <div id="site-content" style="height: auto !important;">
+                <!--<div id="side-links">
+                        <div id="side-link-event"></div>
+                        <div id="side-link-parameters"></div>
+                        <div id="side-link-social"></div>
+                </div>-->
+                <div id="pages">
+                    <div id="cupboard">
+
+                        <div class="search">
+                            <input type="text" placeholder="Buscar">
+                            <img src="https://www.corazondemelon.es/image/messaging/search.png">
+                        </div>
+
+                        <div id="page-sheet-container">
+                            <h2 class="page-sheet-title color-primary">Mi armario</h2>
+                            <div class="page-sheet-content">
+                                <div class="fitting-room">
+                                    <div class="player-container">
+                                        <div id="player-avatar">
+                                            <div id="avatar" class="visible">
+                                                <div id="stage" class="rendered" style="width: 256px; height: 437px;">
+                                                    <canvas width="256" height="535"></canvas>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="cupboard-panel">
+                                        <a class="button body">
+                                            <img src="https://www.corazondemelon.es/image/cupboard/picto-body.png">
+                                        </a>
+                                        <a class="button face" style="display: none;">
+                                            <img src="https://www.corazondemelon.es/image/cupboard/picto-face.png">
+                                        </a>
+                                        <a class="button move disabled">
+                                            <img src="https://www.corazondemelon.es/image/cupboard/picto-z-index.png">
+                                        </a>
+                                        <a class="button save">
+                                            <img src="https://www.corazondemelon.es/image/cupboard/picto-save.png">
+                                        </a>
+                                        <!-- NUEVO -->
+                                        <div class="save-popup hidden">
+                                          <div class="popup-line download-image">Guardar PNG</div>
+                                          <div class="popup-line get-code">Código</div>
+                                          <div class="popup-arrow"></div>
+                                        </div>
+                                        <!-- FIN NUEVO -->
+                                    </div>
+                                </div>
+                                <div class="cupboard">
+                                    <div class="panel">
+                                        <!--<div class="title color-primary">
+                                            <div class="cupboard-texte">
+                                                <span>Cambia de apariencia y causarás sensación</span>
+                                            </div>
+                                        </div>-->
+                                        <div id="category-selector">
+                                            <div class="categories-container" style="display:none;">
+                                                <div class="categories-wrapper">
+                                                    <div class="categories" style="left: 0; width: 1050px;"> 
+                                                        <!-- Aumentar 75px por cada nueva categoría -->
+                                                        <div id="category-Wig" class="category">
+                                                            <span class="icon-category-wig"></span>
+                                                        </div><div id="category-HairAccessory" class="category">
+                                                            <span class="icon-category-hairAccessory"></span>
+                                                        </div><div id="category-Jacket" class="category">
+                                                            <span class="icon-category-jacket"></span>
+                                                        </div><div id="category-Shirt" class="category">
+                                                            <span class="icon-category-shirt"></span>
+                                                        </div><div id="category-Underwears" class="category">
+                                                            <span class="icon-category-underwears"></span>
+                                                        </div><div id="category-Pants" class="category">
+                                                            <span class="icon-category-pants"></span>
+                                                        </div><div id="category-Socks" class="category">
+                                                            <span class="icon-category-socks"></span>
+                                                        </div><div id="category-Shoes" class="category">
+                                                            <span class="icon-category-shoes"></span>
+                                                        </div><div id="category-Necklace" class="category">
+                                                            <span class="icon-category-necklace"></span>
+                                                        </div><div id="category-Dress" class="category">
+                                                            <span class="icon-category-dress"></span>
+                                                        </div><div id="category-HighHeels" class="category">
+                                                            <span class="icon-category-highHeels"></span>
+                                                        </div><div id="category-Accessory" class="category">
+                                                            <span class="icon-category-accessory"></span>
+                                                        </div><div id="category-Purse" class="category">
+                                                            <span class="icon-category-purse"></span>
+                                                        </div><div id="category-Skin" class="category">
+                                                            <span class="icon-category-skin"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="arrow left disabled">
+                                                    <i aria-hidden="true" class="fa fa-chevron-left"></i>
+                                                </div>
+                                                <div class="arrow right">
+                                                    <i aria-hidden="true" class="fa fa-chevron-right"></i>
+                                                </div>
+                                            </div>
+                                            <div class="face-categories">
+                                                <div id="category-hairStyle" class="category selected">
+                                                    <span class="icon-category-hairStyle"></span>
+                                                
+                                                </div><div id="category-hairColor" class="category">
+                                                    <span class="icon-category-hairColor"></span>
+                                                
+                                                </div><div id="category-eyeType" class="category">
+                                                    <span class="icon-category-eyeType"></span>
+                                                
+                                                </div><div id="category-eyeColor" class="category">
+                                                    <span class="icon-category-eyeColor"></span>
+                                                
+                                                </div><div id="category-eyebrow" class="category">
+                                                    <span class="icon-category-eyebrow"></span>
+                                                
+                                                </div><div id="category-mouth" class="category">
+                                                    <span class="icon-category-mouth"></span>
+                                                
+                                                </div><div id="category-makeUp" class="category">
+                                                    <span class="icon-category-makeUp"></span>
+                                                
+                                                </div>
+                                            </div>
+                                            <div class="category-name">Mi peinado</div>
+                                        </div>
+                                    </div>
+                                    <div id="cloth-list">
+                                        <button>Volver a la lista</button>
+                                        <div class="showcase">
+                                        <!-- Lista de ropa -->
+                                        </div>
+
+                                        <div id="size-chooser">
+                                            <div class="size-button big actif"></div>
+                                            <div class="size-button little"></div>
+                                        </div>
+
+                                        <!-- Move panel -->
+                                        <div class="layout-move-panel">
+                                            <div class="closable-zone"></div>
+                                            <div id="move-panel">
+                                                <div class="title"><span>Posiciona tus prendas</span></div>
+                                                <div class="clothes-container">
+                                                    <!-- No incluir pieles ni ropa interior -->
+                                                </div>
+                                                <div class="end"></div>
+                                                <div class="close-panel">
+                                                    <span class="fa fa-times"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Fin Move panel -->
+
+                                        <div id="pagination-template">
+                                            <div class="custom-pagination"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

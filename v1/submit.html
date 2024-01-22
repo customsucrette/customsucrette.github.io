@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1200, shrink-to-fit=no">
+    <link rel="icon" href="../assets/favicon-w.png" type="image/png">
+    <link href="https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/protocol.js"></script>
+    <script type="text/javascript" src="../js/season-codes.js"></script>
+    <script type="text/javascript" src="../js/submit.js"></script>
+    
+
+    <link rel="stylesheet" href="styles/wardrobe.css">
+    <link rel="stylesheet" href="styles/submit.css">
+    <title>Aportes - Instituto - Custom Sucrette</title>
+    <meta property="og:image" content="../assets/meta/image.png" />
+    <meta property="og:description" content="Vestidor online y gratuito basado en Corazón de Melón. Hecho por y para fans." />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JW74RBLL7D"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-JW74RBLL7D');
+    </script>
+</head>
+<body class="season-s1">
+    <div id="main-wrapper">
+        <div id="site-wrap">
+            <div id="site-header">
+                <div id="site-logo">
+                    <div class="halo"></div>
+                    <div class="logo-container">
+                        <a href="../">
+                            <img class="logo-sm" src="assets/img/logo-v1.png" alt="Custom Sucrette">
+                        </a>
+                    </div>
+                </div>
+                <div id="panel-connected">
+                    <div class="panel-connected">
+                        <!-- NUEVO -->
+                        <div class="line-container">
+                            <paper-clip-title _ngcontent-hpa-c110="" _nghost-hpa-c106="" class="blue">
+                                <div _ngcontent-hpa-c106="" class="title-container">
+                                    <div _ngcontent-hpa-c106="" class="trombone"></div>
+                                    <div class="menu-title"> Menú</div>
+                                </div>
+                            </paper-clip-title>
+
+                            <div class="line-container">
+                                <season-selector>
+                                    <a href="../v1/wardrobe.html"><season-selector-button class="v1 current-season">
+                                        <div class="icon-container">
+                                            <div class="icon v1"></div>
+                                            <div class="switch"><i class="fa fa-refresh" aria-hidden="true"></i></div>
+                                        </div>
+                                        <div class="text visible">
+                                            <div class="content">
+                                                <!---->
+                                                <div class="go-to">
+                                                    Instituto
+                                                </div><!---->
+                                            </div>
+                                        </div>
+                                    </season-selector-button></a>
+                                    <a href="../v2/wardrobe.html"><season-selector-button class="v2">
+                                        <div class="icon-container">
+                                            <div class="icon v2"></div>
+                                            <div class="switch"><i class="fa fa-refresh" aria-hidden="true"></i></div>
+                                        </div>
+                                        <div class="text">
+                                            <div class="content">
+                                                <!---->
+                                                <div class="go-to">
+                                                    Universidad/Amor
+                                                </div><!---->
+                                            </div>
+                                        </div>
+                                    </season-selector-button></a>
+                                </season-selector>
+                            </div>
+
+                            <div class="line-container">
+                                <div class="code-input">
+                                    <form onsubmit="saveTempCode(); return false">
+                                        <input type="text" placeholder="Código...">
+                                    </form>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- FIN NUEVO -->
+                    </div>
+                </div>
+            </div>
+            <div id="site-menu">
+                <div class="navigation-menu">
+                    <a href="../" class=""><div class="text-menu"><span class="fa fa-home" style="font-size: 28px; line-height: .7;"></span></div>
+                    <a href="wardrobe.html" class=""><div class="text-menu"> Vestidor </div></a>
+                    <!--<a class="unactive"><div class="text-menu"> Galería </div></a>-->
+                    <a class="active"><div class="text-menu"> Aportes </div></a>
+                    <a href="about.html" class=""><div class="text-menu"> Información </div></a>
+                    <a href="support.html" class=""><div class="text-menu"> Ayuda </div></a>
+                </div>
+            </div>
+            <div id="site-content" style="height: auto !important;">
+                <!--<div id="side-links">
+                        <div id="side-link-event"></div>
+                        <div id="side-link-parameters"></div>
+                        <div id="side-link-social"></div>
+                </div>-->
+                <div id="pages">
+                    <div id="page-sheet-container">
+                        <h2 class="page-sheet-title color-primary">Zona de aportes</h2>
+                        <div class="page-sheet-content defaultBackground">
+                            <div class="tabs menu">
+                                <div class="tab"><span>General</span></div>
+                                <div class="tab"><span>Se busca</span></div>
+                                <div class="tab"><span>Formulario</span></div>
+                                <!--<div class="tab"><span>Ejemplos</span></div>-->
+                            </div>
+
+                            <div id="page-dynamic-submit"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

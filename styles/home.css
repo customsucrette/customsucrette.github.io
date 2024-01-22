@@ -1,0 +1,158 @@
+#main-wrapper {
+	background: url(https://www.corazondemelon.es/image/backgrounds/s2/site.jpg) 50% no-repeat;
+}
+
+#site-header {
+	height: 205px;
+}
+
+#site-logo {
+	width: 100%;
+}
+
+#site-wrap .halo {
+	left: 60px;
+}
+
+.logo-container {
+    top: 18px;
+    position: relative;
+}
+
+.page-sheet-content {
+	overflow: hidden;
+}
+
+.color-primary {
+	color: #ff2245;
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #239dd6;
+    background-blend-mode: multiply;
+    color: #fff;
+    padding-left: 22px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 60px;
+    z-index: 2;
+    background-image: url(https://www.corazondemelon.es/image/home/s2/top.jpg);
+}
+
+#dashboard-container {
+    position: relative;
+	top: 40px;
+	display: flex;
+	z-index: 2;
+}
+
+.portrait {
+    width: 294px;
+    z-index: -1;
+}
+
+.portrait img {
+    position: relative;
+    left: -90px;
+	top: -36px;
+	
+}
+
+.portrait a {
+	filter: brightness(.85);
+}
+
+.portrait a:hover {
+	filter: brightness(1);
+	cursor: pointer;
+}
+
+.main.center {
+    background-color: #fff;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,.44);
+    padding: 10px 20px;
+    width: 390px;
+    text-align: center;
+    height: 440px;
+
+}
+
+.main.center img {
+	width: 100px;
+	margin-top: 20px;
+}
+
+.separator {
+    border: 1px dashed;
+    width: 90%;
+    display: block;
+    color: #e1dbdb;
+    margin: 20px auto;
+}
+
+.version1 h3 {
+	position: absolute;
+	bottom: 114px;
+	z-index: 0;
+	left: 260px;
+}
+
+.version1 .title-container {
+    background-color: #ff2245;
+    padding-left: 100px;
+    padding-right: 20px;
+}
+
+
+.version2 h3 {
+	position: absolute;
+	bottom: 54px;
+	z-index: 0;
+	right: 440px;
+}
+
+.version2 .title-container {
+    background-color: #22a1af;
+    padding-left: 20px;
+    padding-right: 60px;
+    min-width: 330px;
+}
+
+
+.version1 a img, .version1 a h3, .version2 a img, .version2 a h3 {
+    transition: all .2s;
+}
+
+.version1 a:hover img, .version1 a:hover h3, .version2 a:hover img, .version2 a:hover h3 {
+    transform: scale(105%);
+}
+
+
+#home-bottom {
+    background: url(https://www.corazondemelon.es/image/home/s2/bottom.jpg);
+    position: relative;
+    margin-top: 20px;
+    width: 100%;
+    box-shadow: 0 0 4.9px .1px rgba(24,24,24,.73);
+    text-align: center;
+}
+
+#home-bottom .infos {
+    width: 100%;
+    /*height: 390px;*/
+    position: relative;
+    padding: 20px;
+}
+
+.infos .main {
+    font-size: 20px;
+}
+
+.infos .sub {
+    font-size: 15px;
+}

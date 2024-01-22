@@ -1,0 +1,101 @@
+.season-s2 .page-sheet-content.defaultBackground {
+    background: url(https://www.corazondemelon.es/image/backgrounds/s1/sheet.jpg);
+}
+
+.page-main-content {
+    display: block;
+    padding: 8px 27px;
+}
+
+.tabs {
+    display: block;
+    position: relative;
+    height: 65px;
+    text-align: center;
+}
+
+.tabs .tab {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    cursor: pointer;
+    text-decoration: none;
+    z-index: 1;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 20px;
+    border-radius: 0 0 9px 9px;
+    padding: 10px 14px;
+    margin: 0 10px;
+    transition: padding-top .5s,background-color .5s,color .5s;
+    box-shadow: 0 2px 3px 0 rgba(228,150,53,.3);
+}
+
+.tabs .tab {
+    background-color: #f55083;
+    box-shadow: 0 2px 3px 0 rgba(245,79,130,.3);
+}
+
+.tabs .tab:hover {
+    padding-top: 20px;
+}
+
+.tabs .tab.active {
+    height: 50px;
+    padding-top: 20px;
+}
+
+.tab.active {
+    background-color: #fff;
+    color: #f55083;
+}
+
+.tabs .tab span {
+    vertical-align: bottom;
+    text-align: center;
+}
+
+.section-page {
+    position: relative;
+}
+
+.paper-clip-title {
+    background-color: #f55083;
+    position: relative;
+}
+
+.title-container {
+    padding: 13px 13px 13px 30px;
+    position: relative;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+h3 .title-container {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.title-container .trombone {
+    background: url(https://www.corazondemelon.es/image/paper-clip/left.png) no-repeat;
+    background-size: contain;
+    height: 13px;
+    width: 40px;
+    position: absolute;
+    top: calc(50% - 7.5px);
+    left: -15px;
+}
+
+.card {
+    position: relative;
+    padding: 20px;
+    display: block;
+    box-sizing: border-box;
+    border-radius: 9px;
+    background-color: #fff;
+    box-shadow: 0 0 5px 0 rgba(58,81,86,.39);
+    margin-bottom: 14px;
+}
