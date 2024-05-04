@@ -3148,6 +3148,125 @@
         ], "criteria":{"type":"episode", "info":"02", "text":"Desbloqueado en el episodio 02"}
     },
     {
+        "groupId":2933, "zone":"feet", "category":"socks", "security":"45fe73b61a9f9f01", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Fresh Air",
+        "variations":[
+            {"id":2933, "color":["undefined"]},
+            {"id":2934, "color":["undefined"]},
+            {"id":2935, "color":["undefined"]},
+            {"id":2936, "color":["undefined"]},
+            {"id":2937, "color":["undefined"]},
+            {"id":2938, "color":["undefined"]},
+            {"id":2939, "color":["undefined"]},
+            {"id":2940, "color":["undefined"]},
+            {"id":2941, "color":["undefined"]},
+            {"id":2942, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
+    },
+    {
+        "groupId":2943, "zone":"feet", "category":"shoes", "security":"4d08cca95568c94b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Fresh Air",
+        "variations":[
+            {"id":2943, "color":["undefined"]},
+            {"id":2944, "color":["undefined"]},
+            {"id":2945, "color":["undefined"]},
+            {"id":2946, "color":["undefined"]},
+            {"id":2947, "color":["undefined"]},
+            {"id":2948, "color":["undefined"]},
+            {"id":2949, "color":["undefined"]},
+            {"id":2950, "color":["undefined"]},
+            {"id":2951, "color":["undefined"]},
+            {"id":2952, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
+    },
+    {
+        "groupId":2953, "zone":"waistToKnee", "category":"skirt", "security":"a5c336a8edda1ea9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Fresh Air",
+        "variations":[
+            {"id":2953, "color":["undefined"]},
+            {"id":2954, "color":["undefined"]},
+            {"id":2955, "color":["undefined"]},
+            {"id":2956, "color":["undefined"]},
+            {"id":2957, "color":["undefined"]},
+            {"id":2958, "color":["undefined"]},
+            {"id":2959, "color":["undefined"]},
+            {"id":2960, "color":["undefined"]},
+            {"id":2961, "color":["undefined"]},
+            {"id":2962, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
+    },
+    {
+        "groupId":2963, "zone":"arms", "category":"bag", "security":"9573dfba02eca4a1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Fresh Air",
+        "variations":[
+            {"id":2963, "color":["undefined"]},
+            {"id":2964, "color":["undefined"]},
+            {"id":2965, "color":["undefined"]},
+            {"id":2966, "color":["undefined"]},
+            {"id":2967, "color":["undefined"]},
+            {"id":2968, "color":["undefined"]},
+            {"id":2969, "color":["undefined"]},
+            {"id":2970, "color":["undefined"]},
+            {"id":2971, "color":["undefined"]},
+            {"id":2972, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
+    },
+    {
+        "groupId":2973, "zone":"torso", "category":"top", "security":"b77db899e533dea3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bustier",
+        "outfitName":"Fresh Air",
+        "variations":[
+            {"id":2973, "color":["undefined"]},
+            {"id":2974, "color":["undefined"]},
+            {"id":2975, "color":["undefined"]},
+            {"id":2976, "color":["undefined"]},
+            {"id":2977, "color":["undefined"]},
+            {"id":2978, "color":["undefined"]},
+            {"id":2979, "color":["undefined"]},
+            {"id":2980, "color":["undefined"]},
+            {"id":2981, "color":["undefined"]},
+            {"id":2982, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
+    },
+    {
+        "groupId":2983, "zone":"face", "category":"neckAccessory", "security":"92e52617f66f046e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Fresh Air",
+        "variations":[
+            {"id":2983, "color":["undefined"]},
+            {"id":2984, "color":["undefined"]},
+            {"id":2985, "color":["undefined"]},
+            {"id":2986, "color":["undefined"]},
+            {"id":2987, "color":["undefined"]},
+            {"id":2988, "color":["undefined"]},
+            {"id":2989, "color":["undefined"]},
+            {"id":2990, "color":["undefined"]},
+            {"id":2991, "color":["undefined"]},
+            {"id":2992, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
+    },
+    {
+        "groupId":2993, "zone":"torso", "category":"jacket", "security":"1e600d5a4d270748", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Kimono",
+        "outfitName":"Fresh Air",
+        "variations":[
+            {"id":2993, "color":["undefined"]},
+            {"id":2994, "color":["undefined"]},
+            {"id":2995, "color":["undefined"]},
+            {"id":2996, "color":["undefined"]},
+            {"id":2997, "color":["undefined"]},
+            {"id":2998, "color":["undefined"]},
+            {"id":2999, "color":["undefined"]},
+            {"id":3000, "color":["undefined"]},
+            {"id":3001, "color":["undefined"]},
+            {"id":3002, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
+    },
+    {
         "groupId":3003, "zone":"torso_waistToKnee", "category":"underwear", "security":"294bb916777a8ad5", "multiLayered":false, "layerBehavior":"normal",
         "name": "Body",
         "outfitName":"Comfortable Warmth",
