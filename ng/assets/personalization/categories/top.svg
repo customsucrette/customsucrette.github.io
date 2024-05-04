@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-e8222b0b-bbe4-4110-ace4-c6a1be0fcfb6" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="59" height="59" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59 59">
+  <defs>
+    <clipPath id="uuid-e6b46a6b-729e-436e-807f-362b48b9d909">
+      <rect width="59" height="59" fill="none" stroke-width="0"/>
+    </clipPath>
+  </defs>
+  <g id="uuid-293d7772-eae9-4028-8424-f4aa5af8ffa1" data-name="Calque 1">
+    <g id="uuid-0c528300-2653-4aea-99a1-6e5b15f9ed15" data-name="personalization__categories__top">
+      <g clip-path="url(#uuid-e6b46a6b-729e-436e-807f-362b48b9d909)">
+        <path id="uuid-0f3028db-2931-47d2-b983-a0752dcddb0f" data-name="IcoTop" d="m23.75,38.36c-.12-1.28-.37-2.55-.74-3.78-.4-1.35-.67-2.73-.79-4.13.12-1.21.37-2.4.75-3.56.65-2.14,1.09-4.33,1.29-6.56,0-.03.02-.06.04-.08.44-.3.93-.54,1.44-.71.06-.02.12,0,.14.06,0,.01,0,.03,0,.04,0,1.39,0,5.61,3.64,5.61h.04c3.64,0,3.64-4.23,3.64-5.61,0-.04.02-.07.05-.09.03-.02.07-.03.1-.01.51.17,1,.4,1.45.71.03.02.04.05.04.08.2,2.22.64,4.42,1.29,6.56.38,1.15.63,2.35.75,3.56-.13,1.4-.39,2.79-.79,4.14-.37,1.23-.61,2.5-.74,3.78" fill="#ed6d7b" stroke-width="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

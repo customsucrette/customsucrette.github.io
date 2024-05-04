@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-cf670665-16cc-49b9-bd5c-0333b041fb1a" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="59" height="59" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59 59">
+  <defs>
+    <clipPath id="uuid-293b1873-7d8f-462d-980e-7c49ef6c34f5">
+      <rect width="59" height="59" fill="none" stroke-width="0"/>
+    </clipPath>
+  </defs>
+  <g id="uuid-c89975ec-7361-4049-9387-e10b5d76193b" data-name="Calque 1">
+    <g id="uuid-c8a2ad5b-0611-4001-8a09-b5a90e58d3bc" data-name="personalization__categories__socks">
+      <g clip-path="url(#uuid-293b1873-7d8f-462d-980e-7c49ef6c34f5)">
+        <g id="uuid-645687cd-cac9-4d51-a8f2-9ce96397290c" data-name="IcoChaussettes">
+          <path id="uuid-2f0c010e-dbf0-4437-b6f5-d61453d8a978" data-name="Path 6195" d="m38.64,20.86h-7.99v11.38l-5.35,3.33c-2.99,1.87.18,6.84,3.12,5.01l8.99-5.61c.8-.5,1.12-.89,1.23-2.55v-11.57Z" fill="#ed6d7b" stroke-width="0"/>
+          <path id="uuid-eeba0150-4a9f-42ff-9053-47059360ee88" data-name="Path 6196" d="m34.9,18.02h-7.99v11.38l-5.35,3.33c-2.99,1.87.18,6.84,3.12,5.01l8.99-5.61c.8-.5,1.12-.89,1.23-2.55v-11.57Z" fill="#ed6d7b" opacity=".3" stroke-width="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

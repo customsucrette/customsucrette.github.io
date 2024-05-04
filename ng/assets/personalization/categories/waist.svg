@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-ee63bfec-4866-49a9-aa2f-1005fe5c3772" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="59" height="59" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59 59">
+  <defs>
+    <clipPath id="uuid-7048ef3b-ca15-4053-ad90-4baa04840b1a">
+      <rect width="59" height="59" fill="none" stroke-width="0"/>
+    </clipPath>
+  </defs>
+  <g id="uuid-ca06bea7-6504-4473-9e6d-49f145b3a4b3" data-name="Calque 1">
+    <g id="uuid-a07cc922-d7a2-4b71-8459-0f9992ea5256" data-name="personalization__categories__waist">
+      <g clip-path="url(#uuid-7048ef3b-ca15-4053-ad90-4baa04840b1a)">
+        <g id="uuid-996cb91a-92e4-4b61-bdf7-d7e1ee6af354" data-name="IcoCeinture">
+          <path id="uuid-bf8f0f37-2949-4ba2-9453-8458e97fd281" data-name="Rectangle 2433" d="m29.47,28.11h3.16c.87,0,1.58.71,1.58,1.58h0c0,.87-.71,1.58-1.58,1.58h-3.16c-.87,0-1.58-.71-1.58-1.58h0c0-.87.71-1.58,1.58-1.58Z" fill="#ed6d7b" stroke-width="0"/>
+          <path d="m35.68,22.84h-6.93c-.71,0-1.28.57-1.28,1.28v11.41c0,.71.57,1.28,1.28,1.28h6.93c.71,0,1.28-.57,1.28-1.28v-11.41c0-.71-.57-1.28-1.28-1.28Zm-.61,10.28c0,.71-.57,1.28-1.28,1.28h-3.15c-.71,0-1.28-.57-1.28-1.28v-6.59c0-.71.57-1.28,1.28-1.28h3.15c.71,0,1.28.57,1.28,1.28v6.59Z" fill="#ed6d7b" stroke-width="0"/>
+          <path d="m26.3,24.71c-2.47-.07-6.2-.01-8.01.04-.65.02-1.18.53-1.23,1.18-.07.93-.12,2.22-.09,3.03.03,1.43.01,3.28.29,4.8.08.44.45.77.9.78,1.62.03,5.41.17,8.14.18v-10Zm-6.12,6c-.73,0-1.32-.59-1.32-1.32s.59-1.32,1.32-1.32,1.32.59,1.32,1.32-.59,1.32-1.32,1.32Zm3.78,0c-.73,0-1.32-.59-1.32-1.32s.59-1.32,1.32-1.32,1.32.59,1.32,1.32-.59,1.32-1.32,1.32Z" fill="#ed6d7b" stroke-width="0"/>
+          <path d="m41.67,24.95l-3.53-.05v9.75c1.96.02,3.98-.03,4-.08.05-.09,2.29-5.85-.47-9.63Z" fill="#ed6d7b" stroke-width="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

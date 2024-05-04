@@ -1,0 +1,24 @@
+<svg id="IcoClothesProfil" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2225" data-name="Rectangle 2225" width="36" height="36" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_de_masques_1230" data-name="Groupe de masques 1230" clip-path="url(#clip-path)">
+    <g id="icoMenuProfilClothes" transform="translate(60.371 58.101)">
+      <g id="Groupe_2760" data-name="Groupe 2760" transform="matrix(0.966, -0.259, 0.259, 0.966, -53.084, -48.744)">
+        <g id="Groupe_2759" data-name="Groupe 2759">
+          <path id="Tracé_4667" data-name="Tracé 4667" d="M6.488,4.1l6.206,1.89q.868,1.379-.927,1.748H1.21q-1.8-.369-.927-1.748L6.488,4.1V3.341q.059-.571-.321-.606A1.056,1.056,0,0,1,5.5,2.366a1.329,1.329,0,0,1-.4-.975A1.342,1.342,0,0,1,5.5.4,1.342,1.342,0,0,1,6.488,0a1.329,1.329,0,0,1,.975.4,1.323,1.323,0,0,1,.416.987,1.082,1.082,0,0,1-.036.285" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Groupe_2763" data-name="Groupe 2763" transform="translate(-45.789 -46.712)">
+        <g id="Groupe_2762" data-name="Groupe 2762">
+          <g id="Groupe_2761" data-name="Groupe 2761">
+            <path id="Tracé_4668" data-name="Tracé 4668" d="M-19.388-27.847q-1.463-2.115-2.485-3.789t-1.833-1.013a2.07,2.07,0,0,1-2.7-.617,1.858,1.858,0,0,0-2.538-.573l-4.053,2.159q-.8.573-.106,1.586l1,2.176q.361,1.022,1.2,0L-32.4-22.463q-.211.7.643,1.075l6.4,1.771q1.048.529,1.207-.582l1.3-5.586q.159.7.7.493l2.326-1.154A1.044,1.044,0,0,0-19.388-27.847Z" transform="translate(33.421 34.103)" fill="#fff"/>
+          </g>
+          <path id="Tracé_4669" data-name="Tracé 4669" d="M-28.939-33.838a1.858,1.858,0,0,1,2.538.573,2.07,2.07,0,0,0,2.7.617q.8-.67,1.833,1.013t2.485,3.789a1.044,1.044,0,0,1-.441,1.4l-2.326,1.154q-.537.211-.7-.493l-1.3,5.586q-.159,1.11-1.207.582l-6.4-1.771q-.855-.37-.643-1.075l1.507-5.454q-.837,1.022-1.2,0l-1-2.176q-.7-1.013.106-1.586Z" transform="translate(33.421 34.103)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

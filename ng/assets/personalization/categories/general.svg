@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-cfee361b-5f53-41b6-9845-c4ac4319119d" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="59" height="59" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59 59">
+  <defs>
+    <clipPath id="uuid-5fbd27c9-12b1-4412-92dd-e2c1296bfd4c">
+      <rect width="59" height="59" fill="none" stroke-width="0"/>
+    </clipPath>
+  </defs>
+  <g id="uuid-d8d5ceab-79a8-4551-8a21-19ccba917407" data-name="Calque 1">
+    <g id="uuid-045e296e-45c4-45ae-b36f-483c0d606a14" data-name="personalization__categories__general">
+      <g clip-path="url(#uuid-5fbd27c9-12b1-4412-92dd-e2c1296bfd4c)">
+        <g id="uuid-f45be1c0-e5da-4b68-9a3e-e64ab33998da" data-name="general">
+          <circle id="uuid-77126c89-f5ca-4c8f-a3f0-e0a0d1587964" data-name="Ellipse 8646" cx="20.58" cy="30.5" r="2.97" fill="#ed6d7b" stroke-width="0"/>
+          <circle id="uuid-e9faaa7f-6b4b-4942-9694-7a52456c8803" data-name="Ellipse 8647" cx="29.5" cy="30.5" r="2.97" fill="#ed6d7b" stroke-width="0"/>
+          <circle id="uuid-ae3bb200-9cef-4f14-922f-50fe128bae49" data-name="Ellipse 8648" cx="38.42" cy="30.5" r="2.97" fill="#ed6d7b" stroke-width="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

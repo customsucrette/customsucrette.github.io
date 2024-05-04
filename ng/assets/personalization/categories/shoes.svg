@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-0168b35d-4700-4cca-ba5e-265e384e0ed3" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="59" height="59" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59 59">
+  <defs>
+    <clipPath id="uuid-37d46b19-c39a-4712-8855-418672defdc9">
+      <rect width="59" height="59" fill="none" stroke-width="0"/>
+    </clipPath>
+  </defs>
+  <g id="uuid-1ca23d53-7a04-4cbd-a8d9-8b3763fc62e8" data-name="Calque 1">
+    <g id="uuid-554b327a-b0bb-4c99-aadb-89e6d46a6dff" data-name="personalization__categories__shoes">
+      <g clip-path="url(#uuid-37d46b19-c39a-4712-8855-418672defdc9)">
+        <g id="uuid-297dedb9-097d-4c8b-ab27-17e815938cc3" data-name="IcoChaussures">
+          <g id="uuid-06659da6-7f1c-4a64-ab39-74ddb6628f2b" data-name="Group 3173">
+            <path d="m41.57,29.9s2.92-3-2.5-8.23c0,0-3.57,2.65-5.98,9.93-.73,2.17-2.57,3.77-4.82,4.2,0,0-3.8-.13-5,1.61-1.34,1.94,1.25,2.77,8.3,2.77,0,0,1.52.11,2.05-3.04.49-2.37,1.94-4.4,3.98-5.63.75,2.83,1.08,5.76.98,8.69h1.29s-.22-7.87,1.7-10.29c0,0,0,0,0,0Z" fill="#ed6d7b" stroke-width="0"/>
+            <path d="m35.29,27.04s2.92-3-2.5-8.23c0,0-3.57,2.65-5.98,9.93-.73,2.17-2.57,3.77-4.82,4.2,0,0-3.8-.13-5,1.61-1.34,1.94,1.25,2.77,8.3,2.77,0,0,1.52.11,2.05-3.04.49-2.37,1.94-4.4,3.98-5.63.75,2.83,1.08,5.76.98,8.69h1.29s-.22-7.87,1.7-10.29c0,0,0,0,0,0Z" fill="#ed6d7b" opacity=".3" stroke-width="0"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,170 @@
+{
+    "collections":{
+        "eyebrows":[
+            {
+                "groupId":1, "zone":"head", "category":"eyebrows", "security":"5b720362ccbfc015",
+                "name":"Basic\n",
+                "outfitName":null,
+                "variations":[
+                    {"id":1, "colors":["black"]}
+                ], "criteria":null
+            },
+            {
+                "groupId":3, "zone":"head", "category":"eyebrows", "security":"5ac817a2595a11df",
+                "name":"Cejas Basic Bushy",
+                "outfitName":null,
+                "variations":[
+                    {"id":3, "colors":["black"]}
+                ], "criteria":null
+            },
+            {
+                "groupId":4, "zone":"head", "category":"eyebrows", "security":"4d992de25208858a",
+                "name":"Cejas Basic Thick",
+                "outfitName":null,
+                "variations":[
+                    {"id":4, "colors":["black"]}
+                ], "criteria":null
+            },
+            {
+                "groupId":5, "zone":"head", "category":"eyebrows", "security":"bd0e88a718ba4d01",
+                "name":"Cejas Basic Small",
+                "outfitName":null,
+                "variations":[
+                    {"id":5, "colors":["black"]}
+                ], "criteria":null
+            },
+            {
+                "groupId":6, "zone":"head", "category":"eyebrows", "security":"8aee5185443be8ee",
+                "name":"Cejas Basic Thin",
+                "outfitName":null,
+                "variations":[
+                    {"id":6, "colors":["black"]}
+                ], "criteria":null
+            }
+        
+        ],
+        "eyes":[
+            {
+                "groupId":1, "zone":"face", "category":"eyes", "security":"c8f85ec8f0f3ab2d",
+                "name":"Basic\n",
+                "outfitName":null,
+                "variations":[
+                    {"id":1, "colors":["black"]}
+                ], "criteria":null
+            },
+            {
+                "groupId":2, "zone":"face", "category":"eyes", "security":"db7fd47200fc5c1d",
+                "name":"Ojos",
+                "outfitName":"Plastic Life",
+                "variations":[
+                    {"id":2, "colors":["pink"]},
+                    {"id":3, "colors":["blue","purple"]},
+                    {"id":4, "colors":["grey"]},
+                    {"id":5, "colors":["yellow"]},
+                    {"id":6, "colors":["black"]},
+                    {"id":7, "colors":["green"]},
+                    {"id":8, "colors":["blue"]},
+                    {"id":9, "colors":["white"]},
+                    {"id":10, "colors":["red"]},
+                    {"id":11, "colors":["green"]}
+                ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
+            }
+        ],
+        "mouth":[
+            {
+                "groupId":1, "zone":"face", "category":"mouth", "security":"d52f3502c5814f22",
+                "name":"Basic",
+                "outfitName":null,
+                "variations":[
+                    {"id":1, "colors":["pink"]},
+                    {"id":2, "colors":["brown"]},
+                    {"id":3, "colors":["pink"]},
+                    {"id":4, "colors":["pink"]},
+                    {"id":5, "colors":["red"]},
+                    {"id":6, "colors":["red"]},
+                    {"id":7, "colors":["brown"]},
+                    {"id":8, "colors":["black"]}
+                ], "criteria":null
+            },
+            {
+                "groupId":41, "zone":"face", "category":"mouth", "security":"545cb910be3195d1",
+                "name":"Boca",
+                "outfitName":"Plastic Life",
+                "variations":[
+                    {"id":41, "colors":["pink"]},
+                    {"id":42, "colors":["purple"]},
+                    {"id":43, "colors":["grey"]},
+                    {"id":44, "colors":["yellow"]},
+                    {"id":45, "colors":["black"]},
+                    {"id":46, "colors":["green"]},
+                    {"id":47, "colors":["blue"]},
+                    {"id":48, "colors":["white"]},
+                    {"id":49, "colors":["red"]},
+                    {"id":50, "colors":["green"]}
+                ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
+                
+            }
+        ]
+    },
+    "expressions":{
+        "eyebrow": [
+            "A_Mid",
+            "AS_Low_Mid",
+            "AS_Mid_High",
+            "H_Mid",
+            "N_High",
+            "N_Mid",
+            "S_Mid"
+        ],
+        "eye": [
+            "H_Closed",
+            "N_Closed",
+            "N_HalfOpen_FrontLook",
+            "N_Open_FrontLook",
+            "N_WideOpen_FrontLook",
+            "H_HalfOpen_FrontLook",
+            "H_HalfOpen_LeftLook",
+            "H_Open_FrontLook",
+            "H_Open_HalfOpen_TopRightLook",
+            "H_WideOpen_HalfOpen_FrontLook",
+            "H_HalfOpen_FrontLook_efxTears",
+            "N_Closed_Open_FrontLook"
+        ],
+        "mouth": [
+            "H_Closed",
+            "H_HalfOpen",
+            "H_WideOpen",
+            "H_Open",
+            "N_Closed",
+            "N_HalfOpen",
+            "N_Open",
+            "N_WideOpen",
+            "S_Closed",
+            "S_HalfOpen",
+            "S_Open",
+            "S_WideOpen"
+        ]
+    },
+    "expressionsPresets":[
+        ["N_Mid", "N_Open_FrontLook", "N_Closed"],
+        ["AS_Mid_High", "N_Open_FrontLook", "N_Closed"],
+        ["AS_Mid_High", "H_Open_HalfOpen_TopRightLook", "N_Closed"],
+        ["AS_Low_Mid", "H_HalfOpen_LeftLook", "N_Closed"],
+        ["N_High", "N_WideOpen_FrontLook", "N_HalfOpen"],
+        ["H_Mid", "H_Closed", "H_WideOpen"],
+        ["H_Mid", "H_Open_FrontLook", "H_HalfOpen"],
+        ["H_Mid", "N_Open_FrontLook", "H_Closed"],
+        ["AS_Low_Mid", "N_HalfOpen_FrontLook", "H_Closed"],
+        ["H_Mid", "N_WideOpen_FrontLook", "H_WideOpen"],
+        ["H_Mid", "H_Open_HalfOpen_TopRightLook", "H_Closed"],
+        ["S_Mid", "N_Open_FrontLook", "S_Closed"],
+        ["S_Mid", "N_WideOpen_FrontLook", "S_WideOpen"],
+        ["S_Mid", "H_HalfOpen_FrontLook_efxTears", "S_Closed"],
+        ["AS_Mid_High", "N_HalfOpen_FrontLook", "N_Closed"],
+        ["H_Mid", "N_Closed_Open_FrontLook", "H_Closed"],
+        ["S_Mid", "N_HalfOpen_FrontLook", "N_HalfOpen"],
+        ["S_Mid", "H_HalfOpen_FrontLook_efxTears", "S_Closed"],
+        ["A_Mid", "N_Open_FrontLook", "S_Closed"],
+        ["A_Mid", "H_Open_FrontLook", "S_Closed"]
+    ]
+}

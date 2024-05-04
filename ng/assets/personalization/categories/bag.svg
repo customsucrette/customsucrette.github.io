@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-c9689cb0-744a-41ef-acac-912bea20123f" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="59" height="59" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59 59">
+  <defs>
+    <clipPath id="uuid-67d13fdd-c401-42ca-8cdf-7c17c7dada7c">
+      <rect width="59" height="59" fill="none" stroke-width="0"/>
+    </clipPath>
+  </defs>
+  <g id="uuid-e5bbca2d-1ab4-41d0-a978-d8b4e755e9fc" data-name="Calque 1">
+    <g id="uuid-3422f2fb-b2ed-4ff6-96f0-5a9cc6b8557f" data-name="personalization__categories__bag">
+      <g clip-path="url(#uuid-67d13fdd-c401-42ca-8cdf-7c17c7dada7c)">
+        <path id="uuid-85171735-e9ec-4b81-a102-8ec0d79fce77" data-name="IcoSac" d="m39.42,25.83c.12-.07.08-.28.03-.49l-.07-.12c-.1-.15-.25-.26-.42-.31l-4.13-1.11.53-1.97c.48-1.91-.64-3.87-2.54-4.41-1.96-.46-3.94.69-4.52,2.61l-.53,1.97-4.13-1.11c-.07-.03-.14-.03-.22,0-.8.06-1.11,1.21-1.25,1.73-.2.91-.6,1.77-1.17,2.5-.6.74-1.18,1.39-1.69,2.16-1.43,2.33-1.13,5.33,0,5.64l17.46,4.68c1.12-.41,2.27-4.32,2.08-5.88-.2-1.07-.24-2.17-.13-3.26l.7-2.63Zm-5.65-4.43l-.53,1.97-3.94-1.06.53-1.97c.29-1.09,1.41-1.74,2.5-1.44s1.74,1.41,1.44,2.5Z" fill="#ed6d7b" stroke-width="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

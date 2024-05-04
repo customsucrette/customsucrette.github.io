@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-0c87276d-f8a0-4650-a166-b6b20ea8aef9" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="59" height="59" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59 59">
+  <defs>
+    <clipPath id="uuid-146446a2-43c0-4f0f-80c0-ef209759f2b0">
+      <rect width="59" height="59" fill="none" stroke-width="0"/>
+    </clipPath>
+  </defs>
+  <g id="uuid-3ddbee45-866b-47a4-a4ac-1fab28ac6a02" data-name="Calque 1">
+    <g id="uuid-58056a2b-9299-43c6-8537-b501bcf66b19" data-name="personalization__categories__nail">
+      <g clip-path="url(#uuid-146446a2-43c0-4f0f-80c0-ef209759f2b0)">
+        <g id="uuid-8665095a-f1eb-4cb9-82ce-4b4c58a1c32c" data-name="IcoVernis">
+          <path id="uuid-fd267948-5ed9-4118-9381-fbad36a9ff46" data-name="Path 6139" d="m34.81,31.89c0-.96-2.88-1.77-4.38-2.09v-1.3l-3.68.69v.61c-1.5.32-4.38,1.13-4.38,2.09,0,.05,0,.09.01.14,0,.02,0,.04-.01.06l.46,8.23c0,.3.25.55.55.55,0,0,0,0,0,0h10.41c.3,0,.55-.24.55-.55,0,0,0,0,0,0l.46-8.23s0-.04-.01-.06c0-.05.01-.09.01-.14m-2.94,4.66h-6.55v-3.2h6.55v3.2Z" fill="#ed6d7b" stroke-width="0"/>
+          <path id="uuid-01464c3d-9d50-4147-979f-668c0b156eca" data-name="Path 6140" d="m26.85,28.06l3.44-.69v.69l-3.44.69v-.69Z" fill="#ed6d7b" stroke-width="0"/>
+          <path id="uuid-d939bf2f-7c68-42d9-9f26-33ee42c361ac" data-name="Path 6141" d="m26.85,26.68l3.44-.69v.69l-3.44.69v-.69Z" fill="#ed6d7b" stroke-width="0"/>
+          <path id="uuid-f07c31e4-4ec0-4d4a-a565-360b3d5f382c" data-name="Path 6142" d="m26.85,25.31l3.44-.69v.69l-3.44.69v-.69Z" fill="#ed6d7b" stroke-width="0"/>
+          <path id="uuid-1ea99bbf-4b10-4d31-b0a8-4be2ee9043e9" data-name="Path 6143" d="m28.96,16.51c.66-.73,1.39-1.39,2.17-2,.63-.46,1.33-.82,2.07-1.08l5.48,7.54-4.23,3.08-5.48-7.54Z" fill="#ed6d7b" stroke-width="0"/>
+          <path id="uuid-8f8865b3-8c83-4a97-b95e-dcc2f3da980b" data-name="Path 6144" d="m36.47,23.46l.89-.65,2.72,3.61-.89.65-2.72-3.61Z" fill="#ed6d7b" stroke-width="0"/>
+          <path id="uuid-6d3f8332-24f8-4c11-bc34-79829a41dc19" data-name="Path 6145" d="m39.64,27.68l.89-.65,3.62,3.88-.15.12-2.61-2.5,2.22,2.74-1.4,1.2-2.57-4.79Z" fill="#ed6d7b" stroke-width="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
