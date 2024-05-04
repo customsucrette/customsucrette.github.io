@@ -1002,11 +1002,14 @@ $(function () {
             $(".left-panel-container").fadeIn(100);
             $(".center-container").fadeIn(100);
             $(".avatar-personalization").fadeIn(100);
+            
         } else {
             $(this).addClass("enabled");
             $(".left-panel-container").fadeOut(100);
             $(".center-container").fadeOut(100);
             $(".avatar-personalization").fadeOut(100);
+            $("#sub-link-z-index").removeClass("active");
+            $("#asng-z-index").fadeOut(100);
         };
     });
 
