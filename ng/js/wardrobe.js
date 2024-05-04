@@ -724,7 +724,6 @@ function removeItem(z) {
 
             if (c == "wig") {
                 // añadir hair
-                alert("Añadir cabello");
                 sucrette.orderInfo.push({"category":"hair", "layer":"back", "value":"auto"});
                 drawSucrette(cr, "new");
                 sucrette.orderInfo.push({"category":"hair", "layer":"front", "value":"auto"});
