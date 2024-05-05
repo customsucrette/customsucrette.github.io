@@ -225,6 +225,7 @@ body.personality-fiery {
     flex-direction: column;
     width: 40px;
     min-height: 100vh;
+    height: 100%;
 }
 
 .menu-header, .menu-footer {
