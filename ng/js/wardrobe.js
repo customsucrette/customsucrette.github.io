@@ -56,7 +56,7 @@ function userSettings() {
         $(".graphics .asng-toggle-switch .slider").removeClass("off");
     };
 
-    $(".asng-room-canvas").css("background-image", `url(https://assets.corazondemelon-newgen.es/room-item/image/full/md/1-${rt}-12345678abcdef.jpg)`);
+    $(".asng-room-canvas.bg").css("background-image", `url(https://assets.corazondemelon-newgen.es/room-item/image/full/md/1-${rt}-12345678abcdef.jpg)`);
 }
 
 function drawCategory(c = "top", declination = null) {
@@ -764,6 +764,7 @@ function resetSucrette() {
 function drawSavePopUp(w, h) {
     $("body").append(`<div id="overlay-popup"><div id="canvas-container"><canvas width="${w}" height="${h}" id="save-canvas"></canvas></div></div>`);
     $("#canvas-container").append(`<div class="button close"><i class="fa-solid fa-xmark"></i></div>`);
+    $("#canvas-container").append(`<div class="button reload"><i class="fa-solid fa-rotate"></i></div>`);
 
     drawSucrette("hd", "load");
 };
@@ -1022,6 +1023,11 @@ $(function () {
         drawSucrette();
     });
 
+    $('body').on("click", "#canvas-container .reload", function() {
+        document.getElementById("save-canvas").getContext("2d").clearRect(0, 0, 1200, 1550);
+        drawSucrette("hd", "load");
+    });
+
 });
 
 function getCategoryName(arg) {
@@ -1152,6 +1158,10 @@ function fillCounter() {
 
     $(".shortcut.cloth p.counter").text(sum);
 }
+
+window.onbeforeunload = function () {
+     return "";
+};
 
 // global variables
 var cloth = [], avatar = [];

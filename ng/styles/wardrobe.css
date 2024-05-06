@@ -171,13 +171,12 @@ body.personality-fiery {
 .asng-room-canvas {
     display: block;
     background-size: cover !important;
-    transition: background 1s, filter 1s;
+    /* transition: background 1s, filter 1s; */
     background-position: center !important;
-    position: relative;
+    /* position: relative; */
+    position: absolute;
     width: 100%;
     height: 100%;
-
-    
 }
 
 .site-container .asng-menu {
@@ -2125,7 +2124,7 @@ body.personality-fiery #asng-z-index .item .remove {
     position: relative;
     width: fit-content;
     height: fit-content;
-    margin: 20px 20px;
+    margin: 100px 20px 20px;
     display: inline-block;
 }
 
@@ -2136,14 +2135,25 @@ body.personality-fiery #asng-z-index .item .remove {
 }
 
 #canvas-container .button {
-    padding: 8px 12px;
     position: absolute;
-    top: -10px;
+    top: -80px;
     right: -10px;
-    background-color: var(--asng-personality-color);
+    background-color: var(--asng-personality-color-dark);
     border-radius: 50px;
     border: 2px solid;
     color: #fff;
-    font-size: 25px;
+    font-size: 35px;
     cursor: pointer;
+    height: 60px;
+    width: 60px;
+    display: flex;
+}
+
+#canvas-container .button i {
+    display: inline;
+    margin: auto;
+}
+
+#canvas-container .button.reload {
+    right: 90px;
 }
