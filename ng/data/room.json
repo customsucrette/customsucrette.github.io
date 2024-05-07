@@ -1,0 +1,935 @@
+{
+    "background":[
+        {
+            "id":1, "roomId": 1, "slot":"background", "light":true, "security":"12345678abcdef",
+            "name":"Paredes",
+            "roomName":"Fresh Start",
+            "criteria":null,
+            "backgroundColors":{
+                "day":{"color1":"FCF6F3", "color2":"EBDDD7", "colorLight":"41290F"},
+                "night":{"color1":"73B2FF", "color2":"567298", "colorLight":"2954A4"}
+            }
+        },
+        {
+            "id":8, "roomId": 9, "slot":"background", "light":true, "security":"162f46cae88d044a",
+            "name":"Paredes",
+            "roomName":"Hippie Love",
+            "criteria":null,
+            "backgroundColors":{
+                "day":{"color1":"FBF8F4", "color2":"FFEFE5", "colorLight":"98642C"},
+                "night":{"color1":"48ABFF", "color2":"E17AB6", "colorLight":"2D79FE"}
+            }
+        },
+        {
+            "id":14, "roomId": 12, "slot":"background", "light":true, "security":"cbdd8a988ccf49cd",
+            "name":"Paredes",
+            "roomName":"Marshmallow Fluff",
+            "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo \n Marshmallow Fluff"},
+            "backgroundColors":{
+                "day":{"color1":"FFFFFF", "color2":"E2CAD1", "colorLight":"A46A48"},
+                "night":{"color1":"77BEFF", "color2":"8473A9", "colorLight":"4A9BD3"}
+            }
+        },
+        {
+            "id":26, "roomId": 14, "slot":"background", "light":true, "security":"28753ef00ca52723",
+            "name":"Paredes",
+            "roomName":"Summerly Blues",
+            "criteria":null,
+            "backgroundColors":{
+                "day":{"color1":"FFFFFF", "color2":"F8EFE4", "colorLight":"154189"},
+                "night":{"color1":"7584BA", "color2":"62A8FF", "colorLight":"1680CA"}
+            }
+        },
+        {
+            "id":32, "roomId": 15, "slot":"background", "light":true, "security":"5d0c38035b6bafa2",
+            "name":"Paredes",
+            "roomName":"Old Romance",
+            "criteria":null,
+            "backgroundColors":{
+                "day":{"color1":"FAF4DC", "color2":"DCD1D5", "colorLight":"4B0132"},
+                "night":{"color1":"6FBAFF", "color2":"778EC2", "colorLight":"083E9C"}
+            }
+        },
+        {
+            "id":38, "roomId": 16, "slot":"background", "light":true, "security":"d0e766dfb3ddc028",
+            "name":"Paredes",
+            "roomName":"School Life Memories",
+            "criteria":null,
+            "backgroundColors":{
+                "day":{"color1":"F0F9FD", "color2":"D2D8D0", "colorLight":"00789E"},
+                "night":{"color1":"62A8FF", "color2":"72BEFF", "colorLight":"0F2CA9"}
+            }
+        },
+        {
+            "id":44, "roomId": 17, "slot":"background", "light":true, "security":"87eda390c20cfe87",
+            "name":"Paredes",
+            "roomName":"Cute Pink",
+            "criteria":null,
+            "backgroundColors":{
+                "day":{"color1":"FFF2F8", "color2":"F9EEF6", "colorLight":"885206"},
+                "night":{"color1":"62A8FF", "color2":"99B3EF", "colorLight":"002DAF"}
+            }
+        },
+        {
+            "id":50, "roomId": 18, "slot":"background", "light":true, "security":"21009ab85e19b94e",
+            "name":"Paredes",
+            "roomName":"Green & Wicker",
+            "criteria":null,
+            "backgroundColors":{
+                "day":{"color1":"FFFFFF", "color2":"EFEAE2", "colorLight":"3E8708"},
+                "night":{"color1":"62A8FF", "color2":"82A1B9", "colorLight":"367507"}
+            }
+        },
+        {
+            "id":56, "roomId": 19, "slot":"background", "light":true, "security":"aced578ee8f8cf9b",
+            "name":"Paredes",
+            "roomName":"Modern Touch",
+            "criteria":null,
+            "backgroundColors":{
+                "day":{"color1":"FFFFFF", "color2":"F5F0E9", "colorLight":"5E4030"},
+                "night":{"color1":"74B2FF", "color2":"7B95C7", "colorLight":"5D74EA"}
+            }
+        },
+        {
+            "id":65, "roomId": 27, "slot":"background", "light":true, "security":"d1d490f73c7aabf8",
+            "name":"Paredes",
+            "roomName":"Energized",
+            "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo \n Energized"},
+            "backgroundColors":{
+                "day":{"color1":"FFFBF7", "color2":"F6E8C6", "colorLight":"653519"},
+                "night":{"color1":"80D0FF", "color2":"9C9FA3", "colorLight":"003E90"}
+            }
+        },
+        {
+            "id":71, "roomId": 28, "slot":"background", "light":true, "security":"389dd0f6454b3370",
+            "name":"Paredes",
+            "roomName":"Spiky Wit",
+            "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo \n Spiky Wit"},
+            "backgroundColors":{
+                "day":{"color1":"D8E2E4", "color2":"7C8CC0", "colorLight":"327DB5"},
+                "night":{"color1":"9BD0EB", "color2":"707BB9", "colorLight":"1536B5"}
+            }
+        },
+        {
+            "id":77, "roomId": 29, "slot":"background", "light":true, "security":"c12582a12ba8abb9",
+            "name":"Entorno",
+            "roomName":"Elven Call",
+            "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo \n Elven Call"},
+            "backgroundColors":{
+                "day":{"color1":"E6F9FF", "color2":"C7D3BE", "colorLight":"0059DC"},
+                "night":{"color1":"DEC3FF", "color2":"6192BF", "colorLight":"D26BC7"}
+            }
+        },
+        {
+            "id":83, "roomId": 30, "slot":"background", "light":false, "security":"3388cf47ec93bd06",
+            "name":"Paredes",
+            "roomName":"Quiet Reading",
+            "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo \n Quiet Reading"},
+            "backgroundColors":{
+                "day":{"color1":"FFFFFF", "color2":"F3E4DC", "colorLight":null},
+                "night":{"color1":"62A8FF", "color2":"ACD8F6", "colorLight":null}
+            }
+        },
+        {
+            "id":89, "roomId": 31, "slot":"background", "light":true, "security":"c577b8c868fe7577",
+            "name":"Entorno",
+            "roomName":"Fairycore",
+            "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"},
+            "backgroundColors":{
+                "day":{"color1":"F3FFDF", "color2":"B8BCB0", "colorLight":"FFFF89"},
+                "night":{"color1":"5D9EEA", "color2":"918DD2", "colorLight":"CD6FF3"}
+            }
+        },
+        {
+            "id":105, "roomId": 34, "slot":"background", "light":true, "security":"9fcb1ec097fe27e9",
+            "name":"Paredes",
+            "roomName":"Classic Chic",
+            "criteria":{"type":"jobTask", "info":"Proyectos", "text":"Desbloqueado en la Misión del día\nProyectos"},
+            "backgroundColors":{
+                "day":{"color1":"FFF9E6", "color2":"DFE4E8", "colorLight":"382202"},
+                "night":{"color1":"62A8FF", "color2":"EAEAEA", "colorLight":"02356B"}
+            }
+        },
+        {
+            "id":153, "roomId": 42, "slot":"background", "light":true, "security":"6b8af3fa1e2ee135",
+            "name":"Paredes",
+            "roomName":"Cosy Bear",
+            "criteria":null,
+            "backgroundColors":{
+                "day":{"color1":"FAEAE2", "color2":"F7F2F0", "colorLight":"632655"},
+                "night":{"color1":"E1D59B", "color2":"636EF6", "colorLight":"733D00"}
+            }
+        },
+        {
+            "id":201, "roomId": 50, "slot":"background", "light":true, "security":"52c60b0821320f30",
+            "name":"Paredes",
+            "roomName":"Lady Regency",
+            "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"},
+            "backgroundColors":{
+                "day":{"color1":"FFF0DC", "color2":"D8DFD7", "colorLight":"4B3900"},
+                "night":{"color1":"B49FED", "color2":"9DB3CF", "colorLight":"360E7D"}
+            }
+        },
+        {
+            "id":207, "roomId": 51, "slot":"background", "light":true, "security":"563f75ab30353cd1",
+            "name":"Paredes",
+            "roomName":"Plastic Life",
+            "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"},
+            "backgroundColors":{
+                "day":{"color1":"FFFFFF", "color2":"E8CAD2", "colorLight":"8F1E75"},
+                "night":{"color1":"9DCBFF", "color2":"FFB9CB", "colorLight":"589CCB"}
+            }
+        },
+        {
+            "id":213, "roomId": 52, "slot":"background", "light":true, "security":"b99507d703046486",
+            "name":"Paredes",
+            "roomName":"Foggy Mystery",
+            "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo \n Foggy Mystery"},
+            "backgroundColors":{
+                "day":{"color1":"EDDCD0", "color2":"AD9F95", "colorLight":"263756"},
+                "night":{"color1":"D3A88A", "color2":"6C6374", "colorLight":"6D3F0B"}
+            }
+        },
+        {
+            "id":219, "roomId": 53, "slot":"background", "light":true, "security":"3a5451aea550e856",
+            "name":"Entorno",
+            "roomName":"Aren't We All a Bit Mad Here?",
+            "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"},
+            "backgroundColors":{
+                "day":{"color1":"E8FFB4", "color2":"7290FF", "colorLight":"256D12"},
+                "night":{"color1":"95E9C7", "color2":"8D45D3", "colorLight":"350D7C"}
+            }
+        }
+    ],
+    "slot1":[
+        {
+            "id":6, "roomId": 1, "slot":"slot1", "light":true, "security":"db2e30f7b3aee506",
+            "name":"Vestidor",
+            "roomName":"Fresh Start",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":13, "roomId": 9, "slot":"slot1", "light":true, "security":"acbcb643ab649a17",
+            "name":"Ropero",
+            "roomName":"Hippie Love",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":19, "roomId": 12, "slot":"slot1", "light":false, "security":"c5a6cdbb63f5f355",
+            "name":"Vestidor",
+            "roomName":"Marshmallow Fluff",
+            "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo \n Marshmallow Fluff"},
+            "backgroundColors": null
+        },
+        {
+            "id":31, "roomId": 14, "slot":"slot1", "light":true, "security":"25d96871ca579469",
+            "name":"Pared TV",
+            "roomName":"Summerly Blues",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":37, "roomId": 15, "slot":"slot1", "light":false, "security":"375be5368e57c3e0",
+            "name":"Escritorio",
+            "roomName":"Old Romance",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":43, "roomId": 16, "slot":"slot1", "light":false, "security":"b9dbaefe91d99cbf",
+            "name":"Vestidor",
+            "roomName":"School Life Memories",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":49, "roomId": 17, "slot":"slot1", "light":false, "security":"e47d253275c48cd8",
+            "name":"Baño",
+            "roomName":"Cute Pink",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":55, "roomId": 18, "slot":"slot1", "light":false, "security":"67bf3b3873e40d41",
+            "name":"Sofá",
+            "roomName":"Green & Wicker",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":61, "roomId": 19, "slot":"slot1", "light":true, "security":"980c646895446d27",
+            "name":"Pared vegetal",
+            "roomName":"Modern Touch",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":70, "roomId": 27, "slot":"slot1", "light":false, "security":"599cccaddbf106e6",
+            "name":"Sofá",
+            "roomName":"Energized",
+            "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo \n Energized"},
+            "backgroundColors": null
+        },
+        {
+            "id":76, "roomId": 28, "slot":"slot1", "light":true, "security":"56de8bce91d581ec",
+            "name":"Pared TV",
+            "roomName":"Spiky Wit",
+            "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo \n Spiky Wit"},
+            "backgroundColors": null
+        },
+        {
+            "id":82, "roomId": 29, "slot":"slot1", "light":true, "security":"e069dd23ab9db18d",
+            "name":"Árbol",
+            "roomName":"Elven Call",
+            "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo \n Elven Call"},
+            "backgroundColors": null
+        },
+        {
+            "id":88, "roomId": 30, "slot":"slot1", "light":false, "security":"8459f9d85f4548a2",
+            "name":"Cama",
+            "roomName":"Quiet Reading",
+            "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo \n Quiet Reading"},
+            "backgroundColors": null
+        },
+        {
+            "id":94, "roomId": 31, "slot":"slot1", "light":true, "security":"4237af7f8d260330",
+            "name":"Fuente",
+            "roomName":"Fairycore",
+            "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"},
+            "backgroundColors": null
+        },
+        {
+            "id":158, "roomId": 42, "slot":"slot1", "light":false, "security":"758ca1deacec3017",
+            "name":"Bar",
+            "roomName":"Cosy Bear",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":170, "roomId": 44, "slot":"slot1", "light":false, "security":"f1576f230158b493",
+            "name":"Mueble de almacenaje",
+            "roomName":"Mermaid Shinies",
+            "criteria":{"type":"jobTask", "info":"Proyectos", "text":"Desbloqueado en la Misión del día\nProyectos"},
+            "backgroundColors": null
+        },
+        {
+            "id":202, "roomId": 50, "slot":"slot1", "light":true, "security":"8b542df3c8e7e172",
+            "name":"Chimenea",
+            "roomName":"Lady Regency",
+            "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"},
+            "backgroundColors": null
+        },
+        {
+            "id":208, "roomId": 51, "slot":"slot1", "light":true, "security":"0f1b14d0927c129f",
+            "name":"Baño",
+            "roomName":"Plastic Life",
+            "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"},
+            "backgroundColors": null
+        },
+        {
+            "id":214, "roomId": 52, "slot":"slot1", "light":true, "security":"b47019dfe4fe02cc",
+            "name":"Escritorio",
+            "roomName":"Foggy Mystery",
+            "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo \n Foggy Mystery"},
+            "backgroundColors": null
+        },
+        {
+            "id":220, "roomId": 53, "slot":"slot1", "light":true, "security":"0677d9cb70fb1567",
+            "name":"Oruga",
+            "roomName":"Aren't We All a Bit Mad Here?",
+            "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"},
+            "backgroundColors": null
+        }
+    ],
+    "slot2":[
+        {
+            "id":5, "roomId": 1, "slot":"slot2", "light":false, "security":"4bb83595a6a16409",
+            "name":"Cama",
+            "roomName":"Fresh Start",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":12, "roomId": 9, "slot":"slot2", "light":false, "security":"fde6b760fe773cde",
+            "name":"Cama",
+            "roomName":"Hippie Love",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":18, "roomId": 12, "slot":"slot2", "light":true, "security":"c598f4755ee9aed4",
+            "name":"Cama",
+            "roomName":"Marshmallow Fluff",
+            "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo \n Marshmallow Fluff"},
+            "backgroundColors": null
+        },
+        {
+            "id":30, "roomId": 14, "slot":"slot2", "light":true, "security":"09aba073571dbe40",
+            "name":"Sofá",
+            "roomName":"Summerly Blues",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":36, "roomId": 15, "slot":"slot2", "light":false, "security":"e19fea2d8c40bf06",
+            "name":"Cama",
+            "roomName":"Old Romance",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":42, "roomId": 16, "slot":"slot2", "light":true, "security":"e81877a5bb08b2d8",
+            "name":"Cama alta",
+            "roomName":"School Life Memories",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":48, "roomId": 17, "slot":"slot2", "light":true, "security":"8fb8d23dfdb8ed65",
+            "name":"Cama",
+            "roomName":"Cute Pink",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":54, "roomId": 18, "slot":"slot2", "light":false, "security":"f063393d50b7fa9c",
+            "name":"Cama",
+            "roomName":"Green & Wicker",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":60, "roomId": 19, "slot":"slot2", "light":true, "security":"972cc667ddea9dab",
+            "name":"Cama",
+            "roomName":"Modern Touch",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":69, "roomId": 27, "slot":"slot2", "light":true, "security":"9de2ed4e4db5fea9",
+            "name":"Cama",
+            "roomName":"Energized",
+            "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo \n Energized"},
+            "backgroundColors": null
+        },
+        {
+            "id":75, "roomId": 28, "slot":"slot2", "light":true, "security":"ca42135b02dfd729",
+            "name":"Cama alta",
+            "roomName":"Spiky Wit",
+            "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo \n Spiky Wit"},
+            "backgroundColors": null
+        },
+        {
+            "id":81, "roomId": 29, "slot":"slot2", "light":true, "security":"ae5284e762ca28ba",
+            "name":"Cama",
+            "roomName":"Elven Call",
+            "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo \n Elven Call"},
+            "backgroundColors": null
+        },
+        {
+            "id":87, "roomId": 30, "slot":"slot2", "light":true, "security":"381a0a29dd3fd40d",
+            "name":"Sillón",
+            "roomName":"Quiet Reading",
+            "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo \n Quiet Reading"},
+            "backgroundColors": null
+        },
+        {
+            "id":93, "roomId": 31, "slot":"slot2", "light":true, "security":"fb281eed99faf564",
+            "name":"Mesa",
+            "roomName":"Fairycore",
+            "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"},
+            "backgroundColors": null
+        },
+        {
+            "id":109, "roomId": 34, "slot":"slot2", "light":false, "security":"2c7340b2dddae1bf",
+            "name":"Piano",
+            "roomName":"Classic Chic",
+            "criteria":{"type":"jobTask", "info":"Pantalla PC", "text":"Desbloqueado en la Misión del día\nPantalla PC"},
+            "backgroundColors": null
+        },
+        {
+            "id":157, "roomId": 42, "slot":"slot2", "light":false, "security":"5e9b1f208251fb9a",
+            "name":"Sofá",
+            "roomName":"Cosy Bear",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":203, "roomId": 50, "slot":"slot2", "light":true, "security":"20b774d9765d2232",
+            "name":"Cama",
+            "roomName":"Lady Regency",
+            "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"},
+            "backgroundColors": null
+        },
+        {
+            "id":209, "roomId": 51, "slot":"slot2", "light":true, "security":"985001da3a579d70",
+            "name":"Cama",
+            "roomName":"Plastic Life",
+            "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"},
+            "backgroundColors": null
+        },
+        {
+            "id":215, "roomId": 52, "slot":"slot2", "light":true, "security":"66689ee817ddea6e",
+            "name":"Chimenea",
+            "roomName":"Foggy Mystery",
+            "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo \n Foggy Mystery"},
+            "backgroundColors": null
+        },
+        {
+            "id":221, "roomId": 53, "slot":"slot2", "light":true, "security":"0311078cadb580c1",
+            "name":"Mesa",
+            "roomName":"Aren't We All a Bit Mad Here?",
+            "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"},
+            "backgroundColors": null
+        }
+    ],
+    "slot3":[
+        {
+            "id":4, "roomId": 1, "slot":"slot3", "light":false, "security":"6f4f67f0b4c78f19",
+            "name":"Cómoda",
+            "roomName":"Fresh Start",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":11, "roomId": 9, "slot":"slot3", "light":true, "security":"7e142a267c7b8a54",
+            "name":"Mueble pequeño",
+            "roomName":"Hippie Love",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":17, "roomId": 12, "slot":"slot3", "light":false, "security":"9df8addab51bf07c",
+            "name":"Tocador",
+            "roomName":"Marshmallow Fluff",
+            "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo \n Marshmallow Fluff"},
+            "backgroundColors": null
+        },
+        {
+            "id":29, "roomId": 14, "slot":"slot3", "light":false, "security":"f71e06f49f91bb81",
+            "name":"Sillón",
+            "roomName":"Summerly Blues",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":35, "roomId": 15, "slot":"slot3", "light":true, "security":"5c57b89f1985dbb1",
+            "name":"Sillón",
+            "roomName":"Old Romance",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":41, "roomId": 16, "slot":"slot3", "light":false, "security":"2898ee7f8cda77fa",
+            "name":"Escritorio",
+            "roomName":"School Life Memories",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":47, "roomId": 17, "slot":"slot3", "light":false, "security":"7bc8cbfebdde03aa",
+            "name":"Tocador",
+            "roomName":"Cute Pink",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":53, "roomId": 18, "slot":"slot3", "light":false, "security":"ebfdf74a79a5fe97",
+            "name":"Baúles",
+            "roomName":"Green & Wicker",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":59, "roomId": 19, "slot":"slot3", "light":false, "security":"5ccd63cce917c674",
+            "name":"Mesa baja",
+            "roomName":"Modern Touch",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":68, "roomId": 27, "slot":"slot3", "light":false, "security":"e1632fe6ca7713ed",
+            "name":"Cajonera",
+            "roomName":"Energized",
+            "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo \n Energized"},
+            "backgroundColors": null
+        },
+        {
+            "id":74, "roomId": 28, "slot":"slot3", "light":false, "security":"9e8bbfb6b7c58fd4",
+            "name":"Saco de boxeo",
+            "roomName":"Spiky Wit",
+            "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo \n Spiky Wit"},
+            "backgroundColors": null
+        },
+        {
+            "id":80, "roomId": 29, "slot":"slot3", "light":false, "security":"dc0bd2d55f6bf4e7",
+            "name":"Estanque",
+            "roomName":"Elven Call",
+            "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo \n Elven Call"},
+            "backgroundColors": null
+        },
+        {
+            "id":86, "roomId": 30, "slot":"slot3", "light":true, "security":"27118c7970fd8bbe",
+            "name":"Escritorio",
+            "roomName":"Quiet Reading",
+            "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo \n Quiet Reading"},
+            "backgroundColors": null
+        },
+        {
+            "id":92, "roomId": 31, "slot":"slot3", "light":true, "security":"505d47ff5fce7393",
+            "name":"Columpio",
+            "roomName":"Fairycore",
+            "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"},
+            "backgroundColors": null
+        },
+        {
+            "id":108, "roomId": 34, "slot":"slot3", "light":true, "security":"dfdbba8e2c7cd37e",
+            "name":"Sillón",
+            "roomName":"Classic Chic",
+            "criteria":{"type":"jobTask", "info":"Proyectos", "text":"Desbloqueado en la Misión del día\nProyectos"},
+            "backgroundColors": null
+        },
+        {
+            "id":156, "roomId": 42, "slot":"slot3", "light":false, "security":"b04a388a6fc7d030",
+            "name":"Mesa",
+            "roomName":"Cosy Bear",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":168, "roomId": 44, "slot":"slot3", "light":false, "security":"07e1e3865fb9074e",
+            "name":"Sillón",
+            "roomName":"Mermaid Shinies",
+            "criteria":{"type":"jobTask", "info":"Pantalla PC", "text":"Desbloqueado en la Misión del día\nPantalla PC"},
+            "backgroundColors": null
+        },
+        {
+            "id":204, "roomId": 50, "slot":"slot3", "light":false, "security":"9a992688596b5a5e",
+            "name":"Podio",
+            "roomName":"Lady Regency",
+            "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"},
+            "backgroundColors": null
+        },
+        {
+            "id":210, "roomId": 51, "slot":"slot3", "light":false, "security":"f3c677258fc4dfcf",
+            "name":"Peluquera",
+            "roomName":"Plastic Life",
+            "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"},
+            "backgroundColors": null
+        },
+        {
+            "id":216, "roomId": 52, "slot":"slot3", "light":false, "security":"a5054d0cd037f761",
+            "name":"Mueble de almacenaje",
+            "roomName":"Foggy Mystery",
+            "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo \n Foggy Mystery"},
+            "backgroundColors": null
+        },
+        {
+            "id":222, "roomId": 53, "slot":"slot3", "light":false, "security":"710b26412f95e4fa",
+            "name":"Relojes",
+            "roomName":"Aren't We All a Bit Mad Here?",
+            "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"},
+            "backgroundColors": null
+        }
+    ],
+    "slot4":[
+        {
+            "id":3, "roomId": 1, "slot":"slot4", "light":true, "security":"132f6ed4db30b267",
+            "name":"Alumbrado",
+            "roomName":"Fresh Start",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":10, "roomId": 9, "slot":"slot4", "light":false, "security":"d6f30c02b6f25b4e",
+            "name":"Puf",
+            "roomName":"Hippie Love",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":16, "roomId": 12, "slot":"slot4", "light":true, "security":"dc096bf985164922",
+            "name":"Lámpara",
+            "roomName":"Marshmallow Fluff",
+            "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo \n Marshmallow Fluff"},
+            "backgroundColors": null
+        },
+        {
+            "id":28, "roomId": 14, "slot":"slot4", "light":false, "security":"75afacd3d4e293ef",
+            "name":"Perchero",
+            "roomName":"Summerly Blues",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":34, "roomId": 15, "slot":"slot4", "light":false, "security":"a25d5ea51563e24d",
+            "name":"Plantas",
+            "roomName":"Old Romance",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":40, "roomId": 16, "slot":"slot4", "light":true, "security":"f1084f5796701578",
+            "name":"Alumbrado",
+            "roomName":"School Life Memories",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":46, "roomId": 17, "slot":"slot4", "light":false, "security":"89a8e006f0f9deef",
+            "name":"Perchero",
+            "roomName":"Cute Pink",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":52, "roomId": 18, "slot":"slot4", "light":false, "security":"163a45d2b1aa1a4f",
+            "name":"Plantas",
+            "roomName":"Green & Wicker",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":58, "roomId": 19, "slot":"slot4", "light":true, "security":"8be6366c633d798c",
+            "name":"Alumbrado",
+            "roomName":"Modern Touch",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":62, "roomId": 20, "slot":"slot4", "light":true, "security":"0d1afbca49e1311a",
+            "name":"Escritorio prehistórico",
+            "roomName":"Working Space",
+            "criteria":{"type":"episode", "info":"01", "text":"Desbloqueado en el episodio 01"},
+            "backgroundColors": null
+        },
+        {
+            "id":63, "roomId": 23, "slot":"slot4", "light":true, "security":"a21c78629254d324",
+            "name":"Escritorio agradable",
+            "roomName":"Working Space",
+            "criteria":{"type":"episode", "info":"01", "text":"Desbloqueado en el episodio 01"},
+            "backgroundColors": null
+        },
+        {
+            "id":64, "roomId": 26, "slot":"slot4", "light":true, "security":"913d1aaf98758934",
+            "name":"Escritorio ergonómico",
+            "roomName":"Working Space",
+            "criteria":{"type":"episode", "info":"01", "text":"Desbloqueado en el episodio 01"},
+            "backgroundColors": null
+        },
+        {
+            "id":67, "roomId": 27, "slot":"slot4", "light":false, "security":"8ed355efebd6ee36",
+            "name":"Espejo",
+            "roomName":"Energized",
+            "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo \n Energized"},
+            "backgroundColors": null
+        },
+        {
+            "id":73, "roomId": 28, "slot":"slot4", "light":true, "security":"37f0f246a0f50c78",
+            "name":"Neón",
+            "roomName":"Spiky Wit",
+            "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo \n Spiky Wit"},
+            "backgroundColors": null
+        },
+        {
+            "id":79, "roomId": 29, "slot":"slot4", "light":true, "security":"50e230edc6eee816",
+            "name":"Cristales",
+            "roomName":"Elven Call",
+            "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo \n Elven Call"},
+            "backgroundColors": null
+        },
+        {
+            "id":85, "roomId": 30, "slot":"slot4", "light":false, "security":"9d3bed976eb1c763",
+            "name":"Libros",
+            "roomName":"Quiet Reading",
+            "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo \n Quiet Reading"},
+            "backgroundColors": null
+        },
+        {
+            "id":91, "roomId": 31, "slot":"slot4", "light":true, "security":"4b90fc8dd84de5ab",
+            "name":"Setas",
+            "roomName":"Fairycore",
+            "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"},
+            "backgroundColors": null
+        },
+        {
+            "id":155, "roomId": 42, "slot":"slot4", "light":false, "security":"8b4b91d227c266be",
+            "name":"Mesa",
+            "roomName":"Cosy Bear",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":167, "roomId": 44, "slot":"slot4", "light":true, "security":"0f5181ed9ea7c129",
+            "name":"Acuario",
+            "roomName":"Mermaid Shinies",
+            "criteria":{"type":"jobTask", "info":"Proyectos", "text":"Desbloqueado en la Misión del día\nProyectos"},
+            "backgroundColors": null
+        },
+        {
+            "id":205, "roomId": 50, "slot":"slot4", "light":false, "security":"84d783b3970de20d",
+            "name":"Mesa",
+            "roomName":"Lady Regency",
+            "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"},
+            "backgroundColors": null
+        },
+        {
+            "id":211, "roomId": 51, "slot":"slot4", "light":false, "security":"e7bcde5d47c6e603",
+            "name":"Vestidor",
+            "roomName":"Plastic Life",
+            "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"},
+            "backgroundColors": null
+        },
+        {
+            "id":217, "roomId": 52, "slot":"slot4", "light":false, "security":"b8e1daa3c7a15519",
+            "name":"Perchero",
+            "roomName":"Foggy Mystery",
+            "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo \n Foggy Mystery"},
+            "backgroundColors": null
+        },
+        {
+            "id":223, "roomId": 53, "slot":"slot4", "light":false, "security":"165aaf239de04c06",
+            "name":"Rosal",
+            "roomName":"Aren't We All a Bit Mad Here?",
+            "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"},
+            "backgroundColors": null
+        }
+    ],
+    "slot5":[
+        {
+            "id":2, "roomId": 1, "slot":"slot5", "light":false, "security":"05bc8be535a303a5",
+            "name":"Mesa baja",
+            "roomName":"Fresh Start",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":9, "roomId": 9, "slot":"slot5", "light":false, "security":"cdc30093251885a6",
+            "name":"Mesa baja",
+            "roomName":"Hippie Love",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":15, "roomId": 12, "slot":"slot5", "light":false, "security":"cab292ba74d270f2",
+            "name":"Pie de cama",
+            "roomName":"Marshmallow Fluff",
+            "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo \n Marshmallow Fluff"},
+            "backgroundColors": null
+        },
+        {
+            "id":27, "roomId": 14, "slot":"slot5", "light":true, "security":"aea83f8973aa7c78",
+            "name":"Cofres",
+            "roomName":"Summerly Blues",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":33, "roomId": 15, "slot":"slot5", "light":false, "security":"1824cad5ad22f3dd",
+            "name":"Baúl",
+            "roomName":"Old Romance",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":39, "roomId": 16, "slot":"slot5", "light":false, "security":"7c9d743df028955c",
+            "name":"Mesas auxiliares",
+            "roomName":"School Life Memories",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":45, "roomId": 17, "slot":"slot5", "light":false, "security":"ec74337a7b15624e",
+            "name":"Puf",
+            "roomName":"Cute Pink",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":51, "roomId": 18, "slot":"slot5", "light":false, "security":"d3aaa888c86c2c28",
+            "name":"Cestos",
+            "roomName":"Green & Wicker",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":57, "roomId": 19, "slot":"slot5", "light":false, "security":"9cebe9e386136ade",
+            "name":"Sillón",
+            "roomName":"Modern Touch",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":66, "roomId": 27, "slot":"slot5", "light":false, "security":"8a047a224ac256e0",
+            "name":"Sillón y mesa baja",
+            "roomName":"Energized",
+            "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo \n Energized"},
+            "backgroundColors": null
+        },
+        {
+            "id":72, "roomId": 28, "slot":"slot5", "light":false, "security":"0f817033085881e0",
+            "name":"Sillón",
+            "roomName":"Spiky Wit",
+            "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo \n Spiky Wit"},
+            "backgroundColors": null
+        },
+        {
+            "id":78, "roomId": 29, "slot":"slot5", "light":false, "security":"3c2bc032e7b6c375",
+            "name":"Mesa y silla",
+            "roomName":"Elven Call",
+            "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo \n Elven Call"},
+            "backgroundColors": null
+        },
+        {
+            "id":84, "roomId": 30, "slot":"slot5", "light":false, "security":"4dbfd1038a4d5064",
+            "name":"Gramófono",
+            "roomName":"Quiet Reading",
+            "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo \n Quiet Reading"},
+            "backgroundColors": null
+        },
+        {
+            "id":90, "roomId": 31, "slot":"slot5", "light":false, "security":"29b9cdde379dc574",
+            "name":"Hierba",
+            "roomName":"Fairycore",
+            "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"},
+            "backgroundColors": null
+        },
+        {
+            "id":154, "roomId": 42, "slot":"slot5", "light":false, "security":"5c2cb2dbbd097a01",
+            "name":"Mesa",
+            "roomName":"Cosy Bear",
+            "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":206, "roomId": 50, "slot":"slot5", "light":false, "security":"dae649e1e097c7d2",
+            "name":"Sillón",
+            "roomName":"Lady Regency",
+            "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"},
+            "backgroundColors": null
+        },
+        {
+            "id":212, "roomId": 51, "slot":"slot5", "light":false, "security":"89437cb697b7db26",
+            "name":"Vuelta de las compras",
+            "roomName":"Plastic Life",
+            "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"},
+            "backgroundColors": null
+        },
+        {
+            "id":218, "roomId": 52, "slot":"slot5", "light":false, "security":"fd5a29382b0f8714",
+            "name":"Globo terráqueo",
+            "roomName":"Foggy Mystery",
+            "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo \n Foggy Mystery"},
+            "backgroundColors": null
+        },
+        {
+            "id":224, "roomId": 53, "slot":"slot5", "light":false, "security":"0e96627836332946",
+            "name":"Flores",
+            "roomName":"Aren't We All a Bit Mad Here?",
+            "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"},
+            "backgroundColors": null
+        }
+    ]
+}

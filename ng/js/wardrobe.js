@@ -1,16 +1,20 @@
 $(document).ready(function() {
     $.get("./data/cloth.json", dbCloth => {
         $.get("./data/avatar.json", dbAvatar => {
-            $(".version").text("BETA v0.8.1");
-            cloth = dbCloth;
-            avatar = dbAvatar;
-            customTheme();
-            userSettings();
-            drawCategory();
-            fillCounter();
-            drawAvatarZone();
-            drawSucrette();
-            drawZIndex();
+            $.get("./data/room.json", dbRoom => {
+                $(".version").text("BETA v0.8.9");
+                cloth = dbCloth;
+                avatar = dbAvatar;
+                room = dbRoom;
+                customTheme();
+                userSettings();
+                drawCategory();
+                fillCounter();
+                drawAvatarZone();
+                drawSucrette();
+                drawZIndex();
+                drawRoom("load", false);
+            });
         });
     });
 });
@@ -29,34 +33,52 @@ function customTheme() {
     $("#sub-link-favorite-outfit-img").attr("src", `assets/personalization/icon/favorite-outfit-${p}.png`);
     $("#sub-link-z-index-img").attr("src", `assets/personalization/icon/z-index-${p}.png`);
     $("#sub-link-avatar-part-img").attr("src", `assets/personalization/icon/avatar-part-${p}.png`);
-    $("#sub-link-delete-img").attr("src", `assets/personalization/icon/delete-${p}.png`);
+    $(".sub-link-delete-img").attr("src", `assets/personalization/icon/delete-${p}.png`);
     
     $("#asng-z-index .front-icon img").attr("src", `assets/personalization/z-index/top-${p}.svg`);
     $("#asng-z-index .back-icon img").attr("src", `assets/personalization/z-index/back-${p}.svg`);
+
+    $(".room-category.background img").attr("src", `assets/personalization/categories/background-${p}.svg`)
+    
 };
 
 function userSettings() {
     if (hr == null) hr = "sd";
     if (cr == null) cr = "md";
-    if (rt == null) rt = "day";
+    if (rr == null) rr = "sd";
+    /* if (rt == null) */ rt = "day";
+    if (rf == null) rf = "disabled";
 
     window.localStorage.setItem("hanger_res", hr);
     window.localStorage.setItem("canvas_res", cr);
+    window.localStorage.setItem("room_res", rr);
     window.localStorage.setItem("room_time", rt);
+    window.localStorage.setItem("room_filters", rf);
 
     $(".option-picker .choice").removeClass("active");
     $(`#icon-${hr}`).addClass("active");
     $(`#canvas-${cr}`).addClass("active");
+    $(`#room-${rr}`).addClass("active");
 
     if (rt == "day") {
-        $(".asng-toggle-switch label").addClass("off");
-        $(".graphics .asng-toggle-switch .slider").addClass("off");
+        $(".asng-toggle-switch.alternate-time label").addClass("off");
+        $(".graphics .asng-toggle-switch.alternate-time .slider").addClass("off");
     } else {
-        $(".asng-toggle-switch label").removeClass("off");
-        $(".graphics .asng-toggle-switch .slider").removeClass("off");
+        $(".asng-toggle-switch.alternate-time label").removeClass("off");
+        $(".graphics .asng-toggle-switch.alternate-time .slider").removeClass("off");
     };
 
-    $(".asng-room-canvas.bg").css("background-image", `url(https://assets.corazondemelon-newgen.es/room-item/image/full/md/1-${rt}-12345678abcdef.jpg)`);
+    if (rf == "disabled") {
+        $(".asng-toggle-switch.alternate-filters label").addClass("off");
+        $(".graphics .asng-toggle-switch.alternate-filters .slider").addClass("off");
+    } else {
+        $(".asng-toggle-switch.alternate-filters label").removeClass("off");
+        $(".graphics .asng-toggle-switch.alternate-filters .slider").removeClass("off");
+    }
+
+    let bg = (sucrette.room.background).split("-");
+    drawRoom("load", false);
+    $(".asng-room-canvas.background").css("background-image", `url(https://assets.corazondemelon-newgen.es/room-item/image/full/${rr}/${bg[0]}-${rt}-${bg[1]}.jpg)`);
 }
 
 function drawCategory(c = "top", declination = null) {
@@ -81,13 +103,13 @@ function drawCategory(c = "top", declination = null) {
         $("asng-cloth-list-panel .empty").remove();
 
         if (declination == null) {
-            $(".items-container").html("");
+            $("#asng-avatar-item-list-panel .items-container").html("");
     
             // General grouped list
     
             for (i = 0; i < lista.length; i++) {
                 if (lista[i].variations.length > 1) {
-                    $(".items-container").append(`<div class="asng-cloth grouped" data-item="${lista[i].groupId}-${lista[i].variations[0].id}"></div>`);
+                    $("#asng-avatar-item-list-panel .items-container").append(`<div class="asng-cloth grouped" data-item="${lista[i].groupId}-${lista[i].variations[0].id}"></div>`);
                     $(".asng-cloth").eq(i)
                     .append('<img src="assets/personalization/hanger.png" class="hanger" />')
                     .append('<div class="group" tooltipplacement="bottom" tooltippanelclass="asng-dressing-item-tooltip"></div>');
@@ -97,7 +119,7 @@ function drawCategory(c = "top", declination = null) {
                 } else {
                     var dataI = `${lista[i].groupId}-${lista[i].variations[0].id}`;
 
-                    $(".items-container").append(`<div class="asng-cloth item" data-category="${lista[i].category}" data-item="${dataI}"></div>`);
+                    $("#asng-avatar-item-list-panel .items-container").append(`<div class="asng-cloth item" data-category="${lista[i].category}" data-item="${dataI}"></div>`);
                     $(".asng-cloth").eq(i)
                         .append('<img src="assets/personalization/hanger.png" class="hanger" />')
                         .append('<div class="item"><div class="item-outline"></div></div>');
@@ -138,7 +160,7 @@ function drawCategory(c = "top", declination = null) {
             };
         }
     } else {
-        $(".items-container").html("");
+        $("#asng-avatar-item-list-panel .items-container").html("");
         $("asng-cloth-list-panel").append('<div class="empty"><img class="taki" src="https://www.corazondemelon-newgen.es/assets/taki/box.png" /><p>No hay elementos en esta categoría.</p></div>');
         if ($('.category-list-item.current').attr('data-category') == "expression") {
             $('.empty p').text("Próximamente...");
@@ -769,6 +791,70 @@ function drawSavePopUp(w, h) {
     drawSucrette("hd", "load");
 };
 
+// ROOM FUNCTIONS!
+function drawRoomItems(c = "background") {
+    $("#asng-room-item-list-panel .items-container").html("");
+
+    for (b = 0; b < room[c].length; b++) {
+        let item = sucrette.room[c] != null ? (sucrette.room[c]).split("-")[1] : null;
+        $("#asng-room-item-list-panel .items-container").append(`<div class="asng-room-item"></div>`);
+        $(".asng-room-item").eq(b).append(`<div class="item ${c}"><div class="item-outline${room[c][b].security == item ? " equipped" : ""}"></div></div>`);
+        $(".asng-room-item .item").eq(b).append(`<div tooltipplacement="bottom"><img class="thumbnail" alt="${room[c][b].name}" src="${composeRoomUrl([c], room[c][b].id, room[c][b].security)}"></div>`);
+    };
+};
+
+function checkRoom(c, i) {
+    // Chequear item
+    if (sucrette.room[c] == i) {
+        if (c != "background") {
+            // Quitar
+            $(`.asng-room-canvas.${c}`).removeAttr("style");
+            $(`.asng-room-preview.${c}`).removeAttr("style");
+            sucrette.room[c] = null;
+            return false;
+        } else {
+            return true;
+        };
+        
+    } else {
+        // Reemplazar o añadir
+        sucrette.room[c] = i;
+        drawRoom(c, true);
+        return true;
+    };
+};
+
+function drawRoom(m = "load", p = true) {
+
+    let preview = ".asng-room-preview";
+    let full = ".asng-room-canvas";
+
+    if (m == "load") {
+        let bg = (sucrette.room.background).split("-");
+        $(`${full}.background`).css("background-image", `url(${composeRoomUrl("background", bg[0], bg[1], "full", rr)})`);
+        if (rf == "enabled") {
+            alert("Los filtros no están disponibles actualmente!");
+        };
+
+        if (p) $(`${preview}.background`).css("background-image", `url(${composeRoomUrl("background", bg[0], bg[1], "full", rr)})`);
+        
+        for (i = 1; i <= 5; i++) {
+            let c = "slot" + i;
+            if (sucrette.room[c] != null) {
+                let item = sucrette.room[c].split("-");
+                $(`${full}.${c}`).css("background-image", `url(${composeRoomUrl(c, item[0], item[1], "full", rr)})`);
+                if (p) $(`${preview}.${c}`).css("background-image", `url(${composeRoomUrl(c, item[0], item[1], "full", rr)})`);
+            };
+        };        
+
+    } else {
+        // Añadir / reemplazar
+        let item = sucrette.room[m].split("-");
+        $(`${full}.${m}`).css("background-image", `url(${composeRoomUrl(m, item[0], item[1], "full", rr)})`);
+        if(p) $(`${preview}.${m}`).css("background-image", `url(${composeRoomUrl(m, item[0], item[1], "full", rr)})`);
+    };
+};
+
 $(function () {
     $("#asng-menu-settings").click(function() {
         $(".asng-settings-panel").css("left", 0);
@@ -785,13 +871,20 @@ $(function () {
         let info = $(this).attr("id");
         if(info.split("-")[0] == "icon") hr = info.split("-")[1];
         if(info.split("-")[0] == "canvas") cr = info.split("-")[1];
+        if(info.split("-")[0] == "room") rr = info.split("-")[1];
         userSettings();
         if(info.split("-")[0] == "canvas") drawSucrette();
     });
 
-    $(".asng-toggle-switch > label").click(function() {
+    $(".asng-toggle-switch.alternate-time > label").click(function() {
         let clase = $(this).attr("class");
         clase == "off" ? rt = "night" : rt = "day";
+        userSettings();
+    });
+
+    $(".asng-toggle-switch.alternate-filters > label").click(function() {
+        let clase = $(this).attr("class");
+        clase == "off" ? rf = "enabled" : rf = "disabled";
         userSettings();
     });
 
@@ -910,11 +1003,21 @@ $(function () {
     // middle menu
 
     $(".shortcut.cloth").click(function() {
+        $(".asng-player-room").removeAttr("style");
+        $(".left-panel-container").removeClass("room-panel");
+        $(".asng-room-personalization").hide();
+        $(".asng-sucrette-personalization").show();
         $(".shortcut").removeClass("active");
         $(".sub-link").removeClass("active");
         $(this).addClass("active");
 
+        $(".sub-shortcuts").hide();
+        $(".sub-shortcuts.cloth").show();
+        $(".zoom").fadeIn(100);
+        $(".save").fadeIn(100);
+
         $("#asng-avatar-part-color-list-panel").hide();
+        $("#asng-room-item-list-panel").hide();
         $("#asng-avatar-item-list-panel").show();
         $(".avatar-personalization").show();
 
@@ -968,6 +1071,46 @@ $(function () {
         drawZIndex();
     });
 
+    $(".shortcut.room").click(function() {
+        $(".shortcut").removeClass("active");
+        $(this).addClass("active");
+        $(".sub-shortcuts").hide();
+        $(".sub-shortcuts.room").show();
+        $(".left-panel-container").addClass("room-panel");
+
+        $(".asng-sucrette-personalization").hide();
+        $(".asng-room-personalization").fadeIn(100);
+
+        $("#asng-avatar-item-list-panel").hide();
+        $("#asng-avatar-part-color-list-panel").hide();
+        $("#asng-z-index").hide();
+
+        $(".room-category").removeClass("active");
+        $(".room-category.background").addClass("active");
+        $("#asng-room-item-list-panel").show();
+        $(".asng-player-room").css("filter", "blur(100px)");
+
+        $(".zoom").hide();
+        $(".save").hide();
+        $("canvas").remove();
+
+        drawRoomItems();
+        drawRoom("load", true);
+        
+    });
+
+    $("#sub-link-delete-room").click(function() {
+        sucrette.room.slot1 = null;
+        sucrette.room.slot2 = null;
+        sucrette.room.slot3 = null;
+        sucrette.room.slot4 = null;
+        sucrette.room.slot5 = null;
+
+        $(".asng-room-canvas").not(".background").removeAttr("style");
+        $(".asng-room-preview").not(".background").removeAttr("style");
+        $(".asng-room-item .item").not(".background").find(".item-outline").removeClass("equipped");
+    });
+
     // avatar color menu
 
     $(".eye-color .color").click(function() {
@@ -1011,6 +1154,7 @@ $(function () {
             $(".avatar-personalization").fadeOut(100);
             $("#sub-link-z-index").removeClass("active");
             $("#asng-z-index").fadeOut(100);
+
         };
     });
 
@@ -1027,6 +1171,31 @@ $(function () {
         document.getElementById("save-canvas").getContext("2d").clearRect(0, 0, 1200, 1550);
         drawSucrette("hd", "load");
     });
+
+    // ROOM
+    $('.room-category').click(function() {
+        let c = ($(this).attr("class")).split(" ")[1];
+        $(".room-category").removeClass("active");
+        $(this).addClass("active");
+
+        drawRoomItems(c);
+    });
+    
+
+    $(".room-items").on("click", ".asng-room-item", function() {
+        let item = ($(this).find("img").attr("src"));
+        item = item.split("/");
+        item = (item[item.length-1]).split(".")[0];
+        let c = $(this).find(".item").attr("class").split(" ")[1];
+        
+        if (checkRoom(c, item)) {
+            $(".asng-room-item .item-outline").removeClass("equipped");
+            $(this).find(".item-outline").addClass("equipped");
+        } else {
+            $(".asng-room-item .item-outline").removeClass("equipped");
+        }
+    });
+    
 
 });
 
@@ -1138,6 +1307,23 @@ function composeAvatarUrl(c, s, d, mp = null) {
 
 }
 
+function composeRoomUrl(c, i, e, t = "thumbnail", s = "md", f = null) {
+    let url = `https://assets.corazondemelon-newgen.es/room-item/image/${t}/${s}/${i}-`;
+
+    if (t == "thumbnail") {
+        url += `${e}.jpg`;
+
+    } else if (t == "full") {
+        if (c == "background") {
+            (f == null) ? url += `${rt}-${e}.jpg` : url += `${f}-${e}.png`;
+
+        } else {
+            (f == null) ? url += `${e}.png` : url += `${f}-${e}.png`;
+        };
+    };
+    return url;
+}
+
 function fillCounter() {
     var sum = 0;
     for (i = 0; i < cloth.length; i++) {
@@ -1157,6 +1343,12 @@ function fillCounter() {
     }
 
     $(".shortcut.cloth p.counter").text(sum);
+
+    sum = (room.background.length + room.slot1.length + room.slot2.length + room.slot3.length + room.slot4.length + room.slot5.length);
+    $(".shortcut.room p.counter").text(sum);
+
+
+
 }
 
 window.onbeforeunload = function () {
@@ -1164,7 +1356,9 @@ window.onbeforeunload = function () {
 };
 
 // global variables
-var cloth = [], avatar = [];
+var cloth = [], avatar = [], room = [];
 let hr = window.localStorage.getItem("hanger_res");
 let cr = window.localStorage.getItem("canvas_res");
+let rr = window.localStorage.getItem("room_res");
 let rt = window.localStorage.getItem("room_time");
+let rf = window.localStorage.getItem("room_filters");

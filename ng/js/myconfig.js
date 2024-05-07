@@ -22,7 +22,15 @@ var sucrette = {
         {"category":"neckAccessory", "layer":null, "value":"32-d8cee995bcd500ea"},
         {"category":"jacket", "layer":null, "value":"42-bc96b1e4adedc947"},
         {"category":"bag", "layer":null, "value":"52-aff4468a19f20886"}
-    ]
+    ],
+    "room":{
+        "background":"1-12345678abcdef",
+        "slot1":"6-db2e30f7b3aee506",
+        "slot2":"5-4bb83595a6a16409",
+        "slot3":"4-6f4f67f0b4c78f19",
+        "slot4":null,
+        "slot5":null
+    }
 }
 
 const zone = {

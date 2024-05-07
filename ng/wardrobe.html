@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=1200, initial-scale=1.0">
     <meta name="mobile-web-app-capable" content="yes">
+    <meta property="og:image" content="assets/meta/image.png" />
+    <meta property="og:description" content="Vestidor online y gratuito basado en Corazón de Melón. Hecho por y para fans." />
+
     <link rel="icon" href="../assets/favicon-w.png" type="image/png">
     <script src="https://kit.fontawesome.com/24760464c6.js" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -17,9 +20,12 @@
         <div class="site-container">
             <div class="asng-player-room">
                 <div class="asng-room">
-                    <!-- <div class="asng-room-canvas"></div> -->
-                    <div class="asng-room-canvas bg"></div>
-                    
+                    <div class="asng-room-canvas background"></div>
+                    <div class="asng-room-canvas slot1"></div>
+                    <div class="asng-room-canvas slot2"></div>
+                    <div class="asng-room-canvas slot3"></div>
+                    <div class="asng-room-canvas slot4"></div>
+                    <div class="asng-room-canvas slot5"></div>
                 </div>
             </div>
             <div class="asng-menu">
@@ -131,24 +137,41 @@
                                         </div>
                                     </div>
                                     <div class="option">
-                                        <span>Canvas</span>
+                                        <span>Avatar</span>
                                         <div class="option-picker">
                                             <div id="canvas-sd" class="choice small"> SD </div>
                                             <div id="canvas-md" class="choice small"> MD </div>
                                             <div id="canvas-hd" class="choice small"> HD </div>
                                         </div>
                                     </div>
+                                    <div class="option">
+                                        <span>Fondos</span>
+                                        <div class="option-picker">
+                                            <div id="room-sd" class="choice small"> SD </div>
+                                            <div id="room-md" class="choice small"> MD </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
 
-                            <div class="room">
+                            <div class="room" style="display: none;">
                                 <h4>Habitación</h4>
-                                <div class="option">
-                                    <span>Alternar día/noche</span>
-                                    <div class="asng-toggle-switch">
-                                        <label class="">
-                                            <div class="slider initialized"></div>
-                                        </label>
+                                <div class="room-options">
+                                    <div class="option">
+                                        <span>Alternar día/noche</span>
+                                        <div class="asng-toggle-switch alternate-time">
+                                            <label class="">
+                                                <div class="slider initialized"></div>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="option">
+                                        <span>Desactivar/Activar filtros <i title="Puede ralentizar la página" class="fa-solid fa-triangle-exclamation"></i></span>
+                                        <div class="asng-toggle-switch alternate-filters">
+                                            <label class="">
+                                                <div class="slider initialized"></div>
+                                            </label>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -301,6 +324,28 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div id="asng-room-item-list-panel">
+                                        <section class="room-items">
+                                            <div class="ng-scrollbar asng-white-scrollbar">
+                                                <div class="ng-scrollbar-wrapper">
+                                                    <div class="ng-scroll-viewport-wrapper">
+                                                        <div class="ng-native-scrollbar-hider ng-scroll-viewport " style="--native-scrollbar-size: -0px;">
+                                                            <div class="ng-scroll-content">
+                                                                <section class="items-container">
+                                                                    <!-- lista de room items -->
+                                                                </section>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <scrollbar-y class="scrollbar-control">
+                                                        <div class="ng-scrollbar-track">
+                                                            <div class="ng-scrollbar-thumb" style="height: 583px; transform: translate3d(0px, 10px, 0px);"></div>
+                                                        </div>
+                                                    </scrollbar-y>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
                                 </div>
                             </div>
                             <div class="center-container">
@@ -313,7 +358,7 @@
                                                 <div class="icon"></div>
                                             </div>
                                         </div>
-                                        <div class="sub-shortcuts">
+                                        <div class="sub-shortcuts cloth">
                                             <div id="sub-link-favorite-outfit" class="sub-link disabled" asngtooltip="Conjuntos favoritos">
                                                 <img id="sub-link-favorite-outfit-img" src="">
                                             </div>
@@ -324,16 +369,24 @@
                                                 <img id="sub-link-avatar-part-img" src="">
                                             </div>
                                             <div id="sub-link-delete" class="sub-link" asngtooltip="Quitar todo">
-                                                <img id="sub-link-delete-img" src="">
+                                                <img class="sub-link-delete-img" src="">
                                             </div>
                                         </div>
-                                        <div class="shortcut room disabled">
+
+                                        <div class="shortcut room">
                                             <p class="counter">...</p>
                                             <div class="link">
                                                 <p class="counter">...</p>
                                                 <div class="icon"></div>
                                             </div>
                                         </div>
+                                        <div class="sub-shortcuts room">
+                                            <div id="sub-link-delete-room" class="sub-link" asngtooltip="Quitar todo">
+                                                <img class="sub-link-delete-img" src="">
+                                            </div>
+                                        </div>
+
+
                                         <div class="shortcut pet disabled">
                                             <p class="counter">...</p>
                                             <div class="link">
@@ -373,14 +426,31 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="asng-room-personalization">
+                                    <div id="room-image">
+
+                                        <div id="asgn-room-preview-items">
+                                            <div class="asng-room-preview background"></div>
+                                            <div class="asng-room-preview slot1"></div>
+                                            <div class="asng-room-preview slot2"></div>
+                                            <div class="asng-room-preview slot3"></div>
+                                            <div class="asng-room-preview slot4"></div>
+                                            <div class="asng-room-preview slot5"></div>
+                                        </div>
+
+                                        <div class="room-category slot1"> 1 </div>
+                                        <div class="room-category slot2"> 2 </div>
+                                        <div class="room-category slot3"> 3 </div>
+                                        <div class="room-category slot4"> 4 </div>
+                                        <div class="room-category slot5"> 5 </div>
+                                        <div class="room-category background active">
+                                            <img />
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-
-
-
                             <button tooltipplacement="left" class="zoom"></button>
                             <button asngtooltip="Guardar" tooltipplacement="left" class="save"></button>
-
-
                         </section>
 
                         <div id="asng-z-index">
