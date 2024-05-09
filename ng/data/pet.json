@@ -1,0 +1,66 @@
+[
+    {
+        "id":1, "security":"4a89eb83fc720162", "name":"Energized",
+        "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo \n Energized"}
+    },
+    {
+        "id":2, "security":"2f24112b3b80b9c3", "name":"Worky Worky",
+        "criteria":{"type":"episode", "info":"01", "text":"Desbloqueado en el episodio 01"}
+    },
+    {
+        "id":3, "security":"72cf5f2a0a3fefa6", "name":"Hippie Love",
+        "criteria":null
+    },
+    {
+        "id":4, "security":"a9c87ff8f9e91bf8", "name":"Coffee Helper",
+        "criteria":null
+    },
+    {
+        "id":5, "security":"fa6409d630667f4c", "name":"Marshmallow Fluff",
+        "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo \n Marshmallow Fluff"}
+    },
+    {
+        "id":6, "security":"4f1763bfac0310b0", "name":"Spiky Wit",
+        "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo \n Spiky Wit"}
+    },
+    {
+        "id":7, "security":"0cbe9bc2d2a31e6b", "name":"Elven Call",
+        "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo \n Elven Call"}
+    },
+    {
+        "id":8, "security":"53cdb018f224fc1b", "name":"Quiet Reading",
+        "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo \n Quiet Reading"}
+    },
+    {
+        "id":9, "security":"095a85859e1cba7e", "name":"Fairycore",
+        "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"}
+    },
+    {
+        "id":10, "security":"1cb89aed1e331dd3", "name":"Pizza Delivery Goose",
+        "criteria":{"type":"episode", "info":"02", "text":"Desbloqueado en el episodio 02"}
+    },
+    {
+        "id":11, "security":"24a24f8194dfe1c6", "name":"Pwetty Flawer",
+        "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
+    },
+    {
+        "id":18, "security":"4e23470e302228a9", "name":"Lady Regency",
+        "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"}
+    },
+    {
+        "id":19, "security":"39881ea8bf10e6be", "name":"Plastic Life",
+        "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
+    },
+    {
+        "id":20, "security":"cbf8946ff8b4824c", "name":"Foggy Mystery",
+        "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo \n Foggy Mystery"}
+    },
+    {
+        "id":21, "security":"11d979f6cf9ac456", "name":"Aren't We All a Bit Mad Here?",
+        "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"}
+    },
+    {
+        "id":22, "security":"fdeffffbe5d1526a", "name":"Toot Tooooot!",
+        "criteria":null
+    }
+]
