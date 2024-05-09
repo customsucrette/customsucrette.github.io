@@ -2,18 +2,21 @@ $(document).ready(function() {
     $.get("./data/cloth.json", dbCloth => {
         $.get("./data/avatar.json", dbAvatar => {
             $.get("./data/room.json", dbRoom => {
-                $(".version").text("BETA v0.8.9");
-                cloth = dbCloth;
-                avatar = dbAvatar;
-                room = dbRoom;
-                customTheme();
-                userSettings();
-                drawCategory();
-                fillCounter();
-                drawAvatarZone();
-                drawSucrette();
-                drawZIndex();
-                drawRoom("load", false);
+                $.get("./data/pet.json", dbPet => {
+                    $(".version").text("BETA v0.9.3");
+                    cloth = dbCloth;
+                    avatar = dbAvatar;
+                    room = dbRoom;
+                    pet = dbPet;
+                    customTheme();
+                    userSettings();
+                    drawCategory();
+                    fillCounter();
+                    drawAvatarZone();
+                    drawSucrette();
+                    drawZIndex();
+                    drawRoom("load", false);
+                });
             });
         });
     });
@@ -77,7 +80,10 @@ function userSettings() {
     }
 
     let bg = (sucrette.room.background).split("-");
+    
     drawRoom("load", false);
+    $("#pet-base").attr("src", composePetUrl("full", null, null));
+    if (sucrette.pet.outfit != null) $("#pet-outfit").attr("src", composePetUrl("full", (sucrette.pet.outfit).split("-")[0], (sucrette.pet.outfit).split("-")[1]));
     $(".asng-room-canvas.background").css("background-image", `url(https://assets.corazondemelon-newgen.es/room-item/image/full/${rr}/${bg[0]}-${rt}-${bg[1]}.jpg)`);
 }
 
@@ -253,7 +259,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
     
 
     if (mode == "load" || mode == "update_avatar" || mode == "basics") {
-        if (mode != "update_avatar") $("canvas").not("#save-canvas").remove();
+        if (mode != "update_avatar") $("canvas").not("#save-canvas").not("#pet").remove();
 
         for (m = 0; m < sucrette.orderInfo.length; m++) {
             if (sucrette.orderInfo[m].category == "avatar") {
@@ -855,6 +861,40 @@ function drawRoom(m = "load", p = true) {
     };
 };
 
+// PET 
+function drawPetItems() {
+    $(".pet-outfits .items-container").html("");
+    let p = sucrette.pet.status ? " off" : " on";
+    $(".pet-outfits .items-container").append(`<div class="pet-option visibility${p}"></div>`);
+
+    for (i = 0; i < pet.length; i++) {
+        $(".pet-outfits .items-container").append('<div class="asng-pet-outfit-item"><div class="item"></div></div>');
+        let e = (sucrette.pet.outfit != null && sucrette.pet.outfit == `${pet[i].id}-${pet[i].security}`) ? " equipped" : "";
+        $(".asng-pet-outfit-item .item").eq(i).append(`<div class="item-outline${e}"></div><div tooltipplacement="bottom"><img class="thumbnail" /></div>`);
+        $(".pet-outfits .thumbnail").eq(i).attr("alt", `${pet[i].name}`).attr("src", composePetUrl("hanger", pet[i].id, pet[i].security));
+    };
+};
+
+function checkPet(c) {
+    if (c != sucrette.pet.outfit) {
+        // Reemplazar
+        sucrette.pet.outfit = c;
+        c = c.split("-");
+        $("#pet-outfit").show();
+        $("#pet-outfit").attr("src", composePetUrl("full", c[0], c[1]));
+        return true;
+
+    } else {
+        // Quitar
+        sucrette.pet.outfit = null;
+        $("#pet-outfit").hide();
+        $("#pet-outfit").removeAttr("src");
+        return false;
+
+    };
+};
+
+
 $(function () {
     $("#asng-menu-settings").click(function() {
         $(".asng-settings-panel").css("left", 0);
@@ -1018,6 +1058,7 @@ $(function () {
 
         $("#asng-avatar-part-color-list-panel").hide();
         $("#asng-room-item-list-panel").hide();
+        $("#asng-pet-outfit-list-panel").hide();
         $("#asng-avatar-item-list-panel").show();
         $(".avatar-personalization").show();
 
@@ -1092,7 +1133,6 @@ $(function () {
 
         $(".zoom").hide();
         $(".save").hide();
-        $("canvas").remove();
 
         drawRoomItems();
         drawRoom("load", true);
@@ -1111,8 +1151,29 @@ $(function () {
         $(".asng-room-item .item").not(".background").find(".item-outline").removeClass("equipped");
     });
 
-    // avatar color menu
+    $(".shortcut.pet").click(function() {
+        $(".shortcut").removeClass("active");
+        $(this).addClass("active");
+        $(".sub-shortcuts").hide();
+        $(".sub-shortcuts.room").hide();
+        $(".asng-player-room").removeAttr("style");
+        $(".asng-sucrette-personalization").show();
+        $(".left-panel-container").removeClass("room-panel");
 
+        $(".asng-room-personalization").hide();
+        $(".avatar-personalization").hide();
+        $("#asng-z-index").fadeOut(100);
+
+        $("#asng-avatar-item-list-panel").hide();
+        $("#asng-avatar-part-color-list-panel").hide();
+        $("#asng-room-item-list-panel").hide();
+        $("#asng-pet-outfit-list-panel").show();
+        
+        drawPetItems();
+    });
+
+
+    // avatar color menu
     $(".eye-color .color").click(function() {
         sucrette.avatar.eyesColor = $(this).data("color");
         $(".eye-color .color").removeClass("equipped");
@@ -1195,8 +1256,35 @@ $(function () {
             $(".asng-room-item .item-outline").removeClass("equipped");
         }
     });
-    
 
+    $(".items-container").on("click", ".pet-option.visibility", function() {
+        var s = $(this).attr("class").split(" ")[2];
+        if (s == "on") {
+            // Activar
+            sucrette.pet.status = true;
+            $(this).removeClass("on").addClass("off");
+            $("#asng-pet").show();
+
+        } else {
+            // Desactivar
+            sucrette.pet.status = false;
+            $(this).removeClass("off").addClass("on");
+            $("#asng-pet").hide();
+
+        };
+    });
+    
+    $(".items-container").on("click", ".asng-pet-outfit-item", function() {
+        let s = ($(this).find("img.thumbnail").attr("src")).split("/");
+        s = s[s.length - 1].split(".")[0];
+
+        $(".asng-pet-outfit-item .item-outline").removeClass("equipped");
+        
+        if (checkPet(s)) {
+            $(this).find(".item-outline").addClass("equipped");
+        };
+
+    });
 });
 
 function getCategoryName(arg) {
@@ -1324,6 +1412,14 @@ function composeRoomUrl(c, i, e, t = "thumbnail", s = "md", f = null) {
     return url;
 }
 
+function composePetUrl(t, i, e) {
+    if (i != null && e != null) {
+        return `https://assets.corazondemelon-newgen.es/pet-outfit/${t}/${cr}/${i}-${e}.png`;
+    } else {
+        return `https://assets.corazondemelon-newgen.es/pet-outfit/${t}/${cr}/base.png`;
+    }
+}
+
 function fillCounter() {
     var sum = 0;
     for (i = 0; i < cloth.length; i++) {
@@ -1347,8 +1443,8 @@ function fillCounter() {
     sum = (room.background.length + room.slot1.length + room.slot2.length + room.slot3.length + room.slot4.length + room.slot5.length);
     $(".shortcut.room p.counter").text(sum);
 
-
-
+    sum = pet.length;
+    $(".shortcut.pet p.counter").text(sum);
 }
 
 window.onbeforeunload = function () {
@@ -1356,7 +1452,7 @@ window.onbeforeunload = function () {
 };
 
 // global variables
-var cloth = [], avatar = [], room = [];
+var cloth = [], avatar = [], room = [], pet = [];
 let hr = window.localStorage.getItem("hanger_res");
 let cr = window.localStorage.getItem("canvas_res");
 let rr = window.localStorage.getItem("room_res");

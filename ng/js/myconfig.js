@@ -30,6 +30,10 @@ var sucrette = {
         "slot3":"4-6f4f67f0b4c78f19",
         "slot4":null,
         "slot5":null
+    },
+    "pet":{
+        "status":true,
+        "outfit":null
     }
 }
 

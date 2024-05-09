@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=1200, initial-scale=1.0">
+    <meta name="viewport" content="width=1200">
     <meta name="mobile-web-app-capable" content="yes">
     <meta property="og:image" content="assets/meta/image.png" />
     <meta property="og:description" content="Vestidor online y gratuito basado en Corazón de Melón. Hecho por y para fans." />
@@ -137,7 +137,7 @@
                                         </div>
                                     </div>
                                     <div class="option">
-                                        <span>Avatar</span>
+                                        <span>Avatar/Taki</span>
                                         <div class="option-picker">
                                             <div id="canvas-sd" class="choice small"> SD </div>
                                             <div id="canvas-md" class="choice small"> MD </div>
@@ -186,6 +186,7 @@
                         <section class="content">
                             <div class="left-panel-container">
                                 <div class="panel-content">
+
                                     <div id="asng-avatar-item-list-panel">
                                         <section>
                                             <asng-category-list>
@@ -346,6 +347,29 @@
                                             </div>
                                         </section>
                                     </div>
+                                    <div id="asng-pet-outfit-list-panel">
+                                        <section class="pet-outfits">
+                                            <div class="ng-scrollbar asng-white-scrollbar">
+                                                <div class="ng-scrollbar-wrapper">
+                                                    <div class="ng-scroll-viewport-wrapper">
+                                                        <div class="ng-native-scrollbar-hider ng-scroll-viewport " style="--native-scrollbar-size: -0px;">
+                                                            <div class="ng-scroll-content">
+                                                                <section class="items-container">
+                                                                    <!-- lista de pet items -->
+                                                                </section>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <scrollbar-y class="scrollbar-control">
+                                                        <div class="ng-scrollbar-track">
+                                                            <div class="ng-scrollbar-thumb" style="height: 583px; transform: translate3d(0px, 10px, 0px);"></div>
+                                                        </div>
+                                                    </scrollbar-y>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+
                                 </div>
                             </div>
                             <div class="center-container">
@@ -386,8 +410,7 @@
                                             </div>
                                         </div>
 
-
-                                        <div class="shortcut pet disabled">
+                                        <div class="shortcut pet">
                                             <p class="counter">...</p>
                                             <div class="link">
                                                 <p class="counter">...</p>
@@ -402,6 +425,10 @@
                                 <div class="asng-sucrette-personalization">
                                     <div class="asng-fitting-avatar">
                                         <div id="asng-avatar" resolution="hd" format="full"></div>
+                                        <div id="asng-pet">
+                                            <img id="pet-base" src="https://assets.corazondemelon-newgen.es/pet-outfit/full/md/base.png" />
+                                            <img id="pet-outfit" />
+                                        </div>
                                     </div>
                                     <div class="avatar-personalization">
                                         <div class="zone disable-blur"></div>
