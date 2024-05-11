@@ -1089,6 +1089,18 @@ asng-cloth-list-panel .empty p {
     padding-right: 20px;
 }
 
+.asng-cloth .locked, .asng-room-item .locked, .asng-pet-outfit-item .locked {
+    position: absolute;
+    bottom: -13px;
+    left: -12px;
+    -webkit-user-select: none;
+    user-select: none;
+    background-color: #38c1b4;
+    border-radius: 100%;
+    width: 32px;
+    height: 32px;
+}
+
 .clothes .asng-cloth {
     transition: all .2s;
     position: relative;
@@ -1157,6 +1169,105 @@ asng-cloth-list-panel .empty p {
     pointer-events: none;
 }
 
+#expressions-menu {
+    position: relative;
+    display: flex;
+}
+
+#expressions-menu .show-presets, #expressions-menu .show-custom {
+    width: 50%;
+    display: flex;
+    float: left;
+    user-select: none;
+}
+
+#expressions-menu .show-presets h2, #expressions-menu .show-custom h2 {
+    cursor: pointer;
+}
+
+
+
+#expressions-menu .active {
+    color: var(--asng-personality-color-dark);
+    pointer-events: none;
+}
+
+.expression-content {
+    float: left;
+    position: relative;
+    display: flex;
+    margin: 0 0 20px;
+}
+
+#expressions-container .expression-category {
+    width: 60px;
+    height: 60px;
+    background: #fff;
+    float: left;
+    border-radius: 100%;
+    align-content: center;
+    align-self: center;
+    display: flex;
+    position: relative;
+    margin-right: 15px;
+}
+
+#expressions-container ul {
+    width: 80%;
+    float: right;
+}
+
+#expressions-container .expression-category::before {
+    content: '';
+    float: left;
+    background-color: var(--asng-personality-color-dark);
+    
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    mask-position: center;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: block;
+}
+
+#expressions-container .expression-category.eyebrow::before {
+    mask-image: url(../assets/personalization/categories/eyebrows.svg);
+}
+
+#expressions-container .expression-category.eye::before {
+    mask-image: url(../assets/personalization/categories/eyes.svg);
+}
+
+#expressions-container .expression-category.mouth::before {
+    mask-image: url(../assets/personalization/categories/mouth.svg);
+}
+
+.items-container .expression {
+    position: relative;
+    border-radius: 100%;
+    background: linear-gradient(180deg, var(--asng-personality-color-dark), var(--asng-personality-color));
+    transition: opacity .2s;
+    height: 50px;
+    width: 50px;
+    font-size: 24px;
+    margin: 10px;
+    color: #fff;
+    display: inline-grid;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    font-weight: 700;
+}
+
+.items-container .expression.active {
+    background: #fff;
+    color: var(--asng-personality-color-dark);
+    pointer-events: none;
+    border: 3px solid var(--asng-personality-color-dark);
+}
+
 .group-button {
     position: absolute;
     z-index: 2;
@@ -1166,6 +1277,7 @@ asng-cloth-list-panel .empty p {
     height: 32px;
     cursor: pointer;
     display: inline-block;
+    display: none;
 }
 
 .group-button:before {
@@ -1283,7 +1395,7 @@ asng-cloth-list-panel .empty p {
 .declinations-panel .close {
     position: relative;
     vertical-align: top;
-    margin: 20px 10px 0;
+    margin: 20px 19px 0;
     cursor: pointer;
     transition: transform .2s;
 }
@@ -1399,6 +1511,11 @@ asng-cloth-list-panel .empty p {
     height: 110px;
 }
 
+.room-items .items-container, .pet-outfits .items-container {
+    padding-left: 5px;
+}
+
+
 /* PET MENU */
 #asng-pet-outfit-list-panel {
     display: none;
@@ -1477,14 +1594,6 @@ asng-cloth-list-panel .empty p {
     -webkit-user-select: none;
     user-select: none;
 }
-
-
- /* AAAAAAAAAAAAAAAAAAAAAAAAA */
-
-
-
-
-
 
 /* CONTENEDOR CENTRAL */ 
 
@@ -2048,10 +2157,6 @@ canvas {
     display: none;
 }
 
-
-
-
-
 /* Z-INDEX */
 #asng-z-index {
     display: none;
@@ -2286,6 +2391,13 @@ body.personality-fiery #asng-z-index .item .remove {
     right: 90px;
 }
 
+#canvas-container .button.portrait, #canvas-container .button.fullbody {
+    right: 190px;
+}
+
+#canvas-container .button.fullbody {
+    display: none;
+}
 
 /* ROOM */
 /* EDITOR */

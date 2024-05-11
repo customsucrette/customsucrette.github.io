@@ -3,7 +3,7 @@ $(document).ready(function() {
         $.get("./data/avatar.json", dbAvatar => {
             $.get("./data/room.json", dbRoom => {
                 $.get("./data/pet.json", dbPet => {
-                    $(".version").text("BETA v0.9.3");
+                    $(".version").text("BETA v0.9.8");
                     cloth = dbCloth;
                     avatar = dbAvatar;
                     room = dbRoom;
@@ -98,11 +98,7 @@ function drawCategory(c = "top", declination = null) {
     if (c == "eyebrows" || c == "eyes" || c == "mouth") {
         lista = avatar.collections[c].filter(v => {return v.category == c});
         type = c;
-
-    } else if (c == "expressions") {
-        // pendiente
-    }
-
+    };
 
     if (lista.length > 0) {
 
@@ -122,17 +118,46 @@ function drawCategory(c = "top", declination = null) {
                     $(".asng-cloth").eq(i).find('div')
                     .append(`<img class="thumbnail" alt="${lista[i].name}" src="${composeHangerUrl(lista[i].variations[0].id, lista[i].security, type)}">`)
                     .append(`<div class="counter">${lista[i].variations.length}</div>`);
+
+                    if (lista[i].criteria != null) {
+                        let icon = "";
+                        switch(lista[i].criteria.type) {
+                            case "episode": icon = "episodes";break;
+                            case "jobTask": icon = "jobTasks";break;
+                            case "pack": icon = "bankPacks";break;
+                            case "calendar": icon = "calendar";break;
+                        }
+                        $(".asng-cloth").eq(i).find('div').not(".counter").append(`<img class="locked" title="${lista[i].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
+                    };
+                    
                 } else {
                     var dataI = `${lista[i].groupId}-${lista[i].variations[0].id}`;
 
                     $("#asng-avatar-item-list-panel .items-container").append(`<div class="asng-cloth item" data-category="${lista[i].category}" data-item="${dataI}"></div>`);
+
+                    // Comprobar si está equipado
+                    let A = `${lista[i].variations[0].id}-${lista[i].security}`;
+                    let E = sucrette.orderInfo.filter(v => {return v.value == A});
+                    (E.length > 0) ? E = " equipped" : (sucrette.avatar[c] == A) ? E = " equipped" : E = "";
+
                     $(".asng-cloth").eq(i)
                         .append('<img src="assets/personalization/hanger.png" class="hanger" />')
-                        .append('<div class="item"><div class="item-outline"></div></div>');
+                        .append(`<div class="item"><div class="item-outline${E}"></div></div>`);
                     $(`.asng-cloth[data-item="${dataI}"] .item`)
                         .append('<div tooltipplacement="bottom" tooltippanelclass="asng-dressing-item-tooltip"></div>');
                     $(`.asng-cloth[data-item="${dataI}"] div`).not(".item").not('.item-outline')
                     .append(`<img class="thumbnail" alt="${lista[i].name}" src="${composeHangerUrl(lista[i].variations[0].id, lista[i].security, type)}">`);
+
+                    if (lista[i].criteria != null) {
+                        let icon = "";
+                        switch(lista[i].criteria.type) {
+                            case "episode": icon = "episodes";break;
+                            case "jobTask": icon = "jobTasks";break;
+                            case "pack": icon = "bankPacks";break;
+                            case "calendar": icon = "calendar";break;
+                        }
+                        $(".asng-cloth").eq(i).find('div').not(".item").not(".item-outline").append(`<img class="locked" title="${lista[i].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
+                    };
         
                 };
             };
@@ -149,28 +174,39 @@ function drawCategory(c = "top", declination = null) {
                 // pendiente
             }
 
-    
             let filas = Math.ceil((d[0].variations.length + 1) / 3); // Filas totales
             $(".declinations-list-container").attr("style", `height: calc(140px * ${filas})`);
     
             for (x = 0; x < d[0].variations.length; x++) {
                 $('.declinations-panel').append(`<div class="asng-cloth item" data-category="${c}" data-item="${d[0].groupId}-${d[0].variations[x].id}"></div>`);
+
+                // Comprobar si está equipado
+                let A = `${d[0].variations[x].id}-${d[0].security}`;
+                let E = sucrette.orderInfo.filter(v => {return v.value == A});
+                (E.length > 0) ? E = " equipped" : (sucrette.avatar[c] == A) ? E = " equipped" : E = "";
+
                 $(".declinations-panel .asng-cloth").eq(x)
                     .append('<img src="assets/personalization/hanger.png" class="hanger" />')
-                    .append('<div class="item"><div class="item-outline"></div></div>');
+                    .append(`<div class="item"><div class="item-outline${E}"></div></div>`);
                 $('.declinations-panel .asng-cloth .item').eq(x)
                     .append('<div tooltipplacement="bottom" tooltippanelclass="asng-dressing-item-tooltip"></div>');
                 $('.declinations-panel .asng-cloth .item').eq(x).find('div').not('.item-outline')
                     .append(`<img class="thumbnail" alt="${d[0].name}" src="${composeHangerUrl(d[0].variations[x].id, d[0].security, type)}">`);
-                    
             };
         }
-    } else {
+    
+    } else if (c == "expression") {
+        $("#asng-avatar-item-list-panel .items-container").html("");
+        $("#asng-avatar-item-list-panel .items-container").append('<div id="expressions-menu"></div>');
+        $("#expressions-menu")
+            .append('<div class="show-presets"><h2>Predefinidas</h2></div>')
+            .append('<div class="show-custom"><h2>Custom</h2></div>');
+        $("#asng-avatar-item-list-panel .items-container").append('<div id="expressions-container"></div>');
+        drawExpressions("preset");
+
+    }else {
         $("#asng-avatar-item-list-panel .items-container").html("");
         $("asng-cloth-list-panel").append('<div class="empty"><img class="taki" src="https://www.corazondemelon-newgen.es/assets/taki/box.png" /><p>No hay elementos en esta categoría.</p></div>');
-        if ($('.category-list-item.current').attr('data-category') == "expression") {
-            $('.empty p').text("Próximamente...");
-        }
     };
 };
 
@@ -192,6 +228,43 @@ function removeDeclinationPanel() {
     $(".asng-cloth").removeClass("selected").removeClass("not-selected");
     $(".declinations-list-container").remove();
 }
+
+function drawExpressions(e) {
+    $("#expressions-container").html("");
+    
+    if (e == "preset") {
+        $(".show-custom").removeClass("active");
+        $(".show-presets").addClass("active");
+
+        $("#expressions-container").append(`<ul style="width: 100%;"></ul>`);
+        for (i = 0; i < avatar.expressionsPresets.length; i++) {
+            $("#expressions-container ul").append(`<li class="expression preset" data-index="${i}">${i + 1}</li>`);
+            if (sucrette.avatar.expressionPreset == i) $(".expression.preset").eq(i).addClass("active");
+        };
+
+    } else if (e == "custom") {
+        $(".show-presets").removeClass("active");
+        $(".show-custom").addClass("active");
+
+        $("#expressions-container").append(`<div class="expression-content"><div class="expression-category eyebrow"></div><ul></ul></div>`);
+        for (i = 0; i < avatar.expressions.eyebrow.length; i++) {
+            $(".expression-content ul").eq(0).append(`<li class="expression eyebrow" data-index="${i}">${i + 1}</li>`);
+            if (sucrette.avatar.expression.eyebrow == avatar.expressions.eyebrow[i]) $(".expression.eyebrow").eq(i).addClass("active");
+        };
+
+        $("#expressions-container").append(`<div class="expression-content"><div class="expression-category eye"></div><ul></ul></div>`);
+        for (i = 0; i < avatar.expressions.eye.length; i++) {
+            $(".expression-content ul").eq(1).append(`<li class="expression eye" data-index="${i}">${i + 1}</li>`);
+            if (sucrette.avatar.expression.eye == avatar.expressions.eye[i]) $(".expression.eye").eq(i).addClass("active");
+        };
+
+        $("#expressions-container").append(`<div class="expression-content"><div class="expression-category mouth"></div><ul></ul></div>`);
+        for (i = 0; i < avatar.expressions.mouth.length; i++) {
+            $(".expression-content ul").eq(2).append(`<li class="expression mouth" data-index="${i}">${i + 1}</li>`)
+            if (sucrette.avatar.expression.mouth == avatar.expressions.mouth[i]) $(".expression.mouth").eq(i).addClass("active");
+        };
+    };
+};
 
 function toggleCategoryMenu(status) {
     status.includes("open") ? $(".list").removeClass("open").addClass("closed") : $(".list").removeClass("closed").addClass("open");
@@ -256,7 +329,6 @@ function preloadIMG(src) {
 
 async function drawSucrette(size = cr, mode = "load", rd = null) {
     // 1200 x 1550
-    
 
     if (mode == "load" || mode == "update_avatar" || mode == "basics") {
         if (mode != "update_avatar") $("canvas").not("#save-canvas").not("#pet").remove();
@@ -270,42 +342,47 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
                 var ctx = $("#save-canvas").length == 0 ? document.getElementById("avatar-base").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
                 if (mode == "update_avatar" || mode == "basics") ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 
+                let w = 1200, h = 1550;
+                if ( $("#save-canvas").length == 1 && $("#save-canvas").attr("width") == 1920 ) {
+                    w = 1920; h = 1080;
+                };
+
                 var img = composeAvatarUrl("skin", size, (sucrette.avatar.customSkin == null)? sucrette.avatar.skin : sucrette.avatar.customSkin);
                 var ready = await preloadIMG(img);
-                ctx.drawImage(ready, 0, 0, 1200, 1550);
+                ctx.drawImage(ready, 0, 0, w, h);
 
                 img = composeAvatarUrl("eyes_skin", size, sucrette.avatar.eyes);
                 ready = await preloadIMG(img);
-                ctx.drawImage(ready, 0, 0, 1200, 1550);
+                ctx.drawImage(ready, 0, 0, w, h);
 
                 img = composeAvatarUrl("eyes", size, sucrette.avatar.eyes);
                 ready = await preloadIMG(img);
-                ctx.drawImage(ready, 0, 0, 1200, 1550);
+                ctx.drawImage(ready, 0, 0, w, h);
 
                 img = composeAvatarUrl("eyebrows_skin", size, sucrette.avatar.eyebrows);
                 ready = await preloadIMG(img);
-                ctx.drawImage(ready, 0, 0, 1200, 1550);
+                ctx.drawImage(ready, 0, 0, w, h);
 
                 img = composeAvatarUrl("eyebrows", size, sucrette.avatar.eyebrows);
                 ready = await preloadIMG(img);
-                ctx.drawImage(ready, 0, 0, 1200, 1550);
+                ctx.drawImage(ready, 0, 0, w, h);
 
                 img = composeAvatarUrl("mouth", size, sucrette.avatar.mouth);
                 ready = await preloadIMG(img);
-                ctx.drawImage(ready, 0, 0, 1200, 1550);
+                ctx.drawImage(ready, 0, 0, w, h);
 
                 if (mode == "basics") {
                     // Ropa interior
                     let x = sucrette.orderInfo.findIndex(v => v.category == "underwear");
                     var img = composeCanvasUrl("cloth", size, sucrette.orderInfo[x].value);
-                    newCanvas("cloth mono", sucrette.orderInfo[x].category, img, 1);
+                    newCanvas(sucrette.orderInfo[x].category, img, 1);
 
                     // Cabello
                     img = composeAvatarUrl("hair", size, sucrette.avatar.hair, "back");
-                    newCanvas("cloth multi", "hair", img, 2);
+                    newCanvas("hair", img, 2);
 
                     img = composeAvatarUrl("hair", size, sucrette.avatar.hair, "front");
-                    newCanvas("cloth multi", "hair", img, 3);
+                    newCanvas("hair", img, 3);
 
                     break;
                 }
@@ -315,7 +392,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
                 // draw hair (no wig)
                 var img = composeAvatarUrl("hair", size, sucrette.avatar.hair, sucrette.orderInfo[m].layer);
-                newCanvas("cloth multi", `${sucrette.orderInfo[m].category}-${sucrette.orderInfo[m].layer}`, img, m);
+                newCanvas(`${sucrette.orderInfo[m].category}-${sucrette.orderInfo[m].layer}`, img, m);
 
             } else if (mode != "update_avatar" && mode != "basics") {
 
@@ -327,13 +404,13 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
                     // draw mono layer
                     var img = composeCanvasUrl("cloth", size, sucrette.orderInfo[m].value);
-                    newCanvas("cloth mono",sucrette.orderInfo[m].category, img, m);
+                    newCanvas(sucrette.orderInfo[m].category, img, m);
                 
                 } else {
 
                     // draw multi layer
                     var img = composeCanvasUrl("cloth", size, sucrette.orderInfo[m].value, sucrette.orderInfo[m].layer);
-                    newCanvas("cloth multi", `${sucrette.orderInfo[m].category}-${sucrette.orderInfo[m].layer}`, img, m, "append");
+                    newCanvas(`${sucrette.orderInfo[m].category}-${sucrette.orderInfo[m].layer}`, img, m, "append");
 
                 }
 
@@ -354,7 +431,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
         if (temp[0].layer == null) {
             // Es mono
             var img = composeCanvasUrl("cloth", size, temp[0].value);
-            newCanvas("cloth mono", sucrette.orderInfo[rd].category, img, rd);
+            newCanvas(sucrette.orderInfo[rd].category, img, rd);
 
         } else {
             // Es multi
@@ -362,7 +439,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
             var V = temp[0].category != "hair" ? temp[0].value : sucrette.avatar.hair;
             var P = rd == 0 ? "prepend" : "append";
             var img = temp[0].category != "hair" ? composeCanvasUrl(T, size, V, temp[0].layer) : composeAvatarUrl("hair", size, sucrette.avatar.hair, temp[0].layer);
-            newCanvas("cloth multi", `${temp[0].category}-${temp[0].layer}`, img, rd, P);
+            newCanvas(`${temp[0].category}-${temp[0].layer}`, img, rd, P);
         };
 
     } else if (mode == "replace") {
@@ -376,14 +453,14 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
     }
 }
 
-async function newCanvas(clase, info, img, i = new Number, p = "append") {
+async function newCanvas(info, img, i = new Number, p = "append") {
     if ($("#save-canvas").length == 0) {
         if (p == "append") {
-            $("#asng-avatar").append(`<canvas class="${clase}" data-info="${info}" width="1200" height="1550"></canvas>`);
+            $("#asng-avatar").append(`<canvas data-info="${info}" width="1200" height="1550"></canvas>`);
         } else {
-            $("#asng-avatar").prepend(`<canvas class="${clase}" data-info="${info}" width="1200" height="1550"></canvas>`);
-        }
-        
+            $("#asng-avatar").prepend(`<canvas data-info="${info}" width="1200" height="1550"></canvas>`);
+        };
+
         var ctx = document.getElementsByTagName("canvas")[i].getContext("2d");
         ready = await preloadIMG(img);
         ctx.drawImage(ready, 0, 0, 1200, 1550);
@@ -391,235 +468,219 @@ async function newCanvas(clase, info, img, i = new Number, p = "append") {
     } else {
         var ctx = document.getElementById("save-canvas").getContext("2d");
         ready = await preloadIMG(img);
-        ctx.drawImage(ready, 0, 0, 1200, 1550);
+        ( $("#save-canvas").attr("width") == 1200 ) ?
+        ctx.drawImage(ready, 0, 0, 1200, 1550) : ctx.drawImage(ready, 0, 0, 1920, 1080);
     };
 };
 
-function checkCurrentItems(i, g, c) {
+function checkCurrentItems(id) {
 
-    // checkear en DB
-    var check = [];
-    switch (c) {
-        case "eyebrows": case "eyes": case "mouth":
-            check = avatar.collections[c].filter(v => {return v.groupId == g});
-            break;
-        default: 
-            check = cloth.filter(v => {return v.groupId == g});
-    };
-    const s = check[0].security;
-    const uID = `${i}-${s}`;
+    let check = sucrette.orderInfo.filter(v => {return v.value == id})
+    if (check.length > 0) {
+        // Es duplicado, quitar
+        if (check[0].category != "underwear") {
+            let f = null, b = null;
+            if (check.length == 1) {
+                // Quitar mono
+                f = sucrette.orderInfo.findIndex(v => {return v.value == id});
     
-
-    var generalType = "cloth";
-    if (c == "eyebrows" || c == "eyes" || c == "mouth") {
-        generalType = "avatar";
-        sucrette.avatar[c] = uID;  
-        drawSucrette(cr, "update_avatar");
-    
-    } else if (c == "underwear") {
-        let x = (sucrette.orderInfo).findIndex(v => v.category === c);
-        if (sucrette.orderInfo[x].value != uID) {
-            // reemplazar underwear
-            sucrette.orderInfo[x].value = uID;
-            drawSucrette(cr, "replace", x);
-        };
-
-    } else if (c == "wig") {
-        check = sucrette.orderInfo.filter(v => {return v.category == "hair"})
-        var layers = []
-        if (check.length > 0) {
-            // hay hair, reemplazar
-            let b = (sucrette.orderInfo).findIndex(v => v.category == "hair" && v.layer == "back");
-            let f = (sucrette.orderInfo).findIndex(v => v.category == "hair" && v.layer == "front");
+            } else {
+                // Quitar multi
+                f = sucrette.orderInfo.findIndex(v => {return v.value == id && v.layer == "front"});
+                b = sucrette.orderInfo.findIndex(v => {return v.value == id && v.layer == "back"});
+            };
 
             sucrette.orderInfo.splice(f, 1);
-            sucrette.orderInfo.splice(b, 1);
+            $("canvas").eq(f).remove();
 
-            $('canvas').eq(f).remove();
-            $('canvas').eq(b).remove();
+            if (b != null) {
+                sucrette.orderInfo.splice(b, 1);
+                $("canvas").eq(b).remove();
+            };
 
-            layers = cloth.filter(v => {return v.security == s});
-            if (layers[0].multiLayered) {
-                if (layers[0].layerBehavior == "normal") {
-                    sucrette.orderInfo.unshift({"category":c, "layer":"back", "value":`${uID}`});
-                    sucrette.orderInfo.push({"category":c, "layer":"front", "value":`${uID}`});
-
-                    drawSucrette(cr, "new", 0);
-                    drawSucrette(cr, "new");
-                } else {
-                    sucrette.orderInfo.push({"category":c, "layer":"back", "value":`${uID}`});
-                    sucrette.orderInfo.push({"category":c, "layer":"front", "value":`${uID}`});
-                    drawSucrette(cr, "new", sucrette.orderInfo - 2);
-                    drawSucrette(cr, "new");
-                }
-            } else {
-                sucrette.orderInfo.push({"category":c, "layer":null, "value":`${uID}`});
+            if (check[0].category == "wig") {
+                // Añadir cabello
+                sucrette.orderInfo.unshift({"category":"hair", "layer":"back", "value":"auto"});
+                sucrette.orderInfo.push({"category":"hair", "layer":"front", "value":"auto"});
+                drawSucrette(cr, "new", 0);
                 drawSucrette(cr, "new");
             };
+            drawZIndex();
+            return false;
 
         } else {
-            // hay wig, es duplicada ?
-            let b = (sucrette.orderInfo).findIndex(v => v.category == c && v.layer == "back");
-            let f = (sucrette.orderInfo).findIndex(v => v.category == c && v.layer == "front");
-            
-            if ((b + f) == -2) {
-                // es mono
-                //alert("hay mono");
-                let mono = (sucrette.orderInfo).findIndex(v => v.category == c && v.layer == null);
-                var A = sucrette.orderInfo.filter(v => {return v.value != null && (v.value).includes( s )});
-
-                if (A.length == 1) {
-                    // Reemplazar color
-                    //alert("replace color");
-                    sucrette.orderInfo[mono].value = uID;
-                    drawSucrette(cr, "replace", mono);
-
-                } else {
-                    // Es nuevo o duplicado.
-                    //alert("remove wig");
-                    sucrette.orderInfo[mono].value == uID ? c = "hair" : ""; // Es duplicada, remover
-                    sucrette.orderInfo.splice(mono, 1);
-                    $('canvas').eq(mono).remove();
-
-                    // Añadir nuevo
-                    layers = cloth.filter(v => {return v.security == s});
-                    if (layers[0].multiLayered) {
-                        // Nuevo multi
-                        if (layers[0].layerBehavior == "normal") {
-                            sucrette.orderInfo.unshift({"category":c, "layer":"back", "value":`${uID}`});
-                            sucrette.orderInfo.push({"category":c, "layer":"front", "value":`${uID}`});
-                            drawSucrette(cr, "new", 0);
-                            drawSucrette(cr, "new");
-                        }
-
-                    } else {
-                        // Nuevo mono
-                        sucrette.orderInfo.push({"category":c, "layer":null, "value":`${uID}`});
-                        drawSucrette(cr, "new");
-                    }
-                };
-
-            } else {
-                // es multi
-                //alert("hay multi");
-                var A = sucrette.orderInfo.filter(v => {return v.value != null && v.value == uID });
-
-                if (A.length > 0) {
-                    // Reemplazar color
-                    //alert("replace color");
-                    sucrette.orderInfo[b].value = uID;
-                    sucrette.orderInfo[f].value = uID;
-                    drawSucrette(cr, "replace", b);
-                    drawSucrette(cr, "replace", f);
-
-                } else {
-                    // Es nuevo o duplicado.
-                    //alert("remove wig");
-                    if (sucrette.orderInfo[f].value == uID) {c = "hair"; uID = "auto"} // Es duplicada, remover
-                    sucrette.orderInfo.splice(f, 1);
-                    sucrette.orderInfo.splice(b, 1);
-
-                    $('canvas').eq(f).remove();
-                    $('canvas').eq(b).remove();
-
-                    layers = cloth.filter(v => {return v.security == s});
-                    if (layers[0].multiLayered) {
-                        if (layers[0].layerBehavior == "normal" || c == "hair") {
-                            sucrette.orderInfo.unshift({"category":c, "layer":"back", "value":`${uID}`});
-                            sucrette.orderInfo.push({"category":c, "layer":"front", "value":`${uID}`});
-                            drawSucrette(cr, "new", 0);
-                            drawSucrette(cr, "new");
-                            
-                        } else {
-                            sucrette.orderInfo.push({"category":c, "layer":"back", "value":`${uID}`});
-                            sucrette.orderInfo.push({"category":c, "layer":"front", "value":`${uID}`});
-                            drawSucrette(cr, "new", (sucrette.orderInfo.length - 2));
-                            drawSucrette(cr, "new");
-                        };
-                    } else {
-                        sucrette.orderInfo.push({"category":c, "layer":null, "value":`${uID}`});
-                        drawSucrette(cr, "new");
-                    }
-                };
-            };
+            // No se puede quitar
+            return true;
         };
         
+
     } else {
-        // General cloth
-        check = sucrette.orderInfo.filter(v => v.value == uID);
-        var temp = cloth.filter(v => v.security == s);
+        // Es variación de color?
+        let d = id.split("-")[1];
+        let A = sucrette.orderInfo.filter(v => {return v.value != null && (v.value).includes( d )});
 
-        if (check.length > 0) {
-            // Ya existe, eliminar
-            if (temp[0].multiLayered) {
-                let f = (sucrette.orderInfo).findIndex(v => v.value == uID && v.layer == "front");
-                let b = (sucrette.orderInfo).findIndex(v => v.value == uID && v.layer == "back");
-
-                sucrette.orderInfo.splice(f, 1);
-                sucrette.orderInfo.splice(b, 1);
-
-                $("canvas").eq(f).remove();
-                $("canvas").eq(b).remove();
+        if (A.length > 0) {
+            check = cloth.filter(v => {return v.security == d});
+            let f = null, b = null;
+            if (check[0].multiLayered) {
+                // Reemplazar color multi
+                f = sucrette.orderInfo.findIndex(v => {return v.value != null && v.value.includes( d ) && v.layer == "front"});
+                b = sucrette.orderInfo.findIndex(v => {return v.value != null && v.value.includes( d ) && v.layer == "back"});
             } else {
-                let x = (sucrette.orderInfo).findIndex(v => v.value == uID);
-                sucrette.orderInfo.splice(x, 1);
-                $("canvas").eq(x).remove();
+                // Reemplazar color mono
+                f = sucrette.orderInfo.findIndex(v => {return v.value != null && v.value.includes( d )});
+            };
+
+            sucrette.orderInfo[f].value = id;
+            drawSucrette(cr, "replace", f);
+            if (b != null) {
+                sucrette.orderInfo[b].value = id;
+                sucrette.orderInfo[f].layer = "front";
+                sucrette.orderInfo[b].layer = "back";
+                drawSucrette(cr, "replace", b);
+            } else {
+                sucrette.orderInfo[f].layer = null;
             }
+
+            drawZIndex();
+            return true;
 
         } else {
-            // Es reemplazo?
-            check = sucrette.orderInfo.filter(v => {return v.value != null && (v.value).includes( s )});
-            if (check.length > 0) {
-                // es reemplazo
-                if (temp[0].multiLayered) {
-                    let V = check[0].value;
-
-                    let f = (sucrette.orderInfo).findIndex(v => v.value == V && v.layer == "front");
-                    let b = (sucrette.orderInfo).findIndex(v => v.value == V && v.layer == "back");
-
-                    sucrette.orderInfo[f].value = uID;
-                    sucrette.orderInfo[b].value = uID;
-
-                    drawSucrette(cr, "replace", f);
-                    drawSucrette(cr, "replace", b);
-
-                } else {
-                    let V = check[0].value;
-                    let x = (sucrette.orderInfo).findIndex(v => v.value == V && v.layer == null);
-                    sucrette.orderInfo[x].value = uID;
-                    drawSucrette(cr, "replace", x);
-                };
+            // Es avatar o es nuevo ?
+            let c = id.includes("hair") ? "eyebrows" : id.includes("eyes") ? "eyes" : "";
+            if (c == "") {
+                let t = id.split("-")[1]
+                let m = avatar.collections.mouth.filter(v => {return v.security == t});
+                (m.length == 1) ? c = "mouth" : c = "cloth";
             } else {
-                // es nuevo
-                if (temp[0].multiLayered) {
-                    if (temp[0].layerBehavior == "normal") {
-                        sucrette.orderInfo.unshift({"category":c, "layer":"back", "value":`${uID}`});
-                        sucrette.orderInfo.push({"category":c, "layer":"front", "value":`${uID}`});
-                        drawSucrette(cr, "new", 0);
-                        drawSucrette(cr, "new");
+                id = `${id.split("-")[0]}-${id.split("-")[2]}`;
+            };
+
+
+            if (c == "cloth") {
+
+                check = cloth.filter(v => {return v.security == (id.split("-")[1])});
+
+                if (!check[0].multiLayered && check[0].category == "underwear") {
+                    // Se reemplaza
+                    let lc = sucrette.orderInfo.filter(v => {return v.category == "underwear"});
+                    if (lc.length == 1) {
+                        // Hay mono, reemplazar
+                        let f = sucrette.orderInfo.findIndex(v => {return v.category == "underwear"});
+                        sucrette.orderInfo[f].value = id;
+                        drawSucrette(cr, "replace", f);
 
                     } else {
-                        sucrette.orderInfo.push({"category":c, "layer":"back", "value":`${uID}`});
-                        sucrette.orderInfo.push({"category":c, "layer":"front", "value":`${uID}`});
-                        drawSucrette(cr, "new", sucrette.orderInfo.length - 2);
-                        drawSucrette(cr, "new");
+                        // Hay multi, quitar back y reemplazar front
+                        let f = sucrette.orderInfo.findIndex(v => {return v.category == "underwear" && v.layer == "front"});
+                        let b = sucrette.orderInfo.findIndex(v => {return v.category == "underwear" && v.layer == "back"});
+
+                        $("canvas").eq(b).remove();
+                        sucrette.orderInfo.splice(b, 1);
+                        f--;
+
+                        sucrette.orderInfo[f].value = id;
+                        sucrette.orderInfo[f].layer = null;
+                        drawSucrette(cr, "replace", f);
                     };
 
+                } else if (check[0].multiLayered && check[0].category == "underwear") {
+                    // Es underwear multi 
+                    let lc = sucrette.orderInfo.filter(v => {return v.category == "underwear"});
+                    if (lc.length = 1) {
+                        // Hay mono, reemplazar con front y añadir back
+                        let f = sucrette.orderInfo.findIndex(v => {return v.category == "underwear"});
+                        sucrette.orderInfo[f].value = id;
+                        sucrette.orderInfo[f].layer = "front";
+
+                        sucrette.orderInfo.splice(f, 0, {"category":"underwear", "layer":"back", "value":id});
+                        $("#asng-avatar > canvas:nth-child(" + (f) + ")").after('<canvas data-info="underwear" width="1200" height="1550"></canvas>');
+
+                        drawSucrette(cr, "replace", f);
+                        drawSucrette(cr, "replace", f + 1);
+
+                    } else {
+                        // Hay multi, reemplazar front y back
+                        let f = sucrette.orderInfo.findIndex(v => {return v.category == "underwear" && v.layer == "front"});
+                        let b = sucrette.orderInfo.findIndex(v => {return v.category == "underwear" && v.layer == "back"});
+
+                        sucrette.orderInfo[b].value = id;
+                        sucrette.orderInfo[f].value = id;
+
+                        drawSucrette(cr, "replace", f);
+                        drawSucrette(cr, "replace", b);
+                    };
+            
                 } else {
-                    sucrette.orderInfo.push({"category":c, "layer":null, "value":`${uID}`});
-                    drawSucrette(cr, "new");
+                    if (check[0].category == "wig") {
+                        // Se quita hair o wig actual
+                        let p = sucrette.orderInfo.filter(v => {return v.category == "hair"});
+                        let cc = null;
+                        if (p.length > 0) {
+                            cc = "hair";
+                        } else {
+                            p = sucrette.orderInfo.filter(v => {return v.category == "wig"});
+                            (p.length > 0) ? cc = "wig" : cc = null;
+                        };
 
-                }
+                        if (cc != null) {
+                            // Existe hair/wig, quitar
+                            let f = sucrette.orderInfo.findIndex(v => {return v.category == cc && v.layer == "front"});
+                            let b = sucrette.orderInfo.findIndex(v => {return v.category == cc && v.layer == "back"});
 
-            }
-        }
+                            if (b + f == -2) {
+                                f = sucrette.orderInfo.findIndex(v => {return v.category == cc && v.layer == null});
+                                sucrette.orderInfo.splice(f, 1);
+                                $("canvas").eq(f).remove();
 
-    }
+                            } else {
+                                sucrette.orderInfo.splice(f, 1);
+                                sucrette.orderInfo.splice(b, 1);
+                                $("canvas").eq(f).remove();
+                                $("canvas").eq(b).remove();
+                            };
+                        };
+                    };
 
-    drawZIndex();
-    itemEquipped(i, g);
+                    // Se añade nuevo elemento
+                    if (check[0].multiLayered) {
+                        
+                        if (check[0].layerBehavior == "backInFront") {
+                            sucrette.orderInfo.push({"category":check[0].category, "layer":"back", "value":id});
+                            sucrette.orderInfo.push({"category":check[0].category, "layer":"front", "value":id});
+                            drawSucrette(cr, "new", sucrette.orderInfo.length - 2);
+                            drawSucrette(cr, "new");
 
-}
+                        } else if (check[0].layerBehavior == "normal") {
+                            sucrette.orderInfo.unshift({"category":check[0].category, "layer":"back", "value":id});
+                            sucrette.orderInfo.push({"category":check[0].category, "layer":"front", "value":id});
+                            drawSucrette(cr, "new", 0);
+                            drawSucrette(cr, "new");
+
+                        };
+
+                    } else {
+                        sucrette.orderInfo.push({"category":check[0].category, "layer":null, "value":id});
+                        drawSucrette(cr, "new");
+                    };
+                };
+
+                drawZIndex();
+                return true;
+
+            } else {
+                // Solo reemplazar no quitar!
+                if (sucrette.avatar[c] != id) {
+                    sucrette.avatar[c] = id;
+                    drawSucrette(cr, "update_avatar");
+                };
+                return true;
+
+            };
+            
+        };
+    };
+};
 
 function drawZIndex() {
     $("#z-index-content").html('');
@@ -763,20 +824,6 @@ function removeItem(z) {
     };
 }
 
-function addToSucrette(c, l, v, u = false) { // PENDIENTE
-    if (!u) {
-        sucrette.orderInfo.push({"category":c, "layer":l, "value":v});
-    } else {
-        sucrette.orderInfo.unshift({"category":c, "layer":l, "value":v});
-    }
-}
-
-function itemEquipped(i, g) {
-    $('.declinations-panel .item-outline').removeClass('equipped');
-    $(`.asng-cloth[data-item="${g}-${i}"] .item-outline`).addClass('equipped');
-
-}
-
 function resetSucrette() {
     let u = sucrette.orderInfo.filter(v => {return v.category == "underwear"});
     sucrette.orderInfo.length = 0;
@@ -790,11 +837,17 @@ function resetSucrette() {
 }
 
 function drawSavePopUp(w, h) {
-    $("body").append(`<div id="overlay-popup"><div id="canvas-container"><canvas width="${w}" height="${h}" id="save-canvas"></canvas></div></div>`);
-    $("#canvas-container").append(`<div class="button close"><i class="fa-solid fa-xmark"></i></div>`);
-    $("#canvas-container").append(`<div class="button reload"><i class="fa-solid fa-rotate"></i></div>`);
+    if ($("#save-canvas").length == 0) {
+        $("body").append(`<div id="overlay-popup"><div id="canvas-container"><canvas width="${w}" height="${h}" id="save-canvas"></canvas></div></div>`);
+        $("#canvas-container").append(`<div class="button close"><i class="fa-solid fa-xmark"></i></div>`);
+        $("#canvas-container").append(`<div class="button reload"><i class="fa-solid fa-rotate"></i></div>`);
+        $("#canvas-container").append(`<div class="button portrait"><i class="fa-solid fa-user"></i></div>`);
+        $("#canvas-container").append(`<div class="button fullbody"><i class="fa-solid fa-person"></i></div>`);
+    } else {
+        $("#save-canvas").attr("width", w).attr("height", h);
+    };
 
-    drawSucrette("hd", "load");
+    (w != 1920) ? drawSucrette("hd", "load") : drawSucrette("md", "load");
 };
 
 // ROOM FUNCTIONS!
@@ -806,6 +859,17 @@ function drawRoomItems(c = "background") {
         $("#asng-room-item-list-panel .items-container").append(`<div class="asng-room-item"></div>`);
         $(".asng-room-item").eq(b).append(`<div class="item ${c}"><div class="item-outline${room[c][b].security == item ? " equipped" : ""}"></div></div>`);
         $(".asng-room-item .item").eq(b).append(`<div tooltipplacement="bottom"><img class="thumbnail" alt="${room[c][b].name}" src="${composeRoomUrl([c], room[c][b].id, room[c][b].security)}"></div>`);
+
+        if (room[c][b].criteria != null) {
+            let icon = "";
+            switch(room[c][b].criteria.type) {
+                case "episode": icon = "episodes";break;
+                case "jobTask": icon = "jobTasks";break;
+                case "pack": icon = "bankPacks";break;
+                case "calendar": icon = "calendar";break;
+            };
+            $(".asng-room-item .item div").not(".item-outline").eq(b).append(`<img class="locked" title="${room[c][b].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
+        };
     };
 };
 
@@ -872,6 +936,17 @@ function drawPetItems() {
         let e = (sucrette.pet.outfit != null && sucrette.pet.outfit == `${pet[i].id}-${pet[i].security}`) ? " equipped" : "";
         $(".asng-pet-outfit-item .item").eq(i).append(`<div class="item-outline${e}"></div><div tooltipplacement="bottom"><img class="thumbnail" /></div>`);
         $(".pet-outfits .thumbnail").eq(i).attr("alt", `${pet[i].name}`).attr("src", composePetUrl("hanger", pet[i].id, pet[i].security));
+
+        if (pet[i].criteria != null) {
+            let icon = "";
+            switch(pet[i].criteria.type) {
+                case "episode": icon = "episodes";break;
+                case "jobTask": icon = "jobTasks";break;
+                case "pack": icon = "bankPacks";break;
+                case "calendar": icon = "calendar";break;
+            };
+            $(".asng-pet-outfit-item .item div").not(".item-outline").eq(i).append(`<img class="locked" title="${pet[i].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
+        };
     };
 };
 
@@ -983,11 +1058,56 @@ $(function () {
     });
 
     $(".items-container").on("click", ".asng-cloth.item", function() {
-        let g = $(this).attr("data-item").split("-")[0];
-        let i = $(this).attr("data-item").split("-")[1];
-        let c = $(this).attr("data-category");
 
-        checkCurrentItems(i, g, c);
+        let s = $(this).find(".thumbnail").attr("src").split("/");
+        s = s[s.length - 1].split(".")[0];
+        let c = $(this).data("category");
+        
+        if (c == "eyebrows" || c == "eyes" || c == "wig" || c == "mouth" || c == "underwear") {
+            // Categorías únicas
+            $(".item-outline").removeClass("equipped");
+
+        } else if ($(this).parent().attr("class") == "declinations-panel") {
+            $(".declinations-panel .item-outline").removeClass("equipped");
+        };
+
+        if (checkCurrentItems(s)) {
+            $(this).find(".item-outline").addClass("equipped");
+        };
+    });
+
+    $(".items-container").on("click", ".show-presets h2", function() {
+        drawExpressions("preset");
+    });
+
+    $(".items-container").on("click", ".show-custom h2", function() {
+        drawExpressions("custom");
+    });
+
+    $(".items-container").on("click", ".expression.preset", function() {
+        let i = parseInt( $(this).data("index") );
+        sucrette.avatar.expressionPreset = i;
+        sucrette.avatar.expression.eyebrow = avatar.expressionsPresets[i][0];
+        sucrette.avatar.expression.eye = avatar.expressionsPresets[i][1];
+        sucrette.avatar.expression.mouth = avatar.expressionsPresets[i][2];
+        drawSucrette(cr, "update_avatar");
+
+        $(".expression.preset").removeClass("active");
+        $(".expression.preset").eq(i).addClass("active");
+    });
+
+    $(".items-container").on("click", ".expression:not(.preset)", function() {
+        let c = $(this).attr("class").split(" ");
+        c = c[1];
+        let i = $(this).data("index");
+        
+        sucrette.avatar.expressionPreset = "auto";
+        sucrette.avatar.expression[c] = avatar.expressions[c][i];
+        drawSucrette(cr, "update_avatar");
+
+        $(`.expression.${c}`).removeClass("active");
+        $(`.expression.${c}`).eq(i).addClass("active");
+
     });
 
     $(".items-container").on("click", ".close", function() {
@@ -1229,10 +1349,22 @@ $(function () {
     });
 
     $('body').on("click", "#canvas-container .reload", function() {
-        document.getElementById("save-canvas").getContext("2d").clearRect(0, 0, 1200, 1550);
-        drawSucrette("hd", "load");
+        let w = parseInt($("#save-canvas").attr("width"));
+        let h = parseInt($("#save-canvas").attr("height"));
+        document.getElementById("save-canvas").getContext("2d").clearRect(0, 0, w, h);
+        (w != 1920) ? drawSucrette("hd", "load") : drawSucrette("md", "load");
     });
 
+    $('body').on("click", "#canvas-container .portrait", function() {
+        $(this).hide();
+        $("#canvas-container .fullbody").css("display", "flex");
+        drawSavePopUp(1920, 1080);
+    });
+    $('body').on("click", "#canvas-container .fullbody", function() {
+        $(this).hide();
+        $("#canvas-container .portrait").css("display", "flex");
+        drawSavePopUp(1200, 1550);
+    });
     // ROOM
     $('.room-category').click(function() {
         let c = ($(this).attr("class")).split(" ")[1];
@@ -1339,10 +1471,12 @@ function composeHangerUrl (id, e, type = "cloth", s = hr) {
 
 function composeCanvasUrl(t, s = cr, d, l = null) {
     let url = "https://assets.corazondemelon-newgen.es/";
+    let c = ( $("#save-canvas").length == 1 && $("#save-canvas").attr("width") == 1920 ) ? "big" : "full";
+
     if (t == "cloth" && l == null) {
-        url += `${t}/full/${s}/${d}.png`;
+        url += `${t}/${c}/${s}/${d}.png`;
     } else {
-        url += `${t}/full/${s}/${d.split("-")[0]}-${l}-${d.split("-")[1]}.png`;
+        url += `${t}/${c}/${s}/${d.split("-")[0]}-${l}-${d.split("-")[1]}.png`;
     };
 
     return url;
@@ -1350,19 +1484,29 @@ function composeCanvasUrl(t, s = cr, d, l = null) {
 
 function composeAvatarUrl(c, s, d, mp = null) {
     let url = "https://assets.corazondemelon-newgen.es/avatar-part/";
+    let t = ( $("#save-canvas").length == 1 && $("#save-canvas").attr("width") == 1920 ) ? "big" : "full";
 
     if (c == "skin") {
-        url += `${c}/full/${s}/${d}.png`;
+        url += `${c}/${t}/${s}/${d}.png`;
 
     } else if (c == "hair") {
-        url += `${c}/full/${s}/${d}-${mp}.png`;
+        url += `${c}/${t}/${s}/${d}-${mp}.png`;
 
     } else {
-        let i = sucrette.avatar.expressionPreset;
-        let e = avatar.expressionsPresets[i];
+        let i = null;
+        let e = [];
+
+        if (sucrette.avatar.expressionPreset != "auto") {
+            i = sucrette.avatar.expressionPreset;
+            e = avatar.expressionsPresets[i];
+        } else {
+            e.push(sucrette.avatar.expression.eyebrow);
+            e.push(sucrette.avatar.expression.eye);
+            e.push(sucrette.avatar.expression.mouth);
+        };
         
         if (c.includes("eyes")) {
-            url += `eyes/full/${s}/${(d.split("-")[0])}-`;
+            url += `eyes/${t}/${s}/${(d.split("-")[0])}-`;
             
             if (c.includes("skin")) {
                 let b = (sucrette.avatar.customSkin == null) ? sucrette.avatar.skin : "no"; // revisar!
@@ -1374,7 +1518,7 @@ function composeAvatarUrl(c, s, d, mp = null) {
 
 
         } else if (c.includes("eyebrows")) {
-            url += `eyebrows/full/${s}/${(d.split("-")[0])}-`;
+            url += `eyebrows/${t}/${s}/${(d.split("-")[0])}-`;
 
             if (c.includes("skin")) {
                 let b = (sucrette.avatar.customSkin == null) ? sucrette.avatar.skin : "no"; // revisar!
@@ -1387,7 +1531,7 @@ function composeAvatarUrl(c, s, d, mp = null) {
 
         } else if (c == "mouth") {
             let b = (sucrette.avatar.customSkin == null) ? sucrette.avatar.skin : "no"; // revisar!
-            url += `mouth/full/${s}/${(d.split("-")[0])}-body_${b}-${e[2]}-${(d.split("-")[1])}.png`;
+            url += `mouth/${t}/${s}/${(d.split("-")[0])}-body_${b}-${e[2]}-${(d.split("-")[1])}.png`;
         }
     }
 

@@ -162,7 +162,7 @@
         ["S_Mid", "H_HalfOpen_FrontLook_efxTears", "S_Closed"],
         ["AS_Mid_High", "N_HalfOpen_FrontLook", "N_Closed"],
         ["H_Mid", "N_Closed_Open_FrontLook", "H_Closed"],
-        ["S_Mid", "N_HalfOpen_FrontLook", "N_HalfOpen"],
+        ["S_Mid", "N_Closed", "N_HalfOpen"],
         ["S_Mid", "H_HalfOpen_FrontLook_efxTears", "S_Closed"],
         ["A_Mid", "N_Open_FrontLook", "S_Closed"],
         ["A_Mid", "H_Open_FrontLook", "S_Closed"]
