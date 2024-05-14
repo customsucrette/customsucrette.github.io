@@ -11,6 +11,7 @@
     <script src="https://kit.fontawesome.com/24760464c6.js" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="js/wardrobe.js"></script>
+    <script src="../js/season-codes.js"></script>
     <title>Vestidor - NewGen - Custom Sucrette</title>
 
     <link rel="stylesheet" href="styles/wardrobe.css">
@@ -176,6 +177,12 @@
                                 </div>
                             </div>
                         </section>
+                        <section class="code">
+                            <h3>Cargar Sucrette</h3>
+                            <form class="code-input" onsubmit="saveTempCode(); return false;">
+                                <input type="text" name="code" id="load-code" placeholder="PEGAR CÓDIGO DE CARGA">
+                            </form>
+                        </section>
                     </div>
                 </div>
             </div>
@@ -272,7 +279,7 @@
                                                 <div class="group-icon grouped" tooltipplacement="bottom"></div>
                                             </div>
                                         </section>
-                                        <div asngtooltip="Filtros" tooltipplacement="bottom" class="filters-button disabled">
+                                        <div asngtooltip="Filtros" tooltipplacement="bottom" class="filters-button">
                                             <img width="32" height="32" src=""> 
                                         </div>
                                     </div>

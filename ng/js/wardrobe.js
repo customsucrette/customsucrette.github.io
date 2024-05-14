@@ -3,7 +3,7 @@ $(document).ready(function() {
         $.get("./data/avatar.json", dbAvatar => {
             $.get("./data/room.json", dbRoom => {
                 $.get("./data/pet.json", dbPet => {
-                    $(".version").text("BETA v0.9.8");
+                    $(".version").text("BETA v0.10.1");
                     cloth = dbCloth;
                     avatar = dbAvatar;
                     room = dbRoom;
@@ -11,16 +11,30 @@ $(document).ready(function() {
                     customTheme();
                     userSettings();
                     drawCategory();
-                    fillCounter();
+                    fillCounter();                    
                     drawAvatarZone();
-                    drawSucrette();
-                    drawZIndex();
-                    drawRoom("load", false);
+
+                    checkAndGetTempCode();
+                    codeUpdate();
                 });
             });
         });
     });
 });
+
+function codeUpdate() {
+    $(".eye-color .color").removeClass("equipped");
+    $(`.eye-color .color[data-color=${sucrette.avatar.eyesColor}]`).addClass("equipped");
+    $(".hair-color .color").removeClass("equipped");
+    $(`.hair-color .color[data-color=${sucrette.avatar.hair}]`).addClass("equipped");
+    $(".skin-color .color").removeClass("equipped");
+    $(`.skin-color .color[data-color=${sucrette.avatar.skin}]`).addClass("equipped");
+
+    drawSucrette();
+    drawZIndex();
+    drawRoom("load", true);
+    drawPet();
+}
 
 function customTheme() {
     let p = window.localStorage.getItem("personality");
@@ -843,6 +857,7 @@ function drawSavePopUp(w, h) {
         $("#canvas-container").append(`<div class="button reload"><i class="fa-solid fa-rotate"></i></div>`);
         $("#canvas-container").append(`<div class="button portrait"><i class="fa-solid fa-user"></i></div>`);
         $("#canvas-container").append(`<div class="button fullbody"><i class="fa-solid fa-person"></i></div>`);
+        $("#canvas-container").append(`<div class="button code"><i class="fa-solid fa-code"></i></div>`);
     } else {
         $("#save-canvas").attr("width", w).attr("height", h);
     };
@@ -914,6 +929,9 @@ function drawRoom(m = "load", p = true) {
                 let item = sucrette.room[c].split("-");
                 $(`${full}.${c}`).css("background-image", `url(${composeRoomUrl(c, item[0], item[1], "full", rr)})`);
                 if (p) $(`${preview}.${c}`).css("background-image", `url(${composeRoomUrl(c, item[0], item[1], "full", rr)})`);
+            } else {
+                $(`${full}.${c}`).removeAttr("style");
+                $(`${preview}.${c}`).removeAttr("style");
             };
         };        
 
@@ -968,6 +986,20 @@ function checkPet(c) {
 
     };
 };
+
+function drawPet() {
+    if (sucrette.pet.status) {
+        $("#pet-base").show();
+        if (sucrette.pet.outfit != null) {
+            $("#pet-outfit").attr("src", composePetUrl("full", (sucrette.pet.outfit).split("-")[0], (sucrette.pet.outfit).split("-")[1]));
+            $("#pet-outfit").show();
+        } else {
+            $("#pet-outfit").hide();
+        };
+    } else {
+        $("#pet-base").hide();
+    };
+}
 
 
 $(function () {
@@ -1365,6 +1397,35 @@ $(function () {
         $("#canvas-container .portrait").css("display", "flex");
         drawSavePopUp(1200, 1550);
     });
+
+    $('body').on("click", "#canvas-container .code i", function() {
+        let clase = $(this).parent().attr("class");
+
+        if (!clase.includes("open")) {
+            let inp = $(this).parent().find("textarea");
+            $(this).parent().addClass("open");
+
+            if (inp.length == 0) {
+                $(this).parent().css("width", "calc(100% - 290px)");
+    
+                $(this).parent().append('<textarea class="code-container" type="text" readonly></textarea><div id="generated-code-info">¡Código copiado!</div>');
+                $("textarea").delay(100).fadeIn(200);
+                $(".code-container").val(generateCode("ng"));
+            };
+
+        } else {
+            $(this).parent().removeClass("open");
+            $(this).parent().removeAttr("style");
+            $(".code-container").val("").fadeOut(200).remove();
+            $("#generated-code-info").remove();
+        };
+    });
+
+    $("body").on("click", ".code-container", function() {
+        $("#generated-code-info").show().delay(1500).fadeOut(200);
+        copyCode();
+    });
+
     // ROOM
     $('.room-category').click(function() {
         let c = ($(this).attr("class")).split(" ")[1];

@@ -1,100 +1,124 @@
-function checkBar() {
-    var search = window.location.search;
+function generateCode(version = null) {
 
-    if (search != "") {
-        var code = search.replace("?q=", "");
+    if (version == null) {
+        var code = "1i"; // version
+        if ((window.location.href).includes("v2")) {
+            code = "2i";
+        }
+        
+        // AVATAR
+        var av = customSucrette.avatar;
+    
+        var num = av.skin.split("-");
+        code += num[0] + "i"; // skin
+    
+        num = av.customSkin;
+        if (num != null) {
+            num = num.split("-");
+            code += num[0].replace("https://assets3.corazondemelon.es/clothe/web/thumb_MD/", "") + "i";
+        } else {
+            code += "NOi";
+        }
+    
+        num = av.hairStyle;
+        num = num.split("-");
+        code += num[0] + "i";
+    
+        num = av.hairColor;
+        num = num.split("-");
+        code += num[0] + "i";
+    
+        num = av.eyebrow;
+        num = num.split("-");
+        code += num[0] + "i";
+    
+        num = av.eyeType;
+        num = num.split("-");
+        code += num[0] + "i";
+    
+        num = av.eyeColor;
+        num = num.split("-");
+        code += num[0] + "i";
+    
+        num = av.mouth;
+        num = num.split("-");
+        code += num[0] + "i";
+    
+        num = av.makeUp;
+        if (num != null) {
+            num = num.split("-");
+            code += num[0] + "i";
+        } else {
+            code += "NOi";
+        }
+    
+        // heelsOn ? code += "1i" : code += "0i";
+    
+        // ROPA
+        var cl = customSucrette.clothe;
+        for (c = 0; c < cl.length; c++) {
+            if (c > 0) { code += "i" };
+    
+            num = cl[c].src;
+            num = num.split("-")
+            code += num[0].replace("https://assets3.corazondemelon.es/clothe/web/thumb_MD/", "");
+        };
+    
+        return code;
+    } else if (version == "ng") {
+        let code = "3i";
+        
+        code += sucrette.pet.status ? "1T" : "0T";
+        code += sucrette.pet.outfit == null ? "0" : (sucrette.pet.outfit).split("-")[0];
+        code += "i";
 
-        if (code[0] == 1) {
-            if ((window.location.href).includes("/v2/")) {
-                changeVer("v1", code);
-            } else {
-                // Cargar código!
-                history.replaceState(null, "", "wardrobe.html");
-                loadCode(code);
-            };
-        } else if (code[0] == 2) {
-            if ((window.location.href).includes("/v1/")) {
-                changeVer("v2", code);
-            } else {
-                // Cargar código!
-                history.replaceState(null, "", "wardrobe.html");
-                loadCode(code);
+        code += (sucrette.room.background).split("-")[0] + "S";
+        code += sucrette.room.slot1 != null ? (sucrette.room.slot1).split("-")[0] + "S" : "0" + "S";
+        code += sucrette.room.slot2 != null ? (sucrette.room.slot2).split("-")[0] + "S" : "0" + "S";
+        code += sucrette.room.slot3 != null ? (sucrette.room.slot3).split("-")[0] + "S" : "0" + "S";
+        code += sucrette.room.slot4 != null ? (sucrette.room.slot4).split("-")[0] + "S" : "0" + "S";
+        code += sucrette.room.slot5 != null ? (sucrette.room.slot5).split("-")[0] : "0";
+        
+        for (z = 0; z < sucrette.orderInfo.length; z++) {
+            code += "i";
+
+            switch(sucrette.orderInfo[z].category) {
+                case "avatar":
+                    let s = sucrette.avatar.skin[0].toUpperCase();
+                    let hc = $(`.hair-color .color[data-color=${sucrette.avatar.hair}]`).index();
+                    let ec = $(`.eye-color .color[data-color=${sucrette.avatar.eyesColor}]`).index();
+                    let e = (sucrette.avatar.eyes).split("-")[0];
+                    let eb = (sucrette.avatar.eyebrows).split("-")[0];
+                    let m = (sucrette.avatar.mouth).split("-")[0];
+                    let xb = avatar.expressions.eyebrow.findIndex(v => v == sucrette.avatar.expression.eyebrow);
+                    let xe = avatar.expressions.eye.findIndex(v => v == sucrette.avatar.expression.eye);
+                    let xm = avatar.expressions.mouth.findIndex(v => v == sucrette.avatar.expression.mouth);
+
+                    code += `${s}A${hc}A${ec}A${e}A${eb}A${m}A${xb}X${xe}X${xm}`;
+                    break;
+
+                case "hair":
+                    code += (sucrette.orderInfo[z].layer[0]).toUpperCase() + "H";
+                    break;
+
+                default:
+                    code += sucrette.orderInfo[z].layer == null ? "M" : (sucrette.orderInfo[z].layer[0]).toUpperCase();
+                    code += (sucrette.orderInfo[z].value).split("-")[0];
             };
         };
+
+        return code;
+
     };
 };
 
-function generateCode() {
-
-    var code = "1i"; // version
-    if ((window.location.href).includes("v2")) {
-        code = "2i";
-    }
-    
-    // AVATAR
-    var av = customSucrette.avatar;
-
-    var num = av.skin.split("-");
-    code += num[0] + "i"; // skin
-
-    num = av.customSkin;
-    if (num != null) {
-        num = num.split("-");
-        code += num[0].replace("https://assets3.corazondemelon.es/clothe/web/thumb_MD/", "") + "i";
-    } else {
-        code += "NOi";
-    }
-
-    num = av.hairStyle;
-    num = num.split("-");
-    code += num[0] + "i";
-
-    num = av.hairColor;
-    num = num.split("-");
-    code += num[0] + "i";
-
-    num = av.eyebrow;
-    num = num.split("-");
-    code += num[0] + "i";
-
-    num = av.eyeType;
-    num = num.split("-");
-    code += num[0] + "i";
-
-    num = av.eyeColor;
-    num = num.split("-");
-    code += num[0] + "i";
-
-    num = av.mouth;
-    num = num.split("-");
-    code += num[0] + "i";
-
-    num = av.makeUp;
-    if (num != null) {
-        num = num.split("-");
-        code += num[0] + "i";
-    } else {
-        code += "NOi";
-    }
-
-    // heelsOn ? code += "1i" : code += "0i";
-
-    // ROPA
-    var cl = customSucrette.clothe;
-    for (c = 0; c < cl.length; c++) {
-        if (c > 0) { code += "i" };
-
-        num = cl[c].src;
-        num = num.split("-")
-        code += num[0].replace("https://assets3.corazondemelon.es/clothe/web/thumb_MD/", "");
-    };
-
-    return code;
-}
-
 function drawPopUpCode(code) {
+    if (!(window.location.href).includes("/ng/")) {
+        $("body").append('<div class="overlay-container"></div>');
+    } else {
+        $("#overlay-popup").append('<div class="overlay-container"></div>');
+    }
 
-    $("body").append('<div class="overlay-container"></div>');
     $(".overlay-container").append('<div class="overlay-popup code-popup"><div class="button-close"><span class="fa fa-times"></span></div></div>');
     $(".overlay-popup").append('<div id="code-panel"></div>');
     $("#code-panel").append('<div class="title">¡Se ha generado tu código!</div>');
@@ -107,20 +131,21 @@ function drawPopUpCode(code) {
 };
 
 function copyCode() {
-  var copyText = document.getElementsByClassName("code-container")[0];
+    var copyText = document.getElementsByClassName("code-container")[0];
 
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); /* moviles */
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /* moviles */
 
-  navigator.clipboard.writeText(copyText.value);
+    navigator.clipboard.writeText(copyText.value);
 
-  var currentButton = $(".copy-code").text();
-  if (currentButton == "Copiar código") {
-      $(".copy-code").text("¡Se ha copiado el código!");
-      $(".copy-code").addClass("active");
-  };
-
-} 
+    if (!(window.location.href).includes("/ng/")) {
+        var currentButton = $(".copy-code").text();
+        if (currentButton == "Copiar código") {
+            $(".copy-code").text("¡Se ha copiado el código!");
+            $(".copy-code").addClass("active");
+        };
+    };
+};
 
 function saveTempCode() {
     var code = $(".code-input input").val();
@@ -143,14 +168,23 @@ function saveTempCode() {
             } else {
                 loadCode(code);
             };
-    
+
+        } else if (code[0] == 3) {
+            if (!url.includes("/ng/wardrobe")) {
+                localStorage.setItem("tempCode", code);
+                window.location.href = "../ng/wardrobe.html";
+            } else {
+                loadCode(code);
+                codeUpdate();
+            };
+
         } else {
             alert("El código no es correcto.");
         };
     };
 }
 
-function checkAndGetTempCode () {
+function checkAndGetTempCode() {
     var code = localStorage.getItem("tempCode");
     var url = window.location.href;
 
@@ -164,7 +198,7 @@ function checkAndGetTempCode () {
                 loadCode(code);
                 return true;
             };
-    
+
         } else if (code[0] == 2) {
             if (!url.includes("/v2/wardrobe")) {
                 window.location.href = "../v2/wardrobe.html";
@@ -173,39 +207,39 @@ function checkAndGetTempCode () {
                 loadCode(code);
                 return true;
             };
-    
+
+        } else if (code[0] == 3) {
+            if (!url.includes("/ng/wardrobe")) {
+                window.location.href = "../ng/wardrobe.html";
+            } else {
+                localStorage.removeItem("tempCode");
+                loadCode(code);
+                return true;
+            };
+
         } else {
             alert("El código no es correcto.");
         };
 
         return false;
     };
-
-    
-
-}
+};
 
 function loadCode(code = null) {
     if (code == null) {
         code = $(".code-input input").val();
     };
 
-    // Comprobar compatibilidad de version
-    var data = code.split("i");
-    var result = true;
+    if (code[0] != 3) {
 
-    if ((window.location.href).includes("/v1/")) {
-        if (data[0] != 1) { result = changeVer("v2", code) };
+        // Comprobar compatibilidad de version
+        var data = code.split("i");
+        var result = true;
 
-    } else if ((window.location.href).includes("/v2/")) {
-        if (data[0] != 2) { result = changeVer("v1", code) };
-    };
+        var searchValue = "";
+        var tempData = "";
+        try {
 
-    var searchValue = "";
-    var tempData = "";
-    try {
-
-        if (result) {
             $(".code-input input").val("");
 
             // AVATAR SKIN
@@ -308,17 +342,99 @@ function loadCode(code = null) {
 
             drawPanel();
 
+        } catch (e) {
+            alert("El código no es correcto.");
+            $(".code-input input").val("");
         };
-    } catch (e) {
-        alert("El código no es correcto.");
-        $(".code-input input").val("");
-    };
-};
 
-function changeVer(newver, code) {
-    alert("Este código no corresponde a esta temporada.");
-    $(".code-input form input").val("");
-    return false;
+    } else if (code[0] == 3) {
+        $(".code-input input").val("");
+        try {
+            code = code.split("i");
+            // 0 / 1 / 2 == ver / taki / room
+            let cPet = code[1].split("T");
+            sucrette.pet.status = cPet[0] == 1 ? true : false;
+            if (cPet[1] == 0) {
+                sucrette.pet.outfit = null;
+            } else {
+                let p = pet.filter(v => v.id == cPet[1]);
+                sucrette.pet.outfit = `${cPet[1]}-${p[0].security}`;
+            };
+
+            let cRoom = code[2].split("S");
+            let temp = room.background.filter(v => {return v.id == cRoom[0]});
+            sucrette.room.background = temp.length == 1 ? `${cRoom[0]}-${temp[0].security}` : null;
+            temp = room.slot1.filter(v => {return v.id == cRoom[1]});
+            sucrette.room.slot1 = temp.length == 1 ? `${cRoom[1]}-${temp[0].security}` : null;
+            temp = room.slot2.filter(v => {return v.id == cRoom[2]});
+            sucrette.room.slot2 = temp.length == 1 ? `${cRoom[2]}-${temp[0].security}` : null;
+            temp = room.slot3.filter(v => {return v.id == cRoom[3]});
+            sucrette.room.slot3 = temp.length == 1 ? `${cRoom[3]}-${temp[0].security}` : null;
+            temp = room.slot4.filter(v => {return v.id == cRoom[4]});
+            sucrette.room.slot4 = temp.length == 1 ? `${cRoom[4]}-${temp[0].security}` : null;
+            temp = room.slot5.filter(v => {return v.id == cRoom[5]});
+            sucrette.room.slot5 = temp.length == 1 ? `${cRoom[5]}-${temp[0].security}` : null;
+
+            code.splice(0,3);
+
+            sucrette.orderInfo.length = 0; // Clean current sucrette
+
+            for(z = 0; z < code.length; z++) {
+                if (code[z].includes("A")) {
+
+                    let tAvatar = code[z].split("A");
+                    switch (tAvatar[0]) {
+                        case "R": sucrette.avatar.skin = "rose"; break;
+                        case "T": sucrette.avatar.skin = "tulip"; break;
+                        case "M": sucrette.avatar.skin = "marigold"; break;
+                        case "H": sucrette.avatar.skin = "hortensia"; break;
+                        case "O": sucrette.avatar.skin = "orchid"; break;
+                        case "L": sucrette.avatar.skin = "lys"; break;
+                        case "P": sucrette.avatar.skin = "pansy"; break;
+                    }; // pendiente custom skin 
+
+                    sucrette.avatar.hair = $(".hair-color .color").eq(tAvatar[1]).data("color");
+                    sucrette.avatar.eyesColor = $(".eye-color .color").eq(tAvatar[2]).data("color");
+                    temp = (avatar.collections.eyes).filter(v => v.variations.some(i => i.id == tAvatar[3])); // test
+                    sucrette.avatar.eyes = `${tAvatar[3]}-${temp[0].security}`;
+                    temp = (avatar.collections.eyebrows).filter(v => v.variations.some(i => i.id == tAvatar[4])); // test
+                    sucrette.avatar.eyebrows = `${tAvatar[4]}-${temp[0].security}`;
+                    temp = (avatar.collections.mouth).filter(v => v.variations.some(i => i.id == tAvatar[5])); // test
+                    sucrette.avatar.mouth = `${tAvatar[5]}-${temp[0].security}`;
+
+                    let tExpr = tAvatar[6].split("X");
+                    sucrette.avatar.expressionPreset = "auto";
+                    sucrette.avatar.expression.eyebrow = avatar.expressions.eyebrow[tExpr[0]];
+                    sucrette.avatar.expression.eye = avatar.expressions.eye[tExpr[1]];
+                    sucrette.avatar.expression.mouth = avatar.expressions.mouth[tExpr[2]];
+
+                    sucrette.orderInfo.push({"category":"avatar", "layer":null, "value":null});
+
+                } else {
+                    let id = code[z].slice(1);
+                    let layer = code[z].slice(0,1);
+                    layer = layer == "M" ? null : layer == "B" ? "back" : "front";
+
+                    let c = "", uID = "";
+                    if (id != "H") {
+                        let item = cloth.filter(v => v.variations.some(i => i.id == id)); // test
+                        uID = `${id}-${item[0].security}`;
+                        c = item[0].category;
+                    } else {
+                        c = "hair";
+                        uID = "auto";
+                    };
+
+                    sucrette.orderInfo.push({"category":c, "layer":layer, "value":uID});
+                };
+            };
+
+        } catch(e) {
+            alert("El código no es correcto.");
+        }; 
+    };
+
+    
 };
 
 // Formato del código >>>
@@ -328,6 +444,7 @@ function changeVer(newver, code) {
 // 2i504iNOi506i520i531i566i532i621i629i26945i32586i29073i32504i30389i32444
 // 1i103iNOi43i81i1i76i85i23i14i74i7879i8414i25808i7653i7465i7922i7317i5545
 // 2i501iNOi567i530i565i560i542i657iNOi32257i30027i27721i32300i32375i31288i23164i28186i28421i31378i25478i22910i32444i23071
+// 3i1T1i38S31S157S0S52S0iB2341iRA1A6A2A3A1A0X2X8iM1iM637iM618iM627iF2341iM3521
 
 $(function (){
     

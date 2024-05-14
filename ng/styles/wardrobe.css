@@ -137,6 +137,25 @@ body.personality-fiery {
     
 }
 
+input[type=email], input[type=password], input[type=text], textarea {
+    font-family: Phenomena, sans-serif;
+    background: white;
+    padding: 9px 22px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 17px;
+    box-shadow: 0 0 5px #00000029;
+    border: none;
+
+    width: 100%;
+    line-height: 21px;
+}
+
+*:focus {
+    outline: none;
+}
+
 #logo {
     position: absolute;
     left: 30px;
@@ -1337,6 +1356,10 @@ asng-cloth-list-panel .empty p {
     transition: background .2s;
 }
 
+.left-panel-container .filters-button:hover:before, .left-panel-container .filters-button.opened:before, .left-panel-container .filters-button.active:before {
+    background: var(--asng-personality-color-dark);
+}
+
 .asng-cloth.selected {
     transform: scale(1.1);
     cursor: default;
@@ -2398,6 +2421,39 @@ body.personality-fiery #asng-z-index .item .remove {
 #canvas-container .button.fullbody {
     display: none;
 }
+
+#canvas-container .button.code {
+    right: 290px;
+    transition: all 500ms;
+}
+
+#canvas-container .button.code textarea {
+    max-width: calc(100% - 90px);
+    padding: 6px 30px;
+    margin: 10px 10px 10px 0px;
+    overflow: hidden;
+    resize: none;
+    cursor: pointer;
+    display: none;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#generated-code-info {
+    width: calc(100% - 90px);
+    position: absolute;
+    background-color: var(--asng-personality-color-light);
+    height: calc(100% - 20px);
+    margin: 10px;
+    right: 0;
+    border-radius: 50px;
+    color: #000;
+    font-size: 20px;
+    line-height: 1.6em;
+    font-weight: 700;
+    display: none;
+}
+
 
 /* ROOM */
 /* EDITOR */
