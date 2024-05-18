@@ -8,10 +8,6 @@
     <meta property="og:description" content="Vestidor online y gratuito basado en Corazón de Melón. Hecho por y para fans." />
 
     <link rel="icon" href="../assets/favicon-w.png" type="image/png">
-    <script src="https://kit.fontawesome.com/24760464c6.js" crossorigin="anonymous"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="js/wardrobe.js"></script>
-    <script src="../js/season-codes.js"></script>
     <title>Vestidor - NewGen - Custom Sucrette</title>
 
     <link rel="stylesheet" href="styles/wardrobe.css">
@@ -21,12 +17,15 @@
         <div class="site-container">
             <div class="asng-player-room">
                 <div class="asng-room">
-                    <div class="asng-room-canvas background"></div>
-                    <div class="asng-room-canvas slot1"></div>
-                    <div class="asng-room-canvas slot2"></div>
-                    <div class="asng-room-canvas slot3"></div>
-                    <div class="asng-room-canvas slot4"></div>
-                    <div class="asng-room-canvas slot5"></div>
+                    <canvas id="asng-room-canvas" width="1920" height="1296"></canvas>
+                    <!-- <canvas class="asng-room-canvas background"width="1920" height="1296"></canvas>
+                    <canvas class="asng-room-canvas slot1"width="1920" height="1296"></canvas>
+                    <canvas class="asng-room-canvas slot2"width="1920" height="1296"></canvas>
+                    <canvas class="asng-room-canvas slot3"width="1920" height="1296"></canvas>
+                    <canvas class="asng-room-canvas slot4"width="1920" height="1296"></canvas>
+                    <canvas class="asng-room-canvas slot5"width="1920" height="1296"></canvas>
+                    <canvas class="asng-room-canvas bg-light"width="1920" height="1296"></canvas> -->
+
                 </div>
             </div>
             <div class="asng-menu">
@@ -155,7 +154,7 @@
                                 </div>
                             </div>
 
-                            <div class="room" style="display: none;">
+                            <div class="room">
                                 <h4>Habitación</h4>
                                 <div class="room-options">
                                     <div class="option">
@@ -167,7 +166,7 @@
                                         </div>
                                     </div>
                                     <div class="option">
-                                        <span>Desactivar/Activar filtros <i title="Puede ralentizar la página" class="fa-solid fa-triangle-exclamation"></i></span>
+                                        <span>Desactivar/Activar efectos</span>
                                         <div class="asng-toggle-switch alternate-filters">
                                             <label class="">
                                                 <div class="slider initialized"></div>
@@ -282,6 +281,50 @@
                                         <div asngtooltip="Filtros" tooltipplacement="bottom" class="filters-button">
                                             <img width="32" height="32" src=""> 
                                         </div>
+
+                                        <!-- Temp Filters -->
+                                        <div class="asng-filters">
+                                            <div class="backdrop"></div>
+                                            <section class="filters-panel dressing">
+                                                <div class="asng-close-button"></div>
+                                                <h3>Filtros</h3>
+                                                <section class="filter-by-name-input">
+                                                    <img />
+                                                    <div class="reset">
+                                                        <i class="fa-solid fa-circle-xmark"></i>
+                                                    </div>
+                                                    <input type="text" class="empty" placeholder="Nombre de un conjunto">
+                                                    <div class="filter-by-name-error"></div>
+                                                </section>
+                                                <section class="filter-by-type">
+                                                    <h4>Tipo</h4>
+                                                    <div tooltipplacement="bottom" class="type" data-type="pack">
+                                                        <img src="assets/personalization/icon/bankPacks.svg">
+                                                    </div>
+                                                    <div tooltipplacement="bottom" class="type" data-type="episode">
+                                                        <img src="assets/personalization/icon/episodes.svg">
+                                                    </div>
+                                                    <div tooltipplacement="bottom" class="type disabled" data-type="events">
+                                                        <img src="assets/personalization/icon/gameEvents.svg">
+                                                    </div>
+                                                    <div tooltipplacement="bottom" class="type" data-type="jobTask">
+                                                        <img src="assets/personalization/icon/jobTasks.svg">
+                                                    </div>
+                                                    <div tooltipplacement="bottom" class="type" data-type="calendar">
+                                                        <img src="assets/personalization/icon/calendar.svg">
+                                                    </div>
+                                                </section>
+                                                <section class="colors">
+                                                    <h4>Color</h4>
+                                                    <div class="color black"></div><div class="color blue"></div><div class="color brown"></div><div class="color green"></div><div class="color grey"></div><div class="color orange"></div><div class="color pink"></div><div class="color purple"></div><div class="color red"></div><div class="color white"></div><div class="color yellow"></div><div class="color multi"></div>
+                                                </section>
+                                                <section class="bottom">
+                                                    <div class="filter-error"><p>No hay elementos disponibles.</p></div>
+                                                </section>
+                                            </section>
+                                        </div>
+                                        <!-- End Temp Filters -->
+
                                     </div>
                                     <div id="asng-avatar-part-color-list-panel">
                                         <div id="avatar-part-container">
@@ -464,12 +507,13 @@
                                     <div id="room-image">
 
                                         <div id="asgn-room-preview-items">
-                                            <div class="asng-room-preview background"></div>
-                                            <div class="asng-room-preview slot1"></div>
-                                            <div class="asng-room-preview slot2"></div>
-                                            <div class="asng-room-preview slot3"></div>
-                                            <div class="asng-room-preview slot4"></div>
-                                            <div class="asng-room-preview slot5"></div>
+                                            <canvas id="asng-room-canvas-preview" width="1280" height="864"></canvas>
+                                            <!-- <canvas class="asng-room-canvas preview background" width="1280" height="864"></canvas> -->
+                                            <!-- <canvas class="asng-room-canvas preview slot1"></canvas>
+                                            <canvas class="asng-room-canvas preview slot2"></canvas>
+                                            <canvas class="asng-room-canvas preview slot3"></canvas>
+                                            <canvas class="asng-room-canvas preview slot4"></canvas>
+                                            <canvas class="asng-room-canvas preview slot5"></canvas> -->
                                         </div>
 
                                         <div class="room-category slot1"> 1 </div>
@@ -511,6 +555,12 @@
     <div id="logo">
         <img src="assets/logo-ng.png">
     </div>
+
+    <script src="https://kit.fontawesome.com/24760464c6.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="js/wardrobe.js"></script>
+    <script src="../js/season-codes.js"></script>
+    <script src="../js/normalize.js"></script>
     <script src="js/myconfig.js"></script>
 </body>
 </html>

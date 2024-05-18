@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-ec73956a-ed29-4def-a983-77ec380345e2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="30" height="30" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="uuid-e502e3d3-b9b1-435e-b759-6a409f6b4f18">
+      <rect width="30" height="30" fill="none" stroke-width="0"/>
+    </clipPath>
+    <filter id="uuid-bee27da1-874c-4782-9b00-75a7226f99f6" data-name="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="1.47"/>
+      <feGaussianBlur result="uuid-4753efb7-d6f3-4540-859d-4e32a3f55bb5" stdDeviation=".74"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="uuid-4753efb7-d6f3-4540-859d-4e32a3f55bb5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="uuid-1db44aea-97c2-4ef5-8638-4134be6ff039" data-name="Calque 1">
+    <g id="uuid-227b1959-3596-4b01-a807-c059828c909c" data-name="icon__zoom-lively">
+      <g clip-path="url(#uuid-e502e3d3-b9b1-435e-b759-6a409f6b4f18)">
+        <g>
+          <g filter="url(#uuid-bee27da1-874c-4782-9b00-75a7226f99f6)">
+            <circle id="uuid-e2311f37-0d7a-406a-8775-dd49a35fb295" data-name="Ellipse 168-2" cx="15" cy="15" r="11.06" fill="#fff" stroke-width="0"/>
+          </g>
+          <path d="m20.01,19.15l-2.05-1.9c.64-.79,1.02-1.79,1.02-2.88,0-2.53-2.06-4.59-4.59-4.59s-4.59,2.06-4.59,4.59,2.06,4.59,4.59,4.59c1,0,1.92-.32,2.67-.87l2.11,1.96c.12.11.27.16.42.16.17,0,.33-.07.45-.2.23-.25.22-.64-.03-.87Zm-8.99-4.78c0-1.85,1.51-3.36,3.36-3.36s3.36,1.51,3.36,3.36-1.51,3.36-3.36,3.36-3.36-1.51-3.36-3.36Z" fill="#ffb827" stroke-width="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

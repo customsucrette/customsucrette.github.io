@@ -3,13 +3,15 @@ $(document).ready(function() {
         $.get("./data/avatar.json", dbAvatar => {
             $.get("./data/room.json", dbRoom => {
                 $.get("./data/pet.json", dbPet => {
-                    $(".version").text("BETA v0.10.1");
+                    $(".version").text("v1.0.2");
                     cloth = dbCloth;
                     avatar = dbAvatar;
                     room = dbRoom;
                     pet = dbPet;
+                    
                     customTheme();
                     userSettings();
+                    clearInputFilter();
                     drawCategory();
                     fillCounter();                    
                     drawAvatarZone();
@@ -22,7 +24,7 @@ $(document).ready(function() {
     });
 });
 
-function codeUpdate() {
+async function codeUpdate() {
     $(".eye-color .color").removeClass("equipped");
     $(`.eye-color .color[data-color=${sucrette.avatar.eyesColor}]`).addClass("equipped");
     $(".hair-color .color").removeClass("equipped");
@@ -31,8 +33,8 @@ function codeUpdate() {
     $(`.skin-color .color[data-color=${sucrette.avatar.skin}]`).addClass("equipped");
 
     drawSucrette();
+    drawRoomCanvas();
     drawZIndex();
-    drawRoom("load", true);
     drawPet();
 }
 
@@ -44,8 +46,9 @@ function customTheme() {
     $("body").attr("class", `personality-${p}`);
     $(".personality-icon").removeClass("active");
     $(`.personality-icon.${p}`).addClass("active");
-    $(".filters-button").attr("class", `filters-button ${p} disabled`); // ACTUALIZAR
+    $(".filters-button").attr("class", `filters-button ${p}`);
     $(".filters-button img").attr("src", `assets/personalization/icon/filter-${p}.png`);
+    $(".filter-by-name-input img").attr("src", `assets/icon/zoom-${p}.svg`);
 
     $("#sub-link-favorite-outfit-img").attr("src", `assets/personalization/icon/favorite-outfit-${p}.png`);
     $("#sub-link-z-index-img").attr("src", `assets/personalization/icon/z-index-${p}.png`);
@@ -63,14 +66,14 @@ function userSettings() {
     if (hr == null) hr = "sd";
     if (cr == null) cr = "md";
     if (rr == null) rr = "sd";
-    /* if (rt == null) */ rt = "day";
-    if (rf == null) rf = "disabled";
+    if (rt == null) rt = "day";
+    if (re == null) re = "enabled";
 
     window.localStorage.setItem("hanger_res", hr);
     window.localStorage.setItem("canvas_res", cr);
     window.localStorage.setItem("room_res", rr);
     window.localStorage.setItem("room_time", rt);
-    window.localStorage.setItem("room_filters", rf);
+    window.localStorage.setItem("room_effects", re);
 
     $(".option-picker .choice").removeClass("active");
     $(`#icon-${hr}`).addClass("active");
@@ -85,33 +88,43 @@ function userSettings() {
         $(".graphics .asng-toggle-switch.alternate-time .slider").removeClass("off");
     };
 
-    if (rf == "disabled") {
+    if (re == "disabled") {
         $(".asng-toggle-switch.alternate-filters label").addClass("off");
         $(".graphics .asng-toggle-switch.alternate-filters .slider").addClass("off");
     } else {
         $(".asng-toggle-switch.alternate-filters label").removeClass("off");
         $(".graphics .asng-toggle-switch.alternate-filters .slider").removeClass("off");
-    }
+    };
 
-    let bg = (sucrette.room.background).split("-");
-    
-    drawRoom("load", false);
     $("#pet-base").attr("src", composePetUrl("full", null, null));
     if (sucrette.pet.outfit != null) $("#pet-outfit").attr("src", composePetUrl("full", (sucrette.pet.outfit).split("-")[0], (sucrette.pet.outfit).split("-")[1]));
-    $(".asng-room-canvas.background").css("background-image", `url(https://assets.corazondemelon-newgen.es/room-item/image/full/${rr}/${bg[0]}-${rt}-${bg[1]}.jpg)`);
 }
 
 function drawCategory(c = "top", declination = null) {
     
-    // filter ?
-    // grouped ?
+    // filters ?
+    let search = $(".filter-by-name-input input").val().trim();
+    let filterType = $('.filter-by-type .type.active').length == 1 ? $('.filter-by-type .type.active').data("type") : null;
 
-    var lista = cloth.filter(v => {return v.category == c})
-    var type = "cloth";
+    let lista = [], type = "cloth";
+    if (search != "") {
+        c = "auto";
+        search = normalize(search).toLowerCase();
+        // so sloooooooow
+        lista = cloth.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+    } else {
+        lista = cloth.filter(v => {return v.category == c});
+    }
+
+    // grouped ?
 
     if (c == "eyebrows" || c == "eyes" || c == "mouth") {
         lista = avatar.collections[c].filter(v => {return v.category == c});
         type = c;
+    };
+
+    if (filterType != null) {
+        lista = lista.filter(v => {return v.criteria != null && v.criteria.type == filterType});
     };
 
     if (lista.length > 0) {
@@ -130,7 +143,7 @@ function drawCategory(c = "top", declination = null) {
                     .append('<img src="assets/personalization/hanger.png" class="hanger" />')
                     .append('<div class="group" tooltipplacement="bottom" tooltippanelclass="asng-dressing-item-tooltip"></div>');
                     $(".asng-cloth").eq(i).find('div')
-                    .append(`<img class="thumbnail" alt="${lista[i].name}" src="${composeHangerUrl(lista[i].variations[0].id, lista[i].security, type)}">`)
+                    .append(`<img class="thumbnail" alt="${lista[i].name}" title="${lista[i].outfitName != null ? lista[i].outfitName : ""}" src="${composeHangerUrl(lista[i].variations[0].id, lista[i].security, type)}">`)
                     .append(`<div class="counter">${lista[i].variations.length}</div>`);
 
                     if (lista[i].criteria != null) {
@@ -160,7 +173,7 @@ function drawCategory(c = "top", declination = null) {
                     $(`.asng-cloth[data-item="${dataI}"] .item`)
                         .append('<div tooltipplacement="bottom" tooltippanelclass="asng-dressing-item-tooltip"></div>');
                     $(`.asng-cloth[data-item="${dataI}"] div`).not(".item").not('.item-outline')
-                    .append(`<img class="thumbnail" alt="${lista[i].name}" src="${composeHangerUrl(lista[i].variations[0].id, lista[i].security, type)}">`);
+                    .append(`<img class="thumbnail" alt="${lista[i].name}" title="${lista[i].outfitName != null ? lista[i].outfitName : ""}" src="${composeHangerUrl(lista[i].variations[0].id, lista[i].security, type)}">`);
 
                     if (lista[i].criteria != null) {
                         let icon = "";
@@ -205,7 +218,7 @@ function drawCategory(c = "top", declination = null) {
                 $('.declinations-panel .asng-cloth .item').eq(x)
                     .append('<div tooltipplacement="bottom" tooltippanelclass="asng-dressing-item-tooltip"></div>');
                 $('.declinations-panel .asng-cloth .item').eq(x).find('div').not('.item-outline')
-                    .append(`<img class="thumbnail" alt="${d[0].name}" src="${composeHangerUrl(d[0].variations[x].id, d[0].security, type)}">`);
+                    .append(`<img class="thumbnail" alt="${d[0].name}" title="${(d[0].outfitName != null ? d[0].outfitName : "")}" src="${composeHangerUrl(d[0].variations[x].id, d[0].security, type)}">`);
             };
         }
     
@@ -345,11 +358,11 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
     // 1200 x 1550
 
     if (mode == "load" || mode == "update_avatar" || mode == "basics") {
-        if (mode != "update_avatar") $("canvas").not("#save-canvas").not("#pet").remove();
+        if (mode != "update_avatar") $(".avatar-canvas").remove();
 
         for (m = 0; m < sucrette.orderInfo.length; m++) {
             if (sucrette.orderInfo[m].category == "avatar") {
-                $("#asng-avatar").append('<canvas id="avatar-base" width="1200" height="1550"></canvas>');
+                $("#asng-avatar").append('<canvas class="avatar-canvas" id="avatar-base" width="1200" height="1550"></canvas>');
 
                 // draw avatar base
 
@@ -389,14 +402,14 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
                     // Ropa interior
                     let x = sucrette.orderInfo.findIndex(v => v.category == "underwear");
                     var img = composeCanvasUrl("cloth", size, sucrette.orderInfo[x].value);
-                    newCanvas(sucrette.orderInfo[x].category, img, 1);
+                    $("#save-canvas").length == 0 ? newCanvas(sucrette.orderInfo[x].category, img, 1) : await newCanvas(sucrette.orderInfo[x].category, img, 1);
 
                     // Cabello
                     img = composeAvatarUrl("hair", size, sucrette.avatar.hair, "back");
-                    newCanvas("hair", img, 2);
+                    $("#save-canvas").length == 0 ? newCanvas("hair", img, 2) : await newCanvas("hair", img, 2);
 
                     img = composeAvatarUrl("hair", size, sucrette.avatar.hair, "front");
-                    newCanvas("hair", img, 3);
+                    $("#save-canvas").length == 0 ? newCanvas("hair", img, 3) : await newCanvas("hair", img, 3);
 
                     break;
                 }
@@ -406,7 +419,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
                 // draw hair (no wig)
                 var img = composeAvatarUrl("hair", size, sucrette.avatar.hair, sucrette.orderInfo[m].layer);
-                newCanvas(`${sucrette.orderInfo[m].category}-${sucrette.orderInfo[m].layer}`, img, m);
+                $("#save-canvas").length == 0 ? newCanvas(`${sucrette.orderInfo[m].category}-${sucrette.orderInfo[m].layer}`, img, m) : await newCanvas(`${sucrette.orderInfo[m].category}-${sucrette.orderInfo[m].layer}`, img, m);
 
             } else if (mode != "update_avatar" && mode != "basics") {
 
@@ -418,18 +431,16 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
                     // draw mono layer
                     var img = composeCanvasUrl("cloth", size, sucrette.orderInfo[m].value);
-                    newCanvas(sucrette.orderInfo[m].category, img, m);
+                    $("#save-canvas").length == 0 ? newCanvas(sucrette.orderInfo[m].category, img, m) : await newCanvas(sucrette.orderInfo[m].category, img, m);
                 
                 } else {
 
                     // draw multi layer
                     var img = composeCanvasUrl("cloth", size, sucrette.orderInfo[m].value, sucrette.orderInfo[m].layer);
-                    newCanvas(`${sucrette.orderInfo[m].category}-${sucrette.orderInfo[m].layer}`, img, m, "append");
+                    $("#save-canvas").length == 0 ? newCanvas(`${sucrette.orderInfo[m].category}-${sucrette.orderInfo[m].layer}`, img, m, "append") : await newCanvas(`${sucrette.orderInfo[m].category}-${sucrette.orderInfo[m].layer}`, img, m, "append");
 
-                }
-
-            }
-
+                };
+            };
         };
 
     } else if (mode == "new") {
@@ -445,7 +456,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
         if (temp[0].layer == null) {
             // Es mono
             var img = composeCanvasUrl("cloth", size, temp[0].value);
-            newCanvas(sucrette.orderInfo[rd].category, img, rd);
+            $("#save-canvas").length == 0 ? newCanvas(sucrette.orderInfo[rd].category, img, rd) : await newCanvas(sucrette.orderInfo[rd].category, img, rd);
 
         } else {
             // Es multi
@@ -453,11 +464,11 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
             var V = temp[0].category != "hair" ? temp[0].value : sucrette.avatar.hair;
             var P = rd == 0 ? "prepend" : "append";
             var img = temp[0].category != "hair" ? composeCanvasUrl(T, size, V, temp[0].layer) : composeAvatarUrl("hair", size, sucrette.avatar.hair, temp[0].layer);
-            newCanvas(`${temp[0].category}-${temp[0].layer}`, img, rd, P);
+            $("#save-canvas").length == 0 ? newCanvas(`${temp[0].category}-${temp[0].layer}`, img, rd, P) : await newCanvas(`${temp[0].category}-${temp[0].layer}`, img, rd, P);
         };
 
     } else if (mode == "replace") {
-        var ctx = document.getElementsByTagName("canvas")[rd].getContext("2d");
+        var ctx = document.getElementsByClassName("avatar-canvas")[rd].getContext("2d");
         ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
         var T = sucrette.orderInfo[rd].category != "hair" ? "cloth" : "avatar-part";
         var V = sucrette.orderInfo[rd].category != "hair" ? sucrette.orderInfo[rd].value : sucrette.avatar.hair;
@@ -470,12 +481,12 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 async function newCanvas(info, img, i = new Number, p = "append") {
     if ($("#save-canvas").length == 0) {
         if (p == "append") {
-            $("#asng-avatar").append(`<canvas data-info="${info}" width="1200" height="1550"></canvas>`);
+            $("#asng-avatar").append(`<canvas class="avatar-canvas" data-info="${info}" width="1200" height="1550"></canvas>`);
         } else {
-            $("#asng-avatar").prepend(`<canvas data-info="${info}" width="1200" height="1550"></canvas>`);
+            $("#asng-avatar").prepend(`<canvas class="avatar-canvas" data-info="${info}" width="1200" height="1550"></canvas>`);
         };
 
-        var ctx = document.getElementsByTagName("canvas")[i].getContext("2d");
+        var ctx = document.getElementsByClassName("avatar-canvas")[i].getContext("2d");
         ready = await preloadIMG(img);
         ctx.drawImage(ready, 0, 0, 1200, 1550);
 
@@ -505,11 +516,11 @@ function checkCurrentItems(id) {
             };
 
             sucrette.orderInfo.splice(f, 1);
-            $("canvas").eq(f).remove();
+            $(".avatar-canvas").eq(f).remove();
 
             if (b != null) {
                 sucrette.orderInfo.splice(b, 1);
-                $("canvas").eq(b).remove();
+                $(".avatar-canvas").eq(b).remove();
             };
 
             if (check[0].category == "wig") {
@@ -589,7 +600,7 @@ function checkCurrentItems(id) {
                         let f = sucrette.orderInfo.findIndex(v => {return v.category == "underwear" && v.layer == "front"});
                         let b = sucrette.orderInfo.findIndex(v => {return v.category == "underwear" && v.layer == "back"});
 
-                        $("canvas").eq(b).remove();
+                        $(".avatar-canvas").eq(b).remove();
                         sucrette.orderInfo.splice(b, 1);
                         f--;
 
@@ -608,7 +619,7 @@ function checkCurrentItems(id) {
                         sucrette.orderInfo[f].layer = "front";
 
                         sucrette.orderInfo.splice(f, 0, {"category":"underwear", "layer":"back", "value":id});
-                        $("#asng-avatar > canvas:nth-child(" + (f) + ")").after('<canvas data-info="underwear" width="1200" height="1550"></canvas>');
+                        $("#asng-avatar > canvas:nth-child(" + (f) + ")").after('<canvas class="avatar-canvas" data-info="underwear" width="1200" height="1550"></canvas>');
 
                         drawSucrette(cr, "replace", f);
                         drawSucrette(cr, "replace", f + 1);
@@ -645,13 +656,13 @@ function checkCurrentItems(id) {
                             if (b + f == -2) {
                                 f = sucrette.orderInfo.findIndex(v => {return v.category == cc && v.layer == null});
                                 sucrette.orderInfo.splice(f, 1);
-                                $("canvas").eq(f).remove();
+                                $(".avatar-canvas").eq(f).remove();
 
                             } else {
                                 sucrette.orderInfo.splice(f, 1);
                                 sucrette.orderInfo.splice(b, 1);
-                                $("canvas").eq(f).remove();
-                                $("canvas").eq(b).remove();
+                                $(".avatar-canvas").eq(f).remove();
+                                $(".avatar-canvas").eq(b).remove();
                             };
                         };
                     };
@@ -786,7 +797,7 @@ function arrayMove(from, to) {
 };
 
 function moveCanvas(from, to) {
-    let elmnt = document.getElementsByTagName("canvas")[from];
+    let elmnt = document.getElementsByClassName("avatar-canvas")[from];
     if (from > to) { // baja
         elmnt.parentNode.insertBefore(elmnt, elmnt.previousElementSibling);
     } else { // sube
@@ -804,7 +815,7 @@ function removeItem(z) {
         if (l == null) {
             // Solo una capa, eliminar
             sucrette.orderInfo.splice(z, 1);
-            $("canvas").eq(z).remove();
+            $(".avatar-canvas").eq(z).remove();
 
         } else {
             // Varias capas
@@ -815,14 +826,14 @@ function removeItem(z) {
 
             if (z > z2) {
                 sucrette.orderInfo.splice(z, 1);
-                $("canvas").eq(z).remove();
+                $(".avatar-canvas").eq(z).remove();
                 sucrette.orderInfo.splice(z2, 1);
-                $("canvas").eq(z2).remove();
+                $(".avatar-canvas").eq(z2).remove();
             } else {
                 sucrette.orderInfo.splice(z2, 1);
-                $("canvas").eq(z2).remove();
+                $(".avatar-canvas").eq(z2).remove();
                 sucrette.orderInfo.splice(z, 1);
-                $("canvas").eq(z).remove();
+                $(".avatar-canvas").eq(z).remove();
             };
 
             if (c == "wig") {
@@ -851,18 +862,25 @@ function resetSucrette() {
 }
 
 function drawSavePopUp(w, h) {
+    let type = (w == 1200) ? "fullbody" : (h == 1080) ? "face" : "background";
     if ($("#save-canvas").length == 0) {
         $("body").append(`<div id="overlay-popup"><div id="canvas-container"><canvas width="${w}" height="${h}" id="save-canvas"></canvas></div></div>`);
         $("#canvas-container").append(`<div class="button close"><i class="fa-solid fa-xmark"></i></div>`);
         $("#canvas-container").append(`<div class="button reload"><i class="fa-solid fa-rotate"></i></div>`);
-        $("#canvas-container").append(`<div class="button portrait"><i class="fa-solid fa-user"></i></div>`);
-        $("#canvas-container").append(`<div class="button fullbody"><i class="fa-solid fa-person"></i></div>`);
-        $("#canvas-container").append(`<div class="button code"><i class="fa-solid fa-code"></i></div>`);
+        if (type != "background") {
+            $("#canvas-container").append(`<div class="button portrait"><i class="fa-solid fa-user"></i></div>`);
+            $("#canvas-container").append(`<div class="button fullbody"><i class="fa-solid fa-person"></i></div>`);
+            $("#canvas-container").append(`<div class="button code"><i class="fa-solid fa-code"></i></div>`);
+        };
+
     } else {
         $("#save-canvas").attr("width", w).attr("height", h);
     };
 
-    (w != 1920) ? drawSucrette("hd", "load") : drawSucrette("md", "load");
+    (w == 1200) ? drawSucrette("hd", "load") : (h == 1080) ? drawSucrette("md", "load") : drawBackgroundPopUp();
+    // NORMAL -> 1200x1550
+    // BIG -> 1920x1080
+    // ROOM -> 1920x1296
 };
 
 // ROOM FUNCTIONS!
@@ -904,42 +922,107 @@ function checkRoom(c, i) {
     } else {
         // Reemplazar o añadir
         sucrette.room[c] = i;
-        drawRoom(c, true);
+        drawRoomCanvas(c, true);
         return true;
     };
 };
 
-function drawRoom(m = "load", p = true) {
+async function drawRoomCanvas(m = "load", p = false) {
 
-    let preview = ".asng-room-preview";
-    let full = ".asng-room-canvas";
+    if (m == "load" && !p) {
 
-    if (m == "load") {
-        let bg = (sucrette.room.background).split("-");
-        $(`${full}.background`).css("background-image", `url(${composeRoomUrl("background", bg[0], bg[1], "full", rr)})`);
-        if (rf == "enabled") {
-            alert("Los filtros no están disponibles actualmente!");
-        };
-
-        if (p) $(`${preview}.background`).css("background-image", `url(${composeRoomUrl("background", bg[0], bg[1], "full", rr)})`);
-        
-        for (i = 1; i <= 5; i++) {
-            let c = "slot" + i;
-            if (sucrette.room[c] != null) {
-                let item = sucrette.room[c].split("-");
-                $(`${full}.${c}`).css("background-image", `url(${composeRoomUrl(c, item[0], item[1], "full", rr)})`);
-                if (p) $(`${preview}.${c}`).css("background-image", `url(${composeRoomUrl(c, item[0], item[1], "full", rr)})`);
-            } else {
-                $(`${full}.${c}`).removeAttr("style");
-                $(`${preview}.${c}`).removeAttr("style");
-            };
-        };        
-
+        await drawBackgroundPopUp("asng-room-canvas");
+        await drawBackgroundPopUp("asng-room-canvas-preview");
     } else {
         // Añadir / reemplazar
-        let item = sucrette.room[m].split("-");
-        $(`${full}.${m}`).css("background-image", `url(${composeRoomUrl(m, item[0], item[1], "full", rr)})`);
-        if(p) $(`${preview}.${m}`).css("background-image", `url(${composeRoomUrl(m, item[0], item[1], "full", rr)})`);
+        await drawBackgroundPopUp("asng-room-canvas-preview");
+        await drawBackgroundPopUp("asng-room-canvas");
+        
+    };
+};
+
+async function drawBackgroundPopUp(elmnt = "save-canvas") {
+
+    let ctx = document.getElementById(elmnt).getContext("2d");
+    let w = ctx.canvas.width, h = ctx.canvas.height;
+    ctx.clearRect(0, 0, w, h);
+    let size = elmnt == "save-canvas" ? "md" : rr;
+
+    let img = composeRoomUrl("background", sucrette.room.background.split("-")[0], sucrette.room.background.split("-")[1], "full", size);
+    let ready = await preloadIMG(img);
+    ctx.drawImage(ready, 0, 0, w, h);
+
+    // temp canvas
+    const e = document.createElement("canvas");
+    e.width = w; e.height = h;
+    const p = e.getContext("2d");
+
+    // Filters
+    let bgEffects = room.background.filter(v => v.security == sucrette.room.background.split("-")[1]);
+
+    for (i = 1; i <= 5; i++) {
+
+        ctx.globalCompositeOperation = "source-over";
+        if (sucrette.room[`slot${i}`] != null) {
+            p.globalCompositeOperation = "copy";
+            img = composeRoomUrl(`slot${i}`, sucrette.room[`slot${i}`].split("-")[0], sucrette.room[`slot${i}`].split("-")[1], "full", size);
+            ready = await preloadIMG(img);
+            p.drawImage(ready, 0, 0, w, h);
+            ctx.drawImage(e, 0, 0, w, h);
+            p.clearRect(0, 0, w, h);
+
+            if (re == "enabled") {
+                // ambient
+                p.globalCompositeOperation = "copy";
+                img = composeRoomUrl(`slot${i}`, sucrette.room[`slot${i}`].split("-")[0], sucrette.room[`slot${i}`].split("-")[1], "full", size, "ambient");
+                ready = await preloadIMG(img);
+                p.drawImage(ctx.canvas, 0, 0, w, h);
+                p.globalCompositeOperation = "multiply";
+                p.fillStyle = `#${bgEffects[0].backgroundColors[rt].color1}`;
+                p.fillRect(0, 0, w, h);
+                p.globalCompositeOperation = "destination-atop";
+                p.drawImage(ready, 0, 0, w, h);
+                ctx.drawImage(e, 0, 0, w, h);
+                p.clearRect(0, 0, w, h);
+
+                // Shadow
+                p.globalCompositeOperation = "copy";
+                img = composeRoomUrl(`slot${i}`, sucrette.room[`slot${i}`].split("-")[0], sucrette.room[`slot${i}`].split("-")[1], "full", size, "shadow");
+                ready = await preloadIMG(img);
+                p.drawImage(ctx.canvas, 0, 0, w, h);
+                p.globalCompositeOperation = "multiply";
+                p.fillStyle = `#${bgEffects[0].backgroundColors[rt].color2}`;
+                p.fillRect(0, 0, w, h);
+                p.globalCompositeOperation = "destination-atop";
+                p.drawImage(ready, 0, 0, w, h);
+                ctx.drawImage(e, 0, 0, w, h);
+                p.clearRect(0, 0, w, h);
+
+                // light
+                let itemLight = room[`slot${i}`].filter(v => {return v.security == sucrette.room[`slot${i}`].split("-")[1]});
+                if (itemLight[0].light) {
+                    img = composeRoomUrl(`slot${i}`, sucrette.room[`slot${i}`].split("-")[0], sucrette.room[`slot${i}`].split("-")[1], "full", size, "light");
+                    ready = await preloadIMG(img);
+                    ctx.globalCompositeOperation = "lighter";
+                    ctx.drawImage(ready, 0, 0, w, h);
+                };
+            };
+        };
+    };
+    
+    // bg light
+    if (bgEffects[0].light && re == "enabled") {
+        p.globalCompositeOperation = "copy";
+        img = composeRoomUrl("background", sucrette.room.background.split("-")[0], sucrette.room.background.split("-")[1], "full", size, "light");
+        ready = await preloadIMG(img);
+        p.drawImage(ctx.canvas, 0, 0, w, h);
+        p.globalCompositeOperation = "lighter";
+        p.fillStyle = `#${bgEffects[0].backgroundColors[rt].colorLight}`;
+        p.fillRect(0, 0, w, h);
+        p.globalCompositeOperation = "destination-atop";
+        p.drawImage(ready, 0, 0, w, h);
+        ctx.drawImage(e, 0, 0, w, h);
+        p.clearRect(0, 0, w, h);
     };
 };
 
@@ -999,8 +1082,18 @@ function drawPet() {
     } else {
         $("#pet-base").hide();
     };
+};
+
+function closeFiltersPanel() {
+    $(".filters-button").removeClass("active");
+    $(".asng-filters").removeClass("active");
 }
 
+function clearInputFilter() {
+    $(".filter-by-name-input input").val("");
+    $(".filter-by-name-input input").addClass("empty");
+    $(".filter-by-name-input .reset").removeAttr("style");
+};
 
 $(function () {
     $("#asng-menu-settings").click(function() {
@@ -1021,18 +1114,21 @@ $(function () {
         if(info.split("-")[0] == "room") rr = info.split("-")[1];
         userSettings();
         if(info.split("-")[0] == "canvas") drawSucrette();
+        if(info.split("-")[0] == "room") drawRoomCanvas();
     });
 
     $(".asng-toggle-switch.alternate-time > label").click(function() {
         let clase = $(this).attr("class");
         clase == "off" ? rt = "night" : rt = "day";
         userSettings();
+        drawRoomCanvas();
     });
 
     $(".asng-toggle-switch.alternate-filters > label").click(function() {
         let clase = $(this).attr("class");
-        clase == "off" ? rf = "enabled" : rf = "disabled";
+        clase == "off" ? re = "enabled" : re = "disabled";
         userSettings();
+        drawRoomCanvas();
     });
 
 
@@ -1056,7 +1152,55 @@ $(function () {
         };
     });
 
+    $(".filters-button").click(function() {
+        $(".filters-button").addClass("active");
+        $(".asng-filters").addClass("active");
+    });
+
+    $(".backdrop").click(function() {
+        closeFiltersPanel();
+    });
+
+    $(".asng-filters .asng-close-button").click(function() {
+        closeFiltersPanel();
+    });
+
+    $(".filter-by-name-input input").on("input", function() {
+        if ($(this).val() != "") {
+            // Input filter on
+            $(this).removeClass("empty");
+            $(".filter-by-name-input .reset").css("opacity", 1).css("visibility", "visible");
+            $(".current-category").text("Filtrado");
+            $(".category-list-item").removeClass("current");
+            drawCategory();
+
+        } else {
+            // Input filter off
+            $(this).addClass("empty");
+            $(".filter-by-name-input .reset").removeAttr("style");
+            drawAvatarZone("auto", "torso");
+        }
+    });
+
+    $(".filter-by-name-input .reset").click(function() {
+        clearInputFilter();
+        drawAvatarZone("auto", "torso");
+    });
+
+    $(".filter-by-type .type").click(function () {
+
+        if ($(this).attr("class").includes("active")) {
+            $(".filter-by-type .type").removeClass("active");
+        } else {
+            $(".filter-by-type .type").removeClass("active");
+            $(this).addClass("active");
+        };
+        let c = $(".category-list-item.current").length == 1 ? $(".category-list-item.current").data("category") : "top";
+        drawCategory(c);
+    });
+
     $(".category-list-item").on('click', function() {
+        clearInputFilter();
         var clase = $(this).attr("class");
         if (!clase.includes("current")) {
             $(".category-list-item.current").removeClass("current");
@@ -1069,6 +1213,7 @@ $(function () {
     });
 
     $("#asng-zone-selector path").click(function() {
+        clearInputFilter();
         let zone = ($(this).attr("id")).split("-")[1];
         $(".category-list-item.current").removeClass("current");
         drawAvatarZone("auto", zone);
@@ -1147,6 +1292,7 @@ $(function () {
     });
 
     $(".categories").on("click", ".category", function() {
+        clearInputFilter();
         var newCategory = ($(this).attr("id")).split("-")[3];
 
         // actualizar lista y nombre de categoria
@@ -1276,6 +1422,7 @@ $(function () {
 
         $("#asng-avatar-item-list-panel").hide();
         $("#asng-avatar-part-color-list-panel").hide();
+        $("#asng-pet-outfit-list-panel").hide();
         $("#asng-z-index").hide();
 
         $(".room-category").removeClass("active");
@@ -1284,10 +1431,9 @@ $(function () {
         $(".asng-player-room").css("filter", "blur(100px)");
 
         $(".zoom").hide();
-        $(".save").hide();
 
         drawRoomItems();
-        drawRoom("load", true);
+        drawRoomCanvas("load", true);
         
     });
 
@@ -1298,8 +1444,7 @@ $(function () {
         sucrette.room.slot4 = null;
         sucrette.room.slot5 = null;
 
-        $(".asng-room-canvas").not(".background").removeAttr("style");
-        $(".asng-room-preview").not(".background").removeAttr("style");
+        drawRoomCanvas("load", true);
         $(".asng-room-item .item").not(".background").find(".item-outline").removeClass("equipped");
     });
 
@@ -1372,7 +1517,14 @@ $(function () {
     });
 
     $(".asng-personalization-view .save").click(function() {
-        drawSavePopUp(1200, 1550);
+        if ($(".room-panel").length == 0) {
+            // drawSucrette
+            drawSavePopUp(1200, 1550);
+        } else {
+            // drawRoom
+            drawSavePopUp(1920, 1296);
+        }
+        
     });
 
     $('body').on("click", "#canvas-container .close", function() {
@@ -1384,7 +1536,12 @@ $(function () {
         let w = parseInt($("#save-canvas").attr("width"));
         let h = parseInt($("#save-canvas").attr("height"));
         document.getElementById("save-canvas").getContext("2d").clearRect(0, 0, w, h);
-        (w != 1920) ? drawSucrette("hd", "load") : drawSucrette("md", "load");
+
+        if ($(".room-panel").length == 0) {
+            (w != 1920) ? drawSucrette("hd", "load") : drawSucrette("md", "load");
+        } else {
+            drawBackgroundPopUp("save-canvas");
+        }
     });
 
     $('body').on("click", "#canvas-container .portrait", function() {
@@ -1435,7 +1592,6 @@ $(function () {
         drawRoomItems(c);
     });
     
-
     $(".room-items").on("click", ".asng-room-item", function() {
         let item = ($(this).find("img").attr("src"));
         item = item.split("/");
@@ -1662,4 +1818,4 @@ let hr = window.localStorage.getItem("hanger_res");
 let cr = window.localStorage.getItem("canvas_res");
 let rr = window.localStorage.getItem("room_res");
 let rt = window.localStorage.getItem("room_time");
-let rf = window.localStorage.getItem("room_filters");
+let re = window.localStorage.getItem("room_effects");

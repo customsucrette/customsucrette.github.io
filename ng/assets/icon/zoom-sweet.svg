@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-66059d8a-e7e7-41f4-8e78-d9c80f9d88cf" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="30" height="30" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="uuid-b0c4b074-2349-477c-82f6-03c5fd4d2fd5">
+      <rect width="30" height="30" fill="none" stroke-width="0"/>
+    </clipPath>
+    <filter id="uuid-9f11cd6e-dbda-46a8-a1d7-d74ea2f7d38a" data-name="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="1.47"/>
+      <feGaussianBlur result="uuid-9685d10d-5cfe-4dd2-9f57-d3ce047d7358" stdDeviation=".74"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="uuid-9685d10d-5cfe-4dd2-9f57-d3ce047d7358" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="uuid-dad9baa9-f222-4dd1-8836-1645b814e95c" data-name="Calque 1">
+    <g id="uuid-d7163f05-1312-4184-bc7b-0614bfc23179" data-name="icon__zoom-sweet">
+      <g clip-path="url(#uuid-b0c4b074-2349-477c-82f6-03c5fd4d2fd5)">
+        <g>
+          <g filter="url(#uuid-9f11cd6e-dbda-46a8-a1d7-d74ea2f7d38a)">
+            <circle id="uuid-5b8a8f19-78f9-4511-88fc-da16d00b7753" data-name="Ellipse 168-2" cx="15" cy="15" r="11.06" fill="#fff" stroke-width="0"/>
+          </g>
+          <path d="m20.01,19.15l-2.05-1.9c.64-.79,1.02-1.79,1.02-2.88,0-2.53-2.06-4.59-4.59-4.59s-4.59,2.06-4.59,4.59,2.06,4.59,4.59,4.59c1,0,1.92-.32,2.67-.87l2.11,1.96c.12.11.27.16.42.16.17,0,.33-.07.45-.2.23-.25.22-.64-.03-.87Zm-8.99-4.78c0-1.85,1.51-3.36,3.36-3.36s3.36,1.51,3.36,3.36-1.51,3.36-3.36,3.36-3.36-1.51-3.36-3.36Z" fill="#ed6d7b" stroke-width="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

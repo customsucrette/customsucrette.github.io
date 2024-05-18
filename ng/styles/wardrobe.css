@@ -191,6 +191,10 @@ input[type=email], input[type=password], input[type=text], textarea {
     height: 100%;
 }
 
+#asng-room-canvas, #asng-room-canvas-preview {
+    object-fit: cover;
+}
+
 .asng-room-canvas {
     display: block;
     background-size: cover !important;
@@ -491,7 +495,7 @@ input[type=email], input[type=password], input[type=text], textarea {
     width: 303px;
     display: flex;
     flex-direction: column;
-    gap: 38px;
+    gap: 10px;
     text-align: left;
 }
 
@@ -502,10 +506,7 @@ input[type=email], input[type=password], input[type=text], textarea {
     font-weight: 800;
     line-height: 24px;
     margin-bottom: 20px;
-}
-
-.asng-settings-panel .content section.graphics h3 {
-    margin-top: 0;
+    position: relative;
 }
 
 .asng-settings-panel .content section h4 {
@@ -598,7 +599,7 @@ input[type=email], input[type=password], input[type=text], textarea {
 .quality-options, .room-options {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 4px;
 }
 
 .quality-options .option, .room-options .option {
@@ -810,6 +811,301 @@ asng-category-list {
 
 .list.open {
     height: 530px;
+}
+
+/* filter menu */
+
+.left-panel-container .asng-filters {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px 0 70px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 400ms, visibility 400ms;
+}
+
+.left-panel-container .asng-filters.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.left-panel-container .backdrop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+
+    background-color: var(--asng-personality-color-dark);
+    opacity: 0.5;
+    filter: contrast(0.1) brightness(1.6);
+}
+
+.left-panel-container .asng-filters .filters-panel {
+    width: 100%;
+    max-height: 510px;
+    position: relative;
+    z-index: 2;
+    padding: 20px 5px;
+    height: auto;
+    left: -470px;
+    transition: left 400ms;
+}
+
+.left-panel-container .asng-filters.active .filters-panel {
+    left: 0;
+}
+
+.left-panel-container .filters-panel:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: white;
+    border-radius: 30px;
+    z-index: -1;
+    transform: skewY(4deg);
+    box-shadow: 3px 3px 10px #00000029;
+    pointer-events: none;
+}
+
+.left-panel-container .filters-panel .asng-close-button {
+    --asng-close-button-width: 32px;
+    --asng-close-button-height: 33px;
+    display: block;
+    width: var(--asng-close-button-width);
+    height: var(--asng-close-button-height);
+    cursor: pointer;
+    transition: background ease-in-out .2s;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.personality-sweet .asng-close-button {
+    background: url(../assets/icon/close/close-sweet-off.svg);
+}
+.personality-sweet .asng-close-button:hover {
+    background: url(../assets/icon/close/close-sweet-on.svg);
+}
+
+.personality-lively .asng-close-button {
+    background: url(../assets/icon/close/close-lively-off.svg);
+}
+.personality-lively .asng-close-button:hover {
+    background: url(../assets/icon/close/close-lively-on.svg);
+}
+
+.personality-fiery .asng-close-button {
+    background: url(../assets/icon/close/close-fiery-off.svg);
+}
+.personality-fiery .asng-close-button:hover {
+    background: url(../assets/icon/close/close-fiery-on.svg);
+}
+
+.left-panel-container .filters-panel h3 {
+    font-weight: 300;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin: 20px 0 10px;
+}
+
+.left-panel-container .filters-panel .filter-by-name-input {
+    position: relative;
+    display: inline-block;
+    width: 260px;
+    height: 50px;
+}
+
+.left-panel-container .filters-panel .filter-by-name-input img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.left-panel-container .filters-panel .filter-by-name-input input[type=text] {
+    width: 260px;
+    height: 30px;
+    border: solid 2px var(--asng-personality-color-dark);
+    border-radius: 20px;
+    padding: 0 30px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: start;
+    font-size: 13.3333px;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: normal;
+}
+
+.left-panel-container .filters-panel .filter-by-name-input .reset {
+    position: absolute;
+    top: 3px;
+    right: 4px;
+    width: 24px;
+    height: 24px;
+    box-shadow: 0 3px 6px #00000029;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 100%;
+    color: #fff;
+    opacity: 0;
+    transition: opacity .2s;
+    cursor: pointer;
+    color: var(--asng-personality-color-dark);
+    font-size: 1.5em;
+    visibility: hidden;
+}
+
+.left-panel-container .filters-panel .filter-by-name-input input.empty {
+    padding: 0 0 0 30px;
+}
+
+.left-panel-container .filters-panel .filter-by-type {
+    height: 82px;
+}
+
+.left-panel-container .filters-panel h4 {
+    font-weight: 300;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 15px 0 8px;
+}
+
+.filter-by-type .type {
+    width: 46px;
+    height: 46px;
+    background: var(--asng-personality-color-dark);
+    border: solid 2px #e3e3e3;
+    display: inline-block;
+    margin: 0 5px;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 100%;
+    vertical-align: top;
+    position: relative;
+    cursor: pointer;
+}
+
+.filter-by-type .type:before {
+    content: "";
+    width: 34px;
+    height: 34px;
+    background: var(--asng-personality-color-dark);
+    border: solid 2px white;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    border-radius: 100%;
+    opacity: 0;
+    transform: scale(2);
+    transition: all .3s;
+}
+
+.filter-by-type .type.active:before {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.filter-by-type .type.disabled, .filter-by-type .type.hidden {
+    opacity: .3;
+    filter: grayscale(100%);
+}
+
+
+.filter-by-type .type.disabled {
+    pointer-events: none;
+}
+
+.filter-by-type .type img {
+    position: relative;
+}
+
+.filters-panel .colors {
+    padding: 0 25px;
+    height: 106px;
+    display: none;
+}
+
+.filters-panel .colors .color {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 5px 10px;
+    border-radius: 100%;
+    border: solid 2px #e3e3e3;
+    position: relative;
+    cursor: pointer;
+    background: linear-gradient(-115deg, yellow, black, yellow, black, yellow, black, yellow, black);
+}
+
+.filters-panel .colors .color:after {
+    content: "";
+    pointer-events: none;
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    width: 30px;
+    height: 30px;
+    border: solid 2px var(--asng-personality-color-dark);
+    border-radius: 100%;
+    opacity: 0;
+    transform: scale(2);
+    transition: all .3s;
+}
+
+.filters-panel .colors .color.active {
+    border-color: #fff;
+}
+
+.filters-panel .colors .color.active:after {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.filters-panel .colors .color.black { background: black; }
+.filters-panel .colors .color.blue { background: #2845bb; }
+.filters-panel .colors .color.brown { background: #9a471c; }
+.filters-panel .colors .color.green { background: #308f2d; }
+.filters-panel .colors .color.grey { background: #929292; }
+.filters-panel .colors .color.orange { background: #ff9211; }
+.filters-panel .colors .color.pink { background: #ed6d7b; }
+.filters-panel .colors .color.purple { background: #b25aca; }
+.filters-panel .colors .color.red { background: #df2626; }
+.filters-panel .colors .color.white { background: white; }
+.filters-panel .colors .color.yellow { background: #ffe558; }
+.filters-panel .colors .color.multi { background: url(../assets/personalization/filters/multicolor.png); }
+
+.filters-panel .bottom {
+    position: relative;
+    bottom: 12px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    cursor: default;
+}
+
+.bottom .filter-error {
+    height: 15px;
+    color: var(--asng-personality-color-dark);
+    font-size: 16px;
+    opacity: 0;
 }
 
 .ng-scrollbar {

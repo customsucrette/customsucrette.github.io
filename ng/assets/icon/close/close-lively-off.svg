@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-ebefdee1-237c-41af-b9a9-55a3af42c80c" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="32" height="33" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 33">
+  <defs>
+    <clipPath id="uuid-604fcf03-8f16-41ea-9180-47f5a6e40838">
+      <rect width="32" height="33" fill="none" stroke-width="0"/>
+    </clipPath>
+    <filter id="uuid-9610eb99-ef56-4fec-b8c2-772d2dd0f8de" data-name="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="uuid-d5bb32c0-ec45-4d82-93fa-90a3c8332818" stdDeviation="1"/>
+      <feFlood flood-color="#000" flood-opacity=".16"/>
+      <feComposite in2="uuid-d5bb32c0-ec45-4d82-93fa-90a3c8332818" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="uuid-ebe79554-dc47-422e-bc32-849d683d4940" data-name="Calque 1">
+    <g id="uuid-f951f28d-af76-4976-9c2c-de3c88405e17" data-name="filter__icon__remove-lively-off">
+      <g clip-path="url(#uuid-604fcf03-8f16-41ea-9180-47f5a6e40838)">
+        <g id="uuid-9d2e47ca-efcb-4ce8-ba7a-2308958caa1f" data-name="Groupe de masques 3036">
+          <g filter="url(#uuid-9610eb99-ef56-4fec-b8c2-772d2dd0f8de)">
+            <path id="uuid-a01c1fea-5770-47a6-bdde-dc0c5324ccba" data-name="Tracé 774-2" d="m29.84,16.03c0,7.64-6.2,13.83-13.84,13.83-2.84,0-5.61-.87-7.93-2.5-5.89-2.57-.44-1.95-2.8-4.32s-3.09-4.14-3.09-7.01c0-7.64,6.19-13.83,13.83-13.83,2.78-.04,5.56.1,8.32.43,5.35.48-.83,3.46,3.47,6.18,2.04,2.08,2.04,4.58,2.04,7.23" fill="#fff" stroke-width="0"/>
+          </g>
+          <path d="m17.87,16.48l2.58-2.58c.39-.39.39-1.02,0-1.41s-1.02-.39-1.41,0l-2.58,2.58-2.58-2.58c-.39-.39-1.02-.39-1.41,0s-.39,1.02,0,1.41l2.58,2.58-2.58,2.58c-.39.39-.39,1.02,0,1.41.2.2.45.29.71.29s.51-.1.71-.29l2.58-2.58,2.58,2.58c.2.2.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.02,0-1.41l-2.58-2.58Z" fill="#ef881b" stroke-width="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
