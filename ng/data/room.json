@@ -942,6 +942,13 @@
             "backgroundColors": null
         },
         {
+            "id":166, "roomId": 44, "slot":"slot5", "light":false, "security":"5118d99f442c5b6b",
+            "name":"Mesa baja",
+            "roomName":"Mermaid Shinies",
+            "criteria":{"type":"jobTask", "info":"Pantalla PC", "text":"Desbloqueado en la Misión del día\nPantalla PC"},
+            "backgroundColors": null
+        },
+        {
             "id":190, "roomId": 48, "slot":"slot5", "light":false, "security":"a26ad8d76d693e67",
             "name":"Meridiana",
             "roomName":"Witchy",
