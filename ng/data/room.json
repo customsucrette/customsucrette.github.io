@@ -161,6 +161,16 @@
             }
         },
         {
+            "id":189, "roomId": 48, "slot":"background", "light":true, "security":"137bf9e0bbe497ea",
+            "name":"Paredes",
+            "roomName":"Witchy",
+            "criteria":{"type":"calendar", "info":"2024-2", "text":"Desbloqueado en el calendario\nN°02 - 2024"},
+            "backgroundColors": {
+                "day":{"color1": "FBDEC7", "color2": "81688A", "colorLight": "3F2817"},
+                "night":{"color1": "7EBCFF","color2": "9D8CB9","colorLight": "054596"}
+            }
+        },
+        {
             "id":201, "roomId": 50, "slot":"background", "light":true, "security":"52c60b0821320f30",
             "name":"Paredes",
             "roomName":"Lady Regency",
@@ -315,6 +325,13 @@
             "backgroundColors": null
         },
         {
+            "id":194, "roomId": 48, "slot":"slot1", "light":false, "security":"6cb85232d8dfe043",
+            "name":"Banqueta",
+            "roomName":"Witchy",
+            "criteria":{"type":"calendar", "info":"2024-2", "text":"Desbloqueado en el calendario\nN°02 - 2024"},
+            "backgroundColors": null
+        },        
+        {
             "id":202, "roomId": 50, "slot":"slot1", "light":true, "security":"8b542df3c8e7e172",
             "name":"Chimenea",
             "roomName":"Lady Regency",
@@ -454,6 +471,13 @@
             "name":"Sofá",
             "roomName":"Cosy Bear",
             "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":193, "roomId": 48, "slot":"slot2", "light":false, "security":"f7f2f4d12479b2ce",
+            "name":"Cama",
+            "roomName":"Witchy",
+            "criteria":{"type":"calendar", "info":"2024-2", "text":"Desbloqueado en el calendario\nN°02 - 2024"},
             "backgroundColors": null
         },
         {
@@ -603,6 +627,13 @@
             "name":"Sillón",
             "roomName":"Mermaid Shinies",
             "criteria":{"type":"jobTask", "info":"Pantalla PC", "text":"Desbloqueado en la Misión del día\nPantalla PC"},
+            "backgroundColors": null
+        },
+        {
+            "id":192, "roomId": 48, "slot":"slot3", "light":false, "security":"a77fd597525cf2a5",
+            "name":"Estantería",
+            "roomName":"Witchy",
+            "criteria":{"type":"calendar", "info":"2024-2", "text":"Desbloqueado en el calendario\nN°02 - 2024"},
             "backgroundColors": null
         },
         {
@@ -769,6 +800,13 @@
             "backgroundColors": null
         },
         {
+            "id":191, "roomId": 48, "slot":"slot4", "light":false, "security":"04965408db158ba1",
+            "name":"Árbol para gatos",
+            "roomName":"Witchy",
+            "criteria":{"type":"calendar", "info":"2024-2", "text":"Desbloqueado en el calendario\nN°02 - 2024"},
+            "backgroundColors": null
+        },
+        {
             "id":205, "roomId": 50, "slot":"slot4", "light":false, "security":"84d783b3970de20d",
             "name":"Mesa",
             "roomName":"Lady Regency",
@@ -901,6 +939,13 @@
             "name":"Mesa",
             "roomName":"Cosy Bear",
             "criteria":null,
+            "backgroundColors": null
+        },
+        {
+            "id":190, "roomId": 48, "slot":"slot5", "light":false, "security":"a26ad8d76d693e67",
+            "name":"Meridiana",
+            "roomName":"Witchy",
+            "criteria":{"type":"calendar", "info":"2024-2", "text":"Desbloqueado en el calendario\nN°02 - 2024"},
             "backgroundColors": null
         },
         {
