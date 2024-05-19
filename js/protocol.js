@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    drawPopUpNewGen();
+    //drawPopUpNewGen();
 });
 
 if (location.protocol != 'https:') {

@@ -2,6 +2,12 @@
 	background: url(https://www.corazondemelon.es/image/backgrounds/s2/site.jpg) 50% no-repeat;
 }
 
+#page-sheet-container {
+    width: 100%;
+    background-color: transparent;
+    box-shadow: none;
+}
+
 #site-header {
 	height: 205px;
 }
@@ -46,21 +52,36 @@
 
 #dashboard-container {
     position: relative;
-	top: 40px;
-	display: flex;
-	z-index: 2;
+    display: inline-block;
+    z-index: 2;
+    top: 0;
+    padding: 0 20px 20px;
+}
+
+.double-portrait {
+    display: block;
+    margin-top: 30px;
+    position: relative;
 }
 
 .portrait {
-    width: 294px;
+    background-size: cover;
+    border-radius: 20px;
+    box-shadow: 0 0 8px;
+}
+
+.portrait:not(.version3) {
+    width: 48%;
     z-index: -1;
+    display: inline-block;
+    height: 640px;
+    overflow: hidden;
 }
 
 .portrait img {
     position: relative;
-    left: -90px;
-	top: -36px;
-	
+    top: 0;
+    left: -20px;
 }
 
 .portrait a {
@@ -79,6 +100,9 @@
     width: 390px;
     text-align: center;
     height: 440px;
+    position: absolute;
+    right: 50px;
+    top: 30px;
 
 }
 
@@ -97,9 +121,13 @@
 
 .version1 h3 {
 	position: absolute;
-	bottom: 114px;
-	z-index: 0;
-	left: 260px;
+	bottom: 120px;
+	z-index: 1;
+	left: 0;
+}
+
+.title-container {
+    text-shadow: 0px 0 2px #000;
 }
 
 .version1 .title-container {
@@ -111,9 +139,9 @@
 
 .version2 h3 {
 	position: absolute;
-	bottom: 54px;
-	z-index: 0;
-	right: 440px;
+	z-index: 1;
+    bottom: 120px;
+    right: 30px;
 }
 
 .version2 .title-container {
@@ -123,28 +151,65 @@
     min-width: 330px;
 }
 
+.portrait.version1 {
+    float: left;
+    background-image: url(https://www.corazondemelon.es/image/backgrounds/s1/site.png);
+}
 
-.version1 a img, .version1 a h3, .version2 a img, .version2 a h3 {
+.portrait.version2 {
+    float: right;
+    background-image: url(https://www.corazondemelon.es/image/backgrounds/s3/site.jpg);
+}
+
+.portrait.version3 {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+    background-image: url(../assets/img/bg-v3.png);
+}
+
+.portrait.version3 h3 {
+    position: absolute;
+    bottom: 120px;
+    z-index: 1;
+    width: 220px;
+    text-align: right;
+    padding-right: 20px;
+
+    background: rgb(235,109,122);
+    background: linear-gradient(45deg, rgba(235,109,122,1) 15%, rgba(253,183,39,1) 50%, rgba(106,181,113,1) 85%);
+}
+
+.portrait.version3 img {
+    left: -50px;
+    top: 0;
+    position: relative;
+    width: 108%;
+}
+
+.version1 a img, .version1 a h3, .version2 a img, .version2 a h3, .version3 a img, .version3 a h3 {
     transition: all .2s;
 }
 
-.version1 a:hover img, .version1 a:hover h3, .version2 a:hover img, .version2 a:hover h3 {
+.version1 a:hover img, .version1 a:hover h3, .version2 a:hover img, .version2 a:hover h3, .version3 a:hover img, .version3 a:hover h3 {
     transform: scale(105%);
 }
 
-
 #home-bottom {
-    background: url(https://www.corazondemelon.es/image/home/s2/bottom.jpg);
+    /* background: url(https://www.corazondemelon.es/image/home/s2/bottom.jpg); */
     position: relative;
-    margin-top: 20px;
-    width: 100%;
-    box-shadow: 0 0 4.9px .1px rgba(24,24,24,.73);
+    /* margin-top: 20px; */
+    width: 96%;
+    /* box-shadow: 0 0 4.9px .1px rgba(24,24,24,.73); */
     text-align: center;
+    border-radius: 20px;
+    margin: auto;
+    color: #fff;
 }
 
 #home-bottom .infos {
     width: 100%;
-    /*height: 390px;*/
     position: relative;
     padding: 20px;
 }
@@ -155,4 +220,25 @@
 
 .infos .sub {
     font-size: 15px;
+}
+
+.sub-info a {
+    color: #22a1af;
+}
+
+#disclaimer {
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+    width: calc(100% - 40px);
+    text-align: center;
+    margin: 10px 20px;
+    font-size: 10px;
+    font-size: 8px;
+    text-transform: uppercase;
+    font-family: verdana;
+}
+
+#disclaimer a {
+    color: #46c4d2
 }
