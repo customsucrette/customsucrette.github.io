@@ -3,7 +3,7 @@ $(document).ready(function() {
         $.get("./data/avatar.json", dbAvatar => {
             $.get("./data/room.json", dbRoom => {
                 $.get("./data/pet.json", dbPet => {
-                    $(".version").text("v1.0.2");
+                    $(".version").text("v1.0.4");
                     cloth = dbCloth;
                     avatar = dbAvatar;
                     room = dbRoom;
@@ -469,11 +469,12 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
     } else if (mode == "replace") {
         var ctx = document.getElementsByClassName("avatar-canvas")[rd].getContext("2d");
-        ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+        
         var T = sucrette.orderInfo[rd].category != "hair" ? "cloth" : "avatar-part";
         var V = sucrette.orderInfo[rd].category != "hair" ? sucrette.orderInfo[rd].value : sucrette.avatar.hair;
         var img = composeCanvasUrl(T, size, V, sucrette.orderInfo[rd].layer);
         var ready = await preloadIMG(img);
+        ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
         ctx.drawImage(ready, 0, 0, 1200, 1550);
     }
 }
@@ -945,11 +946,11 @@ async function drawBackgroundPopUp(elmnt = "save-canvas") {
 
     let ctx = document.getElementById(elmnt).getContext("2d");
     let w = ctx.canvas.width, h = ctx.canvas.height;
-    ctx.clearRect(0, 0, w, h);
     let size = elmnt == "save-canvas" ? "md" : rr;
 
     let img = composeRoomUrl("background", sucrette.room.background.split("-")[0], sucrette.room.background.split("-")[1], "full", size);
     let ready = await preloadIMG(img);
+    ctx.clearRect(0, 0, w, h);
     ctx.drawImage(ready, 0, 0, w, h);
 
     // temp canvas
@@ -1072,6 +1073,7 @@ function checkPet(c) {
 
 function drawPet() {
     if (sucrette.pet.status) {
+        $("#asng-pet").show();
         $("#pet-base").show();
         if (sucrette.pet.outfit != null) {
             $("#pet-outfit").attr("src", composePetUrl("full", (sucrette.pet.outfit).split("-")[0], (sucrette.pet.outfit).split("-")[1]));
@@ -1080,6 +1082,7 @@ function drawPet() {
             $("#pet-outfit").hide();
         };
     } else {
+        $("#asng-pet").hide();
         $("#pet-base").hide();
     };
 };
@@ -1612,13 +1615,13 @@ $(function () {
             // Activar
             sucrette.pet.status = true;
             $(this).removeClass("on").addClass("off");
-            $("#asng-pet").show();
+            drawPet();
 
         } else {
             // Desactivar
             sucrette.pet.status = false;
             $(this).removeClass("off").addClass("on");
-            $("#asng-pet").hide();
+            drawPet();
 
         };
     });
