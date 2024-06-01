@@ -44,6 +44,10 @@
         "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
     },
     {
+        "id":12, "security":"d211a2b7e2c92af3", "name":"Alluring Feathers",
+        "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
+    },
+    {
         "id":18, "security":"4e23470e302228a9", "name":"Lady Regency",
         "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"}
     },
