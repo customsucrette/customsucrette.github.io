@@ -786,6 +786,13 @@
             "backgroundColors": null
         },
         {
+            "id":113, "roomId": null, "slot":"slot4", "light":true, "security":"c1d96bf0f6f31ea1",
+            "name":"Candelabro",
+            "roomName":"Unknown",
+            "criteria":{"type":"jobTask", "info":"Unknown", "text":"Unknown"},
+            "backgroundColors": null
+        },
+        {
             "id":155, "roomId": 42, "slot":"slot4", "light":false, "security":"8b4b91d227c266be",
             "name":"Mesa",
             "roomName":"Cosy Bear",

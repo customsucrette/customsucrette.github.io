@@ -1794,6 +1794,23 @@
         ], "criteria":null
     },
     {
+        "groupId":1107, "zone":"face", "category":"neckAccessory", "security":"c03a1183d7f6acf2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Unknown",
+        "outfitName":"Princess' Revenge", 
+        "variations":[
+            {"id":1107, "colors":["undefined"]},
+            {"id":1108, "colors":["undefined"]},
+            {"id":1109, "colors":["undefined"]},
+            {"id":1110, "colors":["undefined"]},
+            {"id":1111, "colors":["undefined"]},
+            {"id":1112, "colors":["undefined"]},
+            {"id":1113, "colors":["undefined"]},
+            {"id":1114, "colors":["undefined"]},
+            {"id":1115, "colors":["undefined"]},
+            {"id":1116, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+    },
+    {
         "groupId":1117, "zone":"torso_waistToKnee", "category":"dress", "security":"56061776860635a0", "multiLayered":true, "layerBehavior":"normal",
         "name":"Vestido",
         "outfitName":"Princess' Revenge",
@@ -1811,6 +1828,23 @@
         ], "criteria":{"type":"jobTask", "info":"Pantalla PC", "text":"Desbloqueado en la Misión del día\nPantalla PC"}
     },
     {
+        "groupId":1127, "zone":"feet", "category":"shoes", "security":"5b45f94f907b9369", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Unknown",
+        "outfitName":"Princess' Revenge",
+        "variations":[
+            {"id":1127, "colors":["undefined"]},
+            {"id":1128, "colors":["undefined"]},
+            {"id":1129, "colors":["undefined"]},
+            {"id":1130, "colors":["undefined"]},
+            {"id":1131, "colors":["undefined"]},
+            {"id":1132, "colors":["undefined"]},
+            {"id":1133, "colors":["undefined"]},
+            {"id":1134, "colors":["undefined"]},
+            {"id":1135, "colors":["undefined"]},
+            {"id":1136, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+    },
+    {
         "groupId":1137, "zone":"head", "category":"earring", "security":"737a508b46f3b7af", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pendientes",
         "outfitName":"Princess' Revenge",
@@ -1826,6 +1860,23 @@
             {"id":1145, "colors":["pink","white"]},
             {"id":1146, "colors":["blue","white"]}
         ], "criteria":{"type":"jobTask", "info":"Proyectos", "text":"Desbloqueado en la Misión del día\nProyectos"}
+    },
+    {
+        "groupId":1147, "zone":"arms", "category":"armAccessory", "security":"e35d0f1b1bf711aa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Unknown",
+        "outfitName":"Princess' Revenge",
+        "variations":[
+            {"id":1147, "colors":["undefined"]},
+            {"id":1148, "colors":["undefined"]},
+            {"id":1149, "colors":["undefined"]},
+            {"id":1150, "colors":["undefined"]},
+            {"id":1151, "colors":["undefined"]},
+            {"id":1152, "colors":["undefined"]},
+            {"id":1153, "colors":["undefined"]},
+            {"id":1154, "colors":["undefined"]},
+            {"id":1155, "colors":["undefined"]},
+            {"id":1156, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
     },
     {
         "groupId":1157, "zone":"arms", "category":"bag", "security":"3e0b560de4358897", "multiLayered":false, "layerBehavior":"normal",
@@ -1862,6 +1913,23 @@
         ], "criteria":{"type":"jobTask", "info":"Pantalla PC", "text":"Desbloqueado en la Misión del día\nPantalla PC"}
     },
     {
+        "groupId":1177, "zone":"torso_waistToKnee", "category":"underwear", "security":"2b704967cbc54dbb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Unknown",
+        "outfitName":"Ballerina's Training",
+        "variations":[
+            {"id":1177, "colors":["undefined"]},
+            {"id":1178, "colors":["undefined"]},
+            {"id":1179, "colors":["undefined"]},
+            {"id":1180, "colors":["undefined"]},
+            {"id":1181, "colors":["undefined"]},
+            {"id":1182, "colors":["undefined"]},
+            {"id":1183, "colors":["undefined"]},
+            {"id":1184, "colors":["undefined"]},
+            {"id":1185, "colors":["undefined"]},
+            {"id":1186, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+    },
+    {
         "groupId":1187, "zone":"feet", "category":"shoes", "security":"ab33ebe2b003b4bd", "multiLayered":false, "layerBehavior":"normal",
         "name":"Zapatillas",
         "outfitName":"Ballerina's Training",
@@ -1879,6 +1947,23 @@
         ], "criteria":{"type":"jobTask", "info":"Pantalla PC", "text":"Desbloqueado en la Misión del día\nPantalla PC"}
     },
     {
+        "groupId":1197, "zone":"feet", "category":"socks", "security":"97d5551c1dfa3af7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Unknown",
+        "outfitName":"Ballerina's Training", 
+        "variations":[
+            {"id":1197, "colors":["undefined"]},
+            {"id":1198, "colors":["undefined"]},
+            {"id":1199, "colors":["undefined"]},
+            {"id":1200, "colors":["undefined"]},
+            {"id":1201, "colors":["undefined"]},
+            {"id":1202, "colors":["undefined"]},
+            {"id":1203, "colors":["undefined"]},
+            {"id":1204, "colors":["undefined"]},
+            {"id":1205, "colors":["undefined"]},
+            {"id":1206, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+    },
+    {
         "groupId":1207, "zone":"waistToKnee", "category":"skirt", "security":"6628e6e64846789a", "multiLayered":false, "layerBehavior":"normal",
         "name":"Falda",
         "outfitName":"Ballerina's Training",
@@ -1894,6 +1979,23 @@
             {"id":1215, "colors":["red"]},
             {"id":1216, "colors":["grey"]}
         ], "criteria":{"type":"jobTask", "info":"Pantalla PC", "text":"Desbloqueado en la Misión del día\nPantalla PC"}
+    },
+    {
+        "groupId":1217, "zone":"torso", "category":"jacket", "security":"5f9887786ac1799c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Unknown",
+        "outfitName":"Ballerina's Training",
+        "variations":[
+            {"id":1217, "colors":["undefined"]},
+            {"id":1218, "colors":["undefined"]},
+            {"id":1219, "colors":["undefined"]},
+            {"id":1220, "colors":["undefined"]},
+            {"id":1221, "colors":["undefined"]},
+            {"id":1222, "colors":["undefined"]},
+            {"id":1223, "colors":["undefined"]},
+            {"id":1224, "colors":["undefined"]},
+            {"id":1225, "colors":["undefined"]},
+            {"id":1226, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
     },
     {
         "groupId":1850, "zone":"arms", "category":"bag", "security":"50f3d5755938a35c", "multiLayered":false, "layerBehavior":"normal",
@@ -1927,7 +2029,7 @@
             {"id":1947, "colors":["undefined"]},
             {"id":1948, "colors":["undefined"]},
             {"id":1949, "colors":["undefined"]}
-        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Unknown"}
+        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
     },
     {
         "groupId":1950, "zone":"torso", "category":"top", "security":"b624bfea2ceec82f", "multiLayered":false, "layerBehavior":"normal",
