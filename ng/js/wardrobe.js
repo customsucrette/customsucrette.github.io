@@ -3,7 +3,7 @@ $(document).ready(function() {
         $.get("./data/avatar.json", dbAvatar => {
             $.get("./data/room.json", dbRoom => {
                 $.get("./data/pet.json", dbPet => {
-                    $(".version").text("v1.0.4");
+                    $(".version").text("v1.1.0");
                     cloth = dbCloth;
                     avatar = dbAvatar;
                     room = dbRoom;
