@@ -13,7 +13,7 @@ $(document).ready(function() {
                     userSettings();
                     clearInputFilter();
                     drawCategory();
-                    fillCounter();                    
+                    fillCounter();
                     drawAvatarZone();
 
                     checkAndGetTempCode();
@@ -31,6 +31,8 @@ async function codeUpdate() {
     $(`.hair-color .color[data-color=${sucrette.avatar.hair}]`).addClass("equipped");
     $(".skin-color .color").removeClass("equipped");
     $(`.skin-color .color[data-color=${sucrette.avatar.skin}]`).addClass("equipped");
+
+    $("#loading-layout").addClass("room avatar");
 
     drawSucrette();
     drawRoomCanvas();
@@ -87,6 +89,9 @@ function userSettings() {
         $(".asng-toggle-switch.alternate-time label").removeClass("off");
         $(".graphics .asng-toggle-switch.alternate-time .slider").removeClass("off");
     };
+
+    // Fondo mientras carga todo
+    $(".asng-room").css("background-image", `url(${composeRoomUrl("background", sucrette.room.background.split("-")[0], sucrette.room.background.split("-")[1], "full", rr)})`);
 
     if (re == "disabled") {
         $(".asng-toggle-switch.alternate-filters label").addClass("off");
@@ -231,7 +236,7 @@ function drawCategory(c = "top", declination = null) {
         $("#asng-avatar-item-list-panel .items-container").append('<div id="expressions-container"></div>');
         drawExpressions("preset");
 
-    }else {
+    } else {
         $("#asng-avatar-item-list-panel .items-container").html("");
         $("asng-cloth-list-panel").append('<div class="empty"><img class="taki" src="https://www.corazondemelon-newgen.es/assets/taki/box.png" /><p>No hay elementos en esta categoría.</p></div>');
     };
@@ -359,6 +364,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
     if (mode == "load" || mode == "update_avatar" || mode == "basics") {
         if (mode != "update_avatar") $(".avatar-canvas").remove();
+        if (mode == "load") $("#loading-layout").addClass("avatar");
 
         for (m = 0; m < sucrette.orderInfo.length; m++) {
             if (sucrette.orderInfo[m].category == "avatar") {
@@ -476,8 +482,10 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
         var ready = await preloadIMG(img);
         ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
         ctx.drawImage(ready, 0, 0, 1200, 1550);
-    }
-}
+    };
+
+    $("#loading-layout").removeClass("avatar");
+};
 
 async function newCanvas(info, img, i = new Number, p = "append") {
     if ($("#save-canvas").length == 0) {
@@ -912,8 +920,7 @@ function checkRoom(c, i) {
     if (sucrette.room[c] == i) {
         if (c != "background") {
             // Quitar
-            $(`.asng-room-canvas.${c}`).removeAttr("style");
-            $(`.asng-room-preview.${c}`).removeAttr("style");
+            drawBackgroundPopUp(".asng-room-canvas");
             sucrette.room[c] = null;
             return false;
         } else {
@@ -923,7 +930,7 @@ function checkRoom(c, i) {
     } else {
         // Reemplazar o añadir
         sucrette.room[c] = i;
-        drawRoomCanvas(c, true);
+        drawBackgroundPopUp(".asng-room-canvas");
         return true;
     };
 };
@@ -931,22 +938,21 @@ function checkRoom(c, i) {
 async function drawRoomCanvas(m = "load", p = false) {
 
     if (m == "load" && !p) {
-
-        await drawBackgroundPopUp("asng-room-canvas");
-        await drawBackgroundPopUp("asng-room-canvas-preview");
+        // Dibujar en preview y luego copiar
+        await drawBackgroundPopUp(".asng-room-canvas.preview");
     } else {
         // Añadir / reemplazar
-        await drawBackgroundPopUp("asng-room-canvas-preview");
-        await drawBackgroundPopUp("asng-room-canvas");
-        
+        await drawBackgroundPopUp(".asng-room-canvas");
     };
 };
 
-async function drawBackgroundPopUp(elmnt = "save-canvas") {
+async function drawBackgroundPopUp(elmnt = "#save-canvas") {
 
-    let ctx = document.getElementById(elmnt).getContext("2d");
+    if (elmnt == "#save-canvas") $("#loading-layout").addClass("room");
+
+    let ctx = document.querySelector(elmnt).getContext("2d");
     let w = ctx.canvas.width, h = ctx.canvas.height;
-    let size = elmnt == "save-canvas" ? "md" : rr;
+    let size = elmnt == "#save-canvas" ? "md" : rr;
 
     let img = composeRoomUrl("background", sucrette.room.background.split("-")[0], sucrette.room.background.split("-")[1], "full", size);
     let ready = await preloadIMG(img);
@@ -1010,6 +1016,8 @@ async function drawBackgroundPopUp(elmnt = "save-canvas") {
             };
         };
     };
+
+    ctx.globalCompositeOperation = "source-over";
     
     // bg light
     if (bgEffects[0].light && re == "enabled") {
@@ -1025,6 +1033,21 @@ async function drawBackgroundPopUp(elmnt = "save-canvas") {
         ctx.drawImage(e, 0, 0, w, h);
         p.clearRect(0, 0, w, h);
     };
+
+    if (elmnt.includes("asng-room-canvas")) {
+        // No es popup
+        let copy = null;
+        let main = document.querySelector(elmnt).getContext("2d");
+        if (elmnt.includes("preview")) {
+            copy = document.querySelector(".asng-room-canvas").getContext("2d");
+        } else {
+            copy = document.querySelector(".asng-room-canvas.preview").getContext("2d");
+        };
+
+        copy.drawImage(main.canvas, 0, 0, copy.canvas.width, copy.canvas.height);
+    };
+
+    $("#loading-layout").removeClass("room");
 };
 
 // PET 
@@ -1435,9 +1458,7 @@ $(function () {
 
         $(".zoom").hide();
 
-        drawRoomItems();
-        drawRoomCanvas("load", true);
-        
+        drawRoomItems();       
     });
 
     $("#sub-link-delete-room").click(function() {
@@ -1543,7 +1564,7 @@ $(function () {
         if ($(".room-panel").length == 0) {
             (w != 1920) ? drawSucrette("hd", "load") : drawSucrette("md", "load");
         } else {
-            drawBackgroundPopUp("save-canvas");
+            drawBackgroundPopUp("#save-canvas");
         }
     });
 
