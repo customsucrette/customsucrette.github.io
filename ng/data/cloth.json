@@ -1863,7 +1863,7 @@
     },
     {
         "groupId":1147, "zone":"arms", "category":"armAccessory", "security":"e35d0f1b1bf711aa", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Unknown",
+        "name":"Pulsera",
         "outfitName":"Princess' Revenge",
         "variations":[
             {"id":1147, "colors":["undefined"]},
@@ -1948,7 +1948,7 @@
     },
     {
         "groupId":1197, "zone":"feet", "category":"socks", "security":"97d5551c1dfa3af7", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Unknown",
+        "name":"Calentadores",
         "outfitName":"Ballerina's Training", 
         "variations":[
             {"id":1197, "colors":["undefined"]},
@@ -1982,7 +1982,7 @@
     },
     {
         "groupId":1217, "zone":"torso", "category":"jacket", "security":"5f9887786ac1799c", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Unknown",
+        "name":"Rebeca",
         "outfitName":"Ballerina's Training",
         "variations":[
             {"id":1217, "colors":["undefined"]},

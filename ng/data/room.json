@@ -311,6 +311,13 @@
             "backgroundColors": null
         },
         {
+            "id": 110, "roomId": null, "slot": "slot1", "light": false, "security":"56e2c8cc10bb5972",
+            "name":"Biblioteca",
+            "roomName":null,
+            "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"},
+            "backgroundColors": null
+        },
+        {
             "id":158, "roomId": 42, "slot":"slot1", "light":false, "security":"758ca1deacec3017",
             "name":"Bar",
             "roomName":"Cosy Bear",
