@@ -1795,20 +1795,20 @@
     },
     {
         "groupId":1107, "zone":"face", "category":"neckAccessory", "security":"c03a1183d7f6acf2", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Unknown",
+        "name":"Collar",
         "outfitName":"Princess' Revenge", 
         "variations":[
-            {"id":1107, "colors":["undefined"]},
-            {"id":1108, "colors":["undefined"]},
-            {"id":1109, "colors":["undefined"]},
-            {"id":1110, "colors":["undefined"]},
-            {"id":1111, "colors":["undefined"]},
-            {"id":1112, "colors":["undefined"]},
-            {"id":1113, "colors":["undefined"]},
-            {"id":1114, "colors":["undefined"]},
-            {"id":1115, "colors":["undefined"]},
-            {"id":1116, "colors":["undefined"]}
-        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+            {"id":1107, "colors":["black", "white"]},
+            {"id":1108, "colors":["blue", "white"]},
+            {"id":1109, "colors":["yellow", "white"]},
+            {"id":1110, "colors":["white"]},
+            {"id":1111, "colors":["red", "white"]},
+            {"id":1112, "colors":["purple", "white"]},
+            {"id":1113, "colors":["green", "white"]},
+            {"id":1114, "colors":["green", "white"]},
+            {"id":1115, "colors":["pink", "white"]},
+            {"id":1116, "colors":["blue", "white"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
         "groupId":1117, "zone":"torso_waistToKnee", "category":"dress", "security":"56061776860635a0", "multiLayered":true, "layerBehavior":"normal",
@@ -1829,20 +1829,20 @@
     },
     {
         "groupId":1127, "zone":"feet", "category":"shoes", "security":"5b45f94f907b9369", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Unknown",
+        "name":"Zapatos de salón",
         "outfitName":"Princess' Revenge",
         "variations":[
-            {"id":1127, "colors":["undefined"]},
-            {"id":1128, "colors":["undefined"]},
-            {"id":1129, "colors":["undefined"]},
-            {"id":1130, "colors":["undefined"]},
-            {"id":1131, "colors":["undefined"]},
-            {"id":1132, "colors":["undefined"]},
-            {"id":1133, "colors":["undefined"]},
-            {"id":1134, "colors":["undefined"]},
-            {"id":1135, "colors":["undefined"]},
-            {"id":1136, "colors":["undefined"]}
-        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+            {"id":1127, "colors":["black", "grey"]},
+            {"id":1128, "colors":["blue", "yellow"]},
+            {"id":1129, "colors":["yellow", "grey"]},
+            {"id":1130, "colors":["white", "yellow"]},
+            {"id":1131, "colors":["red", "grey"]},
+            {"id":1132, "colors":["purple", "grey"]},
+            {"id":1133, "colors":["green", "yellow"]},
+            {"id":1134, "colors":["green", "grey"]},
+            {"id":1135, "colors":["pink", "yellow"]},
+            {"id":1136, "colors":["blue", "yellow"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
         "groupId":1137, "zone":"head", "category":"earring", "security":"737a508b46f3b7af", "multiLayered":false, "layerBehavior":"normal",
@@ -1866,17 +1866,17 @@
         "name":"Pulsera",
         "outfitName":"Princess' Revenge",
         "variations":[
-            {"id":1147, "colors":["undefined"]},
-            {"id":1148, "colors":["undefined"]},
-            {"id":1149, "colors":["undefined"]},
-            {"id":1150, "colors":["undefined"]},
-            {"id":1151, "colors":["undefined"]},
-            {"id":1152, "colors":["undefined"]},
-            {"id":1153, "colors":["undefined"]},
-            {"id":1154, "colors":["undefined"]},
-            {"id":1155, "colors":["undefined"]},
-            {"id":1156, "colors":["undefined"]}
-        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+            {"id":1147, "colors":["white"]},
+            {"id":1148, "colors":["blue"]},
+            {"id":1149, "colors":["yellow"]},
+            {"id":1150, "colors":["black"]},
+            {"id":1151, "colors":["red"]},
+            {"id":1152, "colors":["purple"]},
+            {"id":1153, "colors":["green"]},
+            {"id":1154, "colors":["green"]},
+            {"id":1155, "colors":["pink"]},
+            {"id":1156, "colors":["blue"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
         "groupId":1157, "zone":"arms", "category":"bag", "security":"3e0b560de4358897", "multiLayered":false, "layerBehavior":"normal",
@@ -1914,20 +1914,20 @@
     },
     {
         "groupId":1177, "zone":"torso_waistToKnee", "category":"underwear", "security":"2b704967cbc54dbb", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Unknown",
+        "name":"Body",
         "outfitName":"Ballerina's Training",
         "variations":[
-            {"id":1177, "colors":["undefined"]},
-            {"id":1178, "colors":["undefined"]},
-            {"id":1179, "colors":["undefined"]},
-            {"id":1180, "colors":["undefined"]},
-            {"id":1181, "colors":["undefined"]},
-            {"id":1182, "colors":["undefined"]},
-            {"id":1183, "colors":["undefined"]},
-            {"id":1184, "colors":["undefined"]},
-            {"id":1185, "colors":["undefined"]},
-            {"id":1186, "colors":["undefined"]}
-        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+            {"id":1177, "colors":["pink"]},
+            {"id":1178, "colors":["purple"]},
+            {"id":1179, "colors":["black"]},
+            {"id":1180, "colors":["green"]},
+            {"id":1181, "colors":["white"]},
+            {"id":1182, "colors":["yellow"]},
+            {"id":1183, "colors":["brown"]},
+            {"id":1184, "colors":["red"]},
+            {"id":1185, "colors":["purple"]},
+            {"id":1186, "colors":["blue"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
         "groupId":1187, "zone":"feet", "category":"shoes", "security":"ab33ebe2b003b4bd", "multiLayered":false, "layerBehavior":"normal",
@@ -1951,17 +1951,17 @@
         "name":"Calentadores",
         "outfitName":"Ballerina's Training", 
         "variations":[
-            {"id":1197, "colors":["undefined"]},
-            {"id":1198, "colors":["undefined"]},
-            {"id":1199, "colors":["undefined"]},
-            {"id":1200, "colors":["undefined"]},
-            {"id":1201, "colors":["undefined"]},
-            {"id":1202, "colors":["undefined"]},
-            {"id":1203, "colors":["undefined"]},
-            {"id":1204, "colors":["undefined"]},
-            {"id":1205, "colors":["undefined"]},
-            {"id":1206, "colors":["undefined"]}
-        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+            {"id":1197, "colors":["pink"]},
+            {"id":1198, "colors":["black"]},
+            {"id":1199, "colors":["white"]},
+            {"id":1200, "colors":["green"]},
+            {"id":1201, "colors":["blue"]},
+            {"id":1202, "colors":["yellow"]},
+            {"id":1203, "colors":["brown"]},
+            {"id":1204, "colors":["blue"]},
+            {"id":1205, "colors":["red"]},
+            {"id":1206, "colors":["grey"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
         "groupId":1207, "zone":"waistToKnee", "category":"skirt", "security":"6628e6e64846789a", "multiLayered":false, "layerBehavior":"normal",
@@ -1985,17 +1985,17 @@
         "name":"Rebeca",
         "outfitName":"Ballerina's Training",
         "variations":[
-            {"id":1217, "colors":["undefined"]},
-            {"id":1218, "colors":["undefined"]},
-            {"id":1219, "colors":["undefined"]},
-            {"id":1220, "colors":["undefined"]},
-            {"id":1221, "colors":["undefined"]},
-            {"id":1222, "colors":["undefined"]},
-            {"id":1223, "colors":["undefined"]},
-            {"id":1224, "colors":["undefined"]},
-            {"id":1225, "colors":["undefined"]},
-            {"id":1226, "colors":["undefined"]}
-        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+            {"id":1217, "colors":["white"]},
+            {"id":1218, "colors":["purple"]},
+            {"id":1219, "colors":["grey"]},
+            {"id":1220, "colors":["green"]},
+            {"id":1221, "colors":["black"]},
+            {"id":1222, "colors":["blue"]},
+            {"id":1223, "colors":["yellow"]},
+            {"id":1224, "colors":["orange"]},
+            {"id":1225, "colors":["red"]},
+            {"id":1226, "colors":["blue"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
         "groupId":1850, "zone":"arms", "category":"bag", "security":"50f3d5755938a35c", "multiLayered":false, "layerBehavior":"normal",
@@ -2017,19 +2017,19 @@
     {
         "groupId":1940, "zone":"head", "category":"hat", "security":"7b9512ee4abd6f2f", "multiLayered":true, "layerBehavior":"normal",
         "name":"Orejas de gato",
-        "outfitName":"Unknown",
+        "outfitName":"Kitty Girl",
         "variations":[
-            {"id":1940, "colors":["undefined"]},
-            {"id":1941, "colors":["undefined"]},
-            {"id":1942, "colors":["undefined"]},
-            {"id":1943, "colors":["undefined"]},
-            {"id":1944, "colors":["undefined"]},
-            {"id":1945, "colors":["undefined"]},
-            {"id":1946, "colors":["undefined"]},
-            {"id":1947, "colors":["undefined"]},
-            {"id":1948, "colors":["undefined"]},
-            {"id":1949, "colors":["undefined"]}
-        ], "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+            {"id":1940, "colors":["black", "brown"]},
+            {"id":1941, "colors":["grey"]},
+            {"id":1942, "colors":["orange"]},
+            {"id":1943, "colors":["blue"]},
+            {"id":1944, "colors":["yellow"]},
+            {"id":1945, "colors":["yellow", "brown"]},
+            {"id":1946, "colors":["black", "multi"]},
+            {"id":1947, "colors":["black"]},
+            {"id":1948, "colors":["white"]},
+            {"id":1949, "colors":["white", "black"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
         "groupId":1950, "zone":"torso", "category":"top", "security":"b624bfea2ceec82f", "multiLayered":false, "layerBehavior":"normal",
@@ -3271,16 +3271,16 @@
         "name":"Pantys",
         "outfitName":"Fresh Air",
         "variations":[
-            {"id":2933, "colors":["undefined"]},
-            {"id":2934, "colors":["undefined"]},
-            {"id":2935, "colors":["undefined"]},
-            {"id":2936, "colors":["undefined"]},
-            {"id":2937, "colors":["undefined"]},
-            {"id":2938, "colors":["undefined"]},
-            {"id":2939, "colors":["undefined"]},
-            {"id":2940, "colors":["undefined"]},
-            {"id":2941, "colors":["undefined"]},
-            {"id":2942, "colors":["undefined"]}
+            {"id":2933, "colors":["green"]},
+            {"id":2934, "colors":["purple"]},
+            {"id":2935, "colors":["red"]},
+            {"id":2936, "colors":["black"]},
+            {"id":2937, "colors":["blue"]},
+            {"id":2938, "colors":["pink"]},
+            {"id":2939, "colors":["white"]},
+            {"id":2940, "colors":["pink"]},
+            {"id":2941, "colors":["brown"]},
+            {"id":2942, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
     },
     {
@@ -3288,16 +3288,16 @@
         "name":"Botines",
         "outfitName":"Fresh Air",
         "variations":[
-            {"id":2943, "colors":["undefined"]},
-            {"id":2944, "colors":["undefined"]},
-            {"id":2945, "colors":["undefined"]},
-            {"id":2946, "colors":["undefined"]},
-            {"id":2947, "colors":["undefined"]},
-            {"id":2948, "colors":["undefined"]},
-            {"id":2949, "colors":["undefined"]},
-            {"id":2950, "colors":["undefined"]},
-            {"id":2951, "colors":["undefined"]},
-            {"id":2952, "colors":["undefined"]}
+            {"id":2943, "colors":["brown", "multi"]},
+            {"id":2944, "colors":["blue", "multi"]},
+            {"id":2945, "colors":["white", "multi"]},
+            {"id":2946, "colors":["purple", "multi"]},
+            {"id":2947, "colors":["pink", "multi"]},
+            {"id":2948, "colors":["blue", "multi"]},
+            {"id":2949, "colors":["brown", "multi"]},
+            {"id":2950, "colors":["grey", "multi"]},
+            {"id":2951, "colors":["red", "multi"]},
+            {"id":2952, "colors":["black", "multi"]}
         ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
     },
     {
@@ -3305,16 +3305,16 @@
         "name":"Falda",
         "outfitName":"Fresh Air",
         "variations":[
-            {"id":2953, "colors":["undefined"]},
-            {"id":2954, "colors":["undefined"]},
-            {"id":2955, "colors":["undefined"]},
-            {"id":2956, "colors":["undefined"]},
-            {"id":2957, "colors":["undefined"]},
-            {"id":2958, "colors":["undefined"]},
-            {"id":2959, "colors":["undefined"]},
-            {"id":2960, "colors":["undefined"]},
-            {"id":2961, "colors":["undefined"]},
-            {"id":2962, "colors":["undefined"]}
+            {"id":2953, "colors":["purple"]},
+            {"id":2954, "colors":["green"]},
+            {"id":2955, "colors":["red"]},
+            {"id":2956, "colors":["black"]},
+            {"id":2957, "colors":["blue"]},
+            {"id":2958, "colors":["pink"]},
+            {"id":2959, "colors":["white"]},
+            {"id":2960, "colors":["pink"]},
+            {"id":2961, "colors":["brown"]},
+            {"id":2962, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
     },
     {
@@ -3322,16 +3322,16 @@
         "name":"Bolso",
         "outfitName":"Fresh Air",
         "variations":[
-            {"id":2963, "colors":["undefined"]},
-            {"id":2964, "colors":["undefined"]},
-            {"id":2965, "colors":["undefined"]},
-            {"id":2966, "colors":["undefined"]},
-            {"id":2967, "colors":["undefined"]},
-            {"id":2968, "colors":["undefined"]},
-            {"id":2969, "colors":["undefined"]},
-            {"id":2970, "colors":["undefined"]},
-            {"id":2971, "colors":["undefined"]},
-            {"id":2972, "colors":["undefined"]}
+            {"id":2963, "colors":["brown"]},
+            {"id":2964, "colors":["blue"]},
+            {"id":2965, "colors":["white"]},
+            {"id":2966, "colors":["purple"]},
+            {"id":2967, "colors":["pink"]},
+            {"id":2968, "colors":["blue"]},
+            {"id":2969, "colors":["brown"]},
+            {"id":2970, "colors":["grey"]},
+            {"id":2971, "colors":["red"]},
+            {"id":2972, "colors":["black"]}
         ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
     },
     {
@@ -3339,16 +3339,16 @@
         "name":"Bustier",
         "outfitName":"Fresh Air",
         "variations":[
-            {"id":2973, "colors":["undefined"]},
-            {"id":2974, "colors":["undefined"]},
-            {"id":2975, "colors":["undefined"]},
-            {"id":2976, "colors":["undefined"]},
-            {"id":2977, "colors":["undefined"]},
-            {"id":2978, "colors":["undefined"]},
-            {"id":2979, "colors":["undefined"]},
-            {"id":2980, "colors":["undefined"]},
-            {"id":2981, "colors":["undefined"]},
-            {"id":2982, "colors":["undefined"]}
+            {"id":2973, "colors":["white"]},
+            {"id":2974, "colors":["blue"]},
+            {"id":2975, "colors":["yellow"]},
+            {"id":2976, "colors":["pink"]},
+            {"id":2977, "colors":["blue"]},
+            {"id":2978, "colors":["purple"]},
+            {"id":2979, "colors":["red"]},
+            {"id":2980, "colors":["yellow"]},
+            {"id":2981, "colors":["green"]},
+            {"id":2982, "colors":["black"]}
         ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
     },
     {
@@ -3356,16 +3356,16 @@
         "name":"Collar",
         "outfitName":"Fresh Air",
         "variations":[
-            {"id":2983, "colors":["undefined"]},
-            {"id":2984, "colors":["undefined"]},
-            {"id":2985, "colors":["undefined"]},
-            {"id":2986, "colors":["undefined"]},
-            {"id":2987, "colors":["undefined"]},
-            {"id":2988, "colors":["undefined"]},
-            {"id":2989, "colors":["undefined"]},
-            {"id":2990, "colors":["undefined"]},
-            {"id":2991, "colors":["undefined"]},
-            {"id":2992, "colors":["undefined"]}
+            {"id":2983, "colors":["white", "yellow"]},
+            {"id":2984, "colors":["blue", "grey"]},
+            {"id":2985, "colors":["yellow"]},
+            {"id":2986, "colors":["pink", "grey"]},
+            {"id":2987, "colors":["blue", "yellow"]},
+            {"id":2988, "colors":["yellow", "purple"]},
+            {"id":2989, "colors":["grey", "red"]},
+            {"id":2990, "colors":["yellow", "grey"]},
+            {"id":2991, "colors":["yellow", "green"]},
+            {"id":2992, "colors":["grey", "black"]}
         ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
     },
     {
@@ -3373,16 +3373,16 @@
         "name":"Kimono",
         "outfitName":"Fresh Air",
         "variations":[
-            {"id":2993, "colors":["undefined"]},
-            {"id":2994, "colors":["undefined"]},
-            {"id":2995, "colors":["undefined"]},
-            {"id":2996, "colors":["undefined"]},
-            {"id":2997, "colors":["undefined"]},
-            {"id":2998, "colors":["undefined"]},
-            {"id":2999, "colors":["undefined"]},
-            {"id":3000, "colors":["undefined"]},
-            {"id":3001, "colors":["undefined"]},
-            {"id":3002, "colors":["undefined"]}
+            {"id":2993, "colors":["blue", "multi"]},
+            {"id":2994, "colors":["green", "multi"]},
+            {"id":2995, "colors":["red", "multi"]},
+            {"id":2996, "colors":["blue", "multi"]},
+            {"id":2997, "colors":["black", "multi"]},
+            {"id":2998, "colors":["white", "multi"]},
+            {"id":2999, "colors":["brown", "multi", "yellow"]},
+            {"id":3000, "colors":["purple", "multi"]},
+            {"id":3001, "colors":["yellow", "multi"]},
+            {"id":3002, "colors":["pink", "multi"]}
         ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
     },
     {
@@ -3397,8 +3397,8 @@
             {"id":3007, "colors":["white"]},
             {"id":3008, "colors":["green"]},
             {"id":3009, "colors":["blue"]},
-            {"id":3010, "colors":["undefined"]},
-            {"id":3011, "colors":["undefined"]},
+            {"id":3010, "colors":["brown"]},
+            {"id":3011, "colors":["pink"]},
             {"id":3012, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"}
     },
@@ -3408,15 +3408,15 @@
         "outfitName":"Comfortable Warmth",
         "variations":[
             {"id":3013, "colors":["black"]},
-            {"id":3014, "colors":["undefined"]},
-            {"id":3015, "colors":["undefined"]},
-            {"id":3016, "colors":["undefined"]},
+            {"id":3014, "colors":["yellow"]},
+            {"id":3015, "colors":["white"]},
+            {"id":3016, "colors":["pink"]},
             {"id":3017, "colors":["red"]},
             {"id":3018, "colors":["green"]},
-            {"id":3019, "colors":["undefined"]},
+            {"id":3019, "colors":["brown"]},
             {"id":3020, "colors":["pink"]},
             {"id":3021, "colors":["blue"]},
-            {"id":3022, "colors":["undefined"]}
+            {"id":3022, "colors":["grey"]}
         ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"}
     },
     {
@@ -3424,16 +3424,16 @@
         "name": "Jersey",
         "outfitName":"Comfortable Warmth",
         "variations":[
-            {"id":3023, "colors":["undefined"]},
-            {"id":3024, "colors":["undefined"]},
-            {"id":3025, "colors":["undefined"]},
-            {"id":3026, "colors":["undefined"]},
-            {"id":3027, "colors":["undefined"]},
-            {"id":3028, "colors":["undefined"]},
-            {"id":3029, "colors":["undefined"]},
-            {"id":3030, "colors":["undefined"]},
-            {"id":3031, "colors":["undefined"]},
-            {"id":3032, "colors":["undefined"]}
+            {"id":3023, "colors":["yellow"]},
+            {"id":3024, "colors":["red"]},
+            {"id":3025, "colors":["blue"]},
+            {"id":3026, "colors":["pink"]},
+            {"id":3027, "colors":["grey"]},
+            {"id":3028, "colors":["black"]},
+            {"id":3029, "colors":["white"]},
+            {"id":3030, "colors":["purple"]},
+            {"id":3031, "colors":["blue"]},
+            {"id":3032, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"}
     },
     {
@@ -3441,16 +3441,16 @@
         "name": "Bailarinas",
         "outfitName":"Comfortable Warmth",
         "variations":[
-            {"id":3033, "colors":["undefined"]},
-            {"id":3034, "colors":["undefined"]},
-            {"id":3035, "colors":["undefined"]},
-            {"id":3036, "colors":["undefined"]},
-            {"id":3037, "colors":["undefined"]},
-            {"id":3038, "colors":["undefined"]},
-            {"id":3039, "colors":["undefined"]},
-            {"id":3040, "colors":["undefined"]},
-            {"id":3041, "colors":["undefined"]},
-            {"id":3042, "colors":["undefined"]}
+            {"id":3033, "colors":["black"]},
+            {"id":3034, "colors":["yellow"]},
+            {"id":3035, "colors":["white"]},
+            {"id":3036, "colors":["pink"]},
+            {"id":3037, "colors":["red"]},
+            {"id":3038, "colors":["green"]},
+            {"id":3039, "colors":["brown"]},
+            {"id":3040, "colors":["pink"]},
+            {"id":3041, "colors":["blue"]},
+            {"id":3042, "colors":["grey"]}
         ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"}
     },
     {
@@ -3458,16 +3458,16 @@
         "name": "Pendientes",
         "outfitName":"Comfortable Warmth",
         "variations":[
-            {"id":3043, "colors":["undefined"]},
-            {"id":3044, "colors":["undefined"]},
-            {"id":3045, "colors":["undefined"]},
-            {"id":3046, "colors":["undefined"]},
-            {"id":3047, "colors":["undefined"]},
-            {"id":3048, "colors":["undefined"]},
-            {"id":3049, "colors":["undefined"]},
-            {"id":3050, "colors":["undefined"]},
-            {"id":3051, "colors":["undefined"]},
-            {"id":3052, "colors":["undefined"]}
+            {"id":3043, "colors":["yellow", "blue"]},
+            {"id":3044, "colors":["grey", "black"]},
+            {"id":3045, "colors":["yellow"]},
+            {"id":3046, "colors":["purple", "yellow"]},
+            {"id":3047, "colors":["yellow", "white"]},
+            {"id":3048, "colors":["grey", "green"]},
+            {"id":3049, "colors":["grey", "blue"]},
+            {"id":3050, "colors":["brown", "yellow"]},
+            {"id":3051, "colors":["grey", "pink"]},
+            {"id":3052, "colors":["red", "grey"]}
         ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"}
     },
     {
@@ -3475,16 +3475,16 @@
         "name": "Anillos",
         "outfitName":"Comfortable Warmth",
         "variations":[
-            {"id":3053, "colors":["undefined"]},
-            {"id":3054, "colors":["undefined"]},
-            {"id":3055, "colors":["undefined"]},
-            {"id":3056, "colors":["undefined"]},
-            {"id":3057, "colors":["undefined"]},
-            {"id":3058, "colors":["undefined"]},
-            {"id":3059, "colors":["undefined"]},
-            {"id":3060, "colors":["undefined"]},
-            {"id":3061, "colors":["undefined"]},
-            {"id":3062, "colors":["undefined"]}
+            {"id":3053, "colors":["yellow", "blue"]},
+            {"id":3054, "colors":["black", "grey"]},
+            {"id":3055, "colors":["yellow"]},
+            {"id":3056, "colors":["yellow", "purple"]},
+            {"id":3057, "colors":["white", "yellow"]},
+            {"id":3058, "colors":["green", "grey"]},
+            {"id":3059, "colors":["grey", "blue"]},
+            {"id":3060, "colors":["yellow", "brown"]},
+            {"id":3061, "colors":["grey", "pink"]},
+            {"id":3062, "colors":["grey", "red"]}
         ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"}
     },
     {
@@ -3492,16 +3492,16 @@
         "name":"Vestido",
         "outfitName":"Button Up",
         "variations":[
-            {"id":3063, "colors":["undefined"]},
-            {"id":3064, "colors":["undefined"]},
-            {"id":3065, "colors":["undefined"]},
-            {"id":3066, "colors":["undefined"]},
-            {"id":3067, "colors":["undefined"]},
-            {"id":3068, "colors":["undefined"]},
-            {"id":3069, "colors":["undefined"]},
-            {"id":3070, "colors":["undefined"]},
-            {"id":3071, "colors":["undefined"]},
-            {"id":3072, "colors":["undefined"]}
+            {"id":3063, "colors":["red"]},
+            {"id":3064, "colors":["pink"]},
+            {"id":3065, "colors":["yellow"]},
+            {"id":3066, "colors":["green"]},
+            {"id":3067, "colors":["white"]},
+            {"id":3068, "colors":["purple"]},
+            {"id":3069, "colors":["black"]},
+            {"id":3070, "colors":["blue"]},
+            {"id":3071, "colors":["pink"]},
+            {"id":3072, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3509,16 +3509,16 @@
         "name":"Deportivas",
         "outfitName":"Button Up",
         "variations":[
-            {"id":3073, "colors":["undefined"]},
-            {"id":3074, "colors":["undefined"]},
-            {"id":3075, "colors":["undefined"]},
-            {"id":3076, "colors":["undefined"]},
-            {"id":3077, "colors":["undefined"]},
-            {"id":3078, "colors":["undefined"]},
-            {"id":3079, "colors":["undefined"]},
-            {"id":3080, "colors":["undefined"]},
-            {"id":3081, "colors":["undefined"]},
-            {"id":3082, "colors":["undefined"]}
+            {"id":3073, "colors":["pink"]},
+            {"id":3074, "colors":["yellow"]},
+            {"id":3075, "colors":["red"]},
+            {"id":3076, "colors":["green"]},
+            {"id":3077, "colors":["white"]},
+            {"id":3078, "colors":["purple"]},
+            {"id":3079, "colors":["grey", "black"]},
+            {"id":3080, "colors":["blue"]},
+            {"id":3081, "colors":["pink"]},
+            {"id":3082, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3526,16 +3526,16 @@
         "name":"Cinturón",
         "outfitName":"Button Up",
         "variations":[
-            {"id":3083, "colors":["undefined"]},
-            {"id":3084, "colors":["undefined"]},
-            {"id":3085, "colors":["undefined"]},
-            {"id":3086, "colors":["undefined"]},
-            {"id":3087, "colors":["undefined"]},
-            {"id":3088, "colors":["undefined"]},
-            {"id":3089, "colors":["undefined"]},
-            {"id":3090, "colors":["undefined"]},
-            {"id":3091, "colors":["undefined"]},
-            {"id":3092, "colors":["undefined"]}
+            {"id":3083, "colors":["blue", "green"]},
+            {"id":3084, "colors":["grey"]},
+            {"id":3085, "colors":["white"]},
+            {"id":3086, "colors":["yellow"]},
+            {"id":3087, "colors":["purple"]},
+            {"id":3088, "colors":["pink"]},
+            {"id":3089, "colors":["red"]},
+            {"id":3090, "colors":["brown"]},
+            {"id":3091, "colors":["black"]},
+            {"id":3092, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3543,16 +3543,16 @@
         "name":"Bolso",
         "outfitName":"Button Up",
         "variations":[
-            {"id":3093, "colors":["undefined"]},
-            {"id":3094, "colors":["undefined"]},
-            {"id":3095, "colors":["undefined"]},
-            {"id":3096, "colors":["undefined"]},
-            {"id":3097, "colors":["undefined"]},
-            {"id":3098, "colors":["undefined"]},
-            {"id":3099, "colors":["undefined"]},
-            {"id":3100, "colors":["undefined"]},
-            {"id":3101, "colors":["undefined"]},
-            {"id":3102, "colors":["undefined"]}
+            {"id":3093, "colors":["white"]},
+            {"id":3094, "colors":["blue"]},
+            {"id":3095, "colors":["yellow"]},
+            {"id":3096, "colors":["black"]},
+            {"id":3097, "colors":["pink"]},
+            {"id":3098, "colors":["yellow"]},
+            {"id":3099, "colors":["red"]},
+            {"id":3100, "colors":["green"]},
+            {"id":3101, "colors":["purple"]},
+            {"id":3102, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3560,16 +3560,16 @@
         "name":"Pendientes",
         "outfitName":"Button Up",
         "variations":[
-            {"id":3103, "colors":["undefined"]},
-            {"id":3104, "colors":["undefined"]},
-            {"id":3105, "colors":["undefined"]},
-            {"id":3106, "colors":["undefined"]},
-            {"id":3107, "colors":["undefined"]},
-            {"id":3108, "colors":["undefined"]},
-            {"id":3109, "colors":["undefined"]},
-            {"id":3110, "colors":["undefined"]},
-            {"id":3111, "colors":["undefined"]},
-            {"id":3112, "colors":["undefined"]}
+            {"id":3103, "colors":["yellow", "multi"]},
+            {"id":3104, "colors":["pink"]},
+            {"id":3105, "colors":["grey", "multi"]},
+            {"id":3106, "colors":["brown", "multi"]},
+            {"id":3107, "colors":["blue"]},
+            {"id":3108, "colors":["black", "multi"]},
+            {"id":3109, "colors":["red"]},
+            {"id":3110, "colors":["green"]},
+            {"id":3111, "colors":["blue"]},
+            {"id":3112, "colors":["white", "multi"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3577,16 +3577,16 @@
         "name":"Prendedores",
         "outfitName":"Button Up",
         "variations":[
-            {"id":3113, "colors":["undefined"]},
-            {"id":3114, "colors":["undefined"]},
-            {"id":3115, "colors":["undefined"]},
-            {"id":3116, "colors":["undefined"]},
-            {"id":3117, "colors":["undefined"]},
-            {"id":3118, "colors":["undefined"]},
-            {"id":3119, "colors":["undefined"]},
-            {"id":3120, "colors":["undefined"]},
-            {"id":3121, "colors":["undefined"]},
-            {"id":3122, "colors":["undefined"]}
+            {"id":3113, "colors":["yellow"]},
+            {"id":3114, "colors":["pink"]},
+            {"id":3115, "colors":["grey"]},
+            {"id":3116, "colors":["brown"]},
+            {"id":3117, "colors":["blue"]},
+            {"id":3118, "colors":["black"]},
+            {"id":3119, "colors":["red"]},
+            {"id":3120, "colors":["green"]},
+            {"id":3121, "colors":["blue"]},
+            {"id":3122, "colors":["white"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3594,16 +3594,16 @@
         "name":"Zapatos",
         "outfitName":"Settle Down",
         "variations":[
-            {"id":3123, "colors":["undefined"]},
-            {"id":3124, "colors":["undefined"]},
-            {"id":3125, "colors":["undefined"]},
-            {"id":3126, "colors":["undefined"]},
-            {"id":3127, "colors":["undefined"]},
-            {"id":3128, "colors":["undefined"]},
-            {"id":3129, "colors":["undefined"]},
-            {"id":3130, "colors":["undefined"]},
-            {"id":3131, "colors":["undefined"]},
-            {"id":3132, "colors":["undefined"]}
+            {"id":3123, "colors":["yellow"]},
+            {"id":3124, "colors":["grey"]},
+            {"id":3125, "colors":["white"]},
+            {"id":3126, "colors":["blue"]},
+            {"id":3127, "colors":["black"]},
+            {"id":3128, "colors":["pink"]},
+            {"id":3129, "colors":["purple"]},
+            {"id":3130, "colors":["red"]},
+            {"id":3131, "colors":["green"]},
+            {"id":3132, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3611,16 +3611,16 @@
         "name":"Mono",
         "outfitName":"Settle Down",
         "variations":[
-            {"id":3133, "colors":["undefined"]},
-            {"id":3134, "colors":["undefined"]},
-            {"id":3135, "colors":["undefined"]},
-            {"id":3136, "colors":["undefined"]},
-            {"id":3137, "colors":["undefined"]},
-            {"id":3138, "colors":["undefined"]},
-            {"id":3139, "colors":["undefined"]},
-            {"id":3140, "colors":["undefined"]},
-            {"id":3141, "colors":["undefined"]},
-            {"id":3142, "colors":["undefined"]}
+            {"id":3133, "colors":["green"]},
+            {"id":3134, "colors":["red"]},
+            {"id":3135, "colors":["yellow"]},
+            {"id":3136, "colors":["black"]},
+            {"id":3137, "colors":["white"]},
+            {"id":3138, "colors":["blue"]},
+            {"id":3139, "colors":["pink"]},
+            {"id":3140, "colors":["green"]},
+            {"id":3141, "colors":["grey"]},
+            {"id":3142, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3628,16 +3628,16 @@
         "name":"Pulsera",
         "outfitName":"Settle Down",
         "variations":[
-            {"id":3143, "colors":["undefined"]},
-            {"id":3144, "colors":["undefined"]},
-            {"id":3145, "colors":["undefined"]},
-            {"id":3146, "colors":["undefined"]},
-            {"id":3147, "colors":["undefined"]},
-            {"id":3148, "colors":["undefined"]},
-            {"id":3149, "colors":["undefined"]},
-            {"id":3150, "colors":["undefined"]},
-            {"id":3151, "colors":["undefined"]},
-            {"id":3152, "colors":["undefined"]}
+            {"id":3143, "colors":["green", "yellow"]},
+            {"id":3144, "colors":["red", "yellow"]},
+            {"id":3145, "colors":["yellow", "grey"]},
+            {"id":3146, "colors":["black", "grey"]},
+            {"id":3147, "colors":["yellow", "white"]},
+            {"id":3148, "colors":["blue", "grey"]},
+            {"id":3149, "colors":["grey", "pink"]},
+            {"id":3150, "colors":["green", "yellow"]},
+            {"id":3151, "colors":["yellow", "purple"]},
+            {"id":3152, "colors":["grey", "orange"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3645,16 +3645,16 @@
         "name":"Collar",
         "outfitName":"Settle Down",
         "variations":[
-            {"id":3153, "colors":["undefined"]},
-            {"id":3154, "colors":["undefined"]},
-            {"id":3155, "colors":["undefined"]},
-            {"id":3156, "colors":["undefined"]},
-            {"id":3157, "colors":["undefined"]},
-            {"id":3158, "colors":["undefined"]},
-            {"id":3159, "colors":["undefined"]},
-            {"id":3160, "colors":["undefined"]},
-            {"id":3161, "colors":["undefined"]},
-            {"id":3162, "colors":["undefined"]}
+            {"id":3153, "colors":["green", "yellow"]},
+            {"id":3154, "colors":["red", "yellow"]},
+            {"id":3155, "colors":["grey", "yellow"]},
+            {"id":3156, "colors":["grey", "black"]},
+            {"id":3157, "colors":["yellow", "white"]},
+            {"id":3158, "colors":["blue", "grey"]},
+            {"id":3159, "colors":["grey", "pink"]},
+            {"id":3160, "colors":["yellow", "green"]},
+            {"id":3161, "colors":["yellow", "purple"]},
+            {"id":3162, "colors":["grey", "orange"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3662,16 +3662,16 @@
         "name":"Bolso",
         "outfitName":"Settle Down",
         "variations":[
-            {"id":3163, "colors":["undefined"]},
-            {"id":3164, "colors":["undefined"]},
-            {"id":3165, "colors":["undefined"]},
-            {"id":3166, "colors":["undefined"]},
-            {"id":3167, "colors":["undefined"]},
-            {"id":3168, "colors":["undefined"]},
-            {"id":3169, "colors":["undefined"]},
-            {"id":3170, "colors":["undefined"]},
-            {"id":3171, "colors":["undefined"]},
-            {"id":3172, "colors":["undefined"]}
+            {"id":3163, "colors":["grey"]},
+            {"id":3164, "colors":["black"]},
+            {"id":3165, "colors":["blue"]},
+            {"id":3166, "colors":["yellow"]},
+            {"id":3167, "colors":["red"]},
+            {"id":3168, "colors":["white"]},
+            {"id":3169, "colors":["blue"]},
+            {"id":3170, "colors":["brown"]},
+            {"id":3171, "colors":["green"]},
+            {"id":3172, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
@@ -3679,16 +3679,16 @@
         "name":"Gafas",
         "outfitName":"Settle Down",
         "variations":[
-            {"id":3173, "colors":["undefined"]},
-            {"id":3174, "colors":["undefined"]},
-            {"id":3175, "colors":["undefined"]},
-            {"id":3176, "colors":["undefined"]},
-            {"id":3177, "colors":["undefined"]},
-            {"id":3178, "colors":["undefined"]},
-            {"id":3179, "colors":["undefined"]},
-            {"id":3180, "colors":["undefined"]},
-            {"id":3181, "colors":["undefined"]},
-            {"id":3182, "colors":["undefined"]}
+            {"id":3173, "colors":["orange"]},
+            {"id":3174, "colors":["grey"]},
+            {"id":3175, "colors":["white"]},
+            {"id":3176, "colors":["blue"]},
+            {"id":3177, "colors":["black"]},
+            {"id":3178, "colors":["pink"]},
+            {"id":3179, "colors":["purple"]},
+            {"id":3180, "colors":["red"]},
+            {"id":3181, "colors":["green"]},
+            {"id":3182, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {

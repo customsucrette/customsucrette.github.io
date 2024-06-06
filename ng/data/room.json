@@ -311,10 +311,10 @@
             "backgroundColors": null
         },
         {
-            "id": 110, "roomId": null, "slot": "slot1", "light": false, "security":"56e2c8cc10bb5972",
+            "id": 110, "roomId": 34, "slot": "slot1", "light": false, "security":"56e2c8cc10bb5972",
             "name":"Biblioteca",
-            "roomName":null,
-            "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"},
+            "roomName":"Classic Chic",
+            "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"},
             "backgroundColors": null
         },
         {
@@ -482,9 +482,9 @@
         },
         {
             "id":169, "roomId": 44, "slot":"slot2", "light":true, "security":"ba1005782e71d028",
-            "name": "Unknown",
+            "name": "Cama",
             "roomName":"Mermaid Shinies",
-            "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"},
+            "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"},
             "backgroundColors": null
         },
         {
@@ -800,10 +800,10 @@
             "backgroundColors": null
         },
         {
-            "id":113, "roomId": null, "slot":"slot4", "light":true, "security":"c1d96bf0f6f31ea1",
+            "id":113, "roomId": 35, "slot":"slot4", "light":true, "security":"c1d96bf0f6f31ea1",
             "name":"Candelabro",
-            "roomName":"Unknown",
-            "criteria":{"type":"jobTask", "info":"Unknown", "text":"Unknown"},
+            "roomName":"Warm Winter",
+            "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"},
             "backgroundColors": null
         },
         {
