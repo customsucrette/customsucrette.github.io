@@ -314,8 +314,6 @@ input[type=email], input[type=password], input[type=text], textarea {
     width: 100%;
     background: var(--asng-personality-color);
     transition: height ease-in-out .4s;
-
-    height: 136px;
 }
 
 .asng-menu .menu .wave .select-wave {
@@ -398,6 +396,20 @@ input[type=email], input[type=password], input[type=text], textarea {
     position: relative;
     z-index: 3;
     line-height: 90px;
+}
+
+.new-section {
+    z-index: 4;
+    position: absolute;
+    text-transform: uppercase;
+    color: var(--asng-personality-color-notification);
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 10px;
+    top: 15px;
+    left: 23px;
+    border: 2px solid #fff;
+    display: flex;
 }
 
 .asng-menu .menu .content .asng-menu-icon {
