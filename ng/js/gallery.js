@@ -63,7 +63,7 @@ const loadPosts = (start = 0, num = 20) => {
 
         };
 
-        script.src = `http://custom-gallery.tumblr.com/api/read/json${param}`;
+        script.src = `https://custom-gallery.tumblr.com/api/read/json${param}`;
         document.getElementById("dynamic-script").appendChild( script );
 
     })();
