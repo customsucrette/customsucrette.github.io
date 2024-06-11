@@ -49,7 +49,12 @@ option {
     gap: 30px;
 }
 
-.gallery-submit a {
+.gallery-alternative {
+    position: absolute;
+    right: 20px;
+}
+
+.gallery-submit a, .gallery-alternative a {
     display: flex;
     gap: 10px;
     padding: 10px 20px;
@@ -63,7 +68,7 @@ option {
     transition: all 200ms;
 }
 
-.gallery-submit a:hover {
+.gallery-submit a:hover, .gallery-alternative a:hover {
     transform: scale(1.1);
 }
 
@@ -72,24 +77,48 @@ option {
 }
 
 #wip-layout {
-    position: absolute;
+    position: fixed;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
     align-content: center;
     align-items: center;
-    display: none;
+    display: grid;
+    z-index: 99;
+    background-color: #000b;
 }
 
 #wip-popup {
-    padding: 20px;
-    background-color: #fff8;
+    padding: 20px 40px;
+    background-color: #fff;
     max-width: 70%;
     margin: auto;
     border-radius: 20px;
     text-align: center;
     font-size: 2.5vh;
+    box-shadow: 0 0 20px var(--asng-personality-color-dark);
+}
+
+.button-container {
+    margin: 30px 0 10px;
+}
+
+.button-gallery-popup {
+    background-color: var(--asng-personality-color-dark);
+    padding: 10px;
+    max-width: 150px;
+    margin: auto;
+    border-radius: 50px;
+    color: #fff;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 200ms;
+}
+
+.button-gallery-popup:hover {
+    background-color: var(--asng-personality-color);
+    box-shadow: 2px 4px 2px var(--asng-personality-color-dark);
 }
 
 .cs-gallery-container {
@@ -122,6 +151,9 @@ option {
     background-color: #fff8;
     box-shadow: 0 0 10px #aeaeae;
     aspect-ratio: 3/1.9;
+    cursor: -moz-zoom-in;
+    cursor: -webkit-zoom-in;
+    cursor: zoom-in;
 }
 
 .post-container:hover {
@@ -173,6 +205,24 @@ option {
     position: relative;
 }
 
+#image-layout {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    overflow: auto;
+    background-color: #000d;
+    z-index: 99;
+    width: 100%;
+    display: none;
+}
+
+#image-layout img {
+    margin: auto;
+    position: relative;
+    cursor: -moz-zoom-out;
+    cursor: -webkit-zoom-out;
+    cursor: zoom-out;
+}
 
 @media only screen and (max-width: 510px) {
 }

@@ -5,7 +5,7 @@ $(document).ready(() => {
     loadPosts();
 });
 
-const loadPosts = (start = 0, num = 20) => {
+const loadPosts = (start = 0, num = 30) => {
     // Obtener filtro
     let ver = $("#filter-version option:selected").val();
 
@@ -23,8 +23,6 @@ const loadPosts = (start = 0, num = 20) => {
 
             if (tumblr_posts.length > 0) {
 
-                if ( (window.location.href).includes("127.0.0") || (window.location.href).includes("192.168") ) {
-
                 for (p = 0; p < tumblr_posts.length; p++) {
                     $(".cs-gallery-content").append('<div class="post-container"><div class="post-content"><div class="author-info"></div></div></div>');
                     if (tumblr_posts[p]["is-submission"]) {
@@ -38,7 +36,6 @@ const loadPosts = (start = 0, num = 20) => {
                         
                     } else {
                         // Reblogged post 
-                        // Not ready
     
                         // let reblog = $(tumblr_posts[p]["regular-body"]).find("img").eq(0).attr("srcset").split(", ");
                         // let image = reblog[reblog.length - 1];
@@ -51,11 +48,6 @@ const loadPosts = (start = 0, num = 20) => {
                     $(".post-container").eq(p).addClass(isPortrait.length == 1 ? "portrait" : "landscape" );
                     
                 };
-
-                } else {
-                    $("#wip-layout").css("display", "flex");
-                };
-
 
             } else {
                 $(".cs-gallery-content").append('<div class="empty-gallery">No hay elementos disponibles.</div>');
@@ -70,9 +62,29 @@ const loadPosts = (start = 0, num = 20) => {
 
 };
 
+const showFullImage = (img) => {
+    $("#image-layout img").remove();
+    $("#image-layout").append(`<img src="${img}">`);
+    $("#image-layout").css("display", "flex");
+    $("#image-layout").scrollTop(0);
+}
+
 
 $(function() {
     $("#filter-version").change(function() {
         loadPosts();
+    });
+
+    $(".button-gallery-popup").click(function() {
+        $("#wip-layout").fadeOut(200);
+    });
+
+    $(".cs-gallery-content").on("click", ".post-content img", function() {
+        let img = $(this).attr("src");
+        showFullImage(img);
+    });
+
+    $("#image-layout").click(function() {
+        $(this).fadeOut(100);
     });
 });
