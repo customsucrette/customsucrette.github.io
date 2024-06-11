@@ -56,6 +56,47 @@
 }
 
 
+@-webkit-keyframes spinner {
+    0% {
+        -webkit-transform:rotate(0deg);
+        transform:rotate(0deg)
+    }
+    to {
+        -webkit-transform:rotate(1turn);
+        transform:rotate(1turn);
+    }
+  }
+  @keyframes spinner {
+    0% {
+        -webkit-transform:rotate(0deg);
+        transform:rotate(0deg)
+    }
+    to {
+        -webkit-transform:rotate(1turn);
+        transform:rotate(1turn);
+    }
+}
+
+.spinner {
+    -webkit-animation-name: spinner;
+    animation-name: spinner;
+    -webkit-animation-direction: normal;
+    animation-direction: normal;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    /* -webkit-animation-timing-function: steps(8);
+    animation-timing-function: steps(8); */
+
+}
+
+.material-symbols-outlined {
+    -webkit-user-select: none;
+    user-select: none;
+    font-display: block;
+}
+
 * {box-sizing: border-box;}
 
 html, body, div, span, iframe, a, img, ul, li, section {
@@ -153,12 +194,14 @@ body.personality-fiery {
     display: grid;
 }
 
-#loading-layout i {
+#loading-layout span, #loading-layout img {
     font-size: 5vw;
     color: #fff;
     text-align: center;
     margin: auto;
     overflow: hidden;
+    max-width: 70px;
+    max-height: 70px;
 }
 
 input[type=email], input[type=password], input[type=text], textarea {
@@ -398,12 +441,12 @@ input[type=email], input[type=password], input[type=text], textarea {
     line-height: 90px;
 }
 
-.new-section {
+.new-section span {
     z-index: 4;
     position: absolute;
     text-transform: uppercase;
-    color: var(--asng-personality-color-notification);
-    background-color: #fff;
+    background-color: var(--asng-personality-color-notification);
+    color: #fff;
     font-size: 16px;
     border-radius: 10px;
     top: 15px;
@@ -488,11 +531,11 @@ input[type=email], input[type=password], input[type=text], textarea {
 
 .close-button .mat-icon {
     position: absolute;
-    top: 68px;
+    top: 60px;
     right: 11px;
     color: var(--asng-personality-color);
     transition: transform ease-in-out .3s;
-    font-size: 16px;
+    font-size: 26px;
 }
 
 .version {
@@ -2739,9 +2782,11 @@ body.personality-fiery #asng-z-index .item .remove {
     display: flex;
 }
 
-#canvas-container .button i {
+#canvas-container .button span.material-symbols-outlined {
     display: inline;
     margin: auto;
+    font-size: 38px;
+    font-weight: 700;
 }
 
 #canvas-container .button.reload {

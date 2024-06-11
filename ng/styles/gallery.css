@@ -67,6 +67,10 @@ option {
     transform: scale(1.1);
 }
 
+.gallery-submit span {
+    line-height: 0.8;
+}
+
 #wip-layout {
     position: absolute;
     top: 0;

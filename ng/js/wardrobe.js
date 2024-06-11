@@ -810,12 +810,12 @@ function drawSavePopUp(w, h) {
     let type = (w == 1200) ? "fullbody" : (h == 1080) ? "face" : "background";
     if ($("#save-canvas").length == 0) {
         $("body").append(`<div id="overlay-popup"><div id="canvas-container"><canvas width="${w}" height="${h}" id="save-canvas"></canvas></div></div>`);
-        $("#canvas-container").append(`<div class="button close"><i class="fa-solid fa-xmark"></i></div>`);
-        $("#canvas-container").append(`<div class="button reload"><i class="fa-solid fa-rotate"></i></div>`);
+        $("#canvas-container").append(`<div class="button close"><span class="material-symbols-outlined">close</span></div>`);
+        $("#canvas-container").append(`<div class="button reload"><span class="material-symbols-outlined">refresh</span></div>`);
         if (type != "background") {
-            $("#canvas-container").append(`<div class="button portrait"><i class="fa-solid fa-user"></i></div>`);
-            $("#canvas-container").append(`<div class="button fullbody"><i class="fa-solid fa-person"></i></div>`);
-            $("#canvas-container").append(`<div class="button code"><i class="fa-solid fa-code"></i></div>`);
+            $("#canvas-container").append(`<div class="button portrait"><span class="material-symbols-outlined">person</span></div>`);
+            $("#canvas-container").append(`<div class="button fullbody"><span class="material-symbols-outlined">boy</span></div>`);
+            $("#canvas-container").append(`<div class="button code"><span class="material-symbols-outlined">code</span></div>`);
         };
 
     } else {
@@ -1473,7 +1473,7 @@ $(function () {
         drawSavePopUp(1200, 1550);
     });
 
-    $('body').on("click", "#canvas-container .code i", function() {
+    $('body').on("click", "#canvas-container .code span", function() {
         let clase = $(this).parent().attr("class");
 
         if (!clase.includes("open")) {
