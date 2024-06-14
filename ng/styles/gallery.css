@@ -150,10 +150,11 @@ option {
 .post-container {
     background-color: #fff8;
     box-shadow: 0 0 10px #aeaeae;
-    aspect-ratio: 3/1.9;
+    aspect-ratio: 3.5/2.56;
     cursor: -moz-zoom-in;
     cursor: -webkit-zoom-in;
     cursor: zoom-in;
+    height: 100%;
 }
 
 .post-container:hover {
@@ -162,7 +163,9 @@ option {
 
 .post-container.portrait {
     grid-row-end: span 2;
-    aspect-ratio: 0/4;
+    aspect-ratio: 1/1.5;
+    max-height: 200%;
+    text-align: center;
 }
 
 .post-content {
@@ -196,13 +199,17 @@ option {
     font-weight: 700;
     cursor: pointer;
 }
-
 .post-content img {
     height: 100%;
     object-fit: cover;
     object-position: center;
     width: 100%;
     position: relative;
+}
+
+.portrait .post-content img {
+    width: auto;
+    max-width: 100%;
 }
 
 #image-layout {
