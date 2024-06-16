@@ -231,5 +231,48 @@ option {
     cursor: zoom-out;
 }
 
+.pagination {
+    display: none;
+    text-align: center;
+    position: relative;
+    margin: 20px;
+}
+
+#page-info {
+    min-width: 70px;
+    background-color: #fff;
+    padding: 10px;
+    align-self: center;
+    border-radius: 50px;
+    border: 2px solid var(--asng-personality-color-dark);
+    color: var(--asng-personality-color-dark);
+    font-weight: bold;
+}
+
+.pages {
+    display: inline-flex;
+    gap: 1em;
+    position: relative;
+}
+
+.page {
+    background-color: var(--asng-personality-color);
+    position: relative;
+    padding: 8px 10px;
+    color: #fff;
+    text-transform: uppercase;
+    
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.page .material-symbols-outlined {
+    font-size: 1.7vw;
+}
+/* 
+.page:nth-child(2) {
+    display: none;
+} */
+
 @media only screen and (max-width: 510px) {
 }

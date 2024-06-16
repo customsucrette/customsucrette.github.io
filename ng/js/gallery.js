@@ -2,15 +2,18 @@ $(document).ready(() => {
     customTheme();
     userSettings();
     currentPage("gallery");
+    $("#filter-version").val("NG");
     loadPosts();
 });
 
-const loadPosts = (start = 0, num = 30) => {
+const postsPerPage = 30;
+
+const loadPosts = (page = 0, num = postsPerPage) => {
     // Obtener filtro
     let ver = $("#filter-version option:selected").val();
 
     let tags = ver == "all" ? `tagged=submission` : `tagged=${ver}`;
-    let param = `?start=${start}&num=${num}&${tags}`;
+    let param = `?start=${page*num}&num=${num}&${tags}`;
 
     (() => {
         $("#dynamic-script").html("");
@@ -29,10 +32,10 @@ const loadPosts = (start = 0, num = 30) => {
                     if (tumblr_posts[p]["is-submission"]) {
                         // Submited post
                         $(".post-content").eq(p).append(`<img src="${tumblr_posts[p]["photo-url-1280"]}">`);
-                        if (tumblr_posts[p].submitter != "Anónimo") {
+                        if (tumblr_posts[p].submitter != "Anónimo" && tumblr_posts[p].submitter != "Anonymous") {
                             $(".author-info").eq(p).append(`enviado por <a href="https://${tumblr_posts[p].submitter}.tumblr.com" target="_blank">@${tumblr_posts[p].submitter}</a>`);
                         } else {
-                            $(".author-info").eq(p).append(`enviado por ${tumblr_posts[p].submitter}`);
+                            $(".author-info").eq(p).append(`enviado por anónimo`);
                         };
                         
                     } else {
@@ -53,12 +56,15 @@ const loadPosts = (start = 0, num = 30) => {
                 $(".cs-gallery-content").append('<div class="empty-gallery">No hay elementos disponibles.</div>');
             };
 
+            updatePagination();
+
         };
 
         script.src = `https://custom-gallery.tumblr.com/api/read/json${param}`;
         document.getElementById("dynamic-script").appendChild( script );
 
     })();
+
 
 };
 
@@ -78,9 +84,29 @@ const showFullImage = (img) => {
     $("#image-layout").scrollTop(0);
 };
 
+const updatePagination = () => {
+
+    // Bloquear pagina anterior ? 
+    let currentPage = parseInt( $("#page-info").attr("data-current") );
+    (currentPage == 0) ? $("#page-back").addClass("disabled") : $("#page-back").removeClass("disabled");
+
+
+    // Bloquear pagina siguiente ?
+    let totalPosts = parseInt( tumblr_api_read["posts-total"] );
+    let totalPostsPerPage = postsPerPage;
+    let initialPost = totalPostsPerPage * currentPage;
+    let nextInitialPost = initialPost + totalPostsPerPage;
+
+    (totalPosts <= nextInitialPost) ? $("#page-next").addClass("disabled") : $("#page-next").removeClass("disabled");
+    (totalPosts <= totalPostsPerPage) ? $(".pagination").hide() : $(".pagination").show();
+
+};
+
 
 $(function() {
     $("#filter-version").change(function() {
+        $("#page-info").attr("data-current", 0);
+        $("#page-info").text(1);
         loadPosts();
     });
 
@@ -96,5 +122,14 @@ $(function() {
     $("#image-layout").click(function() {
         $(this).fadeOut(100);
     });
-
+    
+    $(".page").click(function() {
+        let page = parseInt( $("#page-info").attr("data-current") );
+        let goto = $(this).attr("id").split("-")[1];
+        (goto == "back") ? page-- : page++;
+        
+        $("#page-info").attr("data-current", page);
+        $("#page-info").text(page + 1);
+        loadPosts(page);
+    });
 });
