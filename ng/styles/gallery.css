@@ -212,6 +212,18 @@ option {
     max-width: 100%;
 }
 
+.post-found-code {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: var(--asng-personality-color-dark);
+    padding: 5px;
+    border-radius: 50%;
+    color: #fff;
+    transform: rotate(135deg);
+    cursor: pointer;
+}
+
 #image-layout {
     position: fixed;
     top: 0;

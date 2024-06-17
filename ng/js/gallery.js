@@ -37,6 +37,12 @@ const loadPosts = (page = 0, num = postsPerPage) => {
                         } else {
                             $(".author-info").eq(p).append(`enviado por anónimo`);
                         };
+
+                        // search code
+                        let code = searchCodeInCaption(tumblr_api_read.posts[p]["photo-caption"]);
+                        if (code != null) {
+                            $(".post-content").eq(p).append(`<div class="post-found-code" data-code="${code}" title="Abrir en el vestidor"><span class="material-symbols-outlined">link</span></div>`);
+                        };
                         
                     } else {
                         // Reblogged post 
@@ -68,20 +74,64 @@ const loadPosts = (page = 0, num = postsPerPage) => {
 
 };
 
-const orientacion = (w, h) => {
-    if (w <= h) {
-        return 'portrait';
-        
-    } else if (w > h) {
-        return 'landscape';
-    };
-};
-
 const showFullImage = (img) => {
     $("#image-layout img").remove();
     $("#image-layout").append(`<img src="${img}">`);
     $("#image-layout").css("display", "flex");
     $("#image-layout").scrollTop(0);
+};
+
+const searchCodeInCaption = (caption) => {
+
+    // Comprobar si tiene código
+    if (caption.includes("1i") || caption.includes("2i") || caption.includes("3i")) {
+
+        // Buscar versión e inicio del código 
+        caption = caption.replace(/</g, "---");
+        caption = caption.replace(/>/g, "---");
+        caption = caption.replace(/ /g, "---");
+        caption = caption.split("---");
+
+        let code = null;
+        for (c = 0; c < caption.length; c++) {
+            if (caption[c].includes("1i") || caption[c].includes("2i") || caption[c].includes("3i")) {
+                code = caption[c].trim();
+
+                let v1 = (code.indexOf("1i") < 0) ? 999999 : code.indexOf("1i");
+                let v2 = (code.indexOf("2i") < 0) ? 999999 : code.indexOf("2i");
+                let v3 = (code.indexOf("3i") < 0) ? 999999 : code.indexOf("3i");
+
+                if (v1 < v2 && v1 < v3) {
+                    // Es V1
+                    code = code.slice(v1);
+                } else if (v2 < v1 && v2 < v3) {
+                    // Es V2
+                    code = code.slice(v2);
+                } else if (v3 < v1 && v3 < v2) {
+                    // Es V3
+                    code = code.slice(v3);
+                } else {
+                    return null;
+                };
+                
+                break;
+            };
+        };
+
+        // Buscar final del código 
+        for (e = (code.length - 1); e > 0; e--) {
+            if (!isNaN(parseInt(code[e]))) {
+                code = code.slice(0,(e + 1));
+                return code;
+            };
+        };
+        // console.log("No se pudo encontrar el código");
+        return null;
+
+    } else {
+        // console.log("No contiene códigos");
+        return null;
+    };
 };
 
 const updatePagination = () => {
@@ -119,6 +169,13 @@ $(function() {
         showFullImage(img);
     });
 
+    $(".cs-gallery-content").on("click", ".post-found-code", function() {
+        let code = $(this).attr("data-code");
+        localStorage.setItem("tempCode", code);
+        let v = code[0] != 3 ? `v${code[0]}` : "ng";
+        window.open(`../${v}/wardrobe.html`, "_blank");
+    });
+
     $("#image-layout").click(function() {
         $(this).fadeOut(100);
     });
@@ -132,4 +189,5 @@ $(function() {
         $("#page-info").text(page + 1);
         loadPosts(page);
     });
+
 });
