@@ -2958,7 +2958,7 @@
             {"id":2570, "colors":["blue"]},
             {"id":2571, "colors":["green"]},
             {"id":2572, "colors":["black"]}
-        ], "criteria":{"type":"calendar", "info":"2024", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
+        ], "criteria":{"type":"calendar", "info":"2024-1", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
     },
     {
         "groupId":2573, "zone":"feet", "category":"shoes", "security":"9fc4d314aca4d9f7", "multiLayered":false, "layerBehavior":"normal",
@@ -2975,7 +2975,7 @@
             {"id":2580, "colors":["black"]},
             {"id":2581, "colors":["green"]},
             {"id":2582, "colors":["blue"]}
-        ], "criteria":{"type":"calendar", "info":"2024", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
+        ], "criteria":{"type":"calendar", "info":"2024-1", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
     },
     {
         "groupId":2583, "zone":"torso", "category":"top", "security":"84288dc5620a10bd", "multiLayered":false, "layerBehavior":"normal",
@@ -2992,7 +2992,7 @@
             {"id":2590, "colors":["blue"]},
             {"id":2591, "colors":["green"]},
             {"id":2592, "colors":["black"]}
-        ], "criteria":{"type":"calendar", "info":"2024", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
+        ], "criteria":{"type":"calendar", "info":"2024-1", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
     },
     {
         "groupId":2593, "zone":"waistToKnee", "category":"skirt", "security":"fa3abfb158f2ab06", "multiLayered":false, "layerBehavior":"normal",
@@ -3009,7 +3009,7 @@
             {"id":2600, "colors":["blue"]},
             {"id":2601, "colors":["blue"]},
             {"id":2602, "colors":["brown"]}
-        ], "criteria":{"type":"calendar", "info":"2024", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
+        ], "criteria":{"type":"calendar", "info":"2024-1", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
     },
     {
         "groupId":2603, "zone":"arms", "category":"bag", "security":"db6b156661b08d8e", "multiLayered":false, "layerBehavior":"normal",
@@ -3026,7 +3026,7 @@
             {"id":2610, "colors":["green"]},
             {"id":2611, "colors":["blue"]},
             {"id":2612, "colors":["yellow"]}
-        ], "criteria":{"type":"calendar", "info":"2024", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
+        ], "criteria":{"type":"calendar", "info":"2024-1", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
     },
     {
         "groupId":2613, "zone":"torso", "category":"jacket", "security":"6f3173af6b273e73", "multiLayered":true, "layerBehavior":"backInFront",
@@ -3043,7 +3043,109 @@
             {"id":2620, "colors":["black"]},
             {"id":2621, "colors":["green"]},
             {"id":2622, "colors":["blue"]}
-        ], "criteria":{"type":"calendar", "info":"2024", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
+        ], "criteria":{"type":"calendar", "info":"2024-1", "text":"Desbloqueado en el calendario\nN°01 - 2024"}
+    },
+    {
+        "groupId":2623, "zone":"general", "category":"tattoo", "security":"9138860553d76b2d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"City's Shadow",
+        "variations":[
+            {"id":2623, "colors":["black"]},
+            {"id":2624, "colors":["white"]},
+            {"id":2625, "colors":["green"]},
+            {"id":2626, "colors":["brown"]},
+            {"id":2627, "colors":["grey"]},
+            {"id":2628, "colors":["pink"]},
+            {"id":2629, "colors":["red"]},
+            {"id":2630, "colors":["blue"]},
+            {"id":2631, "colors":["yellow"]},
+            {"id":2632, "colors":["purple"]}
+        ], "criteria":{"type":"calendar", "info":"2024-3", "text":"Desbloqueado en el calendario\nN°03 - 2024"}
+    },
+    {
+        "groupId":2633, "zone":"torso", "category":"top", "security":"441abf424f54ed40", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"City's Shadow",
+        "variations":[
+            {"id":2633, "colors":["black"]},
+            {"id":2634, "colors":["white"]},
+            {"id":2635, "colors":["green"]},
+            {"id":2636, "colors":["brown"]},
+            {"id":2637, "colors":["grey"]},
+            {"id":2638, "colors":["brown"]},
+            {"id":2639, "colors":["red"]},
+            {"id":2640, "colors":["blue"]},
+            {"id":2641, "colors":["yellow"]},
+            {"id":2642, "colors":["purple"]}
+        ], "criteria":{"type":"calendar", "info":"2024-3", "text":"Desbloqueado en el calendario\nN°03 - 2024"}
+    },
+    {
+        "groupId":2643, "zone":"waistToKnee", "category":"pants", "security":"6138f0e7e5395d18", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"City's Shadow",
+        "variations":[
+            {"id":2643, "colors":["black"]},
+            {"id":2644, "colors":["white"]},
+            {"id":2645, "colors":["green"]},
+            {"id":2646, "colors":["brown"]},
+            {"id":2647, "colors":["grey"]},
+            {"id":2648, "colors":["brown"]},
+            {"id":2649, "colors":["red"]},
+            {"id":2650, "colors":["blue"]},
+            {"id":2651, "colors":["yellow"]},
+            {"id":2652, "colors":["purple"]}
+        ], "criteria":{"type":"calendar", "info":"2024-3", "text":"Desbloqueado en el calendario\nN°03 - 2024"}
+    },
+    {
+        "groupId":2653, "zone":"feet", "category":"shoes", "security":"0a0ec4084692bec0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"City's Shadow",
+        "variations":[
+            {"id":2653, "colors":["black"]},
+            {"id":2654, "colors":["white"]},
+            {"id":2655, "colors":["green"]},
+            {"id":2656, "colors":["brown"]},
+            {"id":2657, "colors":["brown"]},
+            {"id":2658, "colors":["red"]},
+            {"id":2659, "colors":["blue"]},
+            {"id":2660, "colors":["yellow"]},
+            {"id":2661, "colors":["purple"]},
+            {"id":2662, "colors":["grey"]}
+        ], "criteria":{"type":"calendar", "info":"2024-3", "text":"Desbloqueado en el calendario\nN°03 - 2024"}
+    },
+    {
+        "groupId":2663, "zone":"torso_waistToKnee", "category":"waist", "security":"0b1fdc0705207d89", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"City's Shadow",
+        "variations":[
+            {"id":2663, "colors":["black"]},
+            {"id":2664, "colors":["grey", "white"]},
+            {"id":2665, "colors":["green"]},
+            {"id":2666, "colors":["brown"]},
+            {"id":2667, "colors":["grey"]},
+            {"id":2668, "colors":["brown"]},
+            {"id":2669, "colors":["red"]},
+            {"id":2670, "colors":["blue"]},
+            {"id":2671, "colors":["yellow"]},
+            {"id":2672, "colors":["purple"]}
+        ], "criteria":{"type":"calendar", "info":"2024-3", "text":"Desbloqueado en el calendario\nN°03 - 2024"}
+    },
+    {
+        "groupId":2673, "zone":"torso", "category":"jacket", "security":"bf494b59cbfc446d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sudadera",
+        "outfitName":"City's Shadow",
+        "variations":[
+            {"id":2673, "colors":["black"]},
+            {"id":2674, "colors":["white"]},
+            {"id":2675, "colors":["green"]},
+            {"id":2676, "colors":["brown"]},
+            {"id":2677, "colors":["grey"]},
+            {"id":2678, "colors":["brown"]},
+            {"id":2679, "colors":["red"]},
+            {"id":2680, "colors":["blue"]},
+            {"id":2681, "colors":["yellow"]},
+            {"id":2682, "colors":["purple"]}
+        ], "criteria":{"type":"calendar", "info":"2024-3", "text":"Desbloqueado en el calendario\nN°03 - 2024"}
     },
     {
         "groupId":2803, "zone":"torso", "category":"top", "security":"133740b3a2fd1b79", "multiLayered":false, "layerBehavior":"normal",
