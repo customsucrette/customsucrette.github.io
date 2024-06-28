@@ -48,6 +48,10 @@
         "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
+        "id":13, "security":"aa49a4367d4c9385", "name":"¡Todos a cubierta!",
+        "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"}
+    },
+    {
         "id":18, "security":"4e23470e302228a9", "name":"Lady Regency",
         "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"}
     },

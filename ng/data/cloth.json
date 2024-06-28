@@ -3794,6 +3794,210 @@
         ], "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
+        "groupId":3183, "zone":"feet", "category":"socks", "security":"e02017aba306529e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Scouting See",
+        "variations":[
+            {"id":3183, "colors":["undefined"]},
+            {"id":3184, "colors":["undefined"]},
+            {"id":3185, "colors":["undefined"]},
+            {"id":3186, "colors":["undefined"]},
+            {"id":3187, "colors":["undefined"]},
+            {"id":3188, "colors":["undefined"]},
+            {"id":3189, "colors":["undefined"]},
+            {"id":3190, "colors":["undefined"]},
+            {"id":3191, "colors":["undefined"]},
+            {"id":3192, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3193, "zone":"feet", "category":"shoes", "security":"1c41f31a776cd647", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Scouting See",
+        "variations":[
+            {"id":3193, "colors":["undefined"]},
+            {"id":3194, "colors":["undefined"]},
+            {"id":3195, "colors":["undefined"]},
+            {"id":3196, "colors":["undefined"]},
+            {"id":3197, "colors":["undefined"]},
+            {"id":3198, "colors":["undefined"]},
+            {"id":3199, "colors":["undefined"]},
+            {"id":3200, "colors":["undefined"]},
+            {"id":3201, "colors":["undefined"]},
+            {"id":3202, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3203, "zone":"torso_waistToKnee", "category":"dress", "security":"87f909856a35158e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Scouting See",
+        "variations":[
+            {"id":3203, "colors":["undefined"]},
+            {"id":3204, "colors":["undefined"]},
+            {"id":3205, "colors":["undefined"]},
+            {"id":3206, "colors":["undefined"]},
+            {"id":3207, "colors":["undefined"]},
+            {"id":3208, "colors":["undefined"]},
+            {"id":3209, "colors":["undefined"]},
+            {"id":3210, "colors":["undefined"]},
+            {"id":3211, "colors":["undefined"]},
+            {"id":3212, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3213, "zone":"torso", "category":"top", "security":"7d698594a11909d1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bustier",
+        "outfitName":"Scouting See",
+        "variations":[
+            {"id":3213, "colors":["undefined"]},
+            {"id":3214, "colors":["undefined"]},
+            {"id":3215, "colors":["undefined"]},
+            {"id":3216, "colors":["undefined"]},
+            {"id":3217, "colors":["undefined"]},
+            {"id":3218, "colors":["undefined"]},
+            {"id":3219, "colors":["undefined"]},
+            {"id":3220, "colors":["undefined"]},
+            {"id":3221, "colors":["undefined"]},
+            {"id":3222, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3223, "zone":"arms", "category":"bag", "security":"02b8f98a6d8c87fb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Scouting See",
+        "variations":[
+            {"id":3223, "colors":["undefined"]},
+            {"id":3224, "colors":["undefined"]},
+            {"id":3225, "colors":["undefined"]},
+            {"id":3226, "colors":["undefined"]},
+            {"id":3227, "colors":["undefined"]},
+            {"id":3228, "colors":["undefined"]},
+            {"id":3229, "colors":["undefined"]},
+            {"id":3230, "colors":["undefined"]},
+            {"id":3231, "colors":["undefined"]},
+            {"id":3232, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3233, "zone":"head", "category":"hat", "security":"9248af71484a526d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Diadema",
+        "outfitName":"Scouting See",
+        "variations":[
+            {"id":3233, "colors":["undefined"]},
+            {"id":3234, "colors":["undefined"]},
+            {"id":3235, "colors":["undefined"]},
+            {"id":3236, "colors":["undefined"]},
+            {"id":3237, "colors":["undefined"]},
+            {"id":3238, "colors":["undefined"]},
+            {"id":3239, "colors":["undefined"]},
+            {"id":3240, "colors":["undefined"]},
+            {"id":3241, "colors":["undefined"]},
+            {"id":3242, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3243, "zone":"general", "category":"tattoo", "security":"9f4f2c9fb29de1a1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Scouting Earth",
+        "variations":[
+            {"id":3243, "colors":["undefined"]},
+            {"id":3244, "colors":["undefined"]},
+            {"id":3245, "colors":["undefined"]},
+            {"id":3246, "colors":["undefined"]},
+            {"id":3247, "colors":["undefined"]},
+            {"id":3248, "colors":["undefined"]},
+            {"id":3249, "colors":["undefined"]},
+            {"id":3250, "colors":["undefined"]},
+            {"id":3251, "colors":["undefined"]},
+            {"id":3252, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3253, "zone":"feet", "category":"shoes", "security":"2175c921c8f32ca5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de salón",
+        "outfitName":"Scouting Earth",
+        "variations":[
+            {"id":3253, "colors":["undefined"]},
+            {"id":3254, "colors":["undefined"]},
+            {"id":3255, "colors":["undefined"]},
+            {"id":3256, "colors":["undefined"]},
+            {"id":3257, "colors":["undefined"]},
+            {"id":3258, "colors":["undefined"]},
+            {"id":3259, "colors":["undefined"]},
+            {"id":3260, "colors":["undefined"]},
+            {"id":3261, "colors":["undefined"]},
+            {"id":3262, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3263, "zone":"torso", "category":"top", "security":"6651a95d362d221b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bustier",
+        "outfitName":"Scouting Earth",
+        "variations":[
+            {"id":3263, "colors":["undefined"]},
+            {"id":3264, "colors":["undefined"]},
+            {"id":3265, "colors":["undefined"]},
+            {"id":3266, "colors":["undefined"]},
+            {"id":3267, "colors":["undefined"]},
+            {"id":3268, "colors":["undefined"]},
+            {"id":3269, "colors":["undefined"]},
+            {"id":3270, "colors":["undefined"]},
+            {"id":3271, "colors":["undefined"]},
+            {"id":3272, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3273, "zone":"torso_waistToKnee", "category":"waist", "security":"b9476631b79f1250", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corsé",
+        "outfitName":"Scouting Earth",
+        "variations":[
+            {"id":3273, "colors":["undefined"]},
+            {"id":3274, "colors":["undefined"]},
+            {"id":3275, "colors":["undefined"]},
+            {"id":3276, "colors":["undefined"]},
+            {"id":3277, "colors":["undefined"]},
+            {"id":3278, "colors":["undefined"]},
+            {"id":3279, "colors":["undefined"]},
+            {"id":3280, "colors":["undefined"]},
+            {"id":3281, "colors":["undefined"]},
+            {"id":3282, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3283, "zone":"waistToKnee", "category":"pants", "security":"984e74dfd8deba1d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jeans",
+        "outfitName":"Scouting Earth",
+        "variations":[
+            {"id":3283, "colors":["undefined"]},
+            {"id":3284, "colors":["undefined"]},
+            {"id":3285, "colors":["undefined"]},
+            {"id":3286, "colors":["undefined"]},
+            {"id":3287, "colors":["undefined"]},
+            {"id":3288, "colors":["undefined"]},
+            {"id":3289, "colors":["undefined"]},
+            {"id":3290, "colors":["undefined"]},
+            {"id":3291, "colors":["undefined"]},
+            {"id":3292, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
+        "groupId":3293, "zone":"face", "category":"neckAccessory", "security":"a8af263549285882", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Scouting Earth",
+        "variations":[
+            {"id":3293, "colors":["undefined"]},
+            {"id":3294, "colors":["undefined"]},
+            {"id":3295, "colors":["undefined"]},
+            {"id":3296, "colors":["undefined"]},
+            {"id":3297, "colors":["undefined"]},
+            {"id":3298, "colors":["undefined"]},
+            {"id":3299, "colors":["undefined"]},
+            {"id":3300, "colors":["undefined"]},
+            {"id":3301, "colors":["undefined"]},
+            {"id":3302, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"}
+    },
+    {
         "groupId":3504, "zone":"head", "category":"wig", "security":"b82d3d69a095628c", "multiLayered":false, "layerBehavior":"normal",
         "name":"Peluca Basic Cut",
         "outfitName":null,
