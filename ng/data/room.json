@@ -221,7 +221,17 @@
             }
         },
         {
-            "id":231, "roomId":null, "slot":"background", "light":true, "security":"1c1777039c142f6d",
+            "id":225, "roomId":54, "slot":"background", "light":true, "security":"10a632cbafc1b701",
+            "name":"Cabina",
+            "roomName":"Private Flight",
+            "criteria":null,
+            "backgroundColors":{
+                "day":{"color1":"FFFFFF", "color2":"D0D8ED", "colorLight":"084771"},
+                "night":{"color1":"FDDDB2", "color2":"AE8DC1", "colorLight":"A25414"}
+            }
+        },
+        {
+            "id":231, "roomId":55, "slot":"background", "light":true, "security":"1c1777039c142f6d",
             "name":"Paredes",
             "roomName":"Gamer Goals",
             "criteria":null,
@@ -372,7 +382,13 @@
             "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"}
         },
         {
-            "id":232, "roomId":null, "slot":"slot1", "light":false, "security":"0ba9194f5ffefe6e",
+            "id":226, "roomId":54, "slot":"slot1", "light":false, "security":"c5d892ae74914e29",
+            "name":"Pantalla",
+            "roomName":"Private Flight",
+            "criteria":null
+        },
+        {
+            "id":232, "roomId":55, "slot":"slot1", "light":false, "security":"0ba9194f5ffefe6e",
             "name":"Cama",
             "roomName":"Gamer Goals",
             "criteria":null
@@ -518,7 +534,13 @@
             "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"}
         },
         {
-            "id":233, "roomId":null, "slot":"slot2", "light":true, "security":"9eed5acd22954821",
+            "id":227, "roomId":54, "slot":"slot2", "light":false, "security":"c0fd32bb6d146b9c",
+            "name":"Sofá",
+            "roomName":"Private Flight",
+            "criteria":null
+        },
+        {
+            "id":233, "roomId":55, "slot":"slot2", "light":true, "security":"9eed5acd22954821",
             "name":"Pufs",
             "roomName":"Gamer Goals",
             "criteria":null
@@ -664,7 +686,13 @@
             "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"}
         },
         {
-            "id":234, "roomId":null, "slot":"slot3", "light":true, "security":"9a4979943ec58a21",
+            "id":228, "roomId":54, "slot":"slot3", "light":false, "security":"3db1980baec35a7a",
+            "name":"Mesa",
+            "roomName":"Private Flight",
+            "criteria":null
+        },
+        {
+            "id":234, "roomId":55, "slot":"slot3", "light":true, "security":"9a4979943ec58a21",
             "name":"Estación de gaming",
             "roomName":"Gamer Goals",
             "criteria":null
@@ -826,9 +854,15 @@
             "name":"Rosal",
             "roomName":"Aren't We All a Bit Mad Here?",
             "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"}
-        },  
+        },
         {
-            "id":235, "roomId":null, "slot":"slot4", "light":true, "security":"fdacfe84c85e1c11",
+            "id":229, "roomId":54, "slot":"slot4", "light":false, "security":"97f139398714d194",
+            "name":"Maletas",
+            "roomName":"Private Flight",
+            "criteria":null
+        },
+        {
+            "id":235, "roomId":55, "slot":"slot4", "light":true, "security":"fdacfe84c85e1c11",
             "name":"Vitrina",
             "roomName":"Gamer Goals",
             "criteria":null
@@ -968,7 +1002,13 @@
             "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"}
         },
         {
-            "id":236, "roomId":null, "slot":"slot5", "light":false, "security":"2051ca08d40bb2fa",
+            "id":230, "roomId":54, "slot":"slot5", "light":false, "security":"fdbc4957e9e113bc",
+            "name":"Sillón",
+            "roomName":"Private Flight",
+            "criteria":null
+        },
+        {
+            "id":236, "roomId":55, "slot":"slot5", "light":false, "security":"2051ca08d40bb2fa",
             "name":"Gato",
             "roomName":"Gamer Goals",
             "criteria":null

@@ -5405,6 +5405,210 @@
         ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
     },
     {
+        "groupId":4991, "zone":"head", "category":"wig", "security":"66ab65c25e9132bc", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":4991, "colors":["brown"]},
+            {"id":4992, "colors":["white"]},
+            {"id":4993, "colors":["black"]},
+            {"id":4994, "colors":["blue"]},
+            {"id":4995, "colors":["blue"]},
+            {"id":4996, "colors":["purple"]},
+            {"id":4997, "colors":["red"]},
+            {"id":4998, "colors":["yellow"]},
+            {"id":4999, "colors":["orange"]},
+            {"id":5000, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5001, "zone":"head", "category":"earring", "security":"8a0abc15cc3b7de3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5001, "colors":["yellow"]},
+            {"id":5002, "colors":["blue"]},
+            {"id":5003, "colors":["grey"]},
+            {"id":5004, "colors":["black"]},
+            {"id":5005, "colors":["green"]},
+            {"id":5006, "colors":["pink"]},
+            {"id":5007, "colors":["purple"]},
+            {"id":5008, "colors":["white"]},
+            {"id":5009, "colors":["red"]},
+            {"id":5010, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5011, "zone":"head", "category":"faceAccessory", "security":"54460ce0393ed9e2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5011, "colors":["brown"]},
+            {"id":5012, "colors":["white"]},
+            {"id":5013, "colors":["blue"]},
+            {"id":5014, "colors":["red"]},
+            {"id":5015, "colors":["black"]},
+            {"id":5016, "colors":["pink"]},
+            {"id":5017, "colors":["purple"]},
+            {"id":5018, "colors":["yellow"]},
+            {"id":5019, "colors":["brown"]},
+            {"id":5020, "colors":["green"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5021, "zone":"head", "category":"hat", "security":"67f5fe5d6dc5a27b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gorra",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5021, "colors":["blue"]},
+            {"id":5022, "colors":["blue"]},
+            {"id":5023, "colors":["white"]},
+            {"id":5024, "colors":["black"]},
+            {"id":5025, "colors":["green"]},
+            {"id":5026, "colors":["yellow"]},
+            {"id":5027, "colors":["pink"]},
+            {"id":5028, "colors":["purple"]},
+            {"id":5029, "colors":["red"]},
+            {"id":5030, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5031, "zone":"arms", "category":"gloves", "security":"7bfa5b8ff3b539df", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5031, "colors":["white"]},
+            {"id":5032, "colors":["blue"]},
+            {"id":5033, "colors":["grey"]},
+            {"id":5034, "colors":["red"]},
+            {"id":5035, "colors":["black"]},
+            {"id":5036, "colors":["pink"]},
+            {"id":5037, "colors":["purple"]},
+            {"id":5038, "colors":["yellow"]},
+            {"id":5039, "colors":["brown"]},
+            {"id":5040, "colors":["green"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5041, "zone":"general", "category":"other", "security":"5818ef5b8da7d3b0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maletas",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5041, "colors":["black","brown"]},
+            {"id":5042, "colors":["white","grey"]},
+            {"id":5043, "colors":["blue","white"]},
+            {"id":5044, "colors":["red","black"]},
+            {"id":5045, "colors":["green"]},
+            {"id":5046, "colors":["pink","purple"]},
+            {"id":5047, "colors":["blue","yellow"]},
+            {"id":5048, "colors":["brown","pink"]},
+            {"id":5049, "colors":["purple","blue"]},
+            {"id":5050, "colors":["yellow","pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5051, "zone":"feet", "category":"shoes", "security":"557194bf99c4c208", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5051, "colors":["blue"]},
+            {"id":5052, "colors":["blue"]},
+            {"id":5053, "colors":["white"]},
+            {"id":5054, "colors":["black"]},
+            {"id":5055, "colors":["green"]},
+            {"id":5056, "colors":["yellow"]},
+            {"id":5057, "colors":["pink"]},
+            {"id":5058, "colors":["purple"]},
+            {"id":5059, "colors":["red"]},
+            {"id":5060, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5061, "zone":"torso", "category":"top", "security":"f38766dbf8c6a5de", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5061, "colors":["white"]},
+            {"id":5062, "colors":["blue"]},
+            {"id":5063, "colors":["grey"]},
+            {"id":5064, "colors":["red"]},
+            {"id":5065, "colors":["black"]},
+            {"id":5066, "colors":["pink"]},
+            {"id":5067, "colors":["purple"]},
+            {"id":5068, "colors":["yellow"]},
+            {"id":5069, "colors":["brown"]},
+            {"id":5070, "colors":["green"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5071, "zone":"arms", "category":"armAccessory", "security":"b554da5c83f35777", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Reloj de pulsera",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5071, "colors":["yellow"]},
+            {"id":5072, "colors":["blue"]},
+            {"id":5073, "colors":["grey"]},
+            {"id":5074, "colors":["black"]},
+            {"id":5075, "colors":["green"]},
+            {"id":5076, "colors":["pink"]},
+            {"id":5077, "colors":["purple"]},
+            {"id":5078, "colors":["white"]},
+            {"id":5079, "colors":["red"]},
+            {"id":5080, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5081, "zone":"waistToKnee", "category":"skirt", "security":"0adaf5e6a75549b1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5081, "colors":["blue"]},
+            {"id":5082, "colors":["blue"]},
+            {"id":5083, "colors":["white"]},
+            {"id":5084, "colors":["black"]},
+            {"id":5085, "colors":["green"]},
+            {"id":5086, "colors":["yellow"]},
+            {"id":5087, "colors":["pink"]},
+            {"id":5088, "colors":["purple"]},
+            {"id":5089, "colors":["red"]},
+            {"id":5090, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5091, "zone":"torso", "category":"jacket", "security":"99842be15f6bd163", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5091, "colors":["blue"]},
+            {"id":5092, "colors":["blue"]},
+            {"id":5093, "colors":["white"]},
+            {"id":5094, "colors":["black"]},
+            {"id":5095, "colors":["green"]},
+            {"id":5096, "colors":["yellow"]},
+            {"id":5097, "colors":["pink"]},
+            {"id":5098, "colors":["purple"]},
+            {"id":5099, "colors":["red"]},
+            {"id":5100, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":5101, "zone":"face", "category":"neckAccessory", "security":"153d6a828b0493af", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Credencial",
+        "outfitName":"Flying High",
+        "variations":[
+            {"id":5101, "colors":["black"]},
+            {"id":5102, "colors":["white"]},
+            {"id":5103, "colors":["blue"]},
+            {"id":5104, "colors":["brown"]},
+            {"id":5105, "colors":["green"]},
+            {"id":5106, "colors":["pink"]},
+            {"id":5107, "colors":["yellow"]},
+            {"id":5108, "colors":["red"]},
+            {"id":5109, "colors":["purple"]},
+            {"id":5110, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
         "groupId":5111, "zone":"feet", "category":"socks", "security":"2689d9701c17ef4b", "multiLayered":false, "layerBehavior":"normal",
         "name":"Liga",
         "outfitName":"E-girl",
