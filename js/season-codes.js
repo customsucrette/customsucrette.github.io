@@ -362,18 +362,18 @@ function loadCode(code = null) {
             };
 
             let cRoom = code[2].split("S");
-            let temp = room.background.filter(v => {return v.id == cRoom[0]});
-            sucrette.room.background = temp.length == 1 ? `${cRoom[0]}-${temp[0].security}` : null;
-            temp = room.slot1.filter(v => {return v.id == cRoom[1]});
-            sucrette.room.slot1 = temp.length == 1 ? `${cRoom[1]}-${temp[0].security}` : null;
-            temp = room.slot2.filter(v => {return v.id == cRoom[2]});
-            sucrette.room.slot2 = temp.length == 1 ? `${cRoom[2]}-${temp[0].security}` : null;
-            temp = room.slot3.filter(v => {return v.id == cRoom[3]});
-            sucrette.room.slot3 = temp.length == 1 ? `${cRoom[3]}-${temp[0].security}` : null;
-            temp = room.slot4.filter(v => {return v.id == cRoom[4]});
-            sucrette.room.slot4 = temp.length == 1 ? `${cRoom[4]}-${temp[0].security}` : null;
-            temp = room.slot5.filter(v => {return v.id == cRoom[5]});
-            sucrette.room.slot5 = temp.length == 1 ? `${cRoom[5]}-${temp[0].security}` : null;
+            const bg = room.filter(v => {return v.id == cRoom[0]});
+            sucrette.room.background = bg.length == 1 ? `${cRoom[0]}-${bg[0].security}` : null;
+            const slot1 = room.filter(v => {return v.id == cRoom[1]});
+            sucrette.room.slot1 = slot1.length == 1 ? `${cRoom[1]}-${slot1[0].security}` : null;
+            const slot2 = room.filter(v => {return v.id == cRoom[2]});
+            sucrette.room.slot2 = slot2.length == 1 ? `${cRoom[2]}-${slot2[0].security}` : null;
+            const slot3 = room.filter(v => {return v.id == cRoom[3]});
+            sucrette.room.slot3 = slot3.length == 1 ? `${cRoom[3]}-${slot3[0].security}` : null;
+            const slot4 = room.filter(v => {return v.id == cRoom[4]});
+            sucrette.room.slot4 = slot4.length == 1 ? `${cRoom[4]}-${slot4[0].security}` : null;
+            const slot5 = room.filter(v => {return v.id == cRoom[5]});
+            sucrette.room.slot5 = slot5.length == 1 ? `${cRoom[5]}-${slot5[0].security}` : null;
 
             code.splice(0,3);
 
@@ -395,7 +395,7 @@ function loadCode(code = null) {
 
                     sucrette.avatar.hair = $(".hair-color .color").eq(tAvatar[1]).data("color");
                     sucrette.avatar.eyesColor = $(".eye-color .color").eq(tAvatar[2]).data("color");
-                    temp = (avatar.collections.eyes).filter(v => v.variations.some(i => i.id == tAvatar[3])); // test
+                    let temp = (avatar.collections.eyes).filter(v => v.variations.some(i => i.id == tAvatar[3])); // test
                     sucrette.avatar.eyes = `${tAvatar[3]}-${temp[0].security}`;
                     temp = (avatar.collections.eyebrows).filter(v => v.variations.some(i => i.id == tAvatar[4])); // test
                     sucrette.avatar.eyebrows = `${tAvatar[4]}-${temp[0].security}`;
@@ -434,7 +434,6 @@ function loadCode(code = null) {
         }; 
     };
 
-    
 };
 
 // Formato del código >>>
@@ -447,7 +446,7 @@ function loadCode(code = null) {
 // 3i1T1i38S31S157S0S52S0iB2341iRA1A6A2A3A1A0X2X8iM1iM637iM618iM627iF2341iM3521
 
 $(function (){
-    
+
     $("body").on("click", ".copy-code", function(){
         copyCode();
     });
@@ -475,6 +474,5 @@ $(function (){
 
         $(".current-season .text").addClass("visible");
     });
-    
-})
 
+});

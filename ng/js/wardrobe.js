@@ -94,6 +94,7 @@ function drawCategory(c = "top", declination = null) {
                             case "jobTask": icon = "jobTasks";break;
                             case "pack": icon = "bankPacks";break;
                             case "calendar": icon = "calendar";break;
+                            case "event": icon = "gameEvents";break;
                         }
                         $(".asng-cloth").eq(i).find('div').not(".counter").append(`<img class="locked" title="${lista[i].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
                     };
@@ -832,23 +833,45 @@ function drawSavePopUp(w, h) {
 function drawRoomItems(c = "background") {
     $("#asng-room-item-list-panel .items-container").html("");
 
-    for (b = 0; b < room[c].length; b++) {
+    const slot = room.filter(v => v.slot == c);
+
+    for (b = 0; b < slot.length; b++) {
         let item = sucrette.room[c] != null ? (sucrette.room[c]).split("-")[1] : null;
         $("#asng-room-item-list-panel .items-container").append(`<div class="asng-room-item"></div>`);
-        $(".asng-room-item").eq(b).append(`<div class="item ${c}"><div class="item-outline${room[c][b].security == item ? " equipped" : ""}"></div></div>`);
-        $(".asng-room-item .item").eq(b).append(`<div tooltipplacement="bottom"><img class="thumbnail" alt="${room[c][b].name}" src="${composeRoomUrl([c], room[c][b].id, room[c][b].security)}"></div>`);
+        $(".asng-room-item").eq(b).append(`<div class="item ${c}"><div class="item-outline${slot[b].security == item ? " equipped" : ""}"></div></div>`);
+        $(".asng-room-item .item").eq(b).append(`<div tooltipplacement="bottom"><img class="thumbnail" alt="${slot[b].name}" src="${composeRoomUrl([c], slot[b].id, slot[b].security)}"></div>`);
 
-        if (room[c][b].criteria != null) {
+        if (slot[b].criteria != null) {
             let icon = "";
-            switch(room[c][b].criteria.type) {
+            switch(slot[b].criteria.type) {
                 case "episode": icon = "episodes";break;
                 case "jobTask": icon = "jobTasks";break;
                 case "pack": icon = "bankPacks";break;
                 case "calendar": icon = "calendar";break;
             };
-            $(".asng-room-item .item div").not(".item-outline").eq(b).append(`<img class="locked" title="${room[c][b].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
+            $(".asng-room-item .item div").not(".item-outline").eq(b).append(`<img class="locked" title="${slot[b].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
         };
     };
+
+
+
+    // for (b = 0; b < room[c].length; b++) {
+    //     let item = sucrette.room[c] != null ? (sucrette.room[c]).split("-")[1] : null;
+    //     $("#asng-room-item-list-panel .items-container").append(`<div class="asng-room-item"></div>`);
+    //     $(".asng-room-item").eq(b).append(`<div class="item ${c}"><div class="item-outline${room[c][b].security == item ? " equipped" : ""}"></div></div>`);
+    //     $(".asng-room-item .item").eq(b).append(`<div tooltipplacement="bottom"><img class="thumbnail" alt="${room[c][b].name}" src="${composeRoomUrl([c], room[c][b].id, room[c][b].security)}"></div>`);
+
+    //     if (room[c][b].criteria != null) {
+    //         let icon = "";
+    //         switch(room[c][b].criteria.type) {
+    //             case "episode": icon = "episodes";break;
+    //             case "jobTask": icon = "jobTasks";break;
+    //             case "pack": icon = "bankPacks";break;
+    //             case "calendar": icon = "calendar";break;
+    //         };
+    //         $(".asng-room-item .item div").not(".item-outline").eq(b).append(`<img class="locked" title="${room[c][b].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
+    //     };
+    // };
 };
 
 function checkRoom(c, i) {
@@ -901,7 +924,7 @@ async function drawBackgroundPopUp(elmnt = "#save-canvas") {
     const p = e.getContext("2d");
 
     // Filters
-    let bgEffects = room.background.filter(v => v.security == sucrette.room.background.split("-")[1]);
+    let bgEffects = room.filter(v => v.security == sucrette.room.background.split("-")[1]);
 
     for (i = 1; i <= 5; i++) {
 
@@ -942,7 +965,7 @@ async function drawBackgroundPopUp(elmnt = "#save-canvas") {
                 p.clearRect(0, 0, w, h);
 
                 // light
-                let itemLight = room[`slot${i}`].filter(v => {return v.security == sucrette.room[`slot${i}`].split("-")[1]});
+                let itemLight = room.filter(v => {return v.security == sucrette.room[`slot${i}`].split("-")[1]});
                 if (itemLight[0].light) {
                     img = composeRoomUrl(`slot${i}`, sucrette.room[`slot${i}`].split("-")[0], sucrette.room[`slot${i}`].split("-")[1], "full", size, "light");
                     ready = await preloadIMG(img);
@@ -1719,7 +1742,7 @@ function fillCounter() {
 
     $(".shortcut.cloth p.counter").text(sum);
 
-    sum = (room.background.length + room.slot1.length + room.slot2.length + room.slot3.length + room.slot4.length + room.slot5.length);
+    sum = room.length;
     $(".shortcut.room p.counter").text(sum);
 
     sum = pet.length;
