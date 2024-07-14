@@ -6,7 +6,7 @@ $(document).ready(() => {
     loadPosts();
 });
 
-const postsPerPage = 30;
+const postsPerPage = 32;
 
 const loadPosts = (page = 0, num = postsPerPage) => {
     // Obtener filtro
@@ -42,6 +42,36 @@ const loadPosts = (page = 0, num = postsPerPage) => {
                         let code = searchCodeInCaption(tumblr_api_read.posts[p]["photo-caption"]);
                         if (code != null) {
                             $(".post-content").eq(p).append(`<div class="post-found-code" data-code="${code}" title="Abrir en el vestidor"><span class="material-symbols-outlined">link</span></div>`);
+                        };
+
+                        // Caption
+                        let caption = (tumblr_api_read.posts[p]["photo-caption"]).replace(/\n/g,"@#@#@#@#@");
+                        if (caption != "") {
+                            let message = "";
+
+                            if (caption.includes("@#@#@#@#@")) {
+                                let fragment = caption.split("@#@#@#@#@");
+                                for (f = 0; f < fragment.length; f++) {
+                                    let isCode = searchCodeInCaption(fragment[f]);
+                                    let noHTML = $(fragment[f]).text();
+                                    if ((isCode == null || isCode == "") && noHTML != "") {
+                                        message += `<p>${fragment[f]}</p>`;
+                                    };
+                                };
+
+                            } else {
+                                let isCode = searchCodeInCaption(caption);
+                                let noHTML = $(caption).text();
+                                if ((isCode == null || isCode == "") && noHTML != "") {
+                                    message += `<p>${caption}</p>`;
+                                };
+
+                            };
+
+                            if (message != "") {
+                                $(".post-content").eq(p).append(`<div class="author-message hidden">${message}</div>`);
+                                $(".post-content").eq(p).append('<div class="post-found-message"><span class="material-symbols-outlined">chat</span></div>');
+                            };
                         };
                         
                     } else {
@@ -167,6 +197,15 @@ $(function() {
     $(".cs-gallery-content").on("click", ".post-content img", function() {
         let img = $(this).attr("src");
         showFullImage(img);
+    });
+
+    $(".cs-gallery-content").on("click", ".post-found-message", function() {
+        let clase = $(this).parent().find(".author-message").attr("class")
+        if (clase.includes("hidden")) {
+            $(this).parent().find(".author-message").removeClass("hidden");
+        } else {
+            $(this).parent().find(".author-message").addClass("hidden");
+        };
     });
 
     $(".cs-gallery-content").on("click", ".post-found-code", function() {

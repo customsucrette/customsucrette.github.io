@@ -212,16 +212,63 @@ option {
     max-width: 100%;
 }
 
-.post-found-code {
+/* .author-message {
+    bottom: 0;
     position: absolute;
-    bottom: 10px;
+    background-color: #0008;
+    color: #fff;
+    width: 100%;
+    text-align: left;
+    padding: 20px 55px 20px 20px;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 18px;
+} */
+
+.author-message {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background-color: #0008;
+    color: #fff;
+    width: 100%;
+    text-align: left;
+    padding: 20px 30px 20px 20px;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 18px;
+    display: grid;
+    align-content: center;
+    cursor: pointer;
+}
+
+.author-message.hidden {
+    display: none;
+}
+
+.author-message p {
+    padding: 0;
+    margin: 0;
+}
+
+.post-found-code, .post-found-message {
+    position: absolute;
     right: 10px;
     background-color: var(--asng-personality-color-dark);
     padding: 5px;
     border-radius: 50%;
     color: #fff;
-    transform: rotate(135deg);
     cursor: pointer;
+    z-index: 2;
+}
+
+.post-found-code {
+    bottom: 10px;
+    transform: rotate(135deg);
+}
+
+.post-found-message {
+    top: 10px;
 }
 
 #image-layout {
