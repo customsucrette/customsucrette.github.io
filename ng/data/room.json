@@ -578,6 +578,46 @@
         "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"}
     },
     {
+        "id":99, "roomId":33, "slot":"background", "light":true, "security":"01bab340bb603fc4",
+        "name":"Invernadero",
+        "roomName":"Plant Lovers",
+        "criteria":{"type":"calendar", "info":"2024-4", "text":"Desbloqueado en el calendario\nN°04 - 2024"},
+        "backgroundColors":{
+            "day":{"color1":"CEF7FF", "color2":"EFE1C7", "colorLight":"203F52"},
+            "night":{"color1":"60C2F6", "color2":"879AB9", "colorLight":"044089"}
+        }
+    },
+    {
+        "id":100, "roomId":33, "slot":"slot5", "light":false, "security":"e550ee5a46e149e6",
+        "name":"Carretilla",
+        "roomName":"Plant Lovers", 
+        "criteria":{"type":"calendar", "info":"2024-4", "text":"Desbloqueado en el calendario\nN°04 - 2024"}
+    },
+    {
+        "id":101, "roomId":33, "slot":"slot4", "light":false, "security":"20dd058217a1942d",
+        "name":"Silla",
+        "roomName":"Plant Lovers", 
+        "criteria":{"type":"calendar", "info":"2024-4", "text":"Desbloqueado en el calendario\nN°04 - 2024"}
+    },
+    {
+        "id":102, "roomId":33, "slot":"slot3", "light":false, "security":"9677e7b57d06813e",
+        "name":"Mesa",
+        "roomName":"Plant Lovers", 
+        "criteria":{"type":"calendar", "info":"2024-4", "text":"Desbloqueado en el calendario\nN°04 - 2024"}
+    },
+    {
+        "id":103, "roomId":33, "slot":"slot2", "light":false, "security":"4f97c2a13b6038dc",
+        "name":"Hamaca",
+        "roomName":"Plant Lovers", 
+        "criteria":{"type":"calendar", "info":"2024-4", "text":"Desbloqueado en el calendario\nN°04 - 2024"}
+    },
+    {
+        "id":104, "roomId":33, "slot":"slot1", "light":false, "security":"f3ec9d8f03420c02",
+        "name":"Plantas",
+        "roomName":"Plant Lovers", 
+        "criteria":{"type":"calendar", "info":"2024-4", "text":"Desbloqueado en el calendario\nN°04 - 2024"}
+    },
+    {
         "id":105, "roomId":34, "slot":"background", "light":true, "security":"9fcb1ec097fe27e9",
         "name":"Paredes",
         "roomName":"Classic Chic",
