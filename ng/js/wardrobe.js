@@ -19,11 +19,33 @@ $(document).ready(function() {
                     checkAndGetTempCode();
                     codeUpdate();
                     currentPage("wardrobe");
+                    tempWM("load");
                 });
             });
         });
     });
 });
+
+async function tempWM(type) {
+    if (type == "load") {
+        alert("Debido a un concurso oficial en curso, se ha añadido una marca de agua temporal para evitar el uso del vestidor en el mismo.\nDisculpen las molestias.");
+        $("#asng-avatar").append('<img class="temp-wm" src="./assets/wm.png">');
+
+    } else if (type == "save") {
+
+        if ($("#save-canvas").length == 1 && $("#save-canvas").attr("width") != 1920) {
+            let ctx = document.getElementById("save-canvas").getContext("2d");
+
+            let w = 1200, h = 1550;
+            let t = h * 34/100, l = w * 44/100;
+            let nw = 413 * 75/100, nh = 151 * 75/100;
+
+            let img = "./assets/wm.png";
+            let ready = await preloadIMG(img);
+            ctx.drawImage(ready, t, l, nw, nh);
+        };
+    };
+};
 
 async function codeUpdate() {
     $(".eye-color .color").removeClass("equipped");
@@ -385,6 +407,8 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
                 };
             };
         };
+
+        tempWM("save");
 
     } else if (mode == "new") {
 

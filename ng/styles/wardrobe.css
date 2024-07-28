@@ -275,6 +275,15 @@ input[type=email], input[type=password], input[type=text], textarea {
     height: 100%;
 }
 
+.temp-wm {
+    position: absolute;
+    object-fit: contain;
+    width: 25%;
+    top: 34%;
+    left: 44%;
+    z-index: 99999999999;
+}
+
 .site-container .asng-menu {
     position: relative;
     z-index: 99;
