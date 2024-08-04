@@ -578,6 +578,24 @@
         "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"}
     },
     {
+        "id":96, "roomId":32, "slot":"slot3", "light":false, "security":"bb9ac05d63328147",
+        "name":"Peluche",
+        "roomName":null,
+        "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"}
+    },
+    {
+        "id":97, "roomId":32, "slot":"slot2", "light":false, "security":"4f82c5feff201d02",
+        "name":"Carrito de dulces",
+        "roomName":null,
+        "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"}
+    },
+    {
+        "id":98, "roomId":32, "slot":"slot1", "light":true, "security":"880b3f362757fc88",
+        "name":"Caballo de madera",
+        "roomName":null,
+        "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"}
+    },
+    {
         "id":99, "roomId":33, "slot":"background", "light":true, "security":"01bab340bb603fc4",
         "name":"Invernadero",
         "roomName":"Plant Lovers",
@@ -730,6 +748,16 @@
         "name":"Acuarium",
         "roomName":"Nautilus' Dinner",
         "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"}
+    },
+    {
+        "id":165, "roomId":44, "slot":"background", "light":true, "security":"597956f6401721d5",
+        "name":"Paredes",
+        "roomName":"Mermaid Shinies",
+        "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF", "color2":"EDE0E6", "colorLight":"761980"},
+            "night":{"color1":"62A8FF", "color2":"E6A3FF", "colorLight":"0A4FFF"}
+        }
     },
     {
         "id":166, "roomId":44, "slot":"slot5", "light":false, "security":"5118d99f442c5b6b",

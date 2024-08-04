@@ -52,6 +52,10 @@
         "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"}
     },
     {
+        "id":14, "security":"01ee6f26d320e08c", "name":"It Floats",
+        "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"}
+    },
+    {
         "id":18, "security":"4e23470e302228a9", "name":"Lady Regency",
         "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"}
     },
