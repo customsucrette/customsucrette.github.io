@@ -19,7 +19,7 @@ $(document).ready(function() {
                     checkAndGetTempCode();
                     codeUpdate();
                     currentPage("wardrobe");
-                    tempWM("load");
+                    // tempWM("load");
                 });
             });
         });
@@ -408,7 +408,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
             };
         };
 
-        tempWM("save");
+        // tempWM("save");
 
     } else if (mode == "new") {
 
