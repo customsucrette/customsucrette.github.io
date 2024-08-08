@@ -580,19 +580,19 @@
     {
         "id":96, "roomId":32, "slot":"slot3", "light":false, "security":"bb9ac05d63328147",
         "name":"Peluche",
-        "roomName":null,
+        "roomName":"Fun Fair",
         "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"}
     },
     {
         "id":97, "roomId":32, "slot":"slot2", "light":false, "security":"4f82c5feff201d02",
         "name":"Carrito de dulces",
-        "roomName":null,
+        "roomName":"Fun Fair",
         "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"}
     },
     {
         "id":98, "roomId":32, "slot":"slot1", "light":true, "security":"880b3f362757fc88",
         "name":"Caballo de madera",
-        "roomName":null,
+        "roomName":"Fun Fair",
         "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"}
     },
     {
@@ -646,6 +646,12 @@
         }
     },
     {
+        "id":106, "roomId":34, "slot":"slot5", "light":false, "security":"d72bddfae3799f1d",
+        "name":"Mesa baja",
+        "roomName":"Classic Chic",
+        "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
+    },
+    {
         "id":108, "roomId":34, "slot":"slot3", "light":true, "security":"dfdbba8e2c7cd37e",
         "name":"Sillón",
         "roomName":"Classic Chic",
@@ -664,10 +670,22 @@
         "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
+        "id":112, "roomId":35, "slot":"slot5", "light":false, "security":"a741eb126483d751",
+        "name":"Pufs",
+        "roomName":"Warm Winter",
+        "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
+    },
+    {
         "id":113, "roomId":35, "slot":"slot4", "light":true, "security":"c1d96bf0f6f31ea1",
         "name":"Candelabro",
         "roomName":"Warm Winter",
         "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
+    },
+    {
+        "id":139, "roomId":39, "slot":"slot2", "light":true, "security":"1fd78e8bd348d331",
+        "name":"Mesa",
+        "roomName":"Space Capsule",
+        "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
         "id":153, "roomId":42, "slot":"background", "light":true, "security":"6b8af3fa1e2ee135",

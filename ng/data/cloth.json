@@ -2000,103 +2000,103 @@
     {
         "groupId":1389, "zone":"torso_waistToKnee", "category":"dress", "security":"b5463f8e68226bbe", "multiLayered":true, "layerBehavior":"normal",
         "name":"Vestido",
-        "outfitName":null,
+        "outfitName":"Bewitching",
         "variations":[
-            {"id":1389, "colors":["undefined"]},
-            {"id":1390, "colors":["undefined"]},
-            {"id":1391, "colors":["undefined"]},
-            {"id":1392, "colors":["undefined"]},
-            {"id":1393, "colors":["undefined"]},
-            {"id":1394, "colors":["undefined"]},
-            {"id":1395, "colors":["undefined"]},
-            {"id":1396, "colors":["undefined"]},
-            {"id":1397, "colors":["undefined"]},
-            {"id":1398, "colors":["undefined"]}
+            {"id":1389, "colors":["black"]},
+            {"id":1390, "colors":["purple"]},
+            {"id":1391, "colors":["pink"]},
+            {"id":1392, "colors":["red"]},
+            {"id":1393, "colors":["orange"]},
+            {"id":1394, "colors":["yellow"]},
+            {"id":1395, "colors":["green"]},
+            {"id":1396, "colors":["blue"]},
+            {"id":1397, "colors":["white"]},
+            {"id":1398, "colors":["brown"]}
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
         "groupId":1399, "zone":"arms",  "category":"handNailPolish", "security":"650599331c190fa3", "multiLayered":false, "layerBehavior":"normal",
         "name":"Esmalte uñas",
-        "outfitName":null,
+        "outfitName":"Bewitching",
         "variations":[
-            {"id":1399, "colors":["undefined"]},
-            {"id":1400, "colors":["undefined"]},
-            {"id":1401, "colors":["undefined"]},
-            {"id":1402, "colors":["undefined"]},
-            {"id":1403, "colors":["undefined"]},
-            {"id":1404, "colors":["undefined"]},
-            {"id":1405, "colors":["undefined"]},
-            {"id":1406, "colors":["undefined"]},
-            {"id":1407, "colors":["undefined"]},
-            {"id":1408, "colors":["undefined"]}
+            {"id":1399, "colors":["black"]},
+            {"id":1400, "colors":["purple"]},
+            {"id":1401, "colors":["pink"]},
+            {"id":1402, "colors":["red"]},
+            {"id":1403, "colors":["orange"]},
+            {"id":1404, "colors":["yellow"]},
+            {"id":1405, "colors":["green"]},
+            {"id":1406, "colors":["blue"]},
+            {"id":1407, "colors":["white"]},
+            {"id":1408, "colors":["brown"]}
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
         "groupId":1419, "zone":"face", "category":"neckAccessory", "security":"d40469d3e80f2c8b", "multiLayered":false, "layerBehavior":"normal",
         "name":"Collar",
-        "outfitName":null,
+        "outfitName":"Bewitching",
         "variations":[
-            {"id":1419, "colors":["undefined"]},
-            {"id":1420, "colors":["undefined"]},
-            {"id":1421, "colors":["undefined"]},
-            {"id":1422, "colors":["undefined"]},
-            {"id":1423, "colors":["undefined"]},
-            {"id":1424, "colors":["undefined"]},
-            {"id":1425, "colors":["undefined"]},
-            {"id":1426, "colors":["undefined"]},
-            {"id":1427, "colors":["undefined"]},
-            {"id":1428, "colors":["undefined"]}
+            {"id":1419, "colors":["yellow", "purple"]},
+            {"id":1420, "colors":["white", "pink"]},
+            {"id":1421, "colors":["blue", "red"]},
+            {"id":1422, "colors":["orange"]},
+            {"id":1423, "colors":["grey", "yellow"]},
+            {"id":1424, "colors":["yellow", "green"]},
+            {"id":1425, "colors":["yellow", "blue"]},
+            {"id":1426, "colors":["green", "white"]},
+            {"id":1427, "colors":["purple", "black"]},
+            {"id":1428, "colors":["black", "grey"]}
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
         "groupId":1439, "zone":"feet", "category":"socks", "security":"c694942be53698c2", "multiLayered":false, "layerBehavior":"normal",
         "name":"Calcetines",
-        "outfitName":null,
+        "outfitName":"Wool Caress",
         "variations":[
-            {"id":1439, "colors":["undefined"]},
-            {"id":1440, "colors":["undefined"]},
-            {"id":1441, "colors":["undefined"]},
-            {"id":1442, "colors":["undefined"]},
-            {"id":1443, "colors":["undefined"]},
-            {"id":1444, "colors":["undefined"]},
-            {"id":1445, "colors":["undefined"]},
-            {"id":1446, "colors":["undefined"]},
-            {"id":1447, "colors":["undefined"]},
-            {"id":1448, "colors":["undefined"]}
+            {"id":1439, "colors":["green", "yellow"]},
+            {"id":1440, "colors":["green"]},
+            {"id":1441, "colors":["yellow", "orange"]},
+            {"id":1442, "colors":["orange", "red"]},
+            {"id":1443, "colors":["orange", "red"]},
+            {"id":1444, "colors":["grey", "purple"]},
+            {"id":1445, "colors":["black", "blue"]},
+            {"id":1446, "colors":["pink", "purple"]},
+            {"id":1447, "colors":["white", "grey"]},
+            {"id":1448, "colors":["blue"]}
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
         "groupId":1479, "zone":"arms", "category":"bag", "security":"7f61dbf0c6273932", "multiLayered":false, "layerBehavior":"normal",
         "name":"Bolso",
-        "outfitName":null,
+        "outfitName":"Wool Caress",
         "variations":[
-            {"id":1479, "colors":["undefined"]},
-            {"id":1480, "colors":["undefined"]},
-            {"id":1481, "colors":["undefined"]},
-            {"id":1482, "colors":["undefined"]},
-            {"id":1483, "colors":["undefined"]},
-            {"id":1484, "colors":["undefined"]},
-            {"id":1485, "colors":["undefined"]},
-            {"id":1486, "colors":["undefined"]},
-            {"id":1487, "colors":["undefined"]},
-            {"id":1488, "colors":["undefined"]}
+            {"id":1479, "colors":["brown"]},
+            {"id":1480, "colors":["yellow"]},
+            {"id":1481, "colors":["brown"]},
+            {"id":1482, "colors":["red", "orange"]},
+            {"id":1483, "colors":["black"]},
+            {"id":1484, "colors":["pink"]},
+            {"id":1485, "colors":["white"]},
+            {"id":1486, "colors":["blue"]},
+            {"id":1487, "colors":["green"]},
+            {"id":1488, "colors":["grey"]}
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
         "groupId":1489, "zone":"head", "category":"hat", "security":"7e2e4591815fda48", "multiLayered":false, "layerBehavior":"normal",
         "name":"Flor",
-        "outfitName":null,
+        "outfitName":"Wool Caress",
         "variations":[
-            {"id":1489, "colors":["undefined"]},
-            {"id":1490, "colors":["undefined"]},
-            {"id":1491, "colors":["undefined"]},
-            {"id":1492, "colors":["undefined"]},
-            {"id":1493, "colors":["undefined"]},
-            {"id":1494, "colors":["undefined"]},
-            {"id":1495, "colors":["undefined"]},
-            {"id":1496, "colors":["undefined"]},
-            {"id":1497, "colors":["undefined"]},
-            {"id":1498, "colors":["undefined"]}
+            {"id":1489, "colors":["green"]},
+            {"id":1490, "colors":["orange", "yellow"]},
+            {"id":1491, "colors":["red", "orange"]},
+            {"id":1492, "colors":["pink", "red"]},
+            {"id":1493, "colors":["pink"]},
+            {"id":1494, "colors":["purple"]},
+            {"id":1495, "colors":["blue"]},
+            {"id":1496, "colors":["purple", "blue"]},
+            {"id":1497, "colors":["black"]},
+            {"id":1498, "colors":["white"]}
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
@@ -2104,16 +2104,16 @@
         "name":"Hombreras",
         "outfitName":"Royal Fighter",
         "variations":[
-            {"id":1840, "colors":["undefined"]},
-            {"id":1841, "colors":["undefined"]},
-            {"id":1842, "colors":["undefined"]},
-            {"id":1843, "colors":["undefined"]},
-            {"id":1844, "colors":["undefined"]},
-            {"id":1845, "colors":["undefined"]},
-            {"id":1846, "colors":["undefined"]},
-            {"id":1847, "colors":["undefined"]},
-            {"id":1848, "colors":["undefined"]},
-            {"id":1849, "colors":["undefined"]}
+            {"id":1840, "colors":["grey"]},
+            {"id":1841, "colors":["blue"]},
+            {"id":1842, "colors":["purple"]},
+            {"id":1843, "colors":["brown"]},
+            {"id":1844, "colors":["yellow"]},
+            {"id":1845, "colors":["black"]},
+            {"id":1846, "colors":["white"]},
+            {"id":1847, "colors":["yellow"]},
+            {"id":1848, "colors":["blue"]},
+            {"id":1849, "colors":["pink"]}
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
@@ -4121,16 +4121,16 @@
         "name":"Sandalias",
         "outfitName":"Cotton Girl",
         "variations":[
-            {"id":3303, "colors":["undefined"]},
-            {"id":3304, "colors":["undefined"]},
-            {"id":3305, "colors":["undefined"]},
-            {"id":3306, "colors":["undefined"]},
-            {"id":3307, "colors":["undefined"]},
-            {"id":3308, "colors":["undefined"]},
-            {"id":3309, "colors":["undefined"]},
-            {"id":3310, "colors":["undefined"]},
-            {"id":3311, "colors":["undefined"]},
-            {"id":3312, "colors":["undefined"]}
+            {"id":3303, "colors":["multi"]},
+            {"id":3304, "colors":["blue", "multi"]},
+            {"id":3305, "colors":["pink", "multi"]},
+            {"id":3306, "colors":["grey", "multi"]},
+            {"id":3307, "colors":["blue", "multi"]},
+            {"id":3308, "colors":["white"]},
+            {"id":3309, "colors":["black"]},
+            {"id":3310, "colors":["purple", "multi"]},
+            {"id":3311, "colors":["orange", "multi"]},
+            {"id":3312, "colors":["yellow", "multi"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4138,16 +4138,16 @@
         "name":"Vestido",
         "outfitName":"Cotton Girl",
         "variations":[
-            {"id":3313, "colors":["undefined"]},
-            {"id":3314, "colors":["undefined"]},
-            {"id":3315, "colors":["undefined"]},
-            {"id":3316, "colors":["undefined"]},
-            {"id":3317, "colors":["undefined"]},
-            {"id":3318, "colors":["undefined"]},
-            {"id":3319, "colors":["undefined"]},
-            {"id":3320, "colors":["undefined"]},
-            {"id":3321, "colors":["undefined"]},
-            {"id":3322, "colors":["undefined"]}
+            {"id":3313, "colors":["pink"]},
+            {"id":3314, "colors":["orange"]},
+            {"id":3315, "colors":["yellow"]},
+            {"id":3316, "colors":["green"]},
+            {"id":3317, "colors":["blue"]},
+            {"id":3318, "colors":["white"]},
+            {"id":3319, "colors":["black"]},
+            {"id":3320, "colors":["purple"]},
+            {"id":3321, "colors":["red"]},
+            {"id":3322, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4155,16 +4155,16 @@
         "name":"Chaqueta vaquera",
         "outfitName":"Cotton Girl",
         "variations":[
-            {"id":3323, "colors":["undefined"]},
-            {"id":3324, "colors":["undefined"]},
-            {"id":3325, "colors":["undefined"]},
-            {"id":3326, "colors":["undefined"]},
-            {"id":3327, "colors":["undefined"]},
-            {"id":3328, "colors":["undefined"]},
-            {"id":3329, "colors":["undefined"]},
-            {"id":3330, "colors":["undefined"]},
-            {"id":3331, "colors":["undefined"]},
-            {"id":3332, "colors":["undefined"]}
+            {"id":3323, "colors":["blue"]},
+            {"id":3324, "colors":["blue"]},
+            {"id":3325, "colors":["purple"]},
+            {"id":3326, "colors":["pink"]},
+            {"id":3327, "colors":["brown"]},
+            {"id":3328, "colors":["grey"]},
+            {"id":3329, "colors":["black"]},
+            {"id":3330, "colors":["green"]},
+            {"id":3331, "colors":["yellow"]},
+            {"id":3332, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4172,33 +4172,33 @@
         "name":"Bolso",
         "outfitName":"Cotton Girl",
         "variations":[
-            {"id":3333, "colors":["undefined"]},
-            {"id":3334, "colors":["undefined"]},
-            {"id":3335, "colors":["undefined"]},
-            {"id":3336, "colors":["undefined"]},
-            {"id":3337, "colors":["undefined"]},
-            {"id":3338, "colors":["undefined"]},
-            {"id":3339, "colors":["undefined"]},
-            {"id":3340, "colors":["undefined"]},
-            {"id":3341, "colors":["undefined"]},
-            {"id":3342, "colors":["undefined"]}
+            {"id":3333, "colors":["white", "green"]},
+            {"id":3334, "colors":["white", "blue"]},
+            {"id":3335, "colors":["white", "blue"]},
+            {"id":3336, "colors":["white", "pink"]},
+            {"id":3337, "colors":["white", "red"]},
+            {"id":3338, "colors":["white", "grey"]},
+            {"id":3339, "colors":["black", "purple"]},
+            {"id":3340, "colors":["white", "green"]},
+            {"id":3341, "colors":["white", "purple"]},
+            {"id":3342, "colors":["white", "orange"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
-        "groupId":3343, "zone":"torso", "category":"earring", "security":"5e35798c71c6fa0d", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":3343, "zone":"head", "category":"earring", "security":"5e35798c71c6fa0d", "multiLayered":false, "layerBehavior":"normal",
         "name":"Aros",
         "outfitName":"Cotton Girl",
         "variations":[
-            {"id":3343, "colors":["undefined"]},
-            {"id":3344, "colors":["undefined"]},
-            {"id":3345, "colors":["undefined"]},
-            {"id":3346, "colors":["undefined"]},
-            {"id":3347, "colors":["undefined"]},
-            {"id":3348, "colors":["undefined"]},
-            {"id":3349, "colors":["undefined"]},
-            {"id":3350, "colors":["undefined"]},
-            {"id":3351, "colors":["undefined"]},
-            {"id":3352, "colors":["undefined"]}
+            {"id":3343, "colors":["multi"]},
+            {"id":3344, "colors":["grey"]},
+            {"id":3345, "colors":["orange"]},
+            {"id":3346, "colors":["green"]},
+            {"id":3347, "colors":["red"]},
+            {"id":3348, "colors":["white", "multi"]},
+            {"id":3349, "colors":["black"]},
+            {"id":3350, "colors":["purple"]},
+            {"id":3351, "colors":["blue"]},
+            {"id":3352, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4206,16 +4206,16 @@
         "name":"Algodón de Azúcar",
         "outfitName":"Cotton Girl",
         "variations":[
-            {"id":3353, "colors":["undefined"]},
-            {"id":3354, "colors":["undefined"]},
-            {"id":3355, "colors":["undefined"]},
-            {"id":3356, "colors":["undefined"]},
-            {"id":3357, "colors":["undefined"]},
-            {"id":3358, "colors":["undefined"]},
-            {"id":3359, "colors":["undefined"]},
-            {"id":3360, "colors":["undefined"]},
-            {"id":3361, "colors":["undefined"]},
-            {"id":3362, "colors":["undefined"]}
+            {"id":3353, "colors":["blue"]},
+            {"id":3354, "colors":["blue"]},
+            {"id":3355, "colors":["purple"]},
+            {"id":3356, "colors":["pink"]},
+            {"id":3357, "colors":["yellow"]},
+            {"id":3358, "colors":["white"]},
+            {"id":3359, "colors":["black"]},
+            {"id":3360, "colors":["green"]},
+            {"id":3361, "colors":["orange"]},
+            {"id":3362, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4223,16 +4223,16 @@
         "name":"Sandalias",
         "outfitName":"Star Gazer",
         "variations":[
-            {"id":3363, "colors":["undefined"]},
-            {"id":3364, "colors":["undefined"]},
-            {"id":3365, "colors":["undefined"]},
-            {"id":3366, "colors":["undefined"]},
-            {"id":3367, "colors":["undefined"]},
-            {"id":3368, "colors":["undefined"]},
-            {"id":3369, "colors":["undefined"]},
-            {"id":3370, "colors":["undefined"]},
-            {"id":3371, "colors":["undefined"]},
-            {"id":3372, "colors":["undefined"]}
+            {"id":3363, "colors":["orange"]},
+            {"id":3364, "colors":["yellow"]},
+            {"id":3365, "colors":["brown"]},
+            {"id":3366, "colors":["green"]},
+            {"id":3367, "colors":["blue"]},
+            {"id":3368, "colors":["purple"]},
+            {"id":3369, "colors":["red"]},
+            {"id":3370, "colors":["black"]},
+            {"id":3371, "colors":["white"]},
+            {"id":3372, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4240,16 +4240,16 @@
         "name":"Pulseras",
         "outfitName":"Star Gazer",
         "variations":[
-            {"id":3373, "colors":["undefined"]},
-            {"id":3374, "colors":["undefined"]},
-            {"id":3375, "colors":["undefined"]},
-            {"id":3376, "colors":["undefined"]},
-            {"id":3377, "colors":["undefined"]},
-            {"id":3378, "colors":["undefined"]},
-            {"id":3379, "colors":["undefined"]},
-            {"id":3380, "colors":["undefined"]},
-            {"id":3381, "colors":["undefined"]},
-            {"id":3382, "colors":["undefined"]}
+            {"id":3373, "colors":["yellow", "blue"]},
+            {"id":3374, "colors":["yellow", "purple"]},
+            {"id":3375, "colors":["brown", "green"]},
+            {"id":3376, "colors":["orange", "green"]},
+            {"id":3377, "colors":["grey", "pink"]},
+            {"id":3378, "colors":["purple", "yellow"]},
+            {"id":3379, "colors":["grey", "purple"]},
+            {"id":3380, "colors":["black", "red"]},
+            {"id":3381, "colors":["white", "blue"]},
+            {"id":3382, "colors":["orange", "purple"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4257,16 +4257,16 @@
         "name":"Short",
         "outfitName":"Star Gazer",
         "variations":[
-            {"id":3383, "colors":["undefined"]},
-            {"id":3384, "colors":["undefined"]},
-            {"id":3385, "colors":["undefined"]},
-            {"id":3386, "colors":["undefined"]},
-            {"id":3387, "colors":["undefined"]},
-            {"id":3388, "colors":["undefined"]},
-            {"id":3389, "colors":["undefined"]},
-            {"id":3390, "colors":["undefined"]},
-            {"id":3391, "colors":["undefined"]},
-            {"id":3392, "colors":["undefined"]}
+            {"id":3383, "colors":["yellow", "blue"]},
+            {"id":3384, "colors":["yellow", "grey"]},
+            {"id":3385, "colors":["yellow", "green"]},
+            {"id":3386, "colors":["yellow", "red"]},
+            {"id":3387, "colors":["yellow"]},
+            {"id":3388, "colors":["yellow", "green"]},
+            {"id":3389, "colors":["yellow", "purple"]},
+            {"id":3390, "colors":["yellow", "black"]},
+            {"id":3391, "colors":["white"]},
+            {"id":3392, "colors":["yellow", "blue"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4274,16 +4274,16 @@
         "name":"Camisa",
         "outfitName":"Star Gazer",
         "variations":[
-            {"id":3393, "colors":["undefined"]},
-            {"id":3394, "colors":["undefined"]},
-            {"id":3395, "colors":["undefined"]},
-            {"id":3396, "colors":["undefined"]},
-            {"id":3397, "colors":["undefined"]},
-            {"id":3398, "colors":["undefined"]},
-            {"id":3399, "colors":["undefined"]},
-            {"id":3400, "colors":["undefined"]},
-            {"id":3401, "colors":["undefined"]},
-            {"id":3402, "colors":["undefined"]}
+            {"id":3393, "colors":["brown"]},
+            {"id":3394, "colors":["yellow"]},
+            {"id":3395, "colors":["red"]},
+            {"id":3396, "colors":["green"]},
+            {"id":3397, "colors":["blue"]},
+            {"id":3398, "colors":["purple"]},
+            {"id":3399, "colors":["grey"]},
+            {"id":3400, "colors":["black"]},
+            {"id":3401, "colors":["white"]},
+            {"id":3402, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4291,16 +4291,16 @@
         "name":"Bolso",
         "outfitName":"Star Gazer",
         "variations":[
-            {"id":3403, "colors":["undefined"]},
-            {"id":3404, "colors":["undefined"]},
-            {"id":3405, "colors":["undefined"]},
-            {"id":3406, "colors":["undefined"]},
-            {"id":3407, "colors":["undefined"]},
-            {"id":3408, "colors":["undefined"]},
-            {"id":3409, "colors":["undefined"]},
-            {"id":3410, "colors":["undefined"]},
-            {"id":3411, "colors":["undefined"]},
-            {"id":3412, "colors":["undefined"]}
+            {"id":3403, "colors":["black"]},
+            {"id":3404, "colors":["blue"]},
+            {"id":3405, "colors":["green"]},
+            {"id":3406, "colors":["yellow"]},
+            {"id":3407, "colors":["pink"]},
+            {"id":3408, "colors":["brown"]},
+            {"id":3409, "colors":["red"]},
+            {"id":3410, "colors":["purple"]},
+            {"id":3411, "colors":["white"]},
+            {"id":3412, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4308,16 +4308,16 @@
         "name":"Prendedor",
         "outfitName":"Star Gazer",
         "variations":[
-            {"id":3413, "colors":["undefined"]},
-            {"id":3414, "colors":["undefined"]},
-            {"id":3415, "colors":["undefined"]},
-            {"id":3416, "colors":["undefined"]},
-            {"id":3417, "colors":["undefined"]},
-            {"id":3418, "colors":["undefined"]},
-            {"id":3419, "colors":["undefined"]},
-            {"id":3420, "colors":["undefined"]},
-            {"id":3421, "colors":["undefined"]},
-            {"id":3422, "colors":["undefined"]}
+            {"id":3413, "colors":["yellow"]},
+            {"id":3414, "colors":["brown"]},
+            {"id":3415, "colors":["red"]},
+            {"id":3416, "colors":["green"]},
+            {"id":3417, "colors":["blue"]},
+            {"id":3418, "colors":["purple"]},
+            {"id":3419, "colors":["grey"]},
+            {"id":3420, "colors":["black"]},
+            {"id":3421, "colors":["white"]},
+            {"id":3422, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
@@ -4325,16 +4325,16 @@
         "name":"Globos",
         "outfitName":"Star Gazer",
         "variations":[
-            {"id":3423, "colors":["undefined"]},
-            {"id":3424, "colors":["undefined"]},
-            {"id":3425, "colors":["undefined"]},
-            {"id":3426, "colors":["undefined"]},
-            {"id":3427, "colors":["undefined"]},
-            {"id":3428, "colors":["undefined"]},
-            {"id":3429, "colors":["undefined"]},
-            {"id":3430, "colors":["undefined"]},
-            {"id":3431, "colors":["undefined"]},
-            {"id":3432, "colors":["undefined"]}
+            {"id":3423, "colors":["multi"]},
+            {"id":3424, "colors":["yellow", "purple"]},
+            {"id":3425, "colors":["red", "multi"]},
+            {"id":3426, "colors":["green", "red"]},
+            {"id":3427, "colors":["blue", "multi"]},
+            {"id":3428, "colors":["purple", "multi"]},
+            {"id":3429, "colors":["red", "multi"]},
+            {"id":3430, "colors":["black"]},
+            {"id":3431, "colors":["white"]},
+            {"id":3432, "colors":["pink", "multi"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
     },
     {
