@@ -2,9 +2,9 @@ $(document).ready(function() {
     //drawPopUpNewGen();
 });
 
-if (location.protocol != 'https:') {
- location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
-}
+// if (location.protocol != 'https:') {
+//     location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+// }
 
 function drawPopUpNewGen() {
     let ng = window.localStorage.getItem("newgen-popup");
