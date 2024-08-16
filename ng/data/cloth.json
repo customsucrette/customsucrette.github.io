@@ -6132,5 +6132,107 @@
             {"id":5217, "colors":["brown"]},
             {"id":5218, "colors":["brown"]}
         ], "criteria":null
+    },
+    {
+        "groupId":5219, "zone":"face", "category":"makeup", "security":"29c6cde092712f8f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pajitas",
+        "outfitName": "Butterfly in Festival",
+        "variations":[
+            {"id":5219, "colors":["purple"]},
+            {"id":5220, "colors":["blue"]},
+            {"id":5221, "colors":["blue"]},
+            {"id":5222, "colors":["white"]},
+            {"id":5223, "colors":["black"]},
+            {"id":5224, "colors":["yellow"]},
+            {"id":5225, "colors":["red"]},
+            {"id":5226, "colors":["green"]},
+            {"id":5227, "colors":["pink"]},
+            {"id":5228, "colors":["multi"]}
+        ], "criteria":{"type":"calendar", "info":"2024-5", "text":"Desbloqueado en el calendario\nN°05 - 2024"}
+    },
+    {
+        "groupId":5229, "zone":"feet", "category":"shoes", "security":"152877b88b1dc60c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName": "Butterfly in Festival",
+        "variations":[
+            {"id":5229, "colors":["pink"]},
+            {"id":5230, "colors":["purple"]},
+            {"id":5231, "colors":["blue"]},
+            {"id":5232, "colors":["white"]},
+            {"id":5233, "colors":["black"]},
+            {"id":5234, "colors":["pink"]},
+            {"id":5235, "colors":["red"]},
+            {"id":5236, "colors":["green"]},
+            {"id":5237, "colors":["yellow"]},
+            {"id":5238, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2024-5", "text":"Desbloqueado en el calendario\nN°05 - 2024"}
+    },
+    {
+        "groupId":5239, "zone":"feet", "category":"legAccessory", "security":"1202770ec26c0efe", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Joyas",
+        "outfitName": "Butterfly in Festival",
+        "variations":[
+            {"id":5239, "colors":["pink"]},
+            {"id":5240, "colors":["purple"]},
+            {"id":5241, "colors":["blue"]},
+            {"id":5242, "colors":["blue"]},
+            {"id":5243, "colors":["black"]},
+            {"id":5244, "colors":["pink"]},
+            {"id":5245, "colors":["red"]},
+            {"id":5246, "colors":["green"]},
+            {"id":5247, "colors":["yellow"]},
+            {"id":5248, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2024-5", "text":"Desbloqueado en el calendario\nN°05 - 2024"}
+    },
+    {
+        "groupId":5249, "zone":"arms", "category":"armAccessory", "security":"4ecb6c7eb67c0161", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName": "Butterfly in Festival",
+        "variations":[
+            {"id":5249, "colors":["pink"]},
+            {"id":5250, "colors":["pink"]},
+            {"id":5251, "colors":["blue"]},
+            {"id":5252, "colors":["white"]},
+            {"id":5253, "colors":["black"]},
+            {"id":5254, "colors":["yellow", "brown"]},
+            {"id":5255, "colors":["red"]},
+            {"id":5256, "colors":["red"]},
+            {"id":5257, "colors":["yellow"]},
+            {"id":5258, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2024-5", "text":"Desbloqueado en el calendario\nN°05 - 2024"}
+    },
+    {
+        "groupId":5259, "zone":"waistToKnee", "category":"skirt", "security":"cf2414e98f335e79", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName": "Butterfly in Festival",
+        "variations":[
+            {"id":5259, "colors":["pink", "purple"]},
+            {"id":5260, "colors":["blue", "purple"]},
+            {"id":5261, "colors":["blue", "green"]},
+            {"id":5262, "colors":["white"]},
+            {"id":5263, "colors":["black", "purple"]},
+            {"id":5264, "colors":["yellow", "pink"]},
+            {"id":5265, "colors":["red"]},
+            {"id":5266, "colors":["green"]},
+            {"id":5267, "colors":["yellow"]},
+            {"id":5268, "colors":["blue", "green"]}
+        ], "criteria":{"type":"calendar", "info":"2024-5", "text":"Desbloqueado en el calendario\nN°05 - 2024"}
+    },
+    {
+        "groupId":5269, "zone":"torso", "category":"top", "security":"ad52e647e44d90c7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName": "Butterfly in Festival",
+        "variations":[
+            {"id":5269, "colors":["pink", "purple"]},
+            {"id":5270, "colors":["blue", "purple"]},
+            {"id":5271, "colors":["blue", "green"]},
+            {"id":5272, "colors":["white"]},
+            {"id":5273, "colors":["black"]},
+            {"id":5274, "colors":["pink", "yellow"]},
+            {"id":5275, "colors":["red"]},
+            {"id":5276, "colors":["green"]},
+            {"id":5277, "colors":["yellow"]},
+            {"id":5278, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2024-5", "text":"Desbloqueado en el calendario\nN°05 - 2024"}
     }
 ]
