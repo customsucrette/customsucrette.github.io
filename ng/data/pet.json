@@ -82,5 +82,9 @@
     {
         "id":28, "security":"aa5af98de442d3b6", "name":"Goose Game",
         "criteria":null
+    },
+    {
+        "id":31, "security":"2084937288975e20", "name":"Belt of Venus",   
+        "criteria":null
     }
 ]

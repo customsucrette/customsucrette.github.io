@@ -1086,5 +1086,45 @@
         "name":"Gato",
         "roomName":"Gamer Goals",
         "criteria":null
+    },
+    {
+        "id":249, "roomId":58, "slot":"background", "light":true, "security":"3dee509c09d3daa8",
+        "name":"Pérgola",
+        "roomName":"Belt of Venus",
+        "criteria":null,
+        "backgroundColors":{
+            "day":{"color1":"FFFCF7","color2":"E9D5C5","colorLight":"066A87"},
+            "night":{"color1":"FCBFEE","color2":"D6B9D2","colorLight":"F145E1"}
+        }
+    },
+    {
+        "id":250, "roomId":58, "slot":"slot1", "light":false, "security":"2377d1ebf16a7fbd",
+        "name":"Sillón",
+        "roomName":"Belt of Venus",
+        "criteria":null
+    },
+    {
+        "id":251, "roomId":58, "slot":"slot2", "light":true, "security":"97d19dfaf087e8b1",
+        "name":"Hidromasaje",
+        "roomName":"Belt of Venus",
+        "criteria":null
+    },
+    {
+        "id":252, "roomId":58, "slot":"slot3", "light":false, "security":"88a306750fd8dafc",
+        "name":"Alfombra relax",
+        "roomName":"Belt of Venus",
+        "criteria":null
+    },
+    {
+        "id":253, "roomId":58, "slot":"slot4", "light":true, "security":"0ae5ec6841582e6d",
+        "name":"Alumbrado",
+        "roomName":"Belt of Venus",
+        "criteria":null
+    },
+    {
+        "id":254, "roomId":58, "slot":"slot5", "light":false, "security":"32b2b012663f7b08",
+        "name":"Escalera",
+        "roomName":"Belt of Venus",
+        "criteria":null
     }
 ]
