@@ -5031,6 +5031,244 @@
         ], "criteria":null
     },
     {
+        "groupId":3911, "zone":"feet", "category":"socks", "security":"33250af4383d9df4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Lunch Date",
+        "variations":[
+            {"id":3911, "colors":["undefined"]},
+            {"id":3912, "colors":["undefined"]},
+            {"id":3913, "colors":["undefined"]},
+            {"id":3914, "colors":["undefined"]},
+            {"id":3915, "colors":["undefined"]},
+            {"id":3916, "colors":["undefined"]},
+            {"id":3917, "colors":["undefined"]},
+            {"id":3918, "colors":["undefined"]},
+            {"id":3919, "colors":["undefined"]},
+            {"id":3920, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":3921, "zone":"feet", "category":"shoes", "security":"4c64a74e8986551d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Lunch Date",
+        "variations":[
+            {"id":3921, "colors":["undefined"]},
+            {"id":3922, "colors":["undefined"]},
+            {"id":3923, "colors":["undefined"]},
+            {"id":3924, "colors":["undefined"]},
+            {"id":3925, "colors":["undefined"]},
+            {"id":3926, "colors":["undefined"]},
+            {"id":3927, "colors":["undefined"]},
+            {"id":3928, "colors":["undefined"]},
+            {"id":3929, "colors":["undefined"]},
+            {"id":3930, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":3931, "zone":"waistToKnee", "category":"skirt", "security":"818a4ea650818c7b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Lunch Date",
+        "variations":[
+            {"id":3931, "colors":["undefined"]},
+            {"id":3932, "colors":["undefined"]},
+            {"id":3933, "colors":["undefined"]},
+            {"id":3934, "colors":["undefined"]},
+            {"id":3935, "colors":["undefined"]},
+            {"id":3936, "colors":["undefined"]},
+            {"id":3937, "colors":["undefined"]},
+            {"id":3938, "colors":["undefined"]},
+            {"id":3939, "colors":["undefined"]},
+            {"id":3940, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":3941, "zone":"torso", "category":"top", "security":"70a7320de8d18bb0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Lunch Date",
+        "variations":[
+            {"id":3941, "colors":["undefined"]},
+            {"id":3942, "colors":["undefined"]},
+            {"id":3943, "colors":["undefined"]},
+            {"id":3944, "colors":["undefined"]},
+            {"id":3945, "colors":["undefined"]},
+            {"id":3946, "colors":["undefined"]},
+            {"id":3947, "colors":["undefined"]},
+            {"id":3948, "colors":["undefined"]},
+            {"id":3949, "colors":["undefined"]},
+            {"id":3950, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":3951, "zone":"arms", "category":"armAccessory", "security":"9a6397a55f120cb0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Lunch Date",
+        "variations":[
+            {"id":3951, "colors":["undefined"]},
+            {"id":3952, "colors":["undefined"]},
+            {"id":3953, "colors":["undefined"]},
+            {"id":3954, "colors":["undefined"]},
+            {"id":3955, "colors":["undefined"]},
+            {"id":3956, "colors":["undefined"]},
+            {"id":3957, "colors":["undefined"]},
+            {"id":3958, "colors":["undefined"]},
+            {"id":3959, "colors":["undefined"]},
+            {"id":3960, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":3961, "zone":"torso", "category":"jacket", "security":"39d0979e3bcfc2c9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Kimono",
+        "outfitName":"Lunch Date",
+        "variations":[
+            {"id":3961, "colors":["undefined"]},
+            {"id":3962, "colors":["undefined"]},
+            {"id":3963, "colors":["undefined"]},
+            {"id":3964, "colors":["undefined"]},
+            {"id":3965, "colors":["undefined"]},
+            {"id":3966, "colors":["undefined"]},
+            {"id":3967, "colors":["undefined"]},
+            {"id":3968, "colors":["undefined"]},
+            {"id":3969, "colors":["undefined"]},
+            {"id":3970, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":3971, "zone":"arms", "category":"bag", "security":"655475642fe0b4a7", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Lunch Date",
+        "variations":[
+            {"id":3971, "colors":["undefined"]},
+            {"id":3972, "colors":["undefined"]},
+            {"id":3973, "colors":["undefined"]},
+            {"id":3974, "colors":["undefined"]},
+            {"id":3975, "colors":["undefined"]},
+            {"id":3976, "colors":["undefined"]},
+            {"id":3977, "colors":["undefined"]},
+            {"id":3978, "colors":["undefined"]},
+            {"id":3979, "colors":["undefined"]},
+            {"id":3980, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":3981, "zone":"head", "category":"earring", "security":"0122333b9a93ad94", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Dinner Date",
+        "variations":[
+            {"id":3981, "colors":["undefined"]},
+            {"id":3982, "colors":["undefined"]},
+            {"id":3983, "colors":["undefined"]},
+            {"id":3984, "colors":["undefined"]},
+            {"id":3985, "colors":["undefined"]},
+            {"id":3986, "colors":["undefined"]},
+            {"id":3987, "colors":["undefined"]},
+            {"id":3988, "colors":["undefined"]},
+            {"id":3989, "colors":["undefined"]},
+            {"id":3990, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":3991, "zone":"feet", "category":"shoes", "security":"50701be5ae6f5188", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Dinner Date",
+        "variations":[
+            {"id":3991, "colors":["undefined"]},
+            {"id":3992, "colors":["undefined"]},
+            {"id":3993, "colors":["undefined"]},
+            {"id":3994, "colors":["undefined"]},
+            {"id":3995, "colors":["undefined"]},
+            {"id":3996, "colors":["undefined"]},
+            {"id":3997, "colors":["undefined"]},
+            {"id":3998, "colors":["undefined"]},
+            {"id":3999, "colors":["undefined"]},
+            {"id":4000, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":4001, "zone":"face", "category":"neckAccessory", "security":"d0e554721a4ac887", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Dinner Date",
+        "variations":[
+            {"id":4001, "colors":["undefined"]},
+            {"id":4002, "colors":["undefined"]},
+            {"id":4003, "colors":["undefined"]},
+            {"id":4004, "colors":["undefined"]},
+            {"id":4005, "colors":["undefined"]},
+            {"id":4006, "colors":["undefined"]},
+            {"id":4007, "colors":["undefined"]},
+            {"id":4008, "colors":["undefined"]},
+            {"id":4009, "colors":["undefined"]},
+            {"id":4010, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":4011, "zone":"waistToKnee", "category":"pants", "security":"f436bb540609cd90", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Dinner Date",
+        "variations":[
+            {"id":4011, "colors":["undefined"]},
+            {"id":4012, "colors":["undefined"]},
+            {"id":4013, "colors":["undefined"]},
+            {"id":4014, "colors":["undefined"]},
+            {"id":4015, "colors":["undefined"]},
+            {"id":4016, "colors":["undefined"]},
+            {"id":4017, "colors":["undefined"]},
+            {"id":4018, "colors":["undefined"]},
+            {"id":4019, "colors":["undefined"]},
+            {"id":4020, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":4021, "zone":"torso", "category":"top", "security":"714a7a93dbdf467e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bustier",
+        "outfitName":"Dinner Date",
+        "variations":[
+            {"id":4021, "colors":["undefined"]},
+            {"id":4022, "colors":["undefined"]},
+            {"id":4023, "colors":["undefined"]},
+            {"id":4024, "colors":["undefined"]},
+            {"id":4025, "colors":["undefined"]},
+            {"id":4026, "colors":["undefined"]},
+            {"id":4027, "colors":["undefined"]},
+            {"id":4028, "colors":["undefined"]},
+            {"id":4029, "colors":["undefined"]},
+            {"id":4030, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":4031, "zone":"torso", "category":"jacket", "security":"d1da5c1240ad6d81", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Dinner Date",
+        "variations":[
+            {"id":4031, "colors":["undefined"]},
+            {"id":4032, "colors":["undefined"]},
+            {"id":4033, "colors":["undefined"]},
+            {"id":4034, "colors":["undefined"]},
+            {"id":4035, "colors":["undefined"]},
+            {"id":4036, "colors":["undefined"]},
+            {"id":4037, "colors":["undefined"]},
+            {"id":4038, "colors":["undefined"]},
+            {"id":4039, "colors":["undefined"]},
+            {"id":4040, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
+        "groupId":4041, "zone":"arms", "category":"bag", "security":"7ac4eb8091aeddd6", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Dinner Date",
+        "variations":[
+            {"id":4041, "colors":["undefined"]},
+            {"id":4042, "colors":["undefined"]},
+            {"id":4043, "colors":["undefined"]},
+            {"id":4044, "colors":["undefined"]},
+            {"id":4045, "colors":["undefined"]},
+            {"id":4046, "colors":["undefined"]},
+            {"id":4047, "colors":["undefined"]},
+            {"id":4048, "colors":["undefined"]},
+            {"id":4049, "colors":["undefined"]},
+            {"id":4050, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
+    },
+    {
         "groupId":4171, "zone":"feet", "category":"shoes", "security":"bfe45d3e16fd1ed4", "multiLayered":false, "layerBehavior":"normal",
         "name":"Bailarinas",
         "outfitName":"Lady Regency",
