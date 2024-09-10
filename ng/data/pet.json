@@ -90,5 +90,9 @@
     {
         "id":31, "security":"2084937288975e20", "name":"Belt of Venus",   
         "criteria":null
+    },
+    {
+        "id":32, "security":"c6d27f6311dc6322", "name":"ZEvent 2024",
+        "criteria":null
     }
 ]

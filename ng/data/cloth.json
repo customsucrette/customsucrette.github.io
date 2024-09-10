@@ -6642,5 +6642,13 @@
             {"id":5622, "colors":["undefined"]},
             {"id":5623, "colors":["undefined"]}
         ], "criteria":null
+    },
+    {
+        "groupId":5624, "zone":"torso", "category":"top", "security":"0b5610ca5ab20e67", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"ZEvent 2024",
+        "variations":[
+            {"id":5624, "colors":["black"]}
+        ], "criteria":null   
     }
 ]
