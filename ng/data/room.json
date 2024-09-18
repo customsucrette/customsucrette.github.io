@@ -120,6 +120,46 @@
         "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo \n Marshmallow Fluff"}
     },
     {
+        "id":20, "roomId":13, "slot":"background", "light":true, "security":"706b4707c3cdce3b",
+        "name":"Paredes",
+        "roomName":"Kawaii",
+        "criteria":{"type":"calendar", "info":"2024-6", "text":"Desbloqueado en el calendario\nN°06 - 2024"},
+        "backgroundColors":{
+            "day":{"color1":"FDE4EB","color2":"EAD9DC","colorLight":"AE5C6B"},
+            "night":{"color1":"77D2FF","color2":"6582B5","colorLight":"0871FF"}
+        }
+    },
+    {
+        "id":21, "roomId":13, "slot":"slot5", "light":false, "security":"c3ef4645e2d7cb4a",
+        "name":"Puf cerdito",
+        "roomName":"Kawaii",
+        "criteria":{"type":"calendar", "info":"2024-6", "text":"Desbloqueado en el calendario\nN°06 - 2024"}
+    },
+    {
+        "id":22, "roomId":13, "slot":"slot4", "light":false, "security":"6c525c6cf007f49f",
+        "name":"Mesa auxiliar",
+        "roomName":"Kawaii",
+        "criteria":{"type":"calendar", "info":"2024-6", "text":"Desbloqueado en el calendario\nN°06 - 2024"}
+    },
+    {
+        "id":23, "roomId":13, "slot":"slot3", "light":false, "security":"6d5d20d56dc8c9ea",
+        "name":"Alfombra",
+        "roomName":"Kawaii",
+        "criteria":{"type":"calendar", "info":"2024-6", "text":"Desbloqueado en el calendario\nN°06 - 2024"}
+    },
+    {
+        "id":24, "roomId":13, "slot":"slot2", "light":true, "security":"2df0b3eee1136af0",
+        "name":"Cama",
+        "roomName":"Kawaii",
+        "criteria":{"type":"calendar", "info":"2024-6", "text":"Desbloqueado en el calendario\nN°06 - 2024"}
+    },
+    {
+        "id":25, "roomId":13, "slot":"slot1", "light":true, "security":"9c2f762bb2f57f83",
+        "name":"Escritorio",
+        "roomName":"Kawaii",
+        "criteria":{"type":"calendar", "info":"2024-6", "text":"Desbloqueado en el calendario\nN°06 - 2024"}
+    },
+    {
         "id":26, "roomId":14, "slot":"background", "light":true, "security":"28753ef00ca52723",
         "name":"Paredes",
         "roomName":"Summerly Blues",
