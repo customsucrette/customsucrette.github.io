@@ -5035,16 +5035,16 @@
         "name":"Calcetines",
         "outfitName":"Lunch Date",
         "variations":[
-            {"id":3911, "colors":["undefined"]},
-            {"id":3912, "colors":["undefined"]},
-            {"id":3913, "colors":["undefined"]},
-            {"id":3914, "colors":["undefined"]},
-            {"id":3915, "colors":["undefined"]},
-            {"id":3916, "colors":["undefined"]},
-            {"id":3917, "colors":["undefined"]},
-            {"id":3918, "colors":["undefined"]},
-            {"id":3919, "colors":["undefined"]},
-            {"id":3920, "colors":["undefined"]}
+            {"id":3911, "colors":["white", "multi"]},
+            {"id":3912, "colors":["pink", "multi"]},
+            {"id":3913, "colors":["yellow", "multi"]},
+            {"id":3914, "colors":["black", "multi"]},
+            {"id":3915, "colors":["green", "multi"]},
+            {"id":3916, "colors":["blue", "multi"]},
+            {"id":3917, "colors":["blue", "multi"]},
+            {"id":3918, "colors":["purple", "multi"]},
+            {"id":3919, "colors":["red", "multi"]},
+            {"id":3920, "colors":["brown", "multi"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5052,16 +5052,16 @@
         "name":"Zapatos",
         "outfitName":"Lunch Date",
         "variations":[
-            {"id":3921, "colors":["undefined"]},
-            {"id":3922, "colors":["undefined"]},
-            {"id":3923, "colors":["undefined"]},
-            {"id":3924, "colors":["undefined"]},
-            {"id":3925, "colors":["undefined"]},
-            {"id":3926, "colors":["undefined"]},
-            {"id":3927, "colors":["undefined"]},
-            {"id":3928, "colors":["undefined"]},
-            {"id":3929, "colors":["undefined"]},
-            {"id":3930, "colors":["undefined"]}
+            {"id":3921, "colors":["purple", "pink"]},
+            {"id":3922, "colors":["blue", "purple"]},
+            {"id":3923, "colors":["pink", "yellow"]},
+            {"id":3924, "colors":["pink", "black"]},
+            {"id":3925, "colors":["yellow", "orange"]},
+            {"id":3926, "colors":["white", "blue"]},
+            {"id":3927, "colors":["black", "blue"]},
+            {"id":3928, "colors":["green", "blue"]},
+            {"id":3929, "colors":["red", "orange"]},
+            {"id":3930, "colors":["brown", "red"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5069,16 +5069,16 @@
         "name":"Falda",
         "outfitName":"Lunch Date",
         "variations":[
-            {"id":3931, "colors":["undefined"]},
-            {"id":3932, "colors":["undefined"]},
-            {"id":3933, "colors":["undefined"]},
-            {"id":3934, "colors":["undefined"]},
-            {"id":3935, "colors":["undefined"]},
-            {"id":3936, "colors":["undefined"]},
-            {"id":3937, "colors":["undefined"]},
-            {"id":3938, "colors":["undefined"]},
-            {"id":3939, "colors":["undefined"]},
-            {"id":3940, "colors":["undefined"]}
+            {"id":3931, "colors":["blue"]},
+            {"id":3932, "colors":["blue"]},
+            {"id":3933, "colors":["yellow"]},
+            {"id":3934, "colors":["black"]},
+            {"id":3935, "colors":["brown"]},
+            {"id":3936, "colors":["white"]},
+            {"id":3937, "colors":["purple"]},
+            {"id":3938, "colors":["pink"]},
+            {"id":3939, "colors":["red"]},
+            {"id":3940, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5086,16 +5086,16 @@
         "name":"Top",
         "outfitName":"Lunch Date",
         "variations":[
-            {"id":3941, "colors":["undefined"]},
-            {"id":3942, "colors":["undefined"]},
-            {"id":3943, "colors":["undefined"]},
-            {"id":3944, "colors":["undefined"]},
-            {"id":3945, "colors":["undefined"]},
-            {"id":3946, "colors":["undefined"]},
-            {"id":3947, "colors":["undefined"]},
-            {"id":3948, "colors":["undefined"]},
-            {"id":3949, "colors":["undefined"]},
-            {"id":3950, "colors":["undefined"]}
+            {"id":3941, "colors":["white", "multi"]},
+            {"id":3942, "colors":["pink", "multi"]},
+            {"id":3943, "colors":["orange", "multi"]},
+            {"id":3944, "colors":["purple", "multi"]},
+            {"id":3945, "colors":["yellow", "multi"]},
+            {"id":3946, "colors":["blue", "multi"]},
+            {"id":3947, "colors":["black", "multi"]},
+            {"id":3948, "colors":["green", "multi"]},
+            {"id":3949, "colors":["red"]},
+            {"id":3950, "colors":["brown", "multi"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5103,16 +5103,16 @@
         "name":"Pulsera",
         "outfitName":"Lunch Date",
         "variations":[
-            {"id":3951, "colors":["undefined"]},
-            {"id":3952, "colors":["undefined"]},
-            {"id":3953, "colors":["undefined"]},
-            {"id":3954, "colors":["undefined"]},
-            {"id":3955, "colors":["undefined"]},
-            {"id":3956, "colors":["undefined"]},
-            {"id":3957, "colors":["undefined"]},
-            {"id":3958, "colors":["undefined"]},
-            {"id":3959, "colors":["undefined"]},
-            {"id":3960, "colors":["undefined"]}
+            {"id":3951, "colors":["white", "multi"]},
+            {"id":3952, "colors":["pink", "multi"]},
+            {"id":3953, "colors":["brown", "multi"]},
+            {"id":3954, "colors":["black", "multi"]},
+            {"id":3955, "colors":["green", "multi"]},
+            {"id":3956, "colors":["blue", "multi"]},
+            {"id":3957, "colors":["grey", "multi"]},
+            {"id":3958, "colors":["green", "multi"]},
+            {"id":3959, "colors":["red", "multi"]},
+            {"id":3960, "colors":["brown", "multi"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5120,16 +5120,16 @@
         "name":"Kimono",
         "outfitName":"Lunch Date",
         "variations":[
-            {"id":3961, "colors":["undefined"]},
-            {"id":3962, "colors":["undefined"]},
-            {"id":3963, "colors":["undefined"]},
-            {"id":3964, "colors":["undefined"]},
-            {"id":3965, "colors":["undefined"]},
-            {"id":3966, "colors":["undefined"]},
-            {"id":3967, "colors":["undefined"]},
-            {"id":3968, "colors":["undefined"]},
-            {"id":3969, "colors":["undefined"]},
-            {"id":3970, "colors":["undefined"]}
+            {"id":3961, "colors":["pink", "orange"]},
+            {"id":3962, "colors":["blue", "purple"]},
+            {"id":3963, "colors":["yellow"]},
+            {"id":3964, "colors":["black"]},
+            {"id":3965, "colors":["green", "yellow"]},
+            {"id":3966, "colors":["white", "blue"]},
+            {"id":3967, "colors":["purple", "blue"]},
+            {"id":3968, "colors":["blue"]},
+            {"id":3969, "colors":["red", "orange"]},
+            {"id":3970, "colors":["green", "brown"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5137,16 +5137,16 @@
         "name":"Bolso",
         "outfitName":"Lunch Date",
         "variations":[
-            {"id":3971, "colors":["undefined"]},
-            {"id":3972, "colors":["undefined"]},
-            {"id":3973, "colors":["undefined"]},
-            {"id":3974, "colors":["undefined"]},
-            {"id":3975, "colors":["undefined"]},
-            {"id":3976, "colors":["undefined"]},
-            {"id":3977, "colors":["undefined"]},
-            {"id":3978, "colors":["undefined"]},
-            {"id":3979, "colors":["undefined"]},
-            {"id":3980, "colors":["undefined"]}
+            {"id":3971, "colors":["blue"]},
+            {"id":3972, "colors":["purple"]},
+            {"id":3973, "colors":["yellow"]},
+            {"id":3974, "colors":["pink"]},
+            {"id":3975, "colors":["brown"]},
+            {"id":3976, "colors":["blue"]},
+            {"id":3977, "colors":["black"]},
+            {"id":3978, "colors":["white"]},
+            {"id":3979, "colors":["red"]},
+            {"id":3980, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5154,16 +5154,16 @@
         "name":"Pendientes",
         "outfitName":"Dinner Date",
         "variations":[
-            {"id":3981, "colors":["undefined"]},
-            {"id":3982, "colors":["undefined"]},
-            {"id":3983, "colors":["undefined"]},
-            {"id":3984, "colors":["undefined"]},
-            {"id":3985, "colors":["undefined"]},
-            {"id":3986, "colors":["undefined"]},
-            {"id":3987, "colors":["undefined"]},
-            {"id":3988, "colors":["undefined"]},
-            {"id":3989, "colors":["undefined"]},
-            {"id":3990, "colors":["undefined"]}
+            {"id":3981, "colors":["green"]},
+            {"id":3982, "colors":["black"]},
+            {"id":3983, "colors":["yellow"]},
+            {"id":3984, "colors":["blue"]},
+            {"id":3985, "colors":["grey"]},
+            {"id":3986, "colors":["white"]},
+            {"id":3987, "colors":["red"]},
+            {"id":3988, "colors":["purple"]},
+            {"id":3989, "colors":["brown"]},
+            {"id":3990, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5171,16 +5171,16 @@
         "name":"Zapatos",
         "outfitName":"Dinner Date",
         "variations":[
-            {"id":3991, "colors":["undefined"]},
-            {"id":3992, "colors":["undefined"]},
-            {"id":3993, "colors":["undefined"]},
-            {"id":3994, "colors":["undefined"]},
-            {"id":3995, "colors":["undefined"]},
-            {"id":3996, "colors":["undefined"]},
-            {"id":3997, "colors":["undefined"]},
-            {"id":3998, "colors":["undefined"]},
-            {"id":3999, "colors":["undefined"]},
-            {"id":4000, "colors":["undefined"]}
+            {"id":3991, "colors":["black"]},
+            {"id":3992, "colors":["red"]},
+            {"id":3993, "colors":["yellow"]},
+            {"id":3994, "colors":["blue"]},
+            {"id":3995, "colors":["green"]},
+            {"id":3996, "colors":["white"]},
+            {"id":3997, "colors":["pink"]},
+            {"id":3998, "colors":["purple"]},
+            {"id":3999, "colors":["brown"]},
+            {"id":4000, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5188,16 +5188,16 @@
         "name":"Collar",
         "outfitName":"Dinner Date",
         "variations":[
-            {"id":4001, "colors":["undefined"]},
-            {"id":4002, "colors":["undefined"]},
-            {"id":4003, "colors":["undefined"]},
-            {"id":4004, "colors":["undefined"]},
-            {"id":4005, "colors":["undefined"]},
-            {"id":4006, "colors":["undefined"]},
-            {"id":4007, "colors":["undefined"]},
-            {"id":4008, "colors":["undefined"]},
-            {"id":4009, "colors":["undefined"]},
-            {"id":4010, "colors":["undefined"]}
+            {"id":4001, "colors":["grey"]},
+            {"id":4002, "colors":["yellow"]},
+            {"id":4003, "colors":["black"]},
+            {"id":4004, "colors":["blue"]},
+            {"id":4005, "colors":["green"]},
+            {"id":4006, "colors":["white"]},
+            {"id":4007, "colors":["pink"]},
+            {"id":4008, "colors":["purple"]},
+            {"id":4009, "colors":["brown", "yellow"]},
+            {"id":4010, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5205,16 +5205,16 @@
         "name":"Pantalones",
         "outfitName":"Dinner Date",
         "variations":[
-            {"id":4011, "colors":["undefined"]},
-            {"id":4012, "colors":["undefined"]},
-            {"id":4013, "colors":["undefined"]},
-            {"id":4014, "colors":["undefined"]},
-            {"id":4015, "colors":["undefined"]},
-            {"id":4016, "colors":["undefined"]},
-            {"id":4017, "colors":["undefined"]},
-            {"id":4018, "colors":["undefined"]},
-            {"id":4019, "colors":["undefined"]},
-            {"id":4020, "colors":["undefined"]}
+            {"id":4011, "colors":["black"]},
+            {"id":4012, "colors":["red"]},
+            {"id":4013, "colors":["yellow"]},
+            {"id":4014, "colors":["blue"]},
+            {"id":4015, "colors":["green"]},
+            {"id":4016, "colors":["white"]},
+            {"id":4017, "colors":["pink"]},
+            {"id":4018, "colors":["purple"]},
+            {"id":4019, "colors":["brown"]},
+            {"id":4020, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5222,16 +5222,16 @@
         "name":"Bustier",
         "outfitName":"Dinner Date",
         "variations":[
-            {"id":4021, "colors":["undefined"]},
-            {"id":4022, "colors":["undefined"]},
-            {"id":4023, "colors":["undefined"]},
-            {"id":4024, "colors":["undefined"]},
-            {"id":4025, "colors":["undefined"]},
-            {"id":4026, "colors":["undefined"]},
-            {"id":4027, "colors":["undefined"]},
-            {"id":4028, "colors":["undefined"]},
-            {"id":4029, "colors":["undefined"]},
-            {"id":4030, "colors":["undefined"]}
+            {"id":4021, "colors":["green"]},
+            {"id":4022, "colors":["black"]},
+            {"id":4023, "colors":["brown"]},
+            {"id":4024, "colors":["pink"]},
+            {"id":4025, "colors":["grey"]},
+            {"id":4026, "colors":["blue"]},
+            {"id":4027, "colors":["red"]},
+            {"id":4028, "colors":["white"]},
+            {"id":4029, "colors":["yellow"]},
+            {"id":4030, "colors":["purple"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5239,16 +5239,16 @@
         "name":"Camisa",
         "outfitName":"Dinner Date",
         "variations":[
-            {"id":4031, "colors":["undefined"]},
-            {"id":4032, "colors":["undefined"]},
-            {"id":4033, "colors":["undefined"]},
-            {"id":4034, "colors":["undefined"]},
-            {"id":4035, "colors":["undefined"]},
-            {"id":4036, "colors":["undefined"]},
-            {"id":4037, "colors":["undefined"]},
-            {"id":4038, "colors":["undefined"]},
-            {"id":4039, "colors":["undefined"]},
-            {"id":4040, "colors":["undefined"]}
+            {"id":4031, "colors":["black"]},
+            {"id":4032, "colors":["red"]},
+            {"id":4033, "colors":["yellow"]},
+            {"id":4034, "colors":["blue"]},
+            {"id":4035, "colors":["green"]},
+            {"id":4036, "colors":["white"]},
+            {"id":4037, "colors":["pink"]},
+            {"id":4038, "colors":["purple"]},
+            {"id":4039, "colors":["brown"]},
+            {"id":4040, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -5256,16 +5256,16 @@
         "name":"Bolso",
         "outfitName":"Dinner Date",
         "variations":[
-            {"id":4041, "colors":["undefined"]},
-            {"id":4042, "colors":["undefined"]},
-            {"id":4043, "colors":["undefined"]},
-            {"id":4044, "colors":["undefined"]},
-            {"id":4045, "colors":["undefined"]},
-            {"id":4046, "colors":["undefined"]},
-            {"id":4047, "colors":["undefined"]},
-            {"id":4048, "colors":["undefined"]},
-            {"id":4049, "colors":["undefined"]},
-            {"id":4050, "colors":["undefined"]}
+            {"id":4041, "colors":["black", "green"]},
+            {"id":4042, "colors":["black", "red"]},
+            {"id":4043, "colors":["black", "yellow"]},
+            {"id":4044, "colors":["black", "blue"]},
+            {"id":4045, "colors":["black", "grey"]},
+            {"id":4046, "colors":["blue", "white"]},
+            {"id":4047, "colors":["pink"]},
+            {"id":4048, "colors":["black", "purple"]},
+            {"id":4049, "colors":["brown"]},
+            {"id":4050, "colors":["black", "brown"]}
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
@@ -6479,15 +6479,15 @@
         "outfitName":"Belt of Venus",
         "variations":[
             {"id":5524, "colors":["orange"]},
-            {"id":5525, "colors":["undefined"]},
-            {"id":5526, "colors":["undefined"]},
-            {"id":5527, "colors":["undefined"]},
-            {"id":5528, "colors":["undefined"]},
-            {"id":5529, "colors":["undefined"]},
-            {"id":5530, "colors":["undefined"]},
-            {"id":5531, "colors":["undefined"]},
-            {"id":5532, "colors":["undefined"]},
-            {"id":5533, "colors":["undefined"]}
+            {"id":5525, "colors":["purple"]},
+            {"id":5526, "colors":["blue"]},
+            {"id":5527, "colors":["yellow"]},
+            {"id":5528, "colors":["green"]},
+            {"id":5529, "colors":["black"]},
+            {"id":5530, "colors":["white"]},
+            {"id":5531, "colors":["pink"]},
+            {"id":5532, "colors":["brown"]},
+            {"id":5533, "colors":["red"]}
         ], "criteria":null
     },
     {
@@ -6496,15 +6496,15 @@
         "outfitName":"Belt of Venus",
         "variations":[
             {"id":5534, "colors":["yellow","white"]},
-            {"id":5535, "colors":["undefined"]},
-            {"id":5536, "colors":["undefined"]},
-            {"id":5537, "colors":["undefined"]},
-            {"id":5538, "colors":["undefined"]},
-            {"id":5539, "colors":["undefined"]},
-            {"id":5540, "colors":["undefined"]},
-            {"id":5541, "colors":["undefined"]},
-            {"id":5542, "colors":["undefined"]},
-            {"id":5543, "colors":["undefined"]}
+            {"id":5535, "colors":["grey", "blue"]},
+            {"id":5536, "colors":["yellow", "purple"]},
+            {"id":5537, "colors":["yellow", "pink"]},
+            {"id":5538, "colors":["yellow", "grey"]},
+            {"id":5539, "colors":["grey", "red"]},
+            {"id":5540, "colors":["grey", "green"]},
+            {"id":5541, "colors":["yellow", "purple"]},
+            {"id":5542, "colors":["yellow", "green"]},
+            {"id":5543, "colors":["grey", "black"]}
         ], "criteria":null
     },
     {
@@ -6513,15 +6513,15 @@
         "outfitName":"Belt of Venus",
         "variations":[
             {"id":5544, "colors":["yellow","white"]},
-            {"id":5545, "colors":["undefined"]},
-            {"id":5546, "colors":["undefined"]},
-            {"id":5547, "colors":["undefined"]},
-            {"id":5548, "colors":["undefined"]},
-            {"id":5549, "colors":["undefined"]},
-            {"id":5550, "colors":["undefined"]},
-            {"id":5551, "colors":["undefined"]},
-            {"id":5552, "colors":["undefined"]},
-            {"id":5553, "colors":["undefined"]}
+            {"id":5545, "colors":["grey", "blue"]},
+            {"id":5546, "colors":["yellow", "purple"]},
+            {"id":5547, "colors":["yellow", "pink"]},
+            {"id":5548, "colors":["grey", "yellow"]},
+            {"id":5549, "colors":["grey", "red"]},
+            {"id":5550, "colors":["grey", "green"]},
+            {"id":5551, "colors":["yellow", "purple"]},
+            {"id":5552, "colors":["yellow", "green"]},
+            {"id":5553, "colors":["grey", "black"]}
         ], "criteria":null
     },
     {
@@ -6530,15 +6530,15 @@
         "outfitName":"Belt of Venus",
         "variations":[
             {"id":5554, "colors":["pink"]},
-            {"id":5555, "colors":["undefined"]},
-            {"id":5556, "colors":["undefined"]},
-            {"id":5557, "colors":["undefined"]},
-            {"id":5558, "colors":["undefined"]},
-            {"id":5559, "colors":["undefined"]},
-            {"id":5560, "colors":["undefined"]},
-            {"id":5561, "colors":["undefined"]},
-            {"id":5562, "colors":["undefined"]},
-            {"id":5563, "colors":["undefined"]}
+            {"id":5555, "colors":["green"]},
+            {"id":5556, "colors":["blue"]},
+            {"id":5557, "colors":["orange"]},
+            {"id":5558, "colors":["yellow"]},
+            {"id":5559, "colors":["red"]},
+            {"id":5560, "colors":["green"]},
+            {"id":5561, "colors":["purple"]},
+            {"id":5562, "colors":["white"]},
+            {"id":5563, "colors":["black"]}
         ], "criteria":null
     },
     {
@@ -6547,15 +6547,15 @@
         "outfitName":"Belt of Venus",
         "variations":[
             {"id":5564, "colors":["pink","orange"]},
-            {"id":5565, "colors":["undefined"]},
-            {"id":5566, "colors":["undefined"]},
-            {"id":5567, "colors":["undefined"]},
-            {"id":5568, "colors":["undefined"]},
-            {"id":5569, "colors":["undefined"]},
-            {"id":5570, "colors":["undefined"]},
-            {"id":5571, "colors":["undefined"]},
-            {"id":5572, "colors":["undefined"]},
-            {"id":5573, "colors":["undefined"]}
+            {"id":5565, "colors":["blue", "green"]},
+            {"id":5566, "colors":["blue", "purple"]},
+            {"id":5567, "colors":["yellow", "orange"]},
+            {"id":5568, "colors":["yellow", "green"]},
+            {"id":5569, "colors":["red", "black"]},
+            {"id":5570, "colors":["blue", "green"]},
+            {"id":5571, "colors":["purple", "pink"]},
+            {"id":5572, "colors":["white", "blue"]},
+            {"id":5573, "colors":["black", "purple"]}
         ], "criteria":null
     },
     {
@@ -6564,15 +6564,15 @@
         "outfitName":"Belt of Venus",
         "variations":[
             {"id":5574, "colors":["yellow","white"]},
-            {"id":5575, "colors":["undefined"]},
-            {"id":5576, "colors":["undefined"]},
-            {"id":5577, "colors":["undefined"]},
-            {"id":5578, "colors":["undefined"]},
-            {"id":5579, "colors":["undefined"]},
-            {"id":5580, "colors":["undefined"]},
-            {"id":5581, "colors":["undefined"]},
-            {"id":5582, "colors":["undefined"]},
-            {"id":5583, "colors":["undefined"]}
+            {"id":5575, "colors":["grey", "blue"]},
+            {"id":5576, "colors":["yellow", "purple"]},
+            {"id":5577, "colors":["yellow", "pink"]},
+            {"id":5578, "colors":["grey", "yellow"]},
+            {"id":5579, "colors":["grey", "red"]},
+            {"id":5580, "colors":["grey", "green"]},
+            {"id":5581, "colors":["yellow", "purple"]},
+            {"id":5582, "colors":["yellow", "green"]},
+            {"id":5583, "colors":["grey", "black"]}
         ], "criteria":null
     },
     {
@@ -6581,15 +6581,15 @@
         "outfitName":"Belt of Venus",
         "variations":[
             {"id":5584, "colors":["pink"]},
-            {"id":5585, "colors":["undefined"]},
-            {"id":5586, "colors":["undefined"]},
-            {"id":5587, "colors":["undefined"]},
-            {"id":5588, "colors":["undefined"]},
-            {"id":5589, "colors":["undefined"]},
-            {"id":5590, "colors":["undefined"]},
-            {"id":5591, "colors":["undefined"]},
-            {"id":5592, "colors":["undefined"]},
-            {"id":5593, "colors":["undefined"]}
+            {"id":5585, "colors":["green"]},
+            {"id":5586, "colors":["blue"]},
+            {"id":5587, "colors":["orange"]},
+            {"id":5588, "colors":["yellow"]},
+            {"id":5589, "colors":["red"]},
+            {"id":5590, "colors":["green"]},
+            {"id":5591, "colors":["purple"]},
+            {"id":5592, "colors":["white"]},
+            {"id":5593, "colors":["black"]}
         ], "criteria":null
     },
     {
@@ -6598,15 +6598,15 @@
         "outfitName":"Belt of Venus",
         "variations":[
             {"id":5594, "colors":["pink","yellow"]},
-            {"id":5595, "colors":["undefined"]},
-            {"id":5596, "colors":["undefined"]},
-            {"id":5597, "colors":["undefined"]},
-            {"id":5598, "colors":["undefined"]},
-            {"id":5599, "colors":["undefined"]},
-            {"id":5600, "colors":["undefined"]},
-            {"id":5601, "colors":["undefined"]},
-            {"id":5602, "colors":["undefined"]},
-            {"id":5603, "colors":["undefined"]}
+            {"id":5595, "colors":["green", "grey"]},
+            {"id":5596, "colors":["blue", "yellow"]},
+            {"id":5597, "colors":["yellow", "orange"]},
+            {"id":5598, "colors":["grey", "yellow", "green"]},
+            {"id":5599, "colors":["grey", "red"]},
+            {"id":5600, "colors":["grey", "green"]},
+            {"id":5601, "colors":["yellow", "purple"]},
+            {"id":5602, "colors":["white", "yellow"]},
+            {"id":5603, "colors":["grey", "black"]}
         ], "criteria":null
     },
     {
@@ -6615,15 +6615,15 @@
         "outfitName":"Belt of Venus",
         "variations":[
             {"id":5604, "colors":["pink"]},
-            {"id":5605, "colors":["undefined"]},
-            {"id":5606, "colors":["undefined"]},
-            {"id":5607, "colors":["undefined"]},
-            {"id":5608, "colors":["undefined"]},
-            {"id":5609, "colors":["undefined"]},
-            {"id":5610, "colors":["undefined"]},
-            {"id":5611, "colors":["undefined"]},
-            {"id":5612, "colors":["undefined"]},
-            {"id":5613, "colors":["undefined"]}
+            {"id":5605, "colors":["white", "blue"]},
+            {"id":5606, "colors":["blue"]},
+            {"id":5607, "colors":["white", "orange"]},
+            {"id":5608, "colors":["yellow"]},
+            {"id":5609, "colors":["red"]},
+            {"id":5610, "colors":["blue"]},
+            {"id":5611, "colors":["purple"]},
+            {"id":5612, "colors":["white"]},
+            {"id":5613, "colors":["black"]}
         ], "criteria":null
     },
     {
@@ -6632,15 +6632,15 @@
         "outfitName":"Belt of Venus",
         "variations":[
             {"id":5614, "colors":["orange"]},
-            {"id":5615, "colors":["undefined"]},
-            {"id":5616, "colors":["undefined"]},
-            {"id":5617, "colors":["undefined"]},
-            {"id":5618, "colors":["undefined"]},
-            {"id":5619, "colors":["undefined"]},
-            {"id":5620, "colors":["undefined"]},
-            {"id":5621, "colors":["undefined"]},
-            {"id":5622, "colors":["undefined"]},
-            {"id":5623, "colors":["undefined"]}
+            {"id":5615, "colors":["blue", "purple"]},
+            {"id":5616, "colors":["blue", "green"]},
+            {"id":5617, "colors":["yellow"]},
+            {"id":5618, "colors":["green"]},
+            {"id":5619, "colors":["red", "black"]},
+            {"id":5620, "colors":["white", "purple"]},
+            {"id":5621, "colors":["pink"]},
+            {"id":5622, "colors":["orange", "white"]},
+            {"id":5623, "colors":["red", "black"]}
         ], "criteria":null
     },
     {
