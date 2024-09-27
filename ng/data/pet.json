@@ -60,6 +60,10 @@
         "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"}
     },
     {
+        "id":17, "security":"a5219fdf5ad054a1", "name":"Splashy Splash",
+        "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"}
+    },
+    {
         "id":18, "security":"4e23470e302228a9", "name":"Lady Regency",
         "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"}
     },

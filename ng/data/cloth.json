@@ -5269,6 +5269,210 @@
         ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"}
     },
     {
+        "groupId":4051, "zone":"waistToKnee", "category":"pants", "security":"936aed2b0bf6e105", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Diving In",
+        "variations":[
+            {"id":4051, "colors":["undefined"]},
+            {"id":4052, "colors":["undefined"]},
+            {"id":4053, "colors":["undefined"]},
+            {"id":4054, "colors":["undefined"]},
+            {"id":4055, "colors":["undefined"]},
+            {"id":4056, "colors":["undefined"]},
+            {"id":4057, "colors":["undefined"]},
+            {"id":4058, "colors":["undefined"]},
+            {"id":4059, "colors":["undefined"]},
+            {"id":4060, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4061, "zone":"torso_waistToKnee", "category":"underwear", "security":"37716c644a0ec6b4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Diving In",
+        "variations":[
+            {"id":4061, "colors":["undefined"]},
+            {"id":4062, "colors":["undefined"]},
+            {"id":4063, "colors":["undefined"]},
+            {"id":4064, "colors":["undefined"]},
+            {"id":4065, "colors":["undefined"]},
+            {"id":4066, "colors":["undefined"]},
+            {"id":4067, "colors":["undefined"]},
+            {"id":4068, "colors":["undefined"]},
+            {"id":4069, "colors":["undefined"]},
+            {"id":4070, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4071, "zone":"feet", "category":"shoes", "security":"f8c2e719e09a489a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Deportivas",
+        "outfitName":"Diving In",
+        "variations":[
+            {"id":4071, "colors":["undefined"]},
+            {"id":4072, "colors":["undefined"]},
+            {"id":4073, "colors":["undefined"]},
+            {"id":4074, "colors":["undefined"]},
+            {"id":4075, "colors":["undefined"]},
+            {"id":4076, "colors":["undefined"]},
+            {"id":4077, "colors":["undefined"]},
+            {"id":4078, "colors":["undefined"]},
+            {"id":4079, "colors":["undefined"]},
+            {"id":4080, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4081, "zone":"torso", "category":"top", "security":"50ef0536c1284a4f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Diving In",
+        "variations":[
+            {"id":4081, "colors":["undefined"]},
+            {"id":4082, "colors":["undefined"]},
+            {"id":4083, "colors":["undefined"]},
+            {"id":4084, "colors":["undefined"]},
+            {"id":4085, "colors":["undefined"]},
+            {"id":4086, "colors":["undefined"]},
+            {"id":4087, "colors":["undefined"]},
+            {"id":4088, "colors":["undefined"]},
+            {"id":4089, "colors":["undefined"]},
+            {"id":4090, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4091, "zone":"face", "category":"neckAccessory", "security":"c4f398c88d374dbf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Diving In",
+        "variations":[
+            {"id":4091, "colors":["undefined"]},
+            {"id":4092, "colors":["undefined"]},
+            {"id":4093, "colors":["undefined"]},
+            {"id":4094, "colors":["undefined"]},
+            {"id":4095, "colors":["undefined"]},
+            {"id":4096, "colors":["undefined"]},
+            {"id":4097, "colors":["undefined"]},
+            {"id":4098, "colors":["undefined"]},
+            {"id":4099, "colors":["undefined"]},
+            {"id":4100, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4101, "zone":"head", "category":"earring", "security":"40306f4a7b969cf4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Diving In",
+        "variations":[
+            {"id":4101, "colors":["undefined"]},
+            {"id":4102, "colors":["undefined"]},
+            {"id":4103, "colors":["undefined"]},
+            {"id":4104, "colors":["undefined"]},
+            {"id":4105, "colors":["undefined"]},
+            {"id":4106, "colors":["undefined"]},
+            {"id":4107, "colors":["undefined"]},
+            {"id":4108, "colors":["undefined"]},
+            {"id":4109, "colors":["undefined"]},
+            {"id":4110, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4111, "zone":"torso_waistToKnee", "category":"underwear", "security":"2d7dfc13ec9fb5fe", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lencería",
+        "outfitName":"Waterproof",
+        "variations":[
+            {"id":4111, "colors":["undefined"]},
+            {"id":4112, "colors":["undefined"]},
+            {"id":4113, "colors":["undefined"]},
+            {"id":4114, "colors":["undefined"]},
+            {"id":4115, "colors":["undefined"]},
+            {"id":4116, "colors":["undefined"]},
+            {"id":4117, "colors":["undefined"]},
+            {"id":4118, "colors":["undefined"]},
+            {"id":4119, "colors":["undefined"]},
+            {"id":4120, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4121, "zone":"feet", "category":"shoes", "security":"3f9fab1ec0ed1cf0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Waterproof",
+        "variations":[
+            {"id":4121, "colors":["undefined"]},
+            {"id":4122, "colors":["undefined"]},
+            {"id":4123, "colors":["undefined"]},
+            {"id":4124, "colors":["undefined"]},
+            {"id":4125, "colors":["undefined"]},
+            {"id":4126, "colors":["undefined"]},
+            {"id":4127, "colors":["undefined"]},
+            {"id":4128, "colors":["undefined"]},
+            {"id":4129, "colors":["undefined"]},
+            {"id":4130, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4131, "zone":"torso_waistToKnee", "category":"dress", "security":"8dcaa640c6af5615", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mono corto",
+        "outfitName":"Waterproof",
+        "variations":[
+            {"id":4131, "colors":["undefined"]},
+            {"id":4132, "colors":["undefined"]},
+            {"id":4133, "colors":["undefined"]},
+            {"id":4134, "colors":["undefined"]},
+            {"id":4135, "colors":["undefined"]},
+            {"id":4136, "colors":["undefined"]},
+            {"id":4137, "colors":["undefined"]},
+            {"id":4138, "colors":["undefined"]},
+            {"id":4139, "colors":["undefined"]},
+            {"id":4140, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4141, "zone":"torso", "category":"jacket", "security":"d278f5f02a982b81", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Waterproof",
+        "variations":[
+            {"id":4141, "colors":["undefined"]},
+            {"id":4142, "colors":["undefined"]},
+            {"id":4143, "colors":["undefined"]},
+            {"id":4144, "colors":["undefined"]},
+            {"id":4145, "colors":["undefined"]},
+            {"id":4146, "colors":["undefined"]},
+            {"id":4147, "colors":["undefined"]},
+            {"id":4148, "colors":["undefined"]},
+            {"id":4149, "colors":["undefined"]},
+            {"id":4150, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4151, "zone":"arms", "category":"armAccessory", "security":"5d5677dcf88c46e8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillos",
+        "outfitName":"Waterproof",
+        "variations":[
+            {"id":4151, "colors":["undefined"]},
+            {"id":4152, "colors":["undefined"]},
+            {"id":4153, "colors":["undefined"]},
+            {"id":4154, "colors":["undefined"]},
+            {"id":4155, "colors":["undefined"]},
+            {"id":4156, "colors":["undefined"]},
+            {"id":4157, "colors":["undefined"]},
+            {"id":4158, "colors":["undefined"]},
+            {"id":4159, "colors":["undefined"]},
+            {"id":4160, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
+        "groupId":4161, "zone":"head", "category":"earring", "security":"5f593c637065680a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendiente",
+        "outfitName":"Waterproof",
+        "variations":[
+            {"id":4161, "colors":["undefined"]},
+            {"id":4162, "colors":["undefined"]},
+            {"id":4163, "colors":["undefined"]},
+            {"id":4164, "colors":["undefined"]},
+            {"id":4165, "colors":["undefined"]},
+            {"id":4166, "colors":["undefined"]},
+            {"id":4167, "colors":["undefined"]},
+            {"id":4168, "colors":["undefined"]},
+            {"id":4169, "colors":["undefined"]},
+            {"id":4170, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
+    },
+    {
         "groupId":4171, "zone":"feet", "category":"shoes", "security":"bfe45d3e16fd1ed4", "multiLayered":false, "layerBehavior":"normal",
         "name":"Bailarinas",
         "outfitName":"Lady Regency",
