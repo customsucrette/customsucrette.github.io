@@ -1998,6 +1998,23 @@
         ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
+        "groupId":1379, "zone":"feet", "category":"shoes", "security":"563a6e4e4c5cb30c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Bewitching",
+        "variations":[
+            {"id":1379, "colors":["black"]},
+            {"id":1380, "colors":["purple"]},
+            {"id":1381, "colors":["pink"]},
+            {"id":1382, "colors":["red"]},
+            {"id":1383, "colors":["orange"]},
+            {"id":1384, "colors":["yellow"]},
+            {"id":1385, "colors":["green"]},
+            {"id":1386, "colors":["blue"]},
+            {"id":1387, "colors":["white"]},
+            {"id":1388, "colors":["brown"]}
+        ], "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
+    },
+    {
         "groupId":1389, "zone":"torso_waistToKnee", "category":"dress", "security":"b5463f8e68226bbe", "multiLayered":true, "layerBehavior":"normal",
         "name":"Vestido",
         "outfitName":"Bewitching",
@@ -2032,6 +2049,23 @@
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
+        "groupId":1409, "zone":"arms", "category":"armAccessory", "security":"53dcae4afd85ba86", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillos",
+        "outfitName":"Bewitching",
+        "variations":[
+            {"id":1409, "colors":["yellow","purple"]},
+            {"id":1410, "colors":["white","pink"]},
+            {"id":1411, "colors":["blue","red"]},
+            {"id":1412, "colors":["orange"]},
+            {"id":1413, "colors":["grey","yellow"]},
+            {"id":1414, "colors":["yellow","green"]},
+            {"id":1415, "colors":["yellow","blue"]},
+            {"id":1416, "colors":["green","white"]},
+            {"id":1417, "colors":["purple","black"]},
+            {"id":1418, "colors":["black","grey"]}
+        ], "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
+    },
+    {
         "groupId":1419, "zone":"face", "category":"neckAccessory", "security":"d40469d3e80f2c8b", "multiLayered":false, "layerBehavior":"normal",
         "name":"Collar",
         "outfitName":"Bewitching",
@@ -2049,6 +2083,23 @@
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
+        "groupId":1429, "zone":"head", "category":"hat", "security":"1eb35ab552445646", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Bewitching",
+        "variations":[
+            {"id":1429, "colors":["black"]},
+            {"id":1430, "colors":["purple"]},
+            {"id":1431, "colors":["pink"]},
+            {"id":1432, "colors":["red"]},
+            {"id":1433, "colors":["orange"]},
+            {"id":1434, "colors":["yellow"]},
+            {"id":1435, "colors":["green"]},
+            {"id":1436, "colors":["blue"]},
+            {"id":1437, "colors":["white"]},
+            {"id":1438, "colors":["brown"]}
+        ], "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
+    },
+    {
         "groupId":1439, "zone":"feet", "category":"socks", "security":"c694942be53698c2", "multiLayered":false, "layerBehavior":"normal",
         "name":"Calcetines",
         "outfitName":"Wool Caress",
@@ -2064,6 +2115,57 @@
             {"id":1447, "colors":["white", "grey"]},
             {"id":1448, "colors":["blue"]}
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
+    },
+    {
+        "groupId":1449, "zone":"feet", "category":"shoes", "security":"f3d3899321811583", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Wool Caress",
+        "variations":[
+            {"id":1449, "colors":["brown"]},
+            {"id":1450, "colors":["yellow"]},
+            {"id":1451, "colors":["brown"]},
+            {"id":1452, "colors":["red","orange"]},
+            {"id":1453, "colors":["black"]},
+            {"id":1454, "colors":["pink"]},
+            {"id":1455, "colors":["white"]},
+            {"id":1456, "colors":["blue"]},
+            {"id":1457, "colors":["green"]},
+            {"id":1458, "colors":["grey"]}
+        ], "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
+    },
+    {
+        "groupId":1459, "zone":"torso_waistToKnee", "category":"dress", "security":"afd512dc7e7356dc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Wool Caress",
+        "variations":[
+            {"id":1459, "colors":["green"]},
+            {"id":1460, "colors":["yellow"]},
+            {"id":1461, "colors":["orange"]},
+            {"id":1462, "colors":["red"]},
+            {"id":1463, "colors":["pink"]},
+            {"id":1464, "colors":["purple"]},
+            {"id":1465, "colors":["blue"]},
+            {"id":1466, "colors":["blue"]},
+            {"id":1467, "colors":["black"]},
+            {"id":1468, "colors":["white"]}
+        ], "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
+    },
+    {
+        "groupId":1469, "zone":"torso", "category":"jacket", "security":"9496102d18a5011c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rebeca",
+        "outfitName":"Wool Caress",
+        "variations":[
+            {"id":1469, "colors":["yellow"]},
+            {"id":1470, "colors":["green"]},
+            {"id":1471, "colors":["yellow"]},
+            {"id":1472, "colors":["orange"]},
+            {"id":1473, "colors":["red"]},
+            {"id":1474, "colors":["grey"]},
+            {"id":1475, "colors":["black"]},
+            {"id":1476, "colors":["purple"]},
+            {"id":1477, "colors":["white"]},
+            {"id":1478, "colors":["blue"]}
+        ], "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
     {
         "groupId":1479, "zone":"arms", "category":"bag", "security":"7f61dbf0c6273932", "multiLayered":false, "layerBehavior":"normal",
@@ -2100,6 +2202,23 @@
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
+        "groupId":1830, "zone":"torso", "category":"top", "security":"06ba72889f4971ce", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bustier",
+        "outfitName":"Royal Fighter",
+        "variations":[
+            {"id":1830, "colors":["grey"]},
+            {"id":1831, "colors":["blue"]},
+            {"id":1832, "colors":["purple"]},
+            {"id":1833, "colors":["brown"]},
+            {"id":1834, "colors":["yellow"]},
+            {"id":1835, "colors":["black"]},
+            {"id":1836, "colors":["white"]},
+            {"id":1837, "colors":["yellow"]},
+            {"id":1838, "colors":["blue"]},
+            {"id":1839, "colors":["pink"]}
+        ], "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
+    },
+    {
         "groupId":1840, "zone":"face", "category":"neckAccessory", "security":"43f3b4d419a38ecb", "multiLayered":false, "layerBehavior":"normal",
         "name":"Hombreras",
         "outfitName":"Royal Fighter",
@@ -2132,6 +2251,23 @@
             {"id":1858, "colors":["yellow","blue"]},
             {"id":1859, "colors":["pink","white"]}
         ], "criteria":{"type":"jobTask", "info":"Pantalla PC", "text":"Desbloqueado en la Misión del día\nPantalla PC"}
+    },
+    {
+        "groupId":1870, "zone":"torso_waistToKnee", "category":"waist", "security":"0429d8570c2eebfd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cola de gato",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1870, "colors":["brown","black"]},
+            {"id":1871, "colors":["grey"]},
+            {"id":1872, "colors":["orange"]},
+            {"id":1873, "colors":["blue"]},
+            {"id":1874, "colors":["yellow"]},
+            {"id":1875, "colors":["yellow","brown"]},
+            {"id":1876, "colors":["black","multi"]},
+            {"id":1877, "colors":["black"]},
+            {"id":1878, "colors":["white"]},
+            {"id":1879, "colors":["white","black"]}
+        ], "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
     {
         "groupId":1940, "zone":"head", "category":"hat", "security":"7b9512ee4abd6f2f", "multiLayered":true, "layerBehavior":"normal",
@@ -3915,7 +4051,7 @@
     {
         "groupId":3183, "zone":"feet", "category":"socks", "security":"e02017aba306529e", "multiLayered":false, "layerBehavior":"normal",
         "name":"Calcetines",
-        "outfitName":"Scouting See",
+        "outfitName":"Scouting Sea",
         "variations":[
             {"id":3183, "colors":["white", "blue"]},
             {"id":3184, "colors":["blue", "pink"]},
@@ -3932,7 +4068,7 @@
     {
         "groupId":3193, "zone":"feet", "category":"shoes", "security":"1c41f31a776cd647", "multiLayered":false, "layerBehavior":"normal",
         "name":"Botas",
-        "outfitName":"Scouting See",
+        "outfitName":"Scouting Sea",
         "variations":[
             {"id":3193, "colors":["yellow"]},
             {"id":3194, "colors":["blue"]},
@@ -3949,7 +4085,7 @@
     {
         "groupId":3203, "zone":"torso_waistToKnee", "category":"dress", "security":"87f909856a35158e", "multiLayered":false, "layerBehavior":"normal",
         "name":"Vestido",
-        "outfitName":"Scouting See",
+        "outfitName":"Scouting Sea",
         "variations":[
             {"id":3203, "colors":["blue"]},
             {"id":3204, "colors":["pink"]},
@@ -3966,7 +4102,7 @@
     {
         "groupId":3213, "zone":"torso", "category":"top", "security":"7d698594a11909d1", "multiLayered":false, "layerBehavior":"normal",
         "name":"Bustier",
-        "outfitName":"Scouting See",
+        "outfitName":"Scouting Sea",
         "variations":[
             {"id":3213, "colors":["black"]},
             {"id":3214, "colors":["purple"]},
@@ -3983,7 +4119,7 @@
     {
         "groupId":3223, "zone":"arms", "category":"bag", "security":"02b8f98a6d8c87fb", "multiLayered":false, "layerBehavior":"normal",
         "name":"Bolso",
-        "outfitName":"Scouting See",
+        "outfitName":"Scouting Sea",
         "variations":[
             {"id":3223, "colors":["blue"]},
             {"id":3224, "colors":["pink"]},
@@ -4000,7 +4136,7 @@
     {
         "groupId":3233, "zone":"head", "category":"hat", "security":"9248af71484a526d", "multiLayered":false, "layerBehavior":"normal",
         "name":"Diadema",
-        "outfitName":"Scouting See",
+        "outfitName":"Scouting Sea",
         "variations":[
             {"id":3233, "colors":["blue"]},
             {"id":3234, "colors":["pink"]},
@@ -5273,16 +5409,16 @@
         "name":"Pantalones",
         "outfitName":"Diving In",
         "variations":[
-            {"id":4051, "colors":["undefined"]},
-            {"id":4052, "colors":["undefined"]},
-            {"id":4053, "colors":["undefined"]},
-            {"id":4054, "colors":["undefined"]},
-            {"id":4055, "colors":["undefined"]},
-            {"id":4056, "colors":["undefined"]},
-            {"id":4057, "colors":["undefined"]},
-            {"id":4058, "colors":["undefined"]},
-            {"id":4059, "colors":["undefined"]},
-            {"id":4060, "colors":["undefined"]}
+            {"id":4051, "colors":["red"]},
+            {"id":4052, "colors":["brown"]},
+            {"id":4053, "colors":["black"]},
+            {"id":4054, "colors":["green"]},
+            {"id":4055, "colors":["orange"]},
+            {"id":4056, "colors":["blue"]},
+            {"id":4057, "colors":["white"]},
+            {"id":4058, "colors":["yellow"]},
+            {"id":4059, "colors":["purple"]},
+            {"id":4060, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5290,16 +5426,16 @@
         "name":"Ropa interior",
         "outfitName":"Diving In",
         "variations":[
-            {"id":4061, "colors":["undefined"]},
-            {"id":4062, "colors":["undefined"]},
-            {"id":4063, "colors":["undefined"]},
-            {"id":4064, "colors":["undefined"]},
-            {"id":4065, "colors":["undefined"]},
-            {"id":4066, "colors":["undefined"]},
-            {"id":4067, "colors":["undefined"]},
-            {"id":4068, "colors":["undefined"]},
-            {"id":4069, "colors":["undefined"]},
-            {"id":4070, "colors":["undefined"]}
+            {"id":4061, "colors":["yellow"]},
+            {"id":4062, "colors":["red"]},
+            {"id":4063, "colors":["black"]},
+            {"id":4064, "colors":["purple"]},
+            {"id":4065, "colors":["green"]},
+            {"id":4066, "colors":["pink"]},
+            {"id":4067, "colors":["blue"]},
+            {"id":4068, "colors":["white"]},
+            {"id":4069, "colors":["green"]},
+            {"id":4070, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5307,16 +5443,16 @@
         "name":"Deportivas",
         "outfitName":"Diving In",
         "variations":[
-            {"id":4071, "colors":["undefined"]},
-            {"id":4072, "colors":["undefined"]},
-            {"id":4073, "colors":["undefined"]},
-            {"id":4074, "colors":["undefined"]},
-            {"id":4075, "colors":["undefined"]},
-            {"id":4076, "colors":["undefined"]},
-            {"id":4077, "colors":["undefined"]},
-            {"id":4078, "colors":["undefined"]},
-            {"id":4079, "colors":["undefined"]},
-            {"id":4080, "colors":["undefined"]}
+            {"id":4071, "colors":["black"]},
+            {"id":4072, "colors":["red"]},
+            {"id":4073, "colors":["brown"]},
+            {"id":4074, "colors":["purple"]},
+            {"id":4075, "colors":["yellow"]},
+            {"id":4076, "colors":["green"]},
+            {"id":4077, "colors":["blue"]},
+            {"id":4078, "colors":["pink"]},
+            {"id":4079, "colors":["green"]},
+            {"id":4080, "colors":["white"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5324,16 +5460,16 @@
         "name":"Top",
         "outfitName":"Diving In",
         "variations":[
-            {"id":4081, "colors":["undefined"]},
-            {"id":4082, "colors":["undefined"]},
-            {"id":4083, "colors":["undefined"]},
-            {"id":4084, "colors":["undefined"]},
-            {"id":4085, "colors":["undefined"]},
-            {"id":4086, "colors":["undefined"]},
-            {"id":4087, "colors":["undefined"]},
-            {"id":4088, "colors":["undefined"]},
-            {"id":4089, "colors":["undefined"]},
-            {"id":4090, "colors":["undefined"]}
+            {"id":4081, "colors":["yellow"]},
+            {"id":4082, "colors":["red"]},
+            {"id":4083, "colors":["black"]},
+            {"id":4084, "colors":["purple"]},
+            {"id":4085, "colors":["green"]},
+            {"id":4086, "colors":["pink"]},
+            {"id":4087, "colors":["blue"]},
+            {"id":4088, "colors":["white"]},
+            {"id":4089, "colors":["green"]},
+            {"id":4090, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5341,16 +5477,16 @@
         "name":"Collar",
         "outfitName":"Diving In",
         "variations":[
-            {"id":4091, "colors":["undefined"]},
-            {"id":4092, "colors":["undefined"]},
-            {"id":4093, "colors":["undefined"]},
-            {"id":4094, "colors":["undefined"]},
-            {"id":4095, "colors":["undefined"]},
-            {"id":4096, "colors":["undefined"]},
-            {"id":4097, "colors":["undefined"]},
-            {"id":4098, "colors":["undefined"]},
-            {"id":4099, "colors":["undefined"]},
-            {"id":4100, "colors":["undefined"]}
+            {"id":4091, "colors":["grey"]},
+            {"id":4092, "colors":["black"]},
+            {"id":4093, "colors":["yellow"]},
+            {"id":4094, "colors":["green"]},
+            {"id":4095, "colors":["brown"]},
+            {"id":4096, "colors":["blue"]},
+            {"id":4097, "colors":["white"]},
+            {"id":4098, "colors":["red"]},
+            {"id":4099, "colors":["purple"]},
+            {"id":4100, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5358,16 +5494,16 @@
         "name":"Pendientes",
         "outfitName":"Diving In",
         "variations":[
-            {"id":4101, "colors":["undefined"]},
-            {"id":4102, "colors":["undefined"]},
-            {"id":4103, "colors":["undefined"]},
-            {"id":4104, "colors":["undefined"]},
-            {"id":4105, "colors":["undefined"]},
-            {"id":4106, "colors":["undefined"]},
-            {"id":4107, "colors":["undefined"]},
-            {"id":4108, "colors":["undefined"]},
-            {"id":4109, "colors":["undefined"]},
-            {"id":4110, "colors":["undefined"]}
+            {"id":4101, "colors":["yellow"]},
+            {"id":4102, "colors":["red"]},
+            {"id":4103, "colors":["black"]},
+            {"id":4104, "colors":["purple"]},
+            {"id":4105, "colors":["green"]},
+            {"id":4106, "colors":["pink"]},
+            {"id":4107, "colors":["blue"]},
+            {"id":4108, "colors":["white"]},
+            {"id":4109, "colors":["green"]},
+            {"id":4110, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5375,16 +5511,16 @@
         "name":"Lencería",
         "outfitName":"Waterproof",
         "variations":[
-            {"id":4111, "colors":["undefined"]},
-            {"id":4112, "colors":["undefined"]},
-            {"id":4113, "colors":["undefined"]},
-            {"id":4114, "colors":["undefined"]},
-            {"id":4115, "colors":["undefined"]},
-            {"id":4116, "colors":["undefined"]},
-            {"id":4117, "colors":["undefined"]},
-            {"id":4118, "colors":["undefined"]},
-            {"id":4119, "colors":["undefined"]},
-            {"id":4120, "colors":["undefined"]}
+            {"id":4111, "colors":["white"]},
+            {"id":4112, "colors":["brown"]},
+            {"id":4113, "colors":["purple"]},
+            {"id":4114, "colors":["black"]},
+            {"id":4115, "colors":["red"]},
+            {"id":4116, "colors":["pink"]},
+            {"id":4117, "colors":["green"]},
+            {"id":4118, "colors":["blue"]},
+            {"id":4119, "colors":["yellow"]},
+            {"id":4120, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5392,16 +5528,16 @@
         "name":"Sandalias",
         "outfitName":"Waterproof",
         "variations":[
-            {"id":4121, "colors":["undefined"]},
-            {"id":4122, "colors":["undefined"]},
-            {"id":4123, "colors":["undefined"]},
-            {"id":4124, "colors":["undefined"]},
-            {"id":4125, "colors":["undefined"]},
-            {"id":4126, "colors":["undefined"]},
-            {"id":4127, "colors":["undefined"]},
-            {"id":4128, "colors":["undefined"]},
-            {"id":4129, "colors":["undefined"]},
-            {"id":4130, "colors":["undefined"]}
+            {"id":4121, "colors":["brown"]},
+            {"id":4122, "colors":["pink"]},
+            {"id":4123, "colors":["white"]},
+            {"id":4124, "colors":["black"]},
+            {"id":4125, "colors":["red"]},
+            {"id":4126, "colors":["brown"]},
+            {"id":4127, "colors":["green"]},
+            {"id":4128, "colors":["purple"]},
+            {"id":4129, "colors":["yellow"]},
+            {"id":4130, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5409,16 +5545,16 @@
         "name":"Mono corto",
         "outfitName":"Waterproof",
         "variations":[
-            {"id":4131, "colors":["undefined"]},
-            {"id":4132, "colors":["undefined"]},
-            {"id":4133, "colors":["undefined"]},
-            {"id":4134, "colors":["undefined"]},
-            {"id":4135, "colors":["undefined"]},
-            {"id":4136, "colors":["undefined"]},
-            {"id":4137, "colors":["undefined"]},
-            {"id":4138, "colors":["undefined"]},
-            {"id":4139, "colors":["undefined"]},
-            {"id":4140, "colors":["undefined"]}
+            {"id":4131, "colors":["blue"]},
+            {"id":4132, "colors":["pink"]},
+            {"id":4133, "colors":["black"]},
+            {"id":4134, "colors":["white"]},
+            {"id":4135, "colors":["red"]},
+            {"id":4136, "colors":["pink"]},
+            {"id":4137, "colors":["brown"]},
+            {"id":4138, "colors":["purple"]},
+            {"id":4139, "colors":["green"]},
+            {"id":4140, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5426,16 +5562,16 @@
         "name":"Chaqueta",
         "outfitName":"Waterproof",
         "variations":[
-            {"id":4141, "colors":["undefined"]},
-            {"id":4142, "colors":["undefined"]},
-            {"id":4143, "colors":["undefined"]},
-            {"id":4144, "colors":["undefined"]},
-            {"id":4145, "colors":["undefined"]},
-            {"id":4146, "colors":["undefined"]},
-            {"id":4147, "colors":["undefined"]},
-            {"id":4148, "colors":["undefined"]},
-            {"id":4149, "colors":["undefined"]},
-            {"id":4150, "colors":["undefined"]}
+            {"id":4141, "colors":["blue"]},
+            {"id":4142, "colors":["pink"]},
+            {"id":4143, "colors":["grey"]},
+            {"id":4144, "colors":["black"]},
+            {"id":4145, "colors":["white"]},
+            {"id":4146, "colors":["brown"]},
+            {"id":4147, "colors":["green"]},
+            {"id":4148, "colors":["red"]},
+            {"id":4149, "colors":["yellow"]},
+            {"id":4150, "colors":["purple"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5443,16 +5579,16 @@
         "name":"Anillos",
         "outfitName":"Waterproof",
         "variations":[
-            {"id":4151, "colors":["undefined"]},
-            {"id":4152, "colors":["undefined"]},
-            {"id":4153, "colors":["undefined"]},
-            {"id":4154, "colors":["undefined"]},
-            {"id":4155, "colors":["undefined"]},
-            {"id":4156, "colors":["undefined"]},
-            {"id":4157, "colors":["undefined"]},
-            {"id":4158, "colors":["undefined"]},
-            {"id":4159, "colors":["undefined"]},
-            {"id":4160, "colors":["undefined"]}
+            {"id":4151, "colors":["red"]},
+            {"id":4152, "colors":["purple"]},
+            {"id":4153, "colors":["black"]},
+            {"id":4154, "colors":["white"]},
+            {"id":4155, "colors":["pink"]},
+            {"id":4156, "colors":["yellow"]},
+            {"id":4157, "colors":["green"]},
+            {"id":4158, "colors":["purple"]},
+            {"id":4159, "colors":["orange"]},
+            {"id":4160, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -5460,16 +5596,16 @@
         "name":"Pendiente",
         "outfitName":"Waterproof",
         "variations":[
-            {"id":4161, "colors":["undefined"]},
-            {"id":4162, "colors":["undefined"]},
-            {"id":4163, "colors":["undefined"]},
-            {"id":4164, "colors":["undefined"]},
-            {"id":4165, "colors":["undefined"]},
-            {"id":4166, "colors":["undefined"]},
-            {"id":4167, "colors":["undefined"]},
-            {"id":4168, "colors":["undefined"]},
-            {"id":4169, "colors":["undefined"]},
-            {"id":4170, "colors":["undefined"]}
+            {"id":4161, "colors":["white", "yellow"]},
+            {"id":4162, "colors":["pink", "yellow"]},
+            {"id":4163, "colors":["grey", "black"]},
+            {"id":4164, "colors":["grey", "blue"]},
+            {"id":4165, "colors":["yellow", "red"]},
+            {"id":4166, "colors":["brown"]},
+            {"id":4167, "colors":["green"]},
+            {"id":4168, "colors":["purple"]},
+            {"id":4169, "colors":["orange"]},
+            {"id":4170, "colors":["blue", "grey"]}
         ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"}
     },
     {
@@ -6395,16 +6531,16 @@
         "name":"Liga",
         "outfitName":"E-girl",
         "variations":[
-            {"id":5111, "colors":["undefined"]},
-            {"id":5112, "colors":["undefined"]},
-            {"id":5113, "colors":["undefined"]},
-            {"id":5114, "colors":["undefined"]},
-            {"id":5115, "colors":["undefined"]},
-            {"id":5116, "colors":["undefined"]},
-            {"id":5117, "colors":["undefined"]},
-            {"id":5118, "colors":["undefined"]},
-            {"id":5119, "colors":["undefined"]},
-            {"id":5120, "colors":["undefined"]}
+            {"id":5111, "colors":["black"]},
+            {"id":5112, "colors":["red"]},
+            {"id":5113, "colors":["purple"]},
+            {"id":5114, "colors":["yellow"]},
+            {"id":5115, "colors":["green"]},
+            {"id":5116, "colors":["blue"]},
+            {"id":5117, "colors":["pink"]},
+            {"id":5118, "colors":["white"]},
+            {"id":5119, "colors":["brown"]},
+            {"id":5120, "colors":["purple"]}
         ], "criteria":null
     },
     {
@@ -6412,16 +6548,16 @@
         "name":"Calcetines",
         "outfitName":"E-girl",
         "variations":[
-            {"id":5121, "colors":["undefined"]},
-            {"id":5122, "colors":["undefined"]},
-            {"id":5123, "colors":["undefined"]},
-            {"id":5124, "colors":["undefined"]},
-            {"id":5125, "colors":["undefined"]},
-            {"id":5126, "colors":["undefined"]},
-            {"id":5127, "colors":["undefined"]},
-            {"id":5128, "colors":["undefined"]},
-            {"id":5129, "colors":["undefined"]},
-            {"id":5130, "colors":["undefined"]}
+            {"id":5121, "colors":["black", "white"]},
+            {"id":5122, "colors":["black", "red"]},
+            {"id":5123, "colors":["black", "purple"]},
+            {"id":5124, "colors":["black", "yellow"]},
+            {"id":5125, "colors":["black", "green"]},
+            {"id":5126, "colors":["black", "blue"]},
+            {"id":5127, "colors":["black", "pink"]},
+            {"id":5128, "colors":["black", "white"]},
+            {"id":5129, "colors":["black", "brown"]},
+            {"id":5130, "colors":["black", "purple"]}
         ], "criteria":null
     },
     {
@@ -6429,16 +6565,16 @@
         "name":"Botines",
         "outfitName":"E-girl",
         "variations":[
-            {"id":5131, "colors":["undefined"]},
-            {"id":5132, "colors":["undefined"]},
-            {"id":5133, "colors":["undefined"]},
-            {"id":5134, "colors":["undefined"]},
-            {"id":5135, "colors":["undefined"]},
-            {"id":5136, "colors":["undefined"]},
-            {"id":5137, "colors":["undefined"]},
-            {"id":5138, "colors":["undefined"]},
-            {"id":5139, "colors":["undefined"]},
-            {"id":5140, "colors":["undefined"]}
+            {"id":5131, "colors":["black", "white"]},
+            {"id":5132, "colors":["black", "red"]},
+            {"id":5133, "colors":["black", "purple"]},
+            {"id":5134, "colors":["black", "yellow"]},
+            {"id":5135, "colors":["black", "green"]},
+            {"id":5136, "colors":["blue"]},
+            {"id":5137, "colors":["black", "pink"]},
+            {"id":5138, "colors":["black"]},
+            {"id":5139, "colors":["black", "brown", "green"]},
+            {"id":5140, "colors":["black", "purple"]}
         ], "criteria":null
     },
     {
@@ -6446,16 +6582,16 @@
         "name":"Falda",
         "outfitName":"E-girl",
         "variations":[
-            {"id":5141, "colors":["undefined"]},
-            {"id":5142, "colors":["undefined"]},
-            {"id":5143, "colors":["undefined"]},
-            {"id":5144, "colors":["undefined"]},
-            {"id":5145, "colors":["undefined"]},
-            {"id":5146, "colors":["undefined"]},
-            {"id":5147, "colors":["undefined"]},
-            {"id":5148, "colors":["undefined"]},
-            {"id":5149, "colors":["undefined"]},
-            {"id":5150, "colors":["undefined"]}
+            {"id":5141, "colors":["black"]},
+            {"id":5142, "colors":["red"]},
+            {"id":5143, "colors":["purple"]},
+            {"id":5144, "colors":["yellow"]},
+            {"id":5145, "colors":["green"]},
+            {"id":5146, "colors":["blue"]},
+            {"id":5147, "colors":["pink"]},
+            {"id":5148, "colors":["white"]},
+            {"id":5149, "colors":["orange"]},
+            {"id":5150, "colors":["grey"]}
         ], "criteria":null
     },
     {
@@ -6463,16 +6599,16 @@
         "name":"Sudadera",
         "outfitName":"E-girl",
         "variations":[
-            {"id":5151, "colors":["undefined"]},
-            {"id":5152, "colors":["undefined"]},
-            {"id":5153, "colors":["undefined"]},
-            {"id":5154, "colors":["undefined"]},
-            {"id":5155, "colors":["undefined"]},
-            {"id":5156, "colors":["undefined"]},
-            {"id":5157, "colors":["undefined"]},
-            {"id":5158, "colors":["undefined"]},
-            {"id":5159, "colors":["undefined"]},
-            {"id":5160, "colors":["undefined"]}
+            {"id":5151, "colors":["black"]},
+            {"id":5152, "colors":["red"]},
+            {"id":5153, "colors":["purple"]},
+            {"id":5154, "colors":["yellow"]},
+            {"id":5155, "colors":["green"]},
+            {"id":5156, "colors":["blue"]},
+            {"id":5157, "colors":["pink"]},
+            {"id":5158, "colors":["white"]},
+            {"id":5159, "colors":["green"]},
+            {"id":5160, "colors":["purple"]}
         ], "criteria":null
     },
     {
@@ -6480,16 +6616,16 @@
         "name":"Cinturón",
         "outfitName":"E-girl",
         "variations":[
-            {"id":5161, "colors":["undefined"]},
-            {"id":5162, "colors":["undefined"]},
-            {"id":5163, "colors":["undefined"]},
-            {"id":5164, "colors":["undefined"]},
-            {"id":5165, "colors":["undefined"]},
-            {"id":5166, "colors":["undefined"]},
-            {"id":5167, "colors":["undefined"]},
-            {"id":5168, "colors":["undefined"]},
-            {"id":5169, "colors":["undefined"]},
-            {"id":5170, "colors":["undefined"]}
+            {"id":5161, "colors":["black"]},
+            {"id":5162, "colors":["red"]},
+            {"id":5163, "colors":["purple"]},
+            {"id":5164, "colors":["yellow"]},
+            {"id":5165, "colors":["green"]},
+            {"id":5166, "colors":["blue"]},
+            {"id":5167, "colors":["pink"]},
+            {"id":5168, "colors":["white"]},
+            {"id":5169, "colors":["brown"]},
+            {"id":5170, "colors":["grey"]}
         ], "criteria":null
     },
     {
@@ -6497,16 +6633,16 @@
         "name":"Bubble Tea",
         "outfitName":"E-girl",
         "variations":[
-            {"id":5171, "colors":["undefined"]},
-            {"id":5172, "colors":["undefined"]},
-            {"id":5173, "colors":["undefined"]},
-            {"id":5174, "colors":["undefined"]},
-            {"id":5175, "colors":["undefined"]},
-            {"id":5176, "colors":["undefined"]},
-            {"id":5177, "colors":["undefined"]},
-            {"id":5178, "colors":["undefined"]},
-            {"id":5179, "colors":["undefined"]},
-            {"id":5180, "colors":["undefined"]}
+            {"id":5171, "colors":["purple"]},
+            {"id":5172, "colors":["yellow"]},
+            {"id":5173, "colors":["blue"]},
+            {"id":5174, "colors":["orange"]},
+            {"id":5175, "colors":["green"]},
+            {"id":5176, "colors":["pink"]},
+            {"id":5177, "colors":["purple"]},
+            {"id":5178, "colors":["white"]},
+            {"id":5179, "colors":["red"]},
+            {"id":5180, "colors":["black"]}
         ], "criteria":null
     },
     {
@@ -6514,16 +6650,16 @@
         "name":"Bolso",
         "outfitName":"E-girl",
         "variations":[
-            {"id":5181, "colors":["undefined"]},
-            {"id":5182, "colors":["undefined"]},
-            {"id":5183, "colors":["undefined"]},
-            {"id":5184, "colors":["undefined"]},
-            {"id":5185, "colors":["undefined"]},
-            {"id":5186, "colors":["undefined"]},
-            {"id":5187, "colors":["undefined"]},
-            {"id":5188, "colors":["undefined"]},
-            {"id":5189, "colors":["undefined"]},
-            {"id":5190, "colors":["undefined"]}
+            {"id":5181, "colors":["black"]},
+            {"id":5182, "colors":["red"]},
+            {"id":5183, "colors":["blue"]},
+            {"id":5184, "colors":["brown"]},
+            {"id":5185, "colors":["green"]},
+            {"id":5186, "colors":["pink"]},
+            {"id":5187, "colors":["pink"]},
+            {"id":5188, "colors":["white"]},
+            {"id":5189, "colors":["yellow"]},
+            {"id":5190, "colors":["grey"]}
         ], "criteria":null
     },
     {
@@ -6531,16 +6667,16 @@
         "name":"Peluca",
         "outfitName":"E-girl",
         "variations":[
-            {"id":5191, "colors":["undefined"]},
-            {"id":5192, "colors":["undefined"]},
-            {"id":5193, "colors":["undefined"]},
-            {"id":5194, "colors":["undefined"]},
-            {"id":5195, "colors":["undefined"]},
-            {"id":5196, "colors":["undefined"]},
-            {"id":5197, "colors":["undefined"]},
-            {"id":5198, "colors":["undefined"]},
-            {"id":5199, "colors":["undefined"]},
-            {"id":5200, "colors":["undefined"]}
+            {"id":5191, "colors":["brown"]},
+            {"id":5192, "colors":["white"]},
+            {"id":5193, "colors":["black"]},
+            {"id":5194, "colors":["blue"]},
+            {"id":5195, "colors":["blue"]},
+            {"id":5196, "colors":["purple"]},
+            {"id":5197, "colors":["red"]},
+            {"id":5198, "colors":["yellow"]},
+            {"id":5199, "colors":["orange"]},
+            {"id":5200, "colors":["pink"]}
         ], "criteria":null
     },
     {
@@ -6548,16 +6684,16 @@
         "name":"Casco",
         "outfitName":"E-girl",
         "variations":[
-            {"id":5201, "colors":["undefined"]},
-            {"id":5202, "colors":["undefined"]},
-            {"id":5203, "colors":["undefined"]},
-            {"id":5204, "colors":["undefined"]},
-            {"id":5205, "colors":["undefined"]},
-            {"id":5206, "colors":["undefined"]},
-            {"id":5207, "colors":["undefined"]},
-            {"id":5208, "colors":["undefined"]},
-            {"id":5209, "colors":["undefined"]},
-            {"id":5210, "colors":["undefined"]}
+            {"id":5201, "colors":["black", "purple"]},
+            {"id":5202, "colors":["black", "red"]},
+            {"id":5203, "colors":["black", "blue"]},
+            {"id":5204, "colors":["black", "yellow"]},
+            {"id":5205, "colors":["black", "green"]},
+            {"id":5206, "colors":["black", "blue"]},
+            {"id":5207, "colors":["black", "pink"]},
+            {"id":5208, "colors":["white"]},
+            {"id":5209, "colors":["black", "orange"]},
+            {"id":5210, "colors":["purple"]}
         ], "criteria":null
     },
     {

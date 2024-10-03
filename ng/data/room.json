@@ -692,6 +692,12 @@
         "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
     {
+        "id":107, "roomId":34, "slot":"slot4", "light":false, "security":"0dedf32a82522154",
+        "name":"Plantas",
+        "roomName":"Classic Chic",
+        "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
+    },
+    {
         "id":108, "roomId":34, "slot":"slot3", "light":true, "security":"dfdbba8e2c7cd37e",
         "name":"Sillón",
         "roomName":"Classic Chic",
@@ -722,10 +728,28 @@
         "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
+        "id":114, "roomId":35, "slot":"slot3", "light":false, "security":"6a35710c81655b9a",
+        "name":"Sillón",
+        "roomName":"Warm Winter",
+        "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
+    },
+    {
+        "id":116, "roomId":35, "slot":"slot1", "light":true, "security":"ab9feb9da7a0c2e5",
+        "name":"Chimenea",
+        "roomName":"Warm Winter",
+        "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
+    },
+    {
         "id":139, "roomId":39, "slot":"slot2", "light":true, "security":"1fd78e8bd348d331",
         "name":"Mesa",
         "roomName":"Space Capsule",
         "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
+    },
+    {
+        "id":149, "roomId":41, "slot":"slot4", "light":false, "security":"4004f7a64599f7cc",
+        "name":"Amplificador y guitarras",
+        "roomName":"Rock n' Wild",
+        "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
     {
         "id":153, "roomId":42, "slot":"background", "light":true, "security":"6b8af3fa1e2ee135",
@@ -886,6 +910,46 @@
         "name":"Banqueta",
         "roomName":"Witchy",
         "criteria":{"type":"calendar", "info":"2024-2", "text":"Desbloqueado en el calendario\nN°02 - 2024"}
+    },
+    {
+        "id":195, "roomId":49, "slot":"background", "light":false, "security":"1af6fb2b345ef7ac",
+        "name":"Paredes",
+        "roomName":"Spa La Fuente",
+        "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
+        "backgroundColors":{
+            "day":{"color1":"F8D2B1","color2":"B79790","colorLight":null},
+            "night":{"color1":"F3AFD8","color2":"957789","colorLight":null}
+        }
+    },
+    {
+        "id":196, "roomId":49, "slot":"slot1", "light":false, "security":"464f233364a8dda0",
+        "name":"Mesas de masaje",
+        "roomName":"Spa La Fuente",
+        "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"}
+    },
+    {
+        "id":197, "roomId":49, "slot":"slot2", "light":true, "security":"25fba6a237901c22",
+        "name":"Bañera",
+        "roomName":"Spa La Fuente",
+        "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"}
+    },
+    {
+        "id":198, "roomId":49, "slot":"slot3", "light":true, "security":"dcb0bbade78cf470",
+        "name":"Plantas",
+        "roomName":"Spa La Fuente",
+        "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"}
+    },
+    {
+        "id":199, "roomId":49, "slot":"slot4", "light":false, "security":"bf68cbe197e993d6",
+        "name":"Sillón",
+        "roomName":"Spa La Fuente",
+        "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"}
+    },
+    {
+        "id":200, "roomId":49, "slot":"slot5", "light":false, "security":"6f764c5b9318982b",
+        "name":"Cojines",
+        "roomName":"Spa La Fuente",
+        "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"}
     },
     {
         "id":201, "roomId":50, "slot":"background", "light":true, "security":"52c60b0821320f30",
