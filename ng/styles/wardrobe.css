@@ -2849,6 +2849,12 @@ body.personality-fiery #asng-z-index .item .remove {
     box-shadow: 0 0 10px #000;
 }
 
+@media (min-width: 2500px) {
+    #room-image {
+        width: 66%;
+    }
+}
+
 #room-image, .asng-room-preview {
     background-size: cover !important;
     max-height: calc(100px* var(--asng-vh)) !important;
