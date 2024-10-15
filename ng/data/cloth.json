@@ -3403,6 +3403,108 @@
         ], "criteria":{"type":"calendar", "info":"2024-3", "text":"Desbloqueado en el calendario\nN°03 - 2024"}
     },
     {
+        "groupId":2743, "zone":"torso_waistToKnee", "category":"underwear", "security":"95cc69d2d67fd242", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Night Out",
+        "variations":[
+            {"id":2743, "colors":["black"]},
+            {"id":2744, "colors":["white"]},
+            {"id":2745, "colors":["purple"]},
+            {"id":2746, "colors":["brown"]},
+            {"id":2747, "colors":["blue"]},
+            {"id":2748, "colors":["grey"]},
+            {"id":2749, "colors":["blue"]},
+            {"id":2750, "colors":["red"]},
+            {"id":2751, "colors":["green"]},
+            {"id":2752, "colors":["brown"]}
+        ], "criteria":{"type":"calendar", "info":"2024-7", "text":"Desbloqueado en el calendario\nN°07 - 2024"}
+    },
+    {
+        "groupId":2753, "zone":"torso_waistToKnee", "category":"dress", "security":"1c03c76d987b3436", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Night Out",
+        "variations":[
+            {"id":2753, "colors":["white"]},
+            {"id":2754, "colors":["blue"]},
+            {"id":2755, "colors":["black"]},
+            {"id":2756, "colors":["red"]},
+            {"id":2757, "colors":["pink"]},
+            {"id":2758, "colors":["purple"]},
+            {"id":2759, "colors":["yellow"]},
+            {"id":2760, "colors":["brown"]},
+            {"id":2761, "colors":["green"]},
+            {"id":2762, "colors":["brown"]}
+        ], "criteria":{"type":"calendar", "info":"2024-7", "text":"Desbloqueado en el calendario\nN°07 - 2024"}
+    },
+    {
+        "groupId":2763, "zone":"feet", "category":"shoes", "security":"d7b40bb2e4625cc2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Night Out",
+        "variations":[
+            {"id":2763, "colors":["white"]},
+            {"id":2764, "colors":["blue"]},
+            {"id":2765, "colors":["black"]},
+            {"id":2766, "colors":["red"]},
+            {"id":2767, "colors":["pink"]},
+            {"id":2768, "colors":["purple"]},
+            {"id":2769, "colors":["yellow"]},
+            {"id":2770, "colors":["brown"]},
+            {"id":2771, "colors":["green"]},
+            {"id":2772, "colors":["brown"]}
+        ], "criteria":{"type":"calendar", "info":"2024-7", "text":"Desbloqueado en el calendario\nN°07 - 2024"}
+    },
+    {
+        "groupId":2773, "zone":"face", "category":"neckAccessory", "security":"6f11ddc217c23b2f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar choker",
+        "outfitName":"Night Out",
+        "variations":[
+            {"id":2773, "colors":["black"]},
+            {"id":2774, "colors":["white"]},
+            {"id":2775, "colors":["pink"]},
+            {"id":2776, "colors":["brown"]},
+            {"id":2777, "colors":["blue"]},
+            {"id":2778, "colors":["grey"]},
+            {"id":2779, "colors":["purple"]},
+            {"id":2780, "colors":["red"]},
+            {"id":2781, "colors":["green"]},
+            {"id":2782, "colors":["brown"]}
+        ], "criteria":{"type":"calendar", "info":"2024-7", "text":"Desbloqueado en el calendario\nN°07 - 2024"}
+    },
+    {
+        "groupId":2783, "zone":"torso", "category":"jacket", "security":"64b86ea6d864de07", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blazer",
+        "outfitName":"Night Out",
+        "variations":[
+            {"id":2783, "colors":["black"]},
+            {"id":2784, "colors":["white"]},
+            {"id":2785, "colors":["pink"]},
+            {"id":2786, "colors":["brown"]},
+            {"id":2787, "colors":["purple"]},
+            {"id":2788, "colors":["grey"]},
+            {"id":2789, "colors":["blue"]},
+            {"id":2790, "colors":["red"]},
+            {"id":2791, "colors":["green"]},
+            {"id":2792, "colors":["brown"]}
+        ], "criteria":{"type":"calendar", "info":"2024-7", "text":"Desbloqueado en el calendario\nN°07 - 2024"}
+    },
+    {
+        "groupId":2793, "zone":"arms", "category":"bag", "security":"7234a00faf491268", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Night Out",
+        "variations":[
+            {"id":2793, "colors":["black"]},
+            {"id":2794, "colors":["white"]},
+            {"id":2795, "colors":["pink"]},
+            {"id":2796, "colors":["brown"]},
+            {"id":2797, "colors":["purple"]},
+            {"id":2798, "colors":["grey"]},
+            {"id":2799, "colors":["blue"]},
+            {"id":2800, "colors":["red"]},
+            {"id":2801, "colors":["green"]},
+            {"id":2802, "colors":["brown"]}
+        ], "criteria":{"type":"calendar", "info":"2024-7", "text":"Desbloqueado en el calendario\nN°07 - 2024"}
+    },
+    {
         "groupId":2803, "zone":"torso", "category":"top", "security":"133740b3a2fd1b79", "multiLayered":false, "layerBehavior":"normal",
         "name":"Camisa",
         "outfitName":"Hard Worker",
