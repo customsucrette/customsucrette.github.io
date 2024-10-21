@@ -98,5 +98,9 @@
     {
         "id":32, "security":"c6d27f6311dc6322", "name":"ZEvent 2024",
         "criteria":null
+    },
+    {
+        "id":33, "security":"8a3d9f621883a320", "name":"Honk or Treat",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     }
 ]

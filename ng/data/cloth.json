@@ -7092,5 +7092,141 @@
         "variations":[
             {"id":5624, "colors":["black"]}
         ], "criteria":null   
+    },
+    {
+        "groupId":5625, "zone":"general", "category":"tattoo", "security":"a355a6c850168964", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Hunting Candies",
+        "variations":[
+            {"id":5625, "colors":["black"]},
+            {"id":5626, "colors":["orange"]},
+            {"id":5627, "colors":["red"]},
+            {"id":5628, "colors":["yellow"]},
+            {"id":5629, "colors":["white"]},
+            {"id":5630, "colors":["purple"]},
+            {"id":5631, "colors":["green"]},
+            {"id":5632, "colors":["pink"]},
+            {"id":5633, "colors":["blue"]},
+            {"id":5634, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5635, "zone":"feet", "category":"socks", "security":"85a8e3bfea1c6f0a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantis",
+        "outfitName":"Hunting Candies",
+        "variations":[
+            {"id":5635, "colors":["black"]},
+            {"id":5636, "colors":["orange"]},
+            {"id":5637, "colors":["red"]},
+            {"id":5638, "colors":["yellow"]},
+            {"id":5639, "colors":["white"]},
+            {"id":5640, "colors":["purple"]},
+            {"id":5641, "colors":["green"]},
+            {"id":5642, "colors":["pink"]},
+            {"id":5643, "colors":["blue"]},
+            {"id":5644, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5645, "zone":"arms", "category":"armAccessory", "security":"dba9b5206e0aeb83", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Manopla",
+        "outfitName":"Hunting Candies",
+        "variations":[
+            {"id":5645, "colors":["grey"]},
+            {"id":5646, "colors":["black"]},
+            {"id":5647, "colors":["red"]},
+            {"id":5648, "colors":["yellow"]},
+            {"id":5649, "colors":["white"]},
+            {"id":5650, "colors":["purple"]},
+            {"id":5651, "colors":["green"]},
+            {"id":5652, "colors":["pink"]},
+            {"id":5653, "colors":["blue"]},
+            {"id":5654, "colors":["green"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5655, "zone":"feet", "category":"shoes", "security":"eeb5e94e2b5c3d35", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Hunting Candies",
+        "variations":[
+            {"id":5655, "colors":["orange"]},
+            {"id":5656, "colors":["orange","black"]},
+            {"id":5657, "colors":["red"]},
+            {"id":5658, "colors":["yellow"]},
+            {"id":5659, "colors":["white"]},
+            {"id":5660, "colors":["purple"]},
+            {"id":5661, "colors":["green"]},
+            {"id":5662, "colors":["pink"]},
+            {"id":5663, "colors":["blue"]},
+            {"id":5664, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5665, "zone":"waistToKnee", "category":"skirt", "security":"e28c08128bf3fb2e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Hunting Candies",
+        "variations":[
+            {"id":5665, "colors":["black","orange"]},
+            {"id":5666, "colors":["black"]},
+            {"id":5667, "colors":["black","red"]},
+            {"id":5668, "colors":["black","yellow"]},
+            {"id":5669, "colors":["black","white"]},
+            {"id":5670, "colors":["black","purple"]},
+            {"id":5671, "colors":["black","green"]},
+            {"id":5672, "colors":["black","pink"]},
+            {"id":5673, "colors":["black","blue"]},
+            {"id":5674, "colors":["black","green"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5675, "zone":"torso", "category":"top", "security":"63d02a97c674dc77", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Hunting Candies",
+        "variations":[
+            {"id":5675, "colors":["black","multi"]},
+            {"id":5676, "colors":["orange","multi"]},
+            {"id":5677, "colors":["red","multi"]},
+            {"id":5678, "colors":["yellow","multi"]},
+            {"id":5679, "colors":["white","multi"]},
+            {"id":5680, "colors":["purple","multi"]},
+            {"id":5681, "colors":["green","multi"]},
+            {"id":5682, "colors":["pink","multi"]},
+            {"id":5683, "colors":["blue","multi"]},
+            {"id":5684, "colors":["grey","multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5685, "zone":"arms", "category":"bag", "security":"be1b60931675a3ab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calabaza",
+        "outfitName":"Hunting Candies",
+        "variations":[
+            {"id":5685, "colors":["orange"]},
+            {"id":5686, "colors":["orange"]},
+            {"id":5687, "colors":["orange"]},
+            {"id":5688, "colors":["orange"]},
+            {"id":5689, "colors":["orange"]},
+            {"id":5690, "colors":["orange"]},
+            {"id":5691, "colors":["orange"]},
+            {"id":5692, "colors":["orange"]},
+            {"id":5693, "colors":["orange"]},
+            {"id":5694, "colors":["orange"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5695, "zone":"head", "category":"faceAccessory", "security":"31d512389021ede2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Máscara",
+        "outfitName":"Hunting Candies",
+        "variations":[
+            {"id":5695, "colors":["white","orange"]},
+            {"id":5696, "colors":["white","black"]},
+            {"id":5697, "colors":["white","red"]},
+            {"id":5698, "colors":["white","yellow"]},
+            {"id":5699, "colors":["white","black"]},
+            {"id":5700, "colors":["white","purple"]},
+            {"id":5701, "colors":["white","green"]},
+            {"id":5702, "colors":["pink"]},
+            {"id":5703, "colors":["white","blue"]},
+            {"id":5704, "colors":["white","grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     }
 ]
