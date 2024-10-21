@@ -19,14 +19,8 @@ var sucrette = {
         {"category":"avatar", "layer":null, "value":null}, // solo es true si customSkin es != null
         {"category":"underwear", "layer":null, "value":"1-28645abdd790d028"},
         {"category":"hair", "layer":"back", "value":"auto"},
-        {"category":"hair", "layer":"front", "value":"auto"},
+        {"category":"hair", "layer":"front", "value":"auto"}
 
-        {"category":"top", "layer":null, "value":"2-b92ab71a1049048b"},
-        {"category":"shoes", "layer":null, "value":"12-f8c37342c98686df"},
-        {"category":"pants", "layer":null, "value":"22-d67ab5aa084af460"},
-        {"category":"neckAccessory", "layer":null, "value":"32-d8cee995bcd500ea"},
-        {"category":"jacket", "layer":null, "value":"42-bc96b1e4adedc947"},
-        {"category":"bag", "layer":null, "value":"52-aff4468a19f20886"}
     ],
     "room":{
         "background":"1-12345678abcdef",

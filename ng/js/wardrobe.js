@@ -94,6 +94,8 @@ function drawCategory(c = "top", declination = null) {
 
         $("asng-cloth-list-panel .empty").remove();
 
+        lista.reverse();
+
         if (declination == null) {
             $("#asng-avatar-item-list-panel .items-container").html("");
     
@@ -116,7 +118,7 @@ function drawCategory(c = "top", declination = null) {
                             case "jobTask": icon = "jobTasks";break;
                             case "pack": icon = "bankPacks";break;
                             case "calendar": icon = "calendar";break;
-                            case "event": icon = "gameEvents";break;
+                            case "gameEvent": icon = "gameEvents";break;
                         }
                         $(".asng-cloth").eq(i).find('div').not(".counter").append(`<img class="locked" title="${lista[i].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
                     };
@@ -146,6 +148,7 @@ function drawCategory(c = "top", declination = null) {
                             case "jobTask": icon = "jobTasks";break;
                             case "pack": icon = "bankPacks";break;
                             case "calendar": icon = "calendar";break;
+                            case "gameEvent": icon = "gameEvents";break;
                         }
                         $(".asng-cloth").eq(i).find('div').not(".item").not(".item-outline").append(`<img class="locked" title="${lista[i].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
                     };
@@ -859,6 +862,8 @@ function drawRoomItems(c = "background") {
 
     const slot = room.filter(v => v.slot == c);
 
+    slot.reverse();
+
     for (b = 0; b < slot.length; b++) {
         let item = sucrette.room[c] != null ? (sucrette.room[c]).split("-")[1] : null;
         $("#asng-room-item-list-panel .items-container").append(`<div class="asng-room-item"></div>`);
@@ -872,30 +877,11 @@ function drawRoomItems(c = "background") {
                 case "jobTask": icon = "jobTasks";break;
                 case "pack": icon = "bankPacks";break;
                 case "calendar": icon = "calendar";break;
+                case "gameEvent": icon = "gameEvents";break;
             };
             $(".asng-room-item .item div").not(".item-outline").eq(b).append(`<img class="locked" title="${slot[b].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
         };
     };
-
-
-
-    // for (b = 0; b < room[c].length; b++) {
-    //     let item = sucrette.room[c] != null ? (sucrette.room[c]).split("-")[1] : null;
-    //     $("#asng-room-item-list-panel .items-container").append(`<div class="asng-room-item"></div>`);
-    //     $(".asng-room-item").eq(b).append(`<div class="item ${c}"><div class="item-outline${room[c][b].security == item ? " equipped" : ""}"></div></div>`);
-    //     $(".asng-room-item .item").eq(b).append(`<div tooltipplacement="bottom"><img class="thumbnail" alt="${room[c][b].name}" src="${composeRoomUrl([c], room[c][b].id, room[c][b].security)}"></div>`);
-
-    //     if (room[c][b].criteria != null) {
-    //         let icon = "";
-    //         switch(room[c][b].criteria.type) {
-    //             case "episode": icon = "episodes";break;
-    //             case "jobTask": icon = "jobTasks";break;
-    //             case "pack": icon = "bankPacks";break;
-    //             case "calendar": icon = "calendar";break;
-    //         };
-    //         $(".asng-room-item .item div").not(".item-outline").eq(b).append(`<img class="locked" title="${room[c][b].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
-    //     };
-    // };
 };
 
 function checkRoom(c, i) {
@@ -1039,6 +1025,8 @@ function drawPetItems() {
     let p = sucrette.pet.status ? " off" : " on";
     $(".pet-outfits .items-container").append(`<div class="pet-option visibility${p}"></div>`);
 
+    pet.reverse();
+
     for (i = 0; i < pet.length; i++) {
         $(".pet-outfits .items-container").append('<div class="asng-pet-outfit-item"><div class="item"></div></div>');
         let e = (sucrette.pet.outfit != null && sucrette.pet.outfit == `${pet[i].id}-${pet[i].security}`) ? " equipped" : "";
@@ -1052,10 +1040,13 @@ function drawPetItems() {
                 case "jobTask": icon = "jobTasks";break;
                 case "pack": icon = "bankPacks";break;
                 case "calendar": icon = "calendar";break;
+                case "gameEvent": icon = "gameEvents";break;
             };
             $(".asng-pet-outfit-item .item div").not(".item-outline").eq(i).append(`<img class="locked" title="${pet[i].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
         };
     };
+
+    pet.reverse();
 };
 
 function checkPet(c) {

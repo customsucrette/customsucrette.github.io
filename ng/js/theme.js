@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $(".version").text("v1.2.10");
+    $(".version").text("v1.2.15");
 });
 
 function currentPage(name) {
@@ -9,6 +9,9 @@ function currentPage(name) {
     } else if (name == "gallery") {
         $(".asng-menu .menu .wave .header").css("height", "276px");
         $("#asng-menu-gallery").addClass("force-active");
+    } else if(name == "checker") {
+        $(".asng-menu .menu .wave .header").css("height", "346px");
+        $("#asng-menu-checker").addClass("force-active");
     };
 };
 

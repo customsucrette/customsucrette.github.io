@@ -1046,7 +1046,7 @@ asng-category-list {
 
 .left-panel-container .filters-panel .filter-by-name-input .reset {
     position: absolute;
-    top: 3px;
+    top: 0px;
     right: 4px;
     width: 24px;
     height: 24px;
@@ -1895,6 +1895,23 @@ asng-cloth-list-panel .empty p {
 #avatar-part-container .color:hover:not(.equipped) {
     transform: scale(1.1);
     cursor: pointer;
+}
+
+#avatar-part-container .button {
+    position: relative;
+    border-radius: 20px;
+    background: linear-gradient(180deg, var(--asng-personality-color-dark), var(--asng-personality-color));
+    transition: opacity .2s;
+    font-size: 23px;
+    margin: 10px;
+    color: #fff;
+    display: inline-grid;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    font-weight: 700;
+    padding: 10px;
 }
 
 
