@@ -102,5 +102,9 @@
     {
         "id":33, "security":"8a3d9f621883a320", "name":"Honk or Treat",
         "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "id":34, "security":"fccccd016088757e", "name":"Careful, I bite",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     }
 ]

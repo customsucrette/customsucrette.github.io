@@ -7228,5 +7228,368 @@
             {"id":5703, "colors":["white","blue"]},
             {"id":5704, "colors":["white","grey"]}
         ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5705, "zone":"general", "category":"tattoo", "security":"26410587d3101356", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Articulaciones",
+        "outfitName":"Soulless Puppet",
+        "variations":[
+            {"id":5705, "colors":["brown"]},
+            {"id":5706, "colors":["brown"]},
+            {"id":5707, "colors":["brown"]},
+            {"id":5708, "colors":["brown"]},
+            {"id":5709, "colors":["brown"]},
+            {"id":5710, "colors":["brown"]},
+            {"id":5711, "colors":["brown"]},
+            {"id":5712, "colors":["black"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5713, "zone":"general", "category":"other", "security":"0cfc15ce8544b26a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cruceta de marioneta",
+        "outfitName":"Soulless Puppet",
+        "variations":[
+            {"id":5713, "colors":["purple"]},
+            {"id":5714, "colors":["yellow"]},
+            {"id":5715, "colors":["black"]},
+            {"id":5716, "colors":["orange"]},
+            {"id":5717, "colors":["grey"]},
+            {"id":5718, "colors":["brown"]},
+            {"id":5719, "colors":["red"]},
+            {"id":5720, "colors":["white"]},
+            {"id":5721, "colors":["green"]},
+            {"id":5722, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5723, "zone":"feet", "category":"shoes", "security":"33ba366d1e3bf566", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Soulless Puppet",
+        "variations":[
+            {"id":5723, "colors":["orange"]},
+            {"id":5724, "colors":["green"]},
+            {"id":5725, "colors":["yellow"]},
+            {"id":5726, "colors":["red","orange"]},
+            {"id":5727, "colors":["black"]},
+            {"id":5728, "colors":["white"]},
+            {"id":5729, "colors":["purple"]},
+            {"id":5730, "colors":["pink"]},
+            {"id":5731, "colors":["blue"]},
+            {"id":5732, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5733, "zone":"torso_waistToKnee", "category":"dress", "security":"66e551790e785c3b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Soulless Puppet",
+        "variations":[
+            {"id":5733, "colors":["orange"]},
+            {"id":5734, "colors":["green"]},
+            {"id":5735, "colors":["yellow"]},
+            {"id":5736, "colors":["red"]},
+            {"id":5737, "colors":["black"]},
+            {"id":5738, "colors":["white"]},
+            {"id":5739, "colors":["purple"]},
+            {"id":5740, "colors":["pink"]},
+            {"id":5741, "colors":["blue"]},
+            {"id":5742, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5743, "zone":"head", "category":"faceAccessory", "security":"ee745ef6f6ca413d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botones",
+        "outfitName":"Soulless Puppet",
+        "variations":[
+            {"id":5743, "colors":["black"]},
+            {"id":5744, "colors":["green"]},
+            {"id":5745, "colors":["yellow"]},
+            {"id":5746, "colors":["red"]},
+            {"id":5747, "colors":["grey"]},
+            {"id":5748, "colors":["white"]},
+            {"id":5749, "colors":["purple"]},
+            {"id":5750, "colors":["pink"]},
+            {"id":5751, "colors":["blue"]},
+            {"id":5752, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5753, "zone":"head", "category":"wig", "security":"fa93506d8cad5af3", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Soulless Puppet",
+        "variations":[
+            {"id":5753, "colors":["brown"]},
+            {"id":5754, "colors":["white"]},
+            {"id":5755, "colors":["black"]},
+            {"id":5756, "colors":["blue"]},
+            {"id":5757, "colors":["blue"]},
+            {"id":5758, "colors":["purple"]},
+            {"id":5759, "colors":["red"]},
+            {"id":5760, "colors":["yellow"]},
+            {"id":5761, "colors":["orange"]},
+            {"id":5762, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5763, "zone":"torso_waistToKnee", "category":"underwear", "security":"8d52929c0bc1cd72", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Lencería",
+        "outfitName":"Delicate Witch",
+        "variations":[
+            {"id":5763, "colors":["black"]},
+            {"id":5764, "colors":["red"]},
+            {"id":5765, "colors":["green"]},
+            {"id":5766, "colors":["yellow"]},
+            {"id":5767, "colors":["white"]},
+            {"id":5768, "colors":["blue"]},
+            {"id":5769, "colors":["purple"]},
+            {"id":5770, "colors":["grey"]},
+            {"id":5771, "colors":["green"]},
+            {"id":5772, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5773, "zone":"feet", "category":"shoes", "security":"4f6ac59eae1059ad", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de tacón",
+        "outfitName":"Delicate Witch",
+        "variations":[
+            {"id":5773, "colors":["black"]},
+            {"id":5774, "colors":["red"]},
+            {"id":5775, "colors":["green"]},
+            {"id":5776, "colors":["yellow"]},
+            {"id":5777, "colors":["white"]},
+            {"id":5778, "colors":["blue"]},
+            {"id":5779, "colors":["purple"]},
+            {"id":5780, "colors":["grey"]},
+            {"id":5781, "colors":["green"]},
+            {"id":5782, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5783, "zone":"torso_waistToKnee", "category":"dress", "security":"085a33e7791dbe12", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Vestido",
+        "outfitName":"Delicate Witch",
+        "variations":[
+            {"id":5783, "colors":["black"]},
+            {"id":5784, "colors":["red"]},
+            {"id":5785, "colors":["green"]},
+            {"id":5786, "colors":["yellow"]},
+            {"id":5787, "colors":["white"]},
+            {"id":5788, "colors":["blue"]},
+            {"id":5789, "colors":["purple"]},
+            {"id":5790, "colors":["grey"]},
+            {"id":5791, "colors":["green"]},
+            {"id":5792, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5793, "zone":"torso_waistToKnee", "category":"waist", "security":"9732b95baa87236b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Delicate Witch",
+        "variations":[
+            {"id":5793, "colors":["purple","multi"]},
+            {"id":5794, "colors":["black","multi"]},
+            {"id":5795, "colors":["blue","multi"]},
+            {"id":5796, "colors":["pink","multi"]},
+            {"id":5797, "colors":["red","multi"]},
+            {"id":5798, "colors":["white","multi"]},
+            {"id":5799, "colors":["yellow","multi"]},
+            {"id":5800, "colors":["green","multi"]},
+            {"id":5801, "colors":["pink","multi"]},
+            {"id":5802, "colors":["brown","multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5803, "zone":"head", "category":"wig", "security":"d97bf0ccd46ff740", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Delicate Witch",
+        "variations":[
+            {"id":5803, "colors":["brown"]},
+            {"id":5804, "colors":["white"]},
+            {"id":5805, "colors":["black"]},
+            {"id":5806, "colors":["blue"]},
+            {"id":5807, "colors":["blue"]},
+            {"id":5808, "colors":["purple"]},
+            {"id":5809, "colors":["red"]},
+            {"id":5810, "colors":["yellow"]},
+            {"id":5811, "colors":["orange"]},
+            {"id":5812, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5813, "zone":"head", "category":"hat", "security":"6f12155d397b6d27", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Delicate Witch",
+        "variations":[
+            {"id":5813, "colors":["purple","red"]},
+            {"id":5814, "colors":["black","red"]},
+            {"id":5815, "colors":["blue","red"]},
+            {"id":5816, "colors":["pink","red"]},
+            {"id":5817, "colors":["red"]},
+            {"id":5818, "colors":["white","red"]},
+            {"id":5819, "colors":["yellow"]},
+            {"id":5820, "colors":["green","red"]},
+            {"id":5821, "colors":["pink","red"]},
+            {"id":5822, "colors":["brown","red"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5823, "zone":"general", "category":"other", "security":"e142e86662c6b168", "multiLayered":false, "layerBehavior":"normal",
+        "name":"\nLibro de hechizos\n",
+        "outfitName":"Delicate Witch",
+        "variations":[
+            {"id":5823, "colors":["blue"]},
+            {"id":5824, "colors":["white"]},
+            {"id":5825, "colors":["black","blue"]},
+            {"id":5826, "colors":["purple"]},
+            {"id":5827, "colors":["red"]},
+            {"id":5828, "colors":["yellow"]},
+            {"id":5829, "colors":["pink"]},
+            {"id":5830, "colors":["green"]},
+            {"id":5831, "colors":["brown","orange"]},
+            {"id":5832, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5833, "zone":"general", "category":"other", "security":"16e4a4d38f217678", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Caldero",
+        "outfitName":"Delicate Witch",
+        "variations":[
+            {"id":5833, "colors":["purple","blue","multi"]},
+            {"id":5834, "colors":["black","white","multi"]},
+            {"id":5835, "colors":["blue","black","multi"]},
+            {"id":5836, "colors":["pink","purple","multi"]},
+            {"id":5837, "colors":["red","black","multi"]},
+            {"id":5838, "colors":["white","yellow","multi"]},
+            {"id":5839, "colors":["yellow","pink","multi"]},
+            {"id":5840, "colors":["green","multi"]},
+            {"id":5841, "colors":["pink","orange","multi"]},
+            {"id":5842, "colors":["orange","pink","multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "groupId":5843, "zone":"feet", "category":"shoes", "security":"cf3c643c5daf9bc6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de tacón",
+        "outfitName":"Sharp Countess",
+        "variations":[
+            {"id":5843, "colors":["red"]},
+            {"id":5844, "colors":["black"]},
+            {"id":5845, "colors":["white"]},
+            {"id":5846, "colors":["blue"]},
+            {"id":5847, "colors":["purple"]},
+            {"id":5848, "colors":["blue"]},
+            {"id":5849, "colors":["green"]},
+            {"id":5850, "colors":["orange"]},
+            {"id":5851, "colors":["pink"]},
+            {"id":5852, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "groupId":5853, "zone":"general", "category":"tattoo", "security":"5d2ee1028a285681", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mordedura",
+        "outfitName":"Sharp Countess",
+        "variations":[
+            {"id":5853, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "groupId":5854, "zone":"face", "category":"neckAccessory", "security":"fee05e44c4f636e6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Sharp Countess",
+        "variations":[
+            {"id":5854, "colors":["black"]},
+            {"id":5855, "colors":["red"]},
+            {"id":5856, "colors":["white"]},
+            {"id":5857, "colors":["blue"]},
+            {"id":5858, "colors":["purple"]},
+            {"id":5859, "colors":["blue"]},
+            {"id":5860, "colors":["green"]},
+            {"id":5861, "colors":["orange"]},
+            {"id":5862, "colors":["pink"]},
+            {"id":5863, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "groupId":5864, "zone":"torso", "category":"jacket", "security":"661ce66fd64ca8d2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Sharp Countess",
+        "variations":[
+            {"id":5864, "colors":["red"]},
+            {"id":5865, "colors":["black"]},
+            {"id":5866, "colors":["white"]},
+            {"id":5867, "colors":["blue"]},
+            {"id":5868, "colors":["purple"]},
+            {"id":5869, "colors":["blue"]},
+            {"id":5870, "colors":["green"]},
+            {"id":5871, "colors":["orange"]},
+            {"id":5872, "colors":["pink"]},
+            {"id":5873, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "groupId":5874, "zone":"waistToKnee", "category":"skirt", "security":"01795aea382f9ee7", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Sharp Countess",
+        "variations":[
+            {"id":5874, "colors":["red"]},
+            {"id":5875, "colors":["black"]},
+            {"id":5876, "colors":["white"]},
+            {"id":5877, "colors":["blue"]},
+            {"id":5878, "colors":["purple"]},
+            {"id":5879, "colors":["blue"]},
+            {"id":5880, "colors":["green"]},
+            {"id":5881, "colors":["orange"]},
+            {"id":5882, "colors":["pink"]},
+            {"id":5883, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "groupId":5884, "zone":"torso", "category":"top", "security":"d1004ae054f89e24", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corsé",
+        "outfitName":"Sharp Countess",
+        "variations":[
+            {"id":5884, "colors":["black"]},
+            {"id":5885, "colors":["red"]},
+            {"id":5886, "colors":["white"]},
+            {"id":5887, "colors":["blue"]},
+            {"id":5888, "colors":["purple"]},
+            {"id":5889, "colors":["blue"]},
+            {"id":5890, "colors":["green"]},
+            {"id":5891, "colors":["orange"]},
+            {"id":5892, "colors":["pink"]},
+            {"id":5893, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "groupId":5894, "zone":"head", "category":"wig", "security":"b3e237a3da5e18b7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Sharp Countess",
+        "variations":[
+            {"id":5894, "colors":["brown"]},
+            {"id":5895, "colors":["white"]},
+            {"id":5896, "colors":["black"]},
+            {"id":5897, "colors":["blue"]},
+            {"id":5898, "colors":["blue"]},
+            {"id":5899, "colors":["purple"]},
+            {"id":5900, "colors":["red"]},
+            {"id":5901, "colors":["yellow"]},
+            {"id":5902, "colors":["orange"]},
+            {"id":5903, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "groupId":5904, "zone":"general", "category":"other", "security":"562227df8a321054", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Murciélagos",
+        "outfitName":"Sharp Countess",
+        "variations":[
+            {"id":5904, "colors":["brown","black"]},
+            {"id":5905, "colors":["black"]},
+            {"id":5906, "colors":["grey"]},
+            {"id":5907, "colors":["blue"]},
+            {"id":5908, "colors":["purple"]},
+            {"id":5909, "colors":["black"]},
+            {"id":5910, "colors":["brown"]},
+            {"id":5911, "colors":["orange"]},
+            {"id":5912, "colors":["white"]},
+            {"id":5913, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     }
 ]

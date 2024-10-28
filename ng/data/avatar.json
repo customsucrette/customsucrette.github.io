@@ -68,6 +68,23 @@
                     {"id":10, "colors":["red"]},
                     {"id":11, "colors":["green"]}
                 ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
+            },
+            {
+                "groupId":23, "zone":"face", "category":"eyes", "security":"ae12ff46fc0cacb3",
+                "name":"Ojos",
+                "outfitName":"Sharp Countess",
+                "variations":[
+                    {"id":23, "colors":["black"]},
+                    {"id":25, "colors":["red"]},
+                    {"id":26, "colors":["white"]},
+                    {"id":27, "colors":["blue"]},
+                    {"id":28, "colors":["blue","purple"]},
+                    {"id":29, "colors":["blue"]},
+                    {"id":30, "colors":["green"]},
+                    {"id":31,"colors":["orange"]},
+                    {"id":32, "colors":["pink"]},
+                    {"id":33, "colors":["brown"]}
+                ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
             }
         ],
         "mouth":[
@@ -102,7 +119,24 @@
                     {"id":49, "colors":["red"]},
                     {"id":50, "colors":["green"]}
                 ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
-                
+            },
+            {
+                "groupId":51, "zone":"face", "category":"mouth",
+                "name":"Boca",
+                "outfitName":"Sharp Countess",
+                "security":"fc2df9b8263560b8",
+                "variations":[
+                    {"id":51, "colors":["red"]},
+                    {"id":52, "colors":["black"]},
+                    {"id":53, "colors":["white"]},
+                    {"id":54, "colors":["blue"]},
+                    {"id":55, "colors":["purple"]},
+                    {"id":56, "colors":["blue"]},
+                    {"id":57, "colors":["green"]},
+                    {"id":58,"colors":["orange"]},
+                    {"id":59, "colors":["pink"]},
+                    {"id":60, "colors":["brown"]}
+                ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
             }
         ]
     },

@@ -1230,5 +1230,85 @@
         "name":"Escalera",
         "roomName":"Belt of Venus",
         "criteria":null
+    },
+    {
+        "id":255, "roomId":59, "slot":"background", "light":true, "security":"5559c8074f246691",
+        "name":"Porche",
+        "roomName":"Deadly Reunion",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"},
+        "backgroundColors":{
+            "day":{"color1":"E2D6AB","color2":"B1C4BE","colorLight":"A56312"},
+            "night":{"color1":"A9C26F","color2":"1861A2","colorLight":"3AB100"}
+        }
+    },
+    {
+        "id":256, "roomId":59, "slot":"slot1", "light":true, "security":"6d84016edbd68a04",
+        "name":"Cementerio",
+        "roomName":"Deadly Reunion",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "id":257, "roomId":59, "slot":"slot2", "light":true, "security":"1abc1e44bea70133",
+        "name":"Mesa decorada",
+        "roomName":"Deadly Reunion",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "id":258, "roomId":59, "slot":"slot3", "light":true, "security":"0c9088d09a7f72f8",
+        "name":"Calabazas",
+        "roomName":"Deadly Reunion",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "id":259, "roomId":59, "slot":"slot4", "light":false, "security":"bc4af7af25833acb",
+        "name":"Caldero",
+        "roomName":"Deadly Reunion",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "id":260, "roomId":59, "slot":"slot5", "light":true, "security":"f01cc69f466aae93",
+        "name":"Calabazas",
+        "roomName":"Deadly Reunion",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+    },
+    {
+        "id":261, "roomId":60, "slot":"background", "light":true, "security":"4d051cdfbc110422",
+        "name":"Paredes",
+        "roomName":"Crimson Sanctuary",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"},
+        "backgroundColors":{
+            "day":{"color1":"EFDEDE","color2":"9A9394","colorLight":"432021"},
+            "night":{"color1":"FDAFB0","color2":"785B62","colorLight":"432021"}
+        }
+    },
+    {
+        "id":262, "roomId":60, "slot":"slot1", "light":true, "security":"bd20dc6e1fbb4c29",
+        "name":"Órgano",
+        "roomName":"Crimson Sanctuary",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "id":263, "roomId":60, "slot":"slot2", "light":true, "security":"c7bd4b55bd440ad1",
+        "name":"Cama",
+        "roomName":"Crimson Sanctuary",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "id":264, "roomId":60, "slot":"slot3", "light":true, "security":"152b4917b763caf3",
+        "name":"Velador",
+        "roomName":"Crimson Sanctuary",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "id":265, "roomId":60, "slot":"slot4", "light":false, "security":"6fcb33fad7705b25",
+        "name":"Gárgola",
+        "roomName":"Crimson Sanctuary",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+    {
+        "id":266, "roomId":60, "slot":"slot5", "light":true, "security":"d4d358253e0b5462",
+        "name":"Ataúd",
+        "roomName":"Crimson Sanctuary",
+        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     }
 ]
