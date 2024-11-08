@@ -131,6 +131,7 @@ function drawCategory(c = "top", declination = null) {
                     // Comprobar si está equipado
                     let A = `${lista[i].variations[0].id}-${lista[i].security}`;
                     let E = sucrette.orderInfo.filter(v => {return v.value == A});
+                    if (c == "skin") c = "customSkin";
                     (E.length > 0) ? E = " equipped" : (sucrette.avatar[c] == A) ? E = " equipped" : E = "";
 
                     $(".asng-cloth").eq(i)
@@ -177,6 +178,7 @@ function drawCategory(c = "top", declination = null) {
                 // Comprobar si está equipado
                 let A = `${d[0].variations[x].id}-${d[0].security}`;
                 let E = sucrette.orderInfo.filter(v => {return v.value == A});
+                if (c == "skin") c = "customSkin";
                 (E.length > 0) ? E = " equipped" : (sucrette.avatar[c] == A) ? E = " equipped" : E = "";
 
                 $(".declinations-panel .asng-cloth").eq(x)
@@ -278,7 +280,7 @@ function drawAvatarZone(c = "top", z = "auto") {
 
     } else if (c == "auto") {
         switch (z) {
-            case "general": c = "tattoo";break;
+            case "general": c = "skin";break;
             case "head": c = "hat";break;
             case "face": c = "makeup";break;
             case "torso": c = "top";break;
@@ -342,8 +344,12 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
                     w = 1920; h = 1080;
                 };
 
-                var img = composeAvatarUrl("skin", size, (sucrette.avatar.customSkin == null)? sucrette.avatar.skin : sucrette.avatar.customSkin);
+                var img = (sucrette.avatar.customSkin == null) ? composeAvatarUrl("skin", size, sucrette.avatar.skin) : composeCanvasUrl("cloth", size, sucrette.avatar.customSkin);
                 var ready = await preloadIMG(img);
+                ctx.drawImage(ready, 0, 0, w, h);
+
+                img = composeAvatarUrl("mouth", size, sucrette.avatar.mouth);
+                ready = await preloadIMG(img);
                 ctx.drawImage(ready, 0, 0, w, h);
 
                 img = composeAvatarUrl("eyes_skin", size, sucrette.avatar.eyes);
@@ -359,10 +365,6 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
                 ctx.drawImage(ready, 0, 0, w, h);
 
                 img = composeAvatarUrl("eyebrows", size, sucrette.avatar.eyebrows);
-                ready = await preloadIMG(img);
-                ctx.drawImage(ready, 0, 0, w, h);
-
-                img = composeAvatarUrl("mouth", size, sucrette.avatar.mouth);
                 ready = await preloadIMG(img);
                 ctx.drawImage(ready, 0, 0, w, h);
 
@@ -544,12 +546,15 @@ function checkCurrentItems(id) {
             return true;
 
         } else {
+            // Es skin ?
+            let isSkin = cloth.filter(v => {return v.security == d});
+
             // Es avatar o es nuevo ?
             let c = id.includes("hair") ? "eyebrows" : id.includes("eyes") ? "eyes" : "";
             if (c == "") {
                 let t = id.split("-")[1]
                 let m = avatar.collections.mouth.filter(v => {return v.security == t});
-                (m.length == 1) ? c = "mouth" : c = "cloth";
+                (m.length == 1) ? c = "mouth" : isSkin[0].category == "skin" ? c = "customSkin" : c = "cloth";
             } else {
                 id = `${id.split("-")[0]}-${id.split("-")[2]}`;
             };
@@ -670,10 +675,19 @@ function checkCurrentItems(id) {
                 // Solo reemplazar no quitar!
                 if (sucrette.avatar[c] != id) {
                     sucrette.avatar[c] = id;
-                    drawSucrette(cr, "update_avatar");
-                };
-                return true;
 
+                    drawSucrette(cr, "update_avatar");
+                    drawZIndex();
+                    return true;
+
+                } else if (c == "customSkin") {
+                    // Quitar y reemplazar por la original
+                    sucrette.avatar[c] = null;
+
+                    drawSucrette(cr, "update_avatar");
+                    drawZIndex();
+                    return false;
+                };
             };
             
         };
@@ -689,7 +703,7 @@ function drawZIndex() {
         let l = sucrette.orderInfo[i].layer;
         let v = sucrette.orderInfo[i].value;
 
-        $("#z-index-content").append(`<div class="cdk-drag item${c == "avatar" ? " drag-disabled" : ""}" data-index="${i}"></div>`);
+        $("#z-index-content").append(`<div class="cdk-drag item${c == "avatar" ? " drag-disabled" : ""}" data-index="${i}" data-category="${c == "avatar" ? "skin": c == "hair" ? "wig" : c }"></div>`);
         if (c != "avatar") {
             $("#z-index-content .item").eq(z).append('<div class="z-index-move"><div class="zim move-up"></div><div class="zim move-down"></div></div>');
         }
@@ -703,7 +717,9 @@ function drawZIndex() {
         } else if (c == "hair") {
             img = composeHangerUrl(sucrette.avatar.hair, null, c);
         } else if (c == "avatar") {
-            img = composeHangerUrl(sucrette.avatar.customSkin != null ? sucrette.avatar.customSkin : sucrette.avatar.skin, null, "skin");
+            // img = composeHangerUrl(sucrette.avatar.customSkin != null ? sucrette.avatar.customSkin : sucrette.avatar.skin, null, "skin");
+            let cs = sucrette.avatar.customSkin;
+            img = cs != null ? composeHangerUrl(cs.split("-")[0], cs.split("-")[1]) : composeHangerUrl(sucrette.avatar.skin, null, "skin");
         };
 
         $("#z-index-content .item").eq(z).append(`<img resolution="${hr}" src="${img}">`);
@@ -1198,7 +1214,7 @@ $(function () {
         s = s[s.length - 1].split(".")[0];
         let c = $(this).data("category");
         
-        if (c == "eyebrows" || c == "eyes" || c == "wig" || c == "mouth" || c == "underwear") {
+        if (c == "eyebrows" || c == "eyes" || c == "wig" || c == "mouth" || c == "underwear" || c == "skin") {
             // Categorías únicas
             $(".item-outline").removeClass("equipped");
 
@@ -1589,6 +1605,15 @@ $(function () {
             $(this).find(".item-outline").addClass("equipped");
         };
 
+    });
+
+    $("#z-index-content").on("click", ".cdk-drag.item img", function() {
+        let category = $(this).parent().attr("data-category");
+        drawAvatarZone(category);
+        $(".current-category").text( getCategoryName(category) );
+        $(".category-list-item.current").removeClass("current");
+        $(`.category-list-item[data-category="${category}"]`).addClass("current");
+        drawCategory(category);
     });
 });
 
