@@ -6425,6 +6425,212 @@
         ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
     },
     {
+        "groupId":4591, "zone":"feet", "category":"socks", "security":"0edbfd2c6bdc8ca8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Young Heart",
+        "variations":[
+            {"id":4591, "colors":["pink"]},
+            {"id":4592, "colors":["red"]},
+            {"id":4593, "colors":["green"]},
+            {"id":4594, "colors":["yellow"]},
+            {"id":4595, "colors":["white"]},
+            {"id":4596, "colors":["black"]},
+            {"id":4597, "colors":["blue"]},
+            {"id":4598, "colors":["purple"]},
+            {"id":4599, "colors":["blue"]},
+            {"id":4600, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4601, "zone":"feet", "category":"shoes", "security":"dfc465aa7e77518c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Deportivas",
+        "outfitName":"Young Heart",
+        "variations":[
+            {"id":4601, "colors":["yellow"]},
+            {"id":4602, "colors":["white"]},
+            {"id":4603, "colors":["blue"]},
+            {"id":4604, "colors":["green"]},
+            {"id":4605, "colors":["black"]},
+            {"id":4606, "colors":["red"]},
+            {"id":4607, "colors":["purple"]},
+            {"id":4608, "colors":["blue"]},
+            {"id":4609, "colors":["pink"]},
+            {"id":4610, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4611, "zone":"torso", "category":"top", "security":"5be1772a7ffa5fc3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Young Heart",
+        "variations":[
+            {"id":4611, "colors":["pink"]},
+            {"id":4612, "colors":["red"]},
+            {"id":4613, "colors":["green"]},
+            {"id":4614, "colors":["yellow"]},
+            {"id":4615, "colors":["white"]},
+            {"id":4616, "colors":["black"]},
+            {"id":4617, "colors":["blue"]},
+            {"id":4618, "colors":["purple"]},
+            {"id":4619, "colors":["blue"]},
+            {"id":4620, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4621, "zone":"torso", "category":"jacket", "security":"ab4f70714d757a56", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cazadora",
+        "outfitName":"Young Heart",
+        "variations":[
+            {"id":4621, "colors":["pink"]},
+            {"id":4622, "colors":["red"]},
+            {"id":4623, "colors":["green"]},
+            {"id":4624, "colors":["yellow"]},
+            {"id":4625, "colors":["white"]},
+            {"id":4626, "colors":["black"]},
+            {"id":4627, "colors":["blue"]},
+            {"id":4628, "colors":["purple"]},
+            {"id":4629, "colors":["blue"]},
+            {"id":4630, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4631, "zone":"waistToKnee", "category":"skirt", "security":"8f19e518881c68d0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Young Heart",
+        "variations":[
+            {"id":4631, "colors":["blue"]},
+            {"id":4632, "colors":["blue"]},
+            {"id":4633, "colors":["grey"]},
+            {"id":4634, "colors":["green"]},
+            {"id":4635, "colors":["black"]},
+            {"id":4636, "colors":["red"]},
+            {"id":4637, "colors":["blue"]},
+            {"id":4638, "colors":["white"]},
+            {"id":4639, "colors":["pink"]},
+            {"id":4640, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4641, "zone":"head", "category":"earring", "security":"6b1c3f22c69b56d0", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Pendientes",
+        "outfitName":"Young Heart",
+        "variations":[
+            {"id":4641, "colors":["yellow"]},
+            {"id":4642, "colors":["grey"]},
+            {"id":4643, "colors":["blue"]},
+            {"id":4644, "colors":["green"]},
+            {"id":4645, "colors":["black"]},
+            {"id":4646, "colors":["white"]},
+            {"id":4647, "colors":["purple"]},
+            {"id":4648, "colors":["blue"]},
+            {"id":4649, "colors":["pink"]},
+            {"id":4650, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4651, "zone":"waistToKnee", "category":"skirt", "security":"e885acf1e8865d82", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Mature Attitude",
+        "variations":[
+            {"id":4651, "colors":["brown"]},
+            {"id":4652, "colors":["black"]},
+            {"id":4653, "colors":["blue"]},
+            {"id":4654, "colors":["brown"]},
+            {"id":4655, "colors":["green"]},
+            {"id":4656, "colors":["pink"]},
+            {"id":4657, "colors":["yellow"]},
+            {"id":4658, "colors":["green"]},
+            {"id":4659, "colors":["red"]},
+            {"id":4660, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4661, "zone":"torso", "category":"top", "security":"137cdc56d13bc587", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta con cuello vuelto",
+        "outfitName":"Mature Attitude",
+        "variations":[
+            {"id":4661, "colors":["red"]},
+            {"id":4662, "colors":["yellow"]},
+            {"id":4663, "colors":["green"]},
+            {"id":4664, "colors":["green"]},
+            {"id":4665, "colors":["black"]},
+            {"id":4666, "colors":["white"]},
+            {"id":4667, "colors":["pink"]},
+            {"id":4668, "colors":["blue"]},
+            {"id":4669, "colors":["brown"]},
+            {"id":4670, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4671, "zone":"feet", "category":"shoes", "security":"3839bb3e00457808", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Mature Attitude",
+        "variations":[
+            {"id":4671, "colors":["red"]},
+            {"id":4672, "colors":["yellow"]},
+            {"id":4673, "colors":["green"]},
+            {"id":4674, "colors":["green"]},
+            {"id":4675, "colors":["black"]},
+            {"id":4676, "colors":["white"]},
+            {"id":4677, "colors":["pink"]},
+            {"id":4678, "colors":["blue"]},
+            {"id":4679, "colors":["brown"]},
+            {"id":4680, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4681, "zone":"face", "category":"neckAccessory", "security":"75d2107e3850cb7d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Mature Attitude",
+        "variations":[
+            {"id":4681, "colors":["yellow"]},
+            {"id":4682, "colors":["grey"]},
+            {"id":4683, "colors":["black"]},
+            {"id":4684, "colors":["white"]},
+            {"id":4685, "colors":["pink"]},
+            {"id":4686, "colors":["purple"]},
+            {"id":4687, "colors":["red"]},
+            {"id":4688, "colors":["blue"]},
+            {"id":4689, "colors":["green"]},
+            {"id":4690, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4691, "zone":"torso_waistToKnee", "category":"waist", "security":"5f75040d3b86390e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Mature Attitude",
+        "variations":[
+            {"id":4691, "colors":["grey"]},
+            {"id":4692, "colors":["black"]},
+            {"id":4693, "colors":["yellow"]},
+            {"id":4694, "colors":["blue"]},
+            {"id":4695, "colors":["purple"]},
+            {"id":4696, "colors":["white"]},
+            {"id":4697, "colors":["pink"]},
+            {"id":4698, "colors":["green"]},
+            {"id":4699, "colors":["orange"]},
+            {"id":4700, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4701, "zone":"torso", "category":"jacket", "security":"36a66025456e7289", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Mature Attitude",
+        "variations":[
+            {"id":4701, "colors":["black","white"]},
+            {"id":4702, "colors":["black","red"]},
+            {"id":4703, "colors":["black","yellow"]},
+            {"id":4704, "colors":["white","blue"]},
+            {"id":4705, "colors":["white","purple"]},
+            {"id":4706, "colors":["black","brown"]},
+            {"id":4707, "colors":["white","pink"]},
+            {"id":4708, "colors":["green","black"]},
+            {"id":4709, "colors":["blue","black"]},
+            {"id":4710, "colors":["green","white"]}
+        ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+
+
+    {
         "groupId":4991, "zone":"head", "category":"wig", "security":"66ab65c25e9132bc", "multiLayered":true, "layerBehavior":"normal",
         "name":"Peluca",
         "outfitName":"Flying High",
@@ -7591,5 +7797,143 @@
             {"id":5912, "colors":["white"]},
             {"id":5913, "colors":["brown"]}
         ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+
+
+    {
+        "groupId":7052, "zone":"general", "category":"skin", "security":"0a7d60350c557133", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piel",
+        "outfitName":"Colorful Calavera",
+        "variations":[
+            {"id":7052, "colors":["black","white"]},
+            {"id":7053, "colors":["pink","white"]},
+            {"id":7054, "colors":["pink","white"]},
+            {"id":7055, "colors":["brown","white"]},
+            {"id":7056, "colors":["brown","white"]},
+            {"id":7057, "colors":["brown","white"]},
+            {"id":7058, "colors":["brown","pink","white"]},
+            {"id":7059, "colors":["brown","white"]},
+            {"id":7060, "colors":["grey","white"]},
+            {"id":7061, "colors":["red","white"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7062, "zone":"face", "category":"makeup", "security":"56d65cadd222ea5b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maquillaje",
+        "outfitName":"Colorful Calavera",
+        "variations":[
+            {"id":7062, "colors":["red"]},
+            {"id":7063, "colors":["black"]},
+            {"id":7064, "colors":["blue"]},
+            {"id":7065, "colors":["yellow"]},
+            {"id":7066, "colors":["blue"]},
+            {"id":7067, "colors":["purple"]},
+            {"id":7068, "colors":["pink"]},
+            {"id":7069, "colors":["orange"]},
+            {"id":7070, "colors":["green"]},
+            {"id":7071, "colors":["white"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7072, "zone":"feet", "category":"shoes", "security":"74c79e8a98042cc4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de salón",
+        "outfitName":"Colorful Calavera",
+        "variations":[
+            {"id":7072, "colors":["black"]},
+            {"id":7073, "colors":["red"]},
+            {"id":7074, "colors":["blue"]},
+            {"id":7075, "colors":["brown"]},
+            {"id":7076, "colors":["blue"]},
+            {"id":7077, "colors":["purple"]},
+            {"id":7078, "colors":["pink"]},
+            {"id":7079, "colors":["green"]},
+            {"id":7080, "colors":["white"]},
+            {"id":7081, "colors":["yellow"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7082, "zone":"torso", "category":"top", "security":"bd0819d3502d32d6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Colorful Calavera",
+        "variations":[
+            {"id":7082, "colors":["white"]},
+            {"id":7083, "colors":["red"]},
+            {"id":7084, "colors":["blue"]},
+            {"id":7085, "colors":["brown"]},
+            {"id":7086, "colors":["blue"]},
+            {"id":7087, "colors":["purple"]},
+            {"id":7088, "colors":["pink"]},
+            {"id":7089, "colors":["green"]},
+            {"id":7090, "colors":["black"]},
+            {"id":7091, "colors":["yellow"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7092, "zone":"waistToKnee", "category":"skirt", "security":"3789666032f0a941", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Colorful Calavera",
+        "variations":[
+            {"id":7092, "colors":["blue"]},
+            {"id":7093, "colors":["black"]},
+            {"id":7094, "colors":["white"]},
+            {"id":7095, "colors":["yellow"]},
+            {"id":7096, "colors":["red"]},
+            {"id":7097, "colors":["pink"]},
+            {"id":7098, "colors":["purple"]},
+            {"id":7099, "colors":["orange"]},
+            {"id":7100, "colors":["green"]},
+            {"id":7101, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7102, "zone":"head", "category":"wig", "security":"ab20217e644eddf1", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Colorful Calavera",
+        "variations":[
+            {"id":7102, "colors":["brown"]},
+            {"id":7103, "colors":["white"]},
+            {"id":7104, "colors":["black"]},
+            {"id":7105, "colors":["blue"]},
+            {"id":7106, "colors":["blue"]},
+            {"id":7107, "colors":["purple"]},
+            {"id":7108, "colors":["red"]},
+            {"id":7109, "colors":["yellow"]},
+            {"id":7110, "colors":["orange"]},
+            {"id":7111, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7112, "zone":"head", "category":"earring", "security":"96308e6041658d2f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Colorful Calavera",
+        "variations":[
+            {"id":7112, "colors":["blue","yellow"]},
+            {"id":7113, "colors":["black","grey"]},
+            {"id":7114, "colors":["blue","green","yellow"]},
+            {"id":7115, "colors":["grey","yellow"]},
+            {"id":7116, "colors":["red","yellow"]},
+            {"id":7117, "colors":["pink","yellow"]},
+            {"id":7118, "colors":["grey","purple"]},
+            {"id":7119, "colors":["grey","orange"]},
+            {"id":7120, "colors":["green","yellow"]},
+            {"id":7121, "colors":["grey","brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7122, "zone":"head", "category":"hat", "security":"7b774b741bebaf38", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona de flores",
+        "outfitName":"Colorful Calavera",
+        "variations":[
+            {"id":7122, "colors":["red","orange","multi"]},
+            {"id":7123, "colors":["black","multi"]},
+            {"id":7124, "colors":["blue","multi","red"]},
+            {"id":7125, "colors":["white","yellow","multi"]},
+            {"id":7126, "colors":["blue","multi"]},
+            {"id":7127, "colors":["pink","multi"]},
+            {"id":7128, "colors":["purple","pink","multi"]},
+            {"id":7129, "colors":["orange","black","multi"]},
+            {"id":7130, "colors":["green","yellow","multi"]},
+            {"id":7131, "colors":["brown","orange","multi"]}
+        ], "criteria":null
     }
 ]

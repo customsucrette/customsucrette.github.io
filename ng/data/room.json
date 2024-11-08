@@ -1310,5 +1310,47 @@
         "name":"Ataúd",
         "roomName":"Crimson Sanctuary",
         "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+    },
+
+
+    {
+        "id":303, "roomId":67, "slot":"background", "light":true, "security":"bc6b4d4c12b205e3",
+        "name":"Paredes",
+        "roomName":"Calavera Haven",
+        "criteria":null,
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"F1DBD7","colorLight":"A95A17"},
+            "night":{"color1":"99E1FF","color2":"DF95AC","colorLight":"005987"}
+        }
+    },
+    {
+        "id":304, "roomId":67, "slot":"slot1", "light":false, "security":"6b7065c0b47fae7c",
+        "name":"Banco",
+        "roomName":"Calavera Haven",
+        "criteria":null
+    },
+    {
+        "id":305, "roomId":67, "slot":"slot2", "light":false, "security":"59cd102bb9a7b915",
+        "name":"Mesa",
+        "roomName":"Calavera Haven",
+        "criteria":null
+    },
+    {
+        "id":306, "roomId":67, "slot":"slot3", "light":false, "security":"6251482123c7c079",
+        "name":"Mecedora",
+        "roomName":"Calavera Haven",
+        "criteria":null
+    },
+    {
+        "id":307, "roomId":67, "slot":"slot4", "light":false, "security":"efb1b08f2e5a8e69",
+        "name":"Cactus",
+        "roomName":"Calavera Haven",
+        "criteria":null
+    },
+    {
+        "id":308, "roomId":67, "slot":"slot5", "light":false, "security":"4aa8c4b32c1ce26e",
+        "name":"Flores",
+        "roomName":"Calavera Haven",
+        "criteria":null
     }
 ]

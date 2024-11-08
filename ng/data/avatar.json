@@ -85,6 +85,23 @@
                     {"id":32, "colors":["pink"]},
                     {"id":33, "colors":["brown"]}
                 ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+            },
+            {
+                "groupId":34, "zone":"face", "category":"eyes", "security":"ee42f6687908f8b8",
+                "name":"Ojos",
+                "outfitName":"Colorful Calavera",
+                "variations":[
+                    {"id":34, "colors":["red"]},
+                    {"id":35, "colors":["black"]},
+                    {"id":36, "colors":["blue"]},
+                    {"id":37, "colors":["orange"]},
+                    {"id":38, "colors":["blue"]},
+                    {"id":39, "colors":["pink"]},
+                    {"id":40, "colors":["purple"]},
+                    {"id":41, "colors":["brown"]},
+                    {"id":42, "colors":["green"]},
+                    {"id":43, "colors":["grey"]}
+                ], "criteria":null
             }
         ],
         "mouth":[
@@ -121,10 +138,9 @@
                 ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
             },
             {
-                "groupId":51, "zone":"face", "category":"mouth",
+                "groupId":51, "zone":"face", "category":"mouth", "security":"fc2df9b8263560b8",
                 "name":"Boca",
                 "outfitName":"Sharp Countess",
-                "security":"fc2df9b8263560b8",
                 "variations":[
                     {"id":51, "colors":["red"]},
                     {"id":52, "colors":["black"]},
@@ -137,6 +153,23 @@
                     {"id":59, "colors":["pink"]},
                     {"id":60, "colors":["brown"]}
                 ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+            },
+            {
+                "groupId":61, "zone":"face", "category":"mouth", "security":"bc55a9af41bb0d28",
+                "name":"Boca",
+                "outfitName":"Colorful Calavera",
+                "variations":[
+                    {"id":61, "colors":["red"]},
+                    {"id":62, "colors":["black"]},
+                    {"id":63, "colors":["blue"]},
+                    {"id":64, "colors":["yellow"]},
+                    {"id":65, "colors":["blue"]},
+                    {"id":66, "colors":["pink"]},
+                    {"id":67, "colors":["purple"]},
+                    {"id":68, "colors":["orange"]},
+                    {"id":69, "colors":["green"]},
+                    {"id":70, "colors":["white"]}
+                ], "criteria":null
             }
         ]
     },
