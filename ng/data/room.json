@@ -872,6 +872,46 @@
         "criteria":{"type":"jobTask", "info":"Proyectos", "text":"Desbloqueado en la Misión del día\nProyectos"}
     },
     {
+        "id":183, "roomId":47, "slot":"background", "light":true, "security":"3c417c76d9eb21b8",
+        "name":"Paredes",
+        "roomName":"50's Diner",
+        "criteria":{"type":"calendar", "info":"2024-8", "text":"Desbloqueado en el calendario\nN°08 - 2024"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"EAFFFB","colorLight":"003C58"},
+            "night":{"color1":"4DADFF","color2":"689FCE","colorLight":"1BAAB4"}
+        }
+    },
+    {
+        "id":184, "roomId":47, "slot":"slot5", "light":false, "security":"1a8c4dbf380256ef",
+        "name":"Mesa",
+        "roomName":"50's Diner",
+        "criteria":{"type":"calendar", "info":"2024-8", "text":"Desbloqueado en el calendario\nN°08 - 2024"}
+    },
+    {
+        "id":185, "roomId":47, "slot":"slot4", "light":false, "security":"1314f195853073db",
+        "name":"Distribuidor de dulces",
+        "roomName":"50's Diner",
+        "criteria":{"type":"calendar", "info":"2024-8", "text":"Desbloqueado en el calendario\nN°08 - 2024"}
+    },
+    {
+        "id":186, "roomId":47, "slot":"slot3", "light":true, "security":"969626b536815811",
+        "name":"Máquina de discos",
+        "roomName":"50's Diner",
+        "criteria":{"type":"calendar", "info":"2024-8", "text":"Desbloqueado en el calendario\nN°08 - 2024"}
+    },
+    {
+        "id":187, "roomId":47, "slot":"slot2", "light":true, "security":"566c80ae7f68cf75",
+        "name":"Banqueta",
+        "roomName":"50's Diner",
+        "criteria":{"type":"calendar", "info":"2024-8", "text":"Desbloqueado en el calendario\nN°08 - 2024"}
+    },
+    {
+        "id":188, "roomId":47, "slot":"slot1", "light":true, "security":"31cef81521789d97",
+        "name":"Bar",
+        "roomName":"50's Diner",
+        "criteria":{"type":"calendar", "info":"2024-8", "text":"Desbloqueado en el calendario\nN°08 - 2024"}
+    },
+    {
         "id":189, "roomId":48, "slot":"background", "light":true, "security":"137bf9e0bbe497ea",
         "name":"Paredes",
         "roomName":"Witchy",
