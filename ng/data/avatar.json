@@ -40,6 +40,23 @@
                 "variations":[
                     {"id":6, "colors":["black"]}
                 ], "criteria":null
+            },
+            {
+                "groupId":7, "zone":"head", "category":"eyebrows", "security":"900edda5def34164",
+                "name":"Cejas",
+                "outfitName":"Alien Ambassador",
+                "variations":[
+                    {"id":7, "colors":["pink"]},
+                    {"id":8, "colors":["green"]},
+                    {"id":9, "colors":["purple"]},
+                    {"id":10, "colors":["white"]},
+                    {"id":11, "colors":["black"]},
+                    {"id":12, "colors":["yellow"]},
+                    {"id":13, "colors":["green"]},
+                    {"id":14, "colors":["grey"]},
+                    {"id":15, "colors":["blue"]},
+                    {"id":16, "colors":["red"]}
+                ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
             }
         
         ],
@@ -68,6 +85,31 @@
                     {"id":10, "colors":["red"]},
                     {"id":11, "colors":["green"]}
                 ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
+            },
+            {
+                "groupId":12, "zone":"face", "category":"eyes", "security":"43984a3df5d4c3d6",
+                "name":"Ojos",
+                "outfitName":"Infernal Embrace",
+                "variations":[
+                    {"id":12, "colors":["black"]}
+                ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+            },
+            {
+                "groupId":13, "zone":"face", "category":"eyes", "security":"9dc1f13ea41c0082",
+                "name":"Ojos",
+                "outfitName":"Alien Ambassador",
+                "variations":[
+                    {"id":13, "colors":["blue"]},
+                    {"id":14, "colors":["purple"]},
+                    {"id":15, "colors":["pink"]},
+                    {"id":16, "colors":["white"]},
+                    {"id":17, "colors":["black"]},
+                    {"id":18, "colors":["red"]},
+                    {"id":19, "colors":["green"]},
+                    {"id":20, "colors":["blue", "grey"]},
+                    {"id":21, "colors":["yellow"]},
+                    {"id":22, "colors":["brown"]}
+                ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
             },
             {
                 "groupId":23, "zone":"face", "category":"eyes", "security":"ae12ff46fc0cacb3",

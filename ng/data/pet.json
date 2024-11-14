@@ -112,6 +112,18 @@
         "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
+        "id":37, "security":"5d5d57ba51557dc0", "name":"Divine Blessing",
+        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "id":39, "security":"9895e4c5644a6b5a", "name":"Infernal Embrace",
+        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "id":40, "security":"483115d60bd45f42", "name":"Alien Ambassador",
+        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
         "id":41, "security":"2ff2c5d338d28eaa", "name":"La Goosina",
         "criteria":null
     }

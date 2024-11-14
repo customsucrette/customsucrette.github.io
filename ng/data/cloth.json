@@ -7801,6 +7801,465 @@
 
 
     {
+        "groupId":6782, "zone":"general", "category":"other", "security":"c0466fd8ba108b17", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Alas",
+        "outfitName":"Divine Blessing",
+        "variations":[
+            {"id":6782, "colors":["white"]},
+            {"id":6783, "colors":["black"]},
+            {"id":6784, "colors":["red"]},
+            {"id":6785, "colors":["pink"]},
+            {"id":6786, "colors":["blue"]},
+            {"id":6787, "colors":["green"]},
+            {"id":6788, "colors":["brown"]},
+            {"id":6789, "colors":["grey"]},
+            {"id":6790, "colors":["brown"]},
+            {"id":6791, "colors":["yellow"]}
+        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "groupId":6792, "zone":"head", "category":"hat", "security":"b12ed2dd10327b28", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Aureola",
+        "outfitName":"Divine Blessing",
+        "variations":[
+            {"id":6792, "colors":["yellow"]},
+            {"id":6793, "colors":["red"]},
+            {"id":6794, "colors":["black"]},
+            {"id":6795, "colors":["purple"]},
+            {"id":6796, "colors":["pink"]},
+            {"id":6797, "colors":["brown"]},
+            {"id":6798, "colors":["green"]},
+            {"id":6799, "colors":["white"]},
+            {"id":6800, "colors":["blue"]},
+            {"id":6801, "colors":["green"]}
+        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "groupId":6802, "zone":"head", "category":"faceAccessory", "security":"1cdf3f523c1f52b3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Alas Ojos",
+        "outfitName":"Divine Blessing",
+        "variations":[
+            {"id":6802, "colors":["white"]},
+            {"id":6803, "colors":["black"]},
+            {"id":6804, "colors":["red"]},
+            {"id":6805, "colors":["pink"]},
+            {"id":6806, "colors":["blue"]},
+            {"id":6807, "colors":["green"]},
+            {"id":6808, "colors":["brown"]},
+            {"id":6809, "colors":["grey"]},
+            {"id":6810, "colors":["brown"]},
+            {"id":6811, "colors":["yellow"]}
+        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "groupId":6812, "zone":"torso", "category":"top", "security":"f541a910ee3a73eb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Armadura Torso",
+        "outfitName":"Divine Blessing",
+        "variations":[
+            {"id":6812, "colors":["yellow"]},
+            {"id":6813, "colors":["grey"]},
+            {"id":6814, "colors":["black"]},
+            {"id":6815, "colors":["orange"]},
+            {"id":6816, "colors":["purple"]},
+            {"id":6817, "colors":["green"]},
+            {"id":6818, "colors":["brown"]},
+            {"id":6819, "colors":["red"]},
+            {"id":6820, "colors":["blue"]},
+            {"id":6821, "colors":["white"]}
+        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "groupId":6822, "zone":"torso", "category":"jacket", "security":"08da7d703251d5a1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Estola",
+        "outfitName":"Divine Blessing",
+        "variations":[
+            {"id":6822, "colors":["yellow"]},
+            {"id":6823, "colors":["red"]},
+            {"id":6824, "colors":["black"]},
+            {"id":6825, "colors":["purple"]},
+            {"id":6826, "colors":["pink"]},
+            {"id":6827, "colors":["brown"]},
+            {"id":6828, "colors":["green"]},
+            {"id":6829, "colors":["white"]},
+            {"id":6830, "colors":["blue"]},
+            {"id":6831, "colors":["green"]}
+        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "groupId":6832, "zone":"torso_waistToKnee", "category":"dress", "security":"3d3b70d3947a02d5", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Divine Blessing",
+        "variations":[
+            {"id":6832, "colors":["white"]},
+            {"id":6833, "colors":["black"]},
+            {"id":6834, "colors":["red"]},
+            {"id":6835, "colors":["pink"]},
+            {"id":6836, "colors":["blue"]},
+            {"id":6837, "colors":["green"]},
+            {"id":6838, "colors":["brown"]},
+            {"id":6839, "colors":["grey"]},
+            {"id":6840, "colors":["brown"]},
+            {"id":6841, "colors":["yellow"]}
+        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "groupId":6842, "zone":"feet", "category":"legAccessory", "security":"5f3f8ba37cbee2c7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Armadura Piernas",
+        "outfitName":"Divine Blessing",
+        "variations":[
+            {"id":6842, "colors":["yellow"]},
+            {"id":6843, "colors":["grey"]},
+            {"id":6844, "colors":["black"]},
+            {"id":6845, "colors":["orange"]},
+            {"id":6846, "colors":["purple"]},
+            {"id":6847, "colors":["green"]},
+            {"id":6848, "colors":["brown"]},
+            {"id":6849, "colors":["red"]},
+            {"id":6850, "colors":["blue"]},
+            {"id":6851, "colors":["white"]}
+        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "groupId":6852, "zone":"arms", "category":"armAccessory", "security":"c851fee6bb305536", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Armadura Brazos",
+        "outfitName":"Divine Blessing",
+        "variations":[
+            {"id":6852, "colors":["yellow"]},
+            {"id":6853, "colors":["grey"]},
+            {"id":6854, "colors":["black"]},
+            {"id":6855, "colors":["orange"]},
+            {"id":6856, "colors":["purple"]},
+            {"id":6857, "colors":["green"]},
+            {"id":6858, "colors":["brown"]},
+            {"id":6859, "colors":["red"]},
+            {"id":6860, "colors":["blue"]},
+            {"id":6861, "colors":["white"]}
+        ],"criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "groupId":6862, "zone":"head", "category":"wig", "security":"9c033291dbbe01b8", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Divine Blessing",
+        "variations":[
+            {"id":6862, "colors":["brown"]},
+            {"id":6863, "colors":["white"]},
+            {"id":6864, "colors":["black"]},
+            {"id":6865, "colors":["blue"]},
+            {"id":6866, "colors":["blue"]},
+            {"id":6867, "colors":["purple"]},
+            {"id":6868, "colors":["red"]},
+            {"id":6869, "colors":["yellow"]},
+            {"id":6870, "colors":["orange"]},
+            {"id":6871, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "groupId":6872, "zone":"head", "category":"hat", "security":"002671fa659d8d53", "multiLayered":false, "layerBehavior":"normal",
+        "name":"",
+        "outfitName":"Divine Blessing",
+        "variations":[
+            {"id":6872, "colors":["white"]},
+            {"id":6873, "colors":["black"]},
+            {"id":6874, "colors":["red"]},
+            {"id":6875, "colors":["pink"]},
+            {"id":6876, "colors":["blue"]},
+            {"id":6877, "colors":["green"]},
+            {"id":6878, "colors":["brown"]},
+            {"id":6879, "colors":["grey"]},
+            {"id":6880, "colors":["brown"]},
+            {"id":6881, "colors":["yellow"]}
+        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "groupId":6882, "zone":"head", "category":"hat", "security":"a0eae09504b20347", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cuernos",
+        "outfitName":"Infernal Embrace",
+        "variations":[
+            {"id":6882, "colors":["brown"]},
+            {"id":6883, "colors":["black"]},
+            {"id":6884, "colors":["white"]},
+            {"id":6885, "colors":["green"]},
+            {"id":6886, "colors":["purple"]},
+            {"id":6887, "colors":["grey"]},
+            {"id":6888, "colors":["red"]},
+            {"id":6889, "colors":["yellow"]},
+            {"id":6890, "colors":["blue"]},
+            {"id":6891, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "groupId":6892, "zone":"arms", "category":"handNailPolish", "security":"39e95d7c5af3ce05", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Garras",
+        "outfitName":"Infernal Embrace",
+        "variations":[
+            {"id":6892, "colors":["black"]},
+            {"id":6893, "colors":["red"]},
+            {"id":6894, "colors":["white"]},
+            {"id":6895, "colors":["green"]},
+            {"id":6896, "colors":["purple"]},
+            {"id":6897, "colors":["grey"]},
+            {"id":6898, "colors":["brown"]},
+            {"id":6899, "colors":["yellow"]},
+            {"id":6900, "colors":["blue"]},
+            {"id":6901, "colors":["pink"]}
+        ],"criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "groupId":6902, "zone":"head", "category":"wig", "security":"6b1ddbfb6d96b706", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Infernal Embrace",
+        "variations":[
+            {"id":6902, "colors":["brown"]},
+            {"id":6903, "colors":["white"]},
+            {"id":6904, "colors":["black"]},
+            {"id":6905, "colors":["blue"]},
+            {"id":6906, "colors":["blue"]},
+            {"id":6907, "colors":["purple"]},
+            {"id":6908, "colors":["red"]},
+            {"id":6909, "colors":["yellow"]},
+            {"id":6910, "colors":["orange"]},
+            {"id":6911, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "groupId":6912, "zone":"torso", "category":"top", "security":"715de2348ef6bf62", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corsé",
+        "outfitName":"Infernal Embrace",
+        "variations":[
+            {"id":6912, "colors":["black","yellow"]},
+            {"id":6913, "colors":["red","yellow"]},
+            {"id":6914, "colors":["blue","yellow"]},
+            {"id":6915, "colors":["brown","grey"]},
+            {"id":6916, "colors":["green","grey"]},
+            {"id":6917, "colors":["purple","grey"]},
+            {"id":6918, "colors":["pink","yellow"]},
+            {"id":6919, "colors":["grey","black"]},
+            {"id":6920, "colors":["white","yellow"]},
+            {"id":6921, "colors":["grey","orange"]}
+        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "groupId":6922, "zone":"waistToKnee", "category":"skirt", "security":"47d1f9d972e83f41", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda\n",
+        "outfitName":"Infernal Embrace",
+        "variations":[
+            {"id":6922, "colors":["black","yellow"]},
+            {"id":6923, "colors":["red","yellow"]},
+            {"id":6924, "colors":["blue","yellow"]},
+            {"id":6925, "colors":["brown","grey"]},
+            {"id":6926, "colors":["green","grey"]},
+            {"id":6927, "colors":["purple","grey"]},
+            {"id":6928, "colors":["pink","yellow"]},
+            {"id":6929, "colors":["grey","black"]},
+            {"id":6930, "colors":["white","yellow"]},
+            {"id":6931, "colors":["grey","yellow"]}
+        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "groupId":6932, "zone":"feet", "category":"shoes", "security":"12737007f2d407b0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pezuñas",
+        "outfitName":"Infernal Embrace",
+        "variations":[
+            {"id":6932, "colors":["brown"]},
+            {"id":6933, "colors":["black"]},
+            {"id":6934, "colors":["white"]},
+            {"id":6935, "colors":["green"]},
+            {"id":6936, "colors":["purple"]},
+            {"id":6937, "colors":["grey"]},
+            {"id":6938, "colors":["red"]},
+            {"id":6939, "colors":["brown","orange"]},
+            {"id":6940, "colors":["blue"]},
+            {"id":6941, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "groupId":6942, "zone":"torso_waistToKnee", "category":"waist", "security":"92cc193803e1b674", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rabo",
+        "outfitName":"Infernal Embrace",
+        "variations":[
+            {"id":6942, "colors":["red"]},
+            {"id":6943, "colors":["black"]},
+            {"id":6944, "colors":["white"]},
+            {"id":6945, "colors":["green"]},
+            {"id":6946, "colors":["purple"]},
+            {"id":6947, "colors":["grey"]},
+            {"id":6948, "colors":["brown"]},
+            {"id":6949, "colors":["yellow"]},
+            {"id":6950, "colors":["blue"]},
+            {"id":6951, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "groupId":6952, "zone":"general", "category":"other", "security":"542fc2c0722fa704", "multiLayered":false, "layerBehavior":"frontInBack",
+        "name":"Alas",
+        "outfitName":"Infernal Embrace",
+        "variations":[
+            {"id":6952, "colors":["red"]},
+            {"id":6953, "colors":["black"]},
+            {"id":6954, "colors":["white"]},
+            {"id":6955, "colors":["green"]},
+            {"id":6956, "colors":["purple"]},
+            {"id":6957, "colors":["grey"]},
+            {"id":6958, "colors":["brown"]},
+            {"id":6959, "colors":["orange","yellow"]},
+            {"id":6960, "colors":["blue"]},
+            {"id":6961, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "groupId":6962, "zone":"general", "category":"skin", "security":"f48b9e3e8d9df469", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piel",
+        "outfitName":"Infernal Embrace",
+        "variations":[
+            {"id":6962, "colors":["red"]},
+            {"id":6963, "colors":["black"]},
+            {"id":6964, "colors":["white"]},
+            {"id":6965, "colors":["green"]},
+            {"id":6966, "colors":["purple"]},
+            {"id":6967, "colors":["grey"]},
+            {"id":6968, "colors":["brown"]},
+            {"id":6969, "colors":["orange","yellow"]},
+            {"id":6970, "colors":["blue"]},
+            {"id":6971, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "groupId":6972, "zone":"general", "category":"skin", "security":"abea1e06298a49a1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piel",
+        "outfitName":"Alien Ambassador",
+        "variations":[
+            {"id":6972, "colors":["pink"]},
+            {"id":6973, "colors":["green"]},
+            {"id":6974, "colors":["purple"]},
+            {"id":6975, "colors":["white"]},
+            {"id":6976, "colors":["black"]},
+            {"id":6977, "colors":["yellow"]},
+            {"id":6978, "colors":["green"]},
+            {"id":6979, "colors":["grey"]},
+            {"id":6980, "colors":["blue"]},
+            {"id":6981, "colors":["red"]}
+        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "groupId":6982, "zone":"feet", "category":"shoes", "security":"6aa937c6dae09cce", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Alien Ambassador",
+        "variations":[
+            {"id":6982, "colors":["blue","multi"]},
+            {"id":6983, "colors":["blue"]},
+            {"id":6984, "colors":["pink","multi"]},
+            {"id":6985, "colors":["white","multi"]},
+            {"id":6986, "colors":["blue","purple"]},
+            {"id":6987, "colors":["red","pink"]},
+            {"id":6988, "colors":["green"]},
+            {"id":6989, "colors":["black","multi"]},
+            {"id":6990, "colors":["yellow"]},
+            {"id":6991, "colors":["grey"]}
+        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "groupId":6992, "zone":"torso", "category":"jacket", "security":"c49749099867883a", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Hombreras",
+        "outfitName":"Alien Ambassador",
+        "variations":[
+            {"id":6992, "colors":["blue","multi"]},
+            {"id":6993, "colors":["blue"]},
+            {"id":6994, "colors":["pink","multi"]},
+            {"id":6995, "colors":["white","multi"]},
+            {"id":6996, "colors":["blue","purple"]},
+            {"id":6997, "colors":["red","pink"]},
+            {"id":6998, "colors":["green"]},
+            {"id":6999, "colors":["black","multi"]},
+            {"id":7000, "colors":["yellow"]},
+            {"id":7001, "colors":["grey"]}
+        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "groupId":7002, "zone":"torso_waistToKnee", "category":"dress", "security":"edcce0a622f3243b", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Vestido",
+        "outfitName":"Alien Ambassador",
+        "variations":[
+            {"id":7002, "colors":["blue","multi"]},
+            {"id":7003, "colors":["blue"]},
+            {"id":7004, "colors":["pink","multi"]},
+            {"id":7005, "colors":["white","multi"]},
+            {"id":7006, "colors":["blue","purple"]},
+            {"id":7007, "colors":["red","pink"]},
+            {"id":7008, "colors":["green"]},
+            {"id":7009, "colors":["black","multi"]},
+            {"id":7010, "colors":["yellow"]},
+            {"id":7011, "colors":["grey","multi"]}
+        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "groupId":7012, "zone":"torso", "category":"jacket", "security":"8b6f835e757b5409", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Alien Ambassador",
+        "variations":[
+            {"id":7012, "colors":["white"]},
+            {"id":7013, "colors":["green"]},
+            {"id":7014, "colors":["pink"]},
+            {"id":7015, "colors":["blue"]},
+            {"id":7016, "colors":["purple"]},
+            {"id":7017, "colors":["red"]},
+            {"id":7018, "colors":["yellow"]},
+            {"id":7019, "colors":["black"]},
+            {"id":7020, "colors":["brown"]},
+            {"id":7021, "colors":["grey"]}
+        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "groupId":7022, "zone":"head", "category":"wig", "security":"e42f0cc09ebc7e00", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Alien Ambassador",
+        "variations":[
+            {"id":7022, "colors":["purple","multi"]},
+            {"id":7023, "colors":["green","multi"]},
+            {"id":7024, "colors":["pink","multi"]},
+            {"id":7025, "colors":["white","multi"]},
+            {"id":7026, "colors":["black","multi"]},
+            {"id":7027, "colors":["red","multi"]},
+            {"id":7028, "colors":["orange","multi"]},
+            {"id":7029, "colors":["blue","multi"]},
+            {"id":7030, "colors":["yellow","multi"]},
+            {"id":7031, "colors":["brown","multi"]}
+        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "groupId":7032, "zone":"head", "category":"earring", "security":"aeebf0bedf4a370a", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Orejas",
+        "outfitName":"Alien Ambassador",
+        "variations":[
+            {"id":7032, "colors":["pink"]},
+            {"id":7033, "colors":["green"]},
+            {"id":7034, "colors":["purple"]},
+            {"id":7035, "colors":["white"]},
+            {"id":7036, "colors":["black"]},
+            {"id":7037, "colors":["yellow"]},
+            {"id":7038, "colors":["green"]},
+            {"id":7039, "colors":["grey"]},
+            {"id":7040, "colors":["blue"]},
+            {"id":7041, "colors":["red"]}
+        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "groupId":7042, "zone":"head", "category":"hat", "security":"d33652d4de388f5c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Antenas",
+        "outfitName":"Alien Ambassador",
+        "variations":[
+            {"id":7042, "colors":["pink"]},
+            {"id":7043, "colors":["green"]},
+            {"id":7044, "colors":["purple"]},
+            {"id":7045, "colors":["white"]},
+            {"id":7046, "colors":["black"]},
+            {"id":7047, "colors":["yellow"]},
+            {"id":7048, "colors":["green"]},
+            {"id":7049, "colors":["grey"]},
+            {"id":7050, "colors":["blue"]},
+            {"id":7051, "colors":["red"]}
+        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
         "groupId":7052, "zone":"general", "category":"skin", "security":"0a7d60350c557133", "multiLayered":false, "layerBehavior":"normal",
         "name":"Piel",
         "outfitName":"Colorful Calavera",

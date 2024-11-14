@@ -1351,8 +1351,126 @@
         "roomName":"Crimson Sanctuary",
         "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
-
-
+    {
+        "id":273, "roomId":62, "slot":"background", "light":true, "security":"b346ffe908a3fcdb",
+        "name":"Entorno",
+        "roomName":"Divine Blessing",
+        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"C2EBFF","colorLight":"070B34"},
+            "night":{"color1":"FFF9EF","color2":"FFE1D5","colorLight":"4F3714"}
+        }
+    },
+    {
+        "id":274, "roomId":62, "slot":"slot1", "light":false, "security":"44164a514fca54eb",
+        "name":"Guardián angelical",
+        "roomName":"Divine Blessing",
+        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "id":275, "roomId":62, "slot":"slot2", "light":false, "security":"1e1382e50596289d",
+        "name":"Cama",
+        "roomName":"Divine Blessing",
+        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "id":276, "roomId":62, "slot":"slot3", "light":false, "security":"a244c181b64f1ee6",
+        "name":"Globo terráqueo",
+        "roomName":"Divine Blessing",
+        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "id":277, "roomId":62, "slot":"slot4", "light":false, "security":"4c5b01306b2c67a1",
+        "name":"Arpa",
+        "roomName":"Divine Blessing",
+        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "id":278, "roomId":62, "slot":"slot5", "light":false, "security":"c27c773ca322a5ad",
+        "name":"Palomas",
+        "roomName":"Divine Blessing",
+        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+    },
+    {
+        "id":279, "roomId":63, "slot":"background", "light":true, "security":"465bbf79c2f2718f",
+        "name":"Paredes",
+        "roomName":"Infernal Embrace",
+        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        "backgroundColors":{
+            "day":{"color1":"FCCCAC","color2":"D6CAC2","colorLight":"804D2C"},
+            "night":{"color1":"E2F894","color2":"90A290","colorLight":"086D20"}
+        }
+    },
+    {
+        "id":280, "roomId":63, "slot":"slot1", "light":true, "security":"ad08c18716e43a60",
+        "name":"Portal",
+        "roomName":"Infernal Embrace",
+        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "id":281, "roomId":63, "slot":"slot2", "light":true, "security":"fd9e4dae5c134171",
+        "name":"Trono",
+        "roomName":"Infernal Embrace",
+        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "id":282, "roomId":63, "slot":"slot3", "light":true, "security":"28d54accd918d868",
+        "name":"Guardián demoníaco",
+        "roomName":"Infernal Embrace",
+        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "id":283, "roomId":63, "slot":"slot4", "light":true, "security":"74fc36e3808efd14",
+        "name":"Brasero",
+        "roomName":"Infernal Embrace",
+        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "id":284, "roomId":63, "slot":"slot5", "light":false, "security":"40753ff999b18e26",
+        "name":"Falla",
+        "roomName":"Infernal Embrace",
+        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+    },
+    {
+        "id":285, "roomId":64, "slot":"background", "light":true, "security":"5fa8f75e7bc1cee7",
+        "name":"Paredes",
+        "roomName":"Alien Ambassador",
+        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+        "backgroundColors":{
+            "day":{"color1":"F9EBFF","color2":"C7F5F8","colorLight":"510D70"},
+            "night":{"color1":"E29AC4","color2":"6A8DCB","colorLight":"6F079E"}
+        }
+    },
+    {
+        "id":286, "roomId":64, "slot":"slot1", "light":true, "security":"48e2679df2196df3",
+        "name":"Nave",
+        "roomName":"Alien Ambassador",
+        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "id":287, "roomId":64, "slot":"slot2", "light":false, "security":"779a1a665ee5cbc3",
+        "name":"Cama",
+        "roomName":"Alien Ambassador",
+        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "id":288, "roomId":64, "slot":"slot3", "light":true, "security":"a0f189a25b76fce5",
+        "name":"Esferas",
+        "roomName":"Alien Ambassador",
+        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "id":289, "roomId":64, "slot":"slot4", "light":false, "security":"349df5f15a07bd71",
+        "name":"Plantas alienígenas",
+        "roomName":"Alien Ambassador",
+        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
+    {
+        "id":290, "roomId":64, "slot":"slot5", "light":false, "security":"872bbc9aaec013f0",
+        "name":"Vegetación alienígena",
+        "roomName":"Alien Ambassador",
+        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+    },
     {
         "id":303, "roomId":67, "slot":"background", "light":true, "security":"bc6b4d4c12b205e3",
         "name":"Paredes",
