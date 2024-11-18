@@ -14,6 +14,7 @@ $(document).ready(function() {
                     clearInputFilter();
                     drawCategory();
                     fillCounter();
+                    updateVWVH();
                     drawAvatarZone();
 
                     checkAndGetTempCode();
@@ -1615,6 +1616,10 @@ $(function () {
         $(`.category-list-item[data-category="${category}"]`).addClass("current");
         drawCategory(category);
     });
+
+    $(window).on("resize", function() {
+        updateVWVH();
+    });
 });
 
 function getCategoryName(arg) {
@@ -1788,6 +1793,12 @@ function fillCounter() {
     sum = pet.length;
     $(".shortcut.pet p.counter").text(sum);
 }
+
+function updateVWVH() {
+    let vw = $(this).width() / 100;
+    let vh = $(this).height() / 100;
+    $("html").attr("style", `--asng-vw: ${vw}; --asng-vh: ${vh}; --vw: ${vw}; --vh: ${vh}`);
+};
 
 window.onbeforeunload = function () {
      return "";
