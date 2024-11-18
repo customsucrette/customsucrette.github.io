@@ -445,20 +445,21 @@ async function drawSucrette(size = "body") {
     if (size != "face") {
         var ropa = customSucrette.clothe.filter(v => {return v.category != ""});
         for (z = 0; z < ropa.length; z++) {
-            if (ropa[z].category != "underwears" || (ropa[z].category == "underwears" && ! isHidden))
-            var img = ropa[z].src;
-            img = img.replace("thumb", "normal");
+            if (ropa[z].category != "underwears" || (ropa[z].category == "underwears" && !isHidden)) {
+                var img = ropa[z].src;
+                img = img.replace("thumb", "normal");
 
-            if (size == "body" || size == "small") { img = img.replace("_MD", "");
-            } else if (size == "big") { img = img.replace("_MD", "_HD"); }
-            
-            var ready = await preloadIMG(img);
+                if (size == "body" || size == "small") { img = img.replace("_MD", "");
+                } else if (size == "big") { img = img.replace("_MD", "_HD"); }
+                
+                var ready = await preloadIMG(img);
 
-            if (size == "body") { 
-                ctx.drawImage(ready, 0, 0, 256, 437)
-            } else { 
-                ctx.drawImage(ready, 0, 0); 
-            }
+                if (size == "body") { 
+                    ctx.drawImage(ready, 0, 0, 256, 437)
+                } else { 
+                    ctx.drawImage(ready, 0, 0); 
+                };
+            };
         };
     };
 };
