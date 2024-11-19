@@ -308,20 +308,18 @@ input[type=email], input[type=password], input[type=text], textarea {
     height: 100%;
 }
 
-.ng-scrollbar-wrapper, .ng-scroll-viewport-wrapper, .ng-scroll-layer, .ng-scroll-viewport {
+.ng-scrollbar-wrapper {
     position: absolute;
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
-}
 
-.ng-scrollbar-wrapper {
-    --scrollbar-total-size: calc(var(--scrollbar-size) + var(--scrollbar-padding)* 2);
+    --scrollbar-total-size: calc(var(--scrollbar-size) + var(--scrollbar-padding) * 2);
     --vertical-scrollbar-size: var(--scrollbar-size);
     --horizontal-scrollbar-size: var(--scrollbar-size);
-    --vertical-scrollbar-total-size: calc(var(--vertical-scrollbar-size) + var(--scrollbar-padding)* 2);
-    --horizontal-scrollbar-total-size: calc(var(--horizontal-scrollbar-size) + var(--scrollbar-padding)* 2);
+    --vertical-scrollbar-total-size: calc(var(--vertical-scrollbar-size) + var(--scrollbar-padding) * 2);
+    --horizontal-scrollbar-total-size: calc(var(--horizontal-scrollbar-size) + var(--scrollbar-padding) * 2);
 }
 
 .asng-menu .container {
@@ -1198,7 +1196,7 @@ asng-category-list {
     opacity: 0;
 }
 
-.ng-scrollbar {
+.ng-scrollbar, .ss-scroll {
     --scrollbar-border-radius: 7px;
     --scrollbar-padding: 4px;
     --scrollbar-track-color: transparent;
@@ -1216,58 +1214,38 @@ asng-category-list {
     height: 100%;
     max-height: 100%;
     max-width: 100%;
-    box-sizing: content-box !important;
-
-    height: 100%;
+    box-sizing: content-box !important;    
 }
 
-body .asng-white-scrollbar {
-    --scrollbar-thumb-color: #fdfdfd;
+.ss-scroll {
+    width: var(--scrollbar-size);
+    background: var(--scrollbar-thumb-color);
 }
 
-.ng-scroll-viewport {
-    -webkit-overflow-scrolling: touch;
-    contain: strict;
-    will-change: scroll-position;
-    overscroll-behavior: var(--scrollbar-overscroll-behavior);
+.ss-scroll:not(.ss-hidden) {
+    opacity: 1;
 }
 
-.ng-scrollbar-wrapper > .ng-scroll-viewport-wrapper > .ng-scroll-viewport, .ng-scrollbar-wrapper > .ng-scroll-viewport-wrapper > * > * > .ng-scroll-viewport {
+.ss-scroll.ss-hidden {
+    opacity: 0 !important;
+}
+
+asng-category-list .ss-scroll {
+    margin: 0 -4px;
+}
+
+#asng-z-index .ss-scroll {
+    left: 5px;
+}
+
+body .asng-white-scrollbar .ss-scroll {
+    background: #fdfdfd;
+}
+
+.ss-content {
     scrollbar-width: none;
-    -ms-overflow-style: none;
-    overflow-y: auto;
-    overflow-x: hidden;
 }
 
-.ng-scrollbar-wrapper > .ng-scroll-viewport-wrapper > .ng-native-scrollbar-hider, .ng-scrollbar-wrapper > .ng-scroll-viewport-wrapper > * > * > .ng-native-scrollbar-hider {
-    left: 0;
-    right: var(--native-scrollbar-size);
-}
-
-.ng-scrollbar-wrapper, .ng-scroll-viewport-wrapper, .ng-scroll-layer, .ng-scroll-viewport {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-}
-
-.ng-scrollbar-wrapper {
-    --scrollbar-total-size: calc(var(--scrollbar-size) + var(--scrollbar-padding) * 2);
-    --vertical-scrollbar-size: var(--scrollbar-size);
-    --horizontal-scrollbar-size: var(--scrollbar-size);
-    --vertical-scrollbar-total-size: calc(var(--vertical-scrollbar-size) + var(--scrollbar-padding) * 2);
-    --horizontal-scrollbar-total-size: calc(var(--horizontal-scrollbar-size) + var(--scrollbar-padding) * 2);
-}
-
-.ng-scroll-viewport-wrapper {
-    overflow: hidden;
-}
-
-.ng-scroll-content {
-    display: inline-block;
-    min-width: 100%;
-}
 .list ol {
     text-align: center;
 }
@@ -1311,65 +1289,6 @@ body .asng-white-scrollbar {
     pointer-events: none;
 }
 
-
-.ng-scrollbar-wrapper > .scrollbar-control { /* revisar scrollbar */
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: var(--scrollbar-track-transition);
-}
-
-.ng-scrollbar-wrapper > scrollbar-y.scrollbar-control { /* revisar scrollbar */
-    width: var(--vertical-scrollbar-total-size);
-}
-
-.ng-scrollbar-wrapper > .scrollbar-control { /* revisar scrollbar */
-    pointer-events: none;
-}
-
-.ng-scrollbar-wrapper > scrollbar-y.scrollbar-control { /* revisar scrollbar */
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: auto;
-    left: initial;
-}
-
-.ng-scrollbar-track { /* revisar scrollbar */
-    height: 100%;
-    width: 100%;
-    z-index: 1;
-    border-radius: var(--scrollbar-border-radius);
-    background-color: var(--scrollbar-track-color);
-    overflow: hidden;
-    transition: var(--scrollbar-track-transition);
-    cursor: default;
-}
-
-.ng-scrollbar-wrapper > scrollbar-y.scrollbar-control > .ng-scrollbar-track { /* revisar scrollbar */
-    width: var(--vertical-scrollbar-size);
-    height: calc(100% - var(--scrollbar-padding)* 2);
-}
-
-.ng-scrollbar-thumb { /* revisar scrollbar */
-    box-sizing: border-box;
-    position: relative;
-    border-radius: inherit;
-    background-color: var(--scrollbar-thumb-color);
-    transform: translateZ(0);
-    transition: var(--scrollbar-thumb-transition);
-}
-
-.ng-scrollbar-wrapper>scrollbar-y.scrollbar-control>.ng-scrollbar-track>.ng-scrollbar-thumb { /* revisar scrollbar */
-    height: 0;
-    width: 100%;
-}
-
-.scrollbar-control {
-    display: none !important; /* HIDE SCROLLBAR */
-}
-
 asng-avatar-part-list-panel, asng-expression-list, asng-cloth-list-panel {
     display: block;
     width: 100%;
@@ -1408,7 +1327,7 @@ asng-cloth-list-panel .empty p {
 
 
 .clothes {
-    padding: 60px 20px 0 80px;
+    padding: 60px 20px 20px 80px;
     position: absolute;
     top: 0;
     left: 0;
@@ -1929,7 +1848,7 @@ asng-cloth-list-panel .empty p {
 #asng-room-item-list-panel .room-items {
     height: 100%;
     width: 100%;
-    padding: 60px 20px 0 80px;
+    padding: 20px 20px 20px 80px;
 }
 
 #asng-room-item-list-panel .room-items .item {
@@ -2596,14 +2515,14 @@ canvas {
     left: 580px;
 }
 
+#asng-z-index #z-index-content {
+    margin-left: -15px;
+}
+
 #asng-z-index .ng-scrollbar {
     height: 100%;
     -webkit-mask-image: linear-gradient(rgba(0, 0, 9, 0) 0%, rgb(0, 0, 0) 5%, rgb(0, 0, 0) 95%, rgba(0, 0, 0, 0) 100%);
     mask-image: linear-gradient(rgba(0, 0, 9, 0) 0%, rgb(0, 0, 0) 5%, rgb(0, 0, 0) 95%, rgba(0, 0, 0, 0) 100%);
-}
-
-#asng-z-index .ng-scroll-viewport-wrapper {
-    overflow: hidden;
 }
 
 #asng-z-index .item {

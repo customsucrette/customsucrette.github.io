@@ -16,6 +16,7 @@ $(document).ready(function() {
                     fillCounter();
                     updateVWVH();
                     drawAvatarZone();
+                    $("#asng-z-index .ss-scroll").addClass("ss-hidden");
 
                     checkAndGetTempCode();
                     codeUpdate();
@@ -64,7 +65,7 @@ async function codeUpdate() {
     drawPet();
 }
 
-function drawCategory(c = "top", declination = null) {
+async function drawCategory(c = "top", declination = null) {
     
     // filters ?
     let search = $(".filter-by-name-input input").val().trim();
@@ -98,6 +99,7 @@ function drawCategory(c = "top", declination = null) {
         lista.reverse();
 
         if (declination == null) {
+            moveScroll("#clothes-container .ss-content", "reset");
             $("#asng-avatar-item-list-panel .items-container").html("");
     
             // General grouped list
@@ -205,6 +207,25 @@ function drawCategory(c = "top", declination = null) {
         $("#asng-avatar-item-list-panel .items-container").html("");
         $("asng-cloth-list-panel").append('<div class="empty"><img class="taki" src="https://www.corazondemelon-newgen.es/assets/taki/box.png" /><p>No hay elementos en esta categoría.</p></div>');
     };
+
+    if (declination != null) {
+        let sv = $("#clothes-container .ss-content").scrollTop();
+        moveScroll("#clothes-container .ss-content", sv);
+    } else {
+        moveScroll("#clothes-container .ss-content", "reset");
+    };
+    
+
+};
+
+function moveScroll(elmnt, sv) {
+    if (sv != "reset") {
+        sv - 1 == -1 ? sv++ : sv--;
+        $(elmnt).scrollTop(sv);
+    } else {
+        $(elmnt).scrollTop(1);
+        $(elmnt).scrollTop(0);
+    };
 };
 
 function drawDeclinationPanel(index) {
@@ -219,11 +240,16 @@ function drawDeclinationPanel(index) {
     var personality = $("body").attr("class").split("-")[1];
     $(".declinations-panel").append(`<img class="close" height="80" width="80" src="assets/personalization/item/close-declinations-${personality}.png">`);
 
-}
+};
 
 function removeDeclinationPanel() {
+    let sv = $("#clothes-container .ss-content").scrollTop();
+    moveScroll("#clothes-container .ss-content", sv);
+
     $(".asng-cloth").removeClass("selected").removeClass("not-selected");
     $(".declinations-list-container").remove();
+
+    moveScroll("#clothes-container .ss-content", sv);
 }
 
 function drawExpressions(e) {
@@ -265,7 +291,13 @@ function drawExpressions(e) {
 
 function toggleCategoryMenu(status) {
     status.includes("open") ? $(".list").removeClass("open").addClass("closed") : $(".list").removeClass("closed").addClass("open");
-}
+
+    setTimeout(function() {
+        $(".list .ss-content").scrollTop(1);
+        $(".list .ss-content").scrollTop(0);
+    }, 200);
+
+};
 
 function drawAvatarZone(c = "top", z = "auto") {
     if (z == "auto") {
@@ -696,6 +728,8 @@ function checkCurrentItems(id) {
 };
 
 function drawZIndex() {
+    let sv = $("#asng-z-index .ss-content").scrollTop();
+    moveScroll("#asng-z-index .ss-content", sv);
     $("#z-index-content").html('');
     let z = 0;
 
@@ -740,6 +774,8 @@ function drawZIndex() {
 
 
     };
+
+    moveScroll("#asng-z-index .ss-content", sv);
 }
 // Move elements
 function moveItems(z, d) {
@@ -899,6 +935,9 @@ function drawRoomItems(c = "background") {
             $(".asng-room-item .item div").not(".item-outline").eq(b).append(`<img class="locked" title="${slot[b].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
         };
     };
+
+    $(".room-items .ss-content").scrollTop(1);
+    $(".room-items .ss-content").scrollTop(0);
 };
 
 function checkRoom(c, i) {
@@ -1064,6 +1103,9 @@ function drawPetItems() {
     };
 
     pet.reverse();
+
+    $(".pet-outfits .ss-content").scrollTop(1)
+    $(".pet-outfits .ss-content").scrollTop(0);
 };
 
 function checkPet(c) {
@@ -1207,6 +1249,7 @@ $(function () {
         } else {
             removeDeclinationPanel();
         };
+
     });
 
     $(".items-container").on("click", ".asng-cloth.item", function() {
