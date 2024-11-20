@@ -92,20 +92,26 @@
             $.get("data/v1/clothe.json", db1 => {
                 $.get("data/v2/clothe.json", db2 => {
                     $.get("ng/data/cloth.json", db3 => {
-                        let v1 = db1, v2 = db2, ng = db3;
-                        let sum = 0;
-                        for (i = 0; i < ng.length; i++) {
-                            sum += ng[i].variations.length;
-                        };
+                        $.get("ng/data/avatar.json", db4 => {
 
-                        let info = `<div class="main">Prendas disponibles totales: 
-                                        <span class="color-primary">${v1.length + v2.length + sum}</span>.
-                                    </div>
-                                    <div class="sub">(<span class="color-primary">${v1.length}</span> en Instituto. 
-                                        <span class="color-primary">${v2.length}</span> en Universidad/Amor. 
-                                        <span class="color-primary">${sum}</span> en NewGen)</div>`;
+                            let v1 = db1, v2 = db2, ng = db3, ngA = db4;
+                            let sum = 0;
 
-                        $("#home-bottom .infos").html(info);
+                            for (i = 0; i < ng.length; i++) {sum += ng[i].variations.length;};
+                            for (a = 0; a < ngA.collections.eyebrows.length; a++) {sum += ngA.collections.eyebrows[a].variations.length;}
+                            for (a = 0; a < ngA.collections.eyes.length; a++) {sum += ngA.collections.eyes[a].variations.length;}
+                            for (a = 0; a < ngA.collections.mouth.length; a++) {sum += ngA.collections.mouth[a].variations.length;}
+
+                            let info = `<div class="main">Prendas disponibles totales: 
+                                            <span class="color-primary">${v1.length + v2.length + sum}</span>.
+                                        </div>
+                                        <div class="sub">(<span class="color-primary">${v1.length}</span> en Instituto. 
+                                            <span class="color-primary">${v2.length}</span> en Universidad/Amor. 
+                                            <span class="color-primary">${sum}</span> en NewGen)</div>`;
+
+                            $("#home-bottom .infos").html(info);
+
+                        });
                     });
                 });
             });
