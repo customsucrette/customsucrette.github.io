@@ -8394,5 +8394,124 @@
             {"id":7130, "colors":["green","yellow","multi"]},
             {"id":7131, "colors":["brown","orange","multi"]}
         ], "criteria":null
+    },
+    {
+        "groupId":7132, "zone":"face", "category":"makeup", "security":"0deb3ceb00cec29e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maquillaje",
+        "outfitName":"Blooming",
+        "variations":[
+            {"id":7132, "colors":["pink"]},
+            {"id":7133, "colors":["blue"]},
+            {"id":7134, "colors":["green"]},
+            {"id":7135, "colors":["black"]},
+            {"id":7136, "colors":["red"]},
+            {"id":7137, "colors":["white"]},
+            {"id":7138, "colors":["yellow"]},
+            {"id":7139, "colors":["purple"]},
+            {"id":7140, "colors":["green"]},
+            {"id":7141, "colors":["pink","blue"]}
+        ], "criteria":{"type":"pack", "name":"Blooming", "text":"Desbloqueado en el Pack exclusivo\nBlooming"}
+    },
+    {
+        "groupId":7142, "zone":"face", "category":"makeup", "security":"fc4d43053d9e69e1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maquillaje",
+        "outfitName":"Starry",
+        "variations":[
+            {"id":7142, "colors":["yellow"]},
+            {"id":7143, "colors":["red"]},
+            {"id":7144, "colors":["blue"]},
+            {"id":7145, "colors":["pink"]},
+            {"id":7146, "colors":["orange"]},
+            {"id":7147, "colors":["white"]},
+            {"id":7148, "colors":["black"]},
+            {"id":7149, "colors":["green"]},
+            {"id":7150, "colors":["purple"]},
+            {"id":7151, "colors":["grey"]}
+        ], "criteria":{"type":"pack", "name":"Starry", "text":"Desbloqueado en el Pack exclusivo\nStarry"}
+    },
+    {
+        "groupId":7152, "zone":"face", "category":"makeup", "security":"51dd6c2ba91addd6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maquillaje",
+        "outfitName":"Graphic",
+        "variations":[
+            {"id":7152, "colors":["red"]},
+            {"id":7153, "colors":["green"]},
+            {"id":7154, "colors":["blue"]},
+            {"id":7155, "colors":["purple"]},
+            {"id":7156, "colors":["pink"]},
+            {"id":7157, "colors":["orange"]},
+            {"id":7158, "colors":["yellow"]},
+            {"id":7159, "colors":["white"]},
+            {"id":7160, "colors":["black"]},
+            {"id":7161, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "name":"Graphic", "text":"Desbloqueado en el Pack exclusivo\nGraphic"}
+    },
+    {
+        "groupId":7162, "zone":"face", "category":"makeup", "security":"b37b0a748fac9099", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Estrellas",
+        "outfitName":"Artsy",
+        "variations":[
+            {"id":7162, "colors":["pink","blue"]},
+            {"id":7163, "colors":["green"]},
+            {"id":7164, "colors":["blue","purple"]},
+            {"id":7165, "colors":["purple"]},
+            {"id":7166, "colors":["orange"]},
+            {"id":7167, "colors":["black"]},
+            {"id":7168, "colors":["pink","red"]},
+            {"id":7169, "colors":["white","yellow"]},
+            {"id":7170, "colors":["white","pink"]},
+            {"id":7171, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "name":"Artsy", "text":"Desbloqueado en el Pack exclusivo\nArtsy"}
+    },
+    {
+        "groupId":7172, "zone":"face", "category":"makeup", "security":"9eb406d1042b8d83", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blush",
+        "outfitName":"K-Glow",
+        "variations":[
+            {"id":7172, "colors":["pink"]},
+            {"id":7173, "colors":["pink"]},
+            {"id":7174, "colors":["brown"]},
+            {"id":7175, "colors":["pink"]},
+            {"id":7176, "colors":["purple"]},
+            {"id":7177, "colors":["orange"]},
+            {"id":7178, "colors":["brown","orange"]},
+            {"id":7179, "colors":["brown"]},
+            {"id":7180, "colors":["red"]},
+            {"id":7181, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "name":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"}
+    },
+    {
+        "groupId":7182, "zone":"head", "category":"faceAccessory", "security":"38ef3e8e668fec54", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piercing",
+        "outfitName":"Bold",
+        "variations":[
+            {"id":7182, "colors":["grey"]},
+            {"id":7183, "colors":["purple"]},
+            {"id":7184, "colors":["pink"]},
+            {"id":7185, "colors":["red"]},
+            {"id":7186, "colors":["orange"]},
+            {"id":7187, "colors":["yellow"]},
+            {"id":7188, "colors":["green"]},
+            {"id":7189, "colors":["blue"]},
+            {"id":7190, "colors":["white"]},
+            {"id":7191, "colors":["black"]}
+        ], "criteria":{"type":"pack", "name":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"}    
+    },
+    {
+        "groupId":7192, "zone":"head", "category":"faceAccessory", "security":"c5fe3ff7e1ecdf23", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piercing",
+        "outfitName":"Nasalang",
+        "variations":[
+            {"id":7192, "colors":["black"]},
+            {"id":7193, "colors":["grey"]},
+            {"id":7194, "colors":["yellow"]},
+            {"id":7195, "colors":["white"]},
+            {"id":7196, "colors":["blue"]},
+            {"id":7197, "colors":["pink"]},
+            {"id":7198, "colors":["green"]},
+            {"id":7199, "colors":["purple"]},
+            {"id":7200, "colors":["red"]},
+            {"id":7201, "colors":["brown"]}
+        ], "criteria":null
     }
 ]

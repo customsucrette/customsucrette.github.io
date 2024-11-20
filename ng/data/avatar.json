@@ -144,6 +144,116 @@
                     {"id":42, "colors":["green"]},
                     {"id":43, "colors":["grey"]}
                 ], "criteria":null
+            },
+            {
+                "groupId":44, "zone":"face", "category":"eyes", "security":"b0f8ca4fe95e73de",
+                "name":"Ojos",
+                "outfitName":"Blooming",
+                "variations":[
+                    {"id":44, "colors":["pink","yellow"]},
+                    {"id":45, "colors":["blue","yellow"]},
+                    {"id":46, "colors":["green","yellow"]},
+                    {"id":47, "colors":["black","blue"]},
+                    {"id":48, "colors":["pink","red"]},
+                    {"id":49, "colors":["purple","white"]},
+                    {"id":50, "colors":["brown","orange"]},
+                    {"id":51, "colors":["blue","purple"]},
+                    {"id":52, "colors":["green"]},
+                    {"id":53, "colors":["blue","pink"]}
+                ], "criteria":{"type":"pack", "info":"Blooming", "text":"Desbloqueado en el Pack exclusivo\nBlooming"}
+            },
+            {
+                "groupId":54, "zone":"face", "category":"eyes", "security":"ffbe5d15d2679600",
+                "name":"Ojos",
+                "outfitName":"Starry",
+                "variations":[
+                    {"id":54, "colors":["yellow"]},
+                    {"id":55, "colors":["red"]},
+                    {"id":56, "colors":["blue"]},
+                    {"id":57, "colors":["pink"]},
+                    {"id":58, "colors":["orange"]},
+                    {"id":59, "colors":["blue","white"]},
+                    {"id":60, "colors":["black"]},
+                    {"id":61, "colors":["green"]},
+                    {"id":62, "colors":["blue","purple"]},
+                    {"id":63, "colors":["grey"]}
+                ], "criteria":{"type":"pack", "info":"Starry", "text":"Desbloqueado en el Pack exclusivo\nStarry"}
+            },
+            {
+                "groupId":64, "zone":"face", "category":"eyes", "security":"9c8b4ab14b413398",
+                "name":"Ojos",
+                "outfitName":"Graphic",
+                "variations":[
+                    {"id":64, "colors":["red"]},
+                    {"id":65, "colors":["green"]},
+                    {"id":66, "colors":["blue"]},
+                    {"id":67, "colors":["purple"]},
+                    {"id":68, "colors":["pink"]},
+                    {"id":69, "colors":["orange"]},
+                    {"id":70, "colors":["yellow"]},
+                    {"id":71, "colors":["white"]},
+                    {"id":72, "colors":["black"]},
+                    {"id":73, "colors":["brown"]}
+                ], "criteria":{"type":"pack", "info":"Graphic", "text":"Desbloqueado en el Pack exclusivo\nGraphic"}
+            },
+            {
+                "groupId":74, "zone":"face", "category":"eyes", "security":"cafa19ce5a0f3fd3",
+                "name":"Ojos",
+                "outfitName":"Artsy",
+                "variations":[
+                    {"id":74, "colors":["green","red"]},
+                    {"id":75, "colors":["green","yellow"]},
+                    {"id":76, "colors":["blue","orange"]},
+                    {"id":77, "colors":["purple"]},
+                    {"id":78, "colors":["orange","red"]},
+                    {"id":79, "colors":["black","purple"]},
+                    {"id":80, "colors":["orange","red"]},
+                    {"id":81, "colors":["orange","white"]},
+                    {"id":82, "colors":["blue","pink"]},
+                    {"id":83, "colors":["blue","green"]}
+                ], "criteria":{"type":"pack", "info":"Artsy", "text":"Desbloqueado en el Pack exclusivo\nArtsy"}
+            },
+            {
+                "groupId":84, "zone":"face", "category":"eyes", "security":"a77f37a97452a170",
+                "name":"Ojos",
+                "outfitName":"Nasalang",
+                "variations":[
+                    {"id":84, "colors":["grey"]}
+                ], "criteria":null
+            },
+            {
+                "groupId":85, "zone":"face", "category":"eyes", "security":"310ce50bdebed5eb",
+                "name":"Ojos",
+                "outfitName":"Bold",
+                "variations":[
+                    {"id":85, "colors":["blue"]},
+                    {"id":86, "colors":["purple"]},
+                    {"id":87, "colors":["pink"]},
+                    {"id":88, "colors":["red"]},
+                    {"id":89, "colors":["orange"]},
+                    {"id":90, "colors":["yellow"]},
+                    {"id":91, "colors":["green"]},
+                    {"id":92, "colors":["blue","green"]},
+                    {"id":93, "colors":["white"]},
+                    {"id":94, "colors":["black"]}
+                ], "criteria":{"type":"pack", "info":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"}
+            },
+            {
+                "groupId":95, "zone":"face", "category":"eyes", "security":"e899275bad47dfc6",
+                "name":"Ojos",
+                "outfitName":"K-Glow",
+                "variations":[
+                    {"id":95, "colors":["red"]},
+                    {"id":96, "colors":["brown"]},
+                    {"id":97, "colors":["pink"]},
+                    {"id":98, "colors":["purple"]},
+                    {"id":99, "colors":["blue"]},
+                    {"id":100, "colors":["green"]},
+                    {"id":101, "colors":["yellow"]},
+                    {"id":102, "colors":["orange"]},
+                    {"id":103, "colors":["black"]},
+                    {"id":104, "colors":["white"]}
+                ], "criteria":{"type":"pack", "info":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"}
             }
         ],
         "mouth":[
@@ -212,6 +322,126 @@
                     {"id":69, "colors":["green"]},
                     {"id":70, "colors":["white"]}
                 ], "criteria":null
+            },
+            {
+                "groupId":71, "zone":"face", "category":"mouth", "security":"c7d3cadf196d38ce",
+                "name":"Boca",
+                "outfitName":"Blooming",
+                "variations":[
+                    {"id":71, "colors":["pink"]},
+                    {"id":72, "colors":["brown","red"]},
+                    {"id":73, "colors":["pink"]},
+                    {"id":74, "colors":["pink"]},
+                    {"id":75, "colors":["red"]},
+                    {"id":76, "colors":["orange"]},
+                    {"id":77, "colors":["red"]},
+                    {"id":78, "colors":["black","blue"]},
+                    {"id":79, "colors":["green"]},
+                    {"id":80, "colors":["pink"]}
+                ], "criteria":{"type":"pack", "name":"Blooming", "text":"Desbloqueado en el Pack exclusivo\nBlooming"}
+            },
+            {
+                "groupId":81, "zone":"face", "category":"mouth", "security":"53d415ea21249748",
+                "name":"Boca",
+                "outfitName":"Starry",
+                "variations":[
+                    {"id":81, "colors":["yellow"]},
+                    {"id":82, "colors":["red"]},
+                    {"id":83, "colors":["blue"]},
+                    {"id":84, "colors":["pink"]},
+                    {"id":85, "colors":["orange"]},
+                    {"id":86, "colors":["blue","white"]},
+                    {"id":87, "colors":["black","blue"]},
+                    {"id":88, "colors":["green"]},
+                    {"id":89, "colors":["blue","purple"]},
+                    {"id":90, "colors":["grey"]}
+                ], "criteria":{"type":"pack", "name":"Starry", "text":"Desbloqueado en el Pack exclusivo\nStarry"}
+            },
+            {
+                "groupId":91, "zone":"face", "category":"mouth", "security":"b91fdaf867694d7b",
+                "name":"Boca",
+                "outfitName":"Graphic",
+                "variations":[
+                    {"id":91, "colors":["red"]},
+                    {"id":92, "colors":["green"]},
+                    {"id":93, "colors":["blue"]},
+                    {"id":94, "colors":["purple"]},
+                    {"id":95, "colors":["pink"]},
+                    {"id":96, "colors":["orange"]},
+                    {"id":97, "colors":["yellow"]},
+                    {"id":98, "colors":["white"]},
+                    {"id":99, "colors":["black"]},
+                    {"id":100, "colors":["brown"]}
+                ], "criteria":{"type":"pack", "name":"Graphic", "text":"Desbloqueado en el Pack exclusivo\nGraphic"}
+            },
+            {
+                "groupId":101, "zone":"face", "category":"mouth", "security":"a1cbdb89a3ec2d7f",
+                "name":"Boca",
+                "outfitName":"Artsy",
+                "variations":[
+                    {"id":101, "colors":["blue","red"]},
+                    {"id":102, "colors":["green","yellow"]},
+                    {"id":103, "colors":["blue","orange"]},
+                    {"id":104, "colors":["black","purple"]},
+                    {"id":105, "colors":["orange","red"]},
+                    {"id":106, "colors":["black","purple"]},
+                    {"id":107, "colors":["orange","pink"]},
+                    {"id":108, "colors":["white","yellow"]},
+                    {"id":109, "colors":["blue","pink"]},
+                    {"id":110, "colors":["blue","green"]}
+                ], "criteria":{"type":"pack", "name":"Artsy", "text":"Desbloqueado en el Pack exclusivo\nArtsy"}
+            },
+            {
+                "groupId":111, "zone":"face", "category":"mouth", "security":"c328d2b5b887e493",
+                "name":"Boca",
+                "outfitName":"K-Glow",
+                "variations":[
+                    {"id":111, "colors":["pink"]},
+                    {"id":112, "colors":["brown","orange"]},
+                    {"id":113, "colors":["brown","red"]},
+                    {"id":114, "colors":["red"]},
+                    {"id":115, "colors":["red"]},
+                    {"id":116, "colors":["purple"]},
+                    {"id":117, "colors":["orange","red"]},
+                    {"id":118, "colors":["pink"]},
+                    {"id":119, "colors":["black","brown"]},
+                    {"id":120, "colors":["brown"]}
+                ], "criteria":{"type":"pack", "name":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"}
+            },
+            {
+                "groupId":121, "zone":"face", "category":"mouth", "security":"abd51b7f3afb0884",
+                "name":"Bocas",
+                "outfitName":"Nasalang",
+                "variations":[
+                    {"id":121, "colors":["pink"]},
+                    {"id":122, "colors":["unknown"]},
+                    {"id":123, "colors":["unknown"]},
+                    {"id":124, "colors":["unknown"]},
+                    {"id":125, "colors":["unknown"]},
+                    {"id":126, "colors":["unknown"]},
+                    {"id":127, "colors":["unknown"]},
+                    {"id":128, "colors":["unknown"]},
+                    {"id":129, "colors":["unknown"]},
+                    {"id":130, "colors":["unknown"]}
+                ], "criteria":null
+                
+            },
+            {
+                "groupId":131, "zone":"face", "category":"mouth", "security":"e6c2f986aff83be9",
+                "name":"Boca",
+                "outfitName":"Bold",
+                "variations":[
+                    {"id":131, "colors":["grey","pink"]},
+                    {"id":132, "colors":["pink","yellow"]},
+                    {"id":133, "colors":["brown","grey"]},
+                    {"id":134, "colors":["brown","yellow"]},
+                    {"id":135, "colors":["black","grey"]},
+                    {"id":136, "colors":["black","yellow"]},
+                    {"id":137, "colors":["grey","red"]},
+                    {"id":138, "colors":["red","yellow"]},
+                    {"id":139, "colors":["grey","pink"]},
+                    {"id":140, "colors":["pink","yellow"]}
+                ], "criteria":{"type":"pack", "name":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"}
             }
         ]
     },
