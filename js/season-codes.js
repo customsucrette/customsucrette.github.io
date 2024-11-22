@@ -78,13 +78,14 @@ function generateCode(version = null) {
         code += sucrette.room.slot3 != null ? (sucrette.room.slot3).split("-")[0] + "S" : "0" + "S";
         code += sucrette.room.slot4 != null ? (sucrette.room.slot4).split("-")[0] + "S" : "0" + "S";
         code += sucrette.room.slot5 != null ? (sucrette.room.slot5).split("-")[0] : "0";
-        
+
         for (z = 0; z < sucrette.orderInfo.length; z++) {
             code += "i";
 
             switch(sucrette.orderInfo[z].category) {
                 case "avatar":
                     let s = sucrette.avatar.skin[0].toUpperCase();
+                    let cs = sucrette.avatar.customSkin != null ? (sucrette.avatar.customSkin).split("-")[0] : "";
                     let hc = $(`.hair-color .color[data-color=${sucrette.avatar.hair}]`).index();
                     let ec = $(`.eye-color .color[data-color=${sucrette.avatar.eyesColor}]`).index();
                     let e = (sucrette.avatar.eyes).split("-")[0];
@@ -94,7 +95,7 @@ function generateCode(version = null) {
                     let xe = avatar.expressions.eye.findIndex(v => v == sucrette.avatar.expression.eye);
                     let xm = avatar.expressions.mouth.findIndex(v => v == sucrette.avatar.expression.mouth);
 
-                    code += `${s}A${hc}A${ec}A${e}A${eb}A${m}A${xb}X${xe}X${xm}`;
+                    code += `${s}${cs}A${hc}A${ec}A${e}A${eb}A${m}A${xb}X${xe}X${xm}`;
                     break;
 
                 case "hair":
@@ -383,7 +384,8 @@ function loadCode(code = null) {
                 if (code[z].includes("A")) {
 
                     let tAvatar = code[z].split("A");
-                    switch (tAvatar[0]) {
+                    
+                    switch ((tAvatar[0])[0]) {
                         case "R": sucrette.avatar.skin = "rose"; break;
                         case "T": sucrette.avatar.skin = "tulip"; break;
                         case "M": sucrette.avatar.skin = "marigold"; break;
@@ -391,7 +393,16 @@ function loadCode(code = null) {
                         case "O": sucrette.avatar.skin = "orchid"; break;
                         case "L": sucrette.avatar.skin = "lys"; break;
                         case "P": sucrette.avatar.skin = "pansy"; break;
-                    }; // pendiente custom skin 
+                    }; 
+                    
+                    // custom skin
+                    if (tAvatar[0].length > 1) {
+                        let cs = (tAvatar[0]).slice(1);
+                        let temp = cloth.filter(v => v.variations.some(i => i.id == cs));
+                        sucrette.avatar.customSkin = `${cs}-${temp[0].security}`;
+                    } else {
+                        sucrette.avatar.customSkin = null;
+                    };
 
                     sucrette.avatar.hair = $(".hair-color .color").eq(tAvatar[1]).data("color");
                     sucrette.avatar.eyesColor = $(".eye-color .color").eq(tAvatar[2]).data("color");
