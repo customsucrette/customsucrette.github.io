@@ -7798,6 +7798,177 @@
             {"id":5913, "colors":["brown"]}
         ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
+    {
+        "groupId":5914, "zone":"head", "category":"faceAccessory", "security":"64eab90b9ce412b5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Máscara",
+        "outfitName":"Cyber Hero",
+        "variations":[
+            {"id":5914, "colors":["black","orange","purple"]},
+            {"id":5915, "colors":["black","blue","white"]},
+            {"id":5916, "colors":["black","orange","pink"]},
+            {"id":5917, "colors":["black","blue","green"]},
+            {"id":5918, "colors":["black","pink","yellow"]},
+            {"id":5919, "colors":["black","grey","red"]},
+            {"id":5920, "colors":["black","blue","green"]},
+            {"id":5921, "colors":["black","grey","purple"]},
+            {"id":5922, "colors":["black","blue","orange"]},
+            {"id":5923, "colors":["black","grey","red"]}
+        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "groupId":5924, "zone":"head", "category":"wig", "security":"5bf0755235ffd0e9", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Cyber Hero",
+        "variations":[
+            {"id":5924, "colors":["black","orange"]},
+            {"id":5925, "colors":["black","white"]},
+            {"id":5926, "colors":["black","pink"]},
+            {"id":5927, "colors":["black","blue"]},
+            {"id":5928, "colors":["black","yellow"]},
+            {"id":5929, "colors":["black","grey"]},
+            {"id":5930, "colors":["black","green"]},
+            {"id":5931, "colors":["black","purple"]},
+            {"id":5932, "colors":["black","blue"]},
+            {"id":5933, "colors":["black","red"]}
+        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "groupId":5934, "zone":"torso_waistToKnee", "category":"underwear", "security":"0c01f6e05c969da2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Cyber Hero",
+        "variations":[
+            {"id":5934, "colors":["black","purple"]},
+            {"id":5935, "colors":["black","blue"]},
+            {"id":5936, "colors":["black","yellow"]},
+            {"id":5937, "colors":["black","green"]},
+            {"id":5938, "colors":["black","pink"]},
+            {"id":5939, "colors":["black","red"]},
+            {"id":5940, "colors":["black","blue"]},
+            {"id":5941, "colors":["black","white"]},
+            {"id":5942, "colors":["black","orange"]},
+            {"id":5943, "colors":["black","grey"]}
+        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "groupId":5944, "zone":"waistToKnee", "category":"pants", "security":"877571b2f6c29ad1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Cyber Hero",
+        "variations":[
+            {"id":5944, "colors":["black","purple"]},
+            {"id":5945, "colors":["black","blue"]},
+            {"id":5946, "colors":["black","yellow"]},
+            {"id":5947, "colors":["black","green"]},
+            {"id":5948, "colors":["black","pink"]},
+            {"id":5949, "colors":["black","red"]},
+            {"id":5950, "colors":["black","blue"]},
+            {"id":5951, "colors":["black","white"]},
+            {"id":5952, "colors":["black","orange"]},
+            {"id":5953, "colors":["black","grey"]}
+        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "groupId":5954, "zone":"feet", "category":"shoes", "security":"cbdc963a34df66be", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Cyber Hero",
+        "variations":[
+            {"id":5954, "colors":["black","purple"]},
+            {"id":5955, "colors":["black","blue"]},
+            {"id":5956, "colors":["black","yellow"]},
+            {"id":5957, "colors":["black","green"]},
+            {"id":5958, "colors":["black","pink"]},
+            {"id":5959, "colors":["black","red"]},
+            {"id":5960, "colors":["black","blue"]},
+            {"id":5961, "colors":["black","white"]},
+            {"id":5962, "colors":["black","orange"]},
+            {"id":5963, "colors":["black","grey"]}
+        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "groupId":5964, "zone":"arms", "category":"gloves", "security":"e243abbc6d579a1b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Cyber Hero",
+        "variations":[
+            {"id":5964, "colors":["black","purple"]},
+            {"id":5965, "colors":["black","blue"]},
+            {"id":5966, "colors":["black", "yellow"]},
+            {"id":5967, "colors":["black","green"]},
+            {"id":5968, "colors":["black","pink"]},
+            {"id":5969, "colors":["black","red"]},
+            {"id":5970, "colors":["black","blue"]},
+            {"id":5971, "colors":["black","white"]},
+            {"id":5972, "colors":["black","orange"]},
+            {"id":5973, "colors":["black","grey"]}
+        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "groupId":5974, "zone":"torso_waistToKnee", "category":"waist", "security":"7ea07a3b6ee7a50f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Cyber Hero",
+        "variations":[
+            {"id":5974, "colors":["black","purple"]},
+            {"id":5975, "colors":["black","blue"]},
+            {"id":5976, "colors":["black","yellow"]},
+            {"id":5977, "colors":["black","green"]},
+            {"id":5978, "colors":["black","pink"]},
+            {"id":5979, "colors":["black","red"]},
+            {"id":5980, "colors":["black","blue"]},
+            {"id":5981, "colors":["black","white"]},
+            {"id":5982, "colors":["black","orange"]},
+            {"id":5983, "colors":["black","grey"]}
+        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "groupId":5984, "zone":"torso", "category":"jacket", "security":"1eb3f7336ccc25a9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Cyber Hero",
+        "variations":[
+            {"id":5984, "colors":["black","purple"]},
+            {"id":5985, "colors":["black","blue"]},
+            {"id":5986, "colors":["black","yellow"]},
+            {"id":5987, "colors":["black","green"]},
+            {"id":5988, "colors":["black","pink"]},
+            {"id":5989, "colors":["black","red"]},
+            {"id":5990, "colors":["black","blue"]},
+            {"id":5991, "colors":["black","white"]},
+            {"id":5992, "colors":["black","brown","orange"]},
+            {"id":5993, "colors":["black","grey"]}
+        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "groupId":5994, "zone":"head", "category":"hat", "security":"4d8768d6529c8449", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Capucha",
+        "outfitName":"Cyber Hero",
+        "variations":[
+            {"id":5994, "colors":["black","purple"]},
+            {"id":5995, "colors":["black","blue"]},
+            {"id":5996, "colors":["black","yellow"]},
+            {"id":5997, "colors":["black","green"]},
+            {"id":5998, "colors":["black","pink"]},
+            {"id":5999, "colors":["black","red"]},
+            {"id":6000, "colors":["black","blue"]},
+            {"id":6001, "colors":["black","white"]},
+            {"id":6002, "colors":["black","orange"]},
+            {"id":6003, "colors":["black","grey"]}
+        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "groupId":6004, "zone":"general", "category":"other", "security":"3e8b7eac74271a46", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Portal",
+        "outfitName":"Cyber Hero",
+        "variations":[
+            {"id":6004, "colors":["blue","purple"]},
+            {"id":6005, "colors":["blue"]},
+            {"id":6006, "colors":["pink","orange"]},
+            {"id":6007, "colors":["purple","green"]},
+            {"id":6008, "colors":["yellow","pink"]},
+            {"id":6009, "colors":["grey","red"]},
+            {"id":6010, "colors":["green","yellow"]},
+            {"id":6011, "colors":["white","pink"]},
+            {"id":6012, "colors":["red","purple"]},
+            {"id":6013, "colors":["black","blue"]}
+        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    
 
 
     {
@@ -8465,7 +8636,7 @@
     },
     {
         "groupId":7172, "zone":"face", "category":"makeup", "security":"9eb406d1042b8d83", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Blush",
+        "name":"Colorete",
         "outfitName":"K-Glow",
         "variations":[
             {"id":7172, "colors":["pink"]},

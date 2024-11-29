@@ -1352,6 +1352,46 @@
         "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
+        "id":267, "roomId":61, "slot":"background", "light":true, "security":"c7ae74fcb0a549d8",
+        "name":"Paredes",
+        "roomName":"Cyber Vault",
+        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        "backgroundColors":{
+            "day":{"color1":"9BF7FF","color2":"6E8B9F","colorLight":"0DACB9"},
+            "night":{"color1":"D488F3","color2":"6D7593","colorLight":"46097B"}
+        }
+    },
+    {
+        "id":268, "roomId":61, "slot":"slot1", "light":true, "security":"637f277a8dc5f817",
+        "name":"Puerta",
+        "roomName":"Cyber Vault",
+        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "id":269, "roomId":61, "slot":"slot2", "light":true, "security":"5edbf55205ae687c",
+        "name":"Ordenador",
+        "roomName":"Cyber Vault",
+        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "id":270, "roomId":61, "slot":"slot3", "light":true, "security":"1bf8fd372029deb7",
+        "name":"Cofre",
+        "roomName":"Cyber Vault",
+        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "id":271, "roomId":61, "slot":"slot4", "light":false, "security":"c372757abe8621d1",
+        "name":"Estación de poleas",
+        "roomName":"Cyber Vault",
+        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
+        "id":272, "roomId":61, "slot":"slot5", "light":false, "security":"5cf1f64db44a4900",
+        "name":"Maniquí de entrenamiento",
+        "roomName":"Cyber Vault",
+        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
         "id":273, "roomId":62, "slot":"background", "light":true, "security":"b346ffe908a3fcdb",
         "name":"Entorno",
         "roomName":"Divine Blessing",

@@ -112,6 +112,10 @@
         "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
+        "id":35, "security":"f4b08bd1fe857d30", "name":"Robin Goose",
+        "criteria":{"type":"gameEvent", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+    },
+    {
         "id":37, "security":"5d5d57ba51557dc0", "name":"Divine Blessing",
         "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
     },
