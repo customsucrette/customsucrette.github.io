@@ -88,6 +88,10 @@
         "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
     },
     {
+        "id":26, "security":"fc0bb99b60d8628a", "name":"Vroom Vroom",
+        "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
         "id":27, "security":"699a1c9ef0887c7c", "name":"D.B. Gooser",
         "criteria":null
     },

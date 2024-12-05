@@ -1997,6 +1997,46 @@
             {"id":1226, "colors":["blue"]}
         ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
+
+    
+
+    {
+        "groupId":1327, "zone":"head", "category":"earring", "security":"943f59e745d39ee2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1327, "colors":["white"]},
+            {"id":1328, "colors":["red"]},
+            {"id":1329, "colors":["blue"]},
+            {"id":1330, "colors":["purple"]},
+            {"id":1331, "colors":["brown"]},
+            {"id":1332, "colors":["brown"]},
+            {"id":1333, "colors":["yellow"]},
+            {"id":1334, "colors":["green"]},
+            {"id":1335, "colors":["black"]},
+            {"id":1336, "colors":["pink"]}
+        ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
+
+
+
+    {
+        "groupId":1369, "zone":"torso", "category":"jacket", "security":"ab7ba4d97c82ae2c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cazadora",
+        "outfitName":"Biker Soul",
+        "variations":[
+            {"id":1369, "colors":["black"]},
+            {"id":1370, "colors":["blue"]},
+            {"id":1371, "colors":["grey"]},
+            {"id":1372, "colors":["pink"]},
+            {"id":1373, "colors":["white"]},
+            {"id":1374, "colors":["brown"]},
+            {"id":1375, "colors":["green"]},
+            {"id":1376, "colors":["orange"]},
+            {"id":1377, "colors":["yellow"]},
+            {"id":1378, "colors":["red"]}
+        ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
     {
         "groupId":1379, "zone":"feet", "category":"shoes", "security":"563a6e4e4c5cb30c", "multiLayered":false, "layerBehavior":"normal",
         "name":"Zapatos",
@@ -2201,6 +2241,102 @@
             {"id":1498, "colors":["white"]}
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
+
+    {
+        "groupId":1589, "zone":"arms", "category":"bag", "security":"8f23311e7f2c5c28", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cetro",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1589, "colors":["pink","multi"]},
+            {"id":1590, "colors":["purple","multi"]},
+            {"id":1591, "colors":["green","multi"]},
+            {"id":1592, "colors":["yellow","multi"]},
+            {"id":1593, "colors":["blue","multi"]},
+            {"id":1594, "colors":["green","multi"]},
+            {"id":1595, "colors":["purple","multi"]},
+            {"id":1596, "colors":["purple","multi"]},
+            {"id":1597, "colors":["grey","multi"]},
+            {"id":1598, "colors":["black","multi"]}
+        ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
+
+
+    {
+        "groupId":1649, "zone":"head", "category":"faceAccessory", "security":"a6c525f5d293415f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1649, "colors":["blue","purple","multi"]},
+            {"id":1650, "colors":["yellow","pink","multi"]},
+            {"id":1651, "colors":["red","black","multi"]},
+            {"id":1652, "colors":["pink","orange","multi"]},
+            {"id":1653, "colors":["yellow","green","multi"]},
+            {"id":1654, "colors":["green","purple","multi"]},
+            {"id":1655, "colors":["purple","multi"]},
+            {"id":1656, "colors":["blue","green","multi"]},
+            {"id":1657, "colors":["black","red","multi"]},
+            {"id":1658, "colors":["blue","purple","multi"]}
+        ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
+    {
+        "groupId":1659, "zone":"general", "category":"other", "security":"a61cda793caa78d5", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pantallas",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1659, "colors":["blue"]},
+            {"id":1660, "colors":["orange"]},
+            {"id":1661, "colors":["red"]},
+            {"id":1662, "colors":["pink"]},
+            {"id":1663, "colors":["yellow"]},
+            {"id":1664, "colors":["green"]},
+            {"id":1665, "colors":["purple"]},
+            {"id":1666, "colors":["blue"]},
+            {"id":1667, "colors":["black"]},
+            {"id":1668, "colors":["green"]}
+        ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
+
+
+    {
+        "groupId":1689, "zone":"torso", "category":"top", "security":"4c0b88c56826f392", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Playing in the Rain",
+        "variations":[
+            {"id":1689, "colors":["white","blue"]},
+            {"id":1690, "colors":["white","blue"]},
+            {"id":1691, "colors":["white","brown"]},
+            {"id":1692, "colors":["yellow","red"]},
+            {"id":1693, "colors":["white","yellow"]},
+            {"id":1694, "colors":["yellow","pink"]},
+            {"id":1695, "colors":["black","grey"]},
+            {"id":1696, "colors":["blue","pink"]},
+            {"id":1697, "colors":["blue","purple"]},
+            {"id":1698, "colors":["green","black"]}
+        ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
+
+
+
+
+    {
+        "groupId":1709, "zone":"torso", "category":"jacket", "security":"97731a42d00a63ba", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Impermeable",
+        "outfitName":"Playing in the Rain",
+        "variations":[
+            {"id":1709, "colors":["yellow"]},
+            {"id":1710, "colors":["green"]},
+            {"id":1711, "colors":["red"]},
+            {"id":1712, "colors":["purple"]},
+            {"id":1713, "colors":["pink"]},
+            {"id":1714, "colors":["blue"]},
+            {"id":1715, "colors":["brown"]},
+            {"id":1716, "colors":["white"]},
+            {"id":1717, "colors":["blue"]},
+            {"id":1718, "colors":["black"]}
+        ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
+
+
     {
         "groupId":1830, "zone":"torso", "category":"top", "security":"06ba72889f4971ce", "multiLayered":false, "layerBehavior":"normal",
         "name":"Bustier",
@@ -2269,6 +2405,32 @@
             {"id":1879, "colors":["white","black"]}
         ], "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
+
+
+    {
+        "groupId":1890, "zone":"feet", "category":"shoes", "security":"55f7795da38caa2d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatillas",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1890, "colors":["pink","multi"]},
+            {"id":1891, "colors":["orange","multi"]},
+            {"id":1892, "colors":["yellow","multi"]},
+            {"id":1893, "colors":["blue","multi"]},
+            {"id":1894, "colors":["purple","multi"]},
+            {"id":1895, "colors":["green","multi"]},
+            {"id":1896, "colors":["brown","multi"]},
+            {"id":1897, "colors":["black"]},
+            {"id":1898, "colors":["white"]},
+            {"id":1899, "colors":["red","multi"]}
+        ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
+
+
+
+
+
+
+
     {
         "groupId":1940, "zone":"head", "category":"hat", "security":"7b9512ee4abd6f2f", "multiLayered":true, "layerBehavior":"normal",
         "name":"Orejas de gato",
@@ -6627,6 +6789,210 @@
             {"id":4709, "colors":["blue","black"]},
             {"id":4710, "colors":["green","white"]}
         ], "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
+    },
+    {
+        "groupId":4711, "zone":"torso", "category":"underwear", "security":"ae409317e140aab9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Fit for Speed",
+        "variations":[
+            {"id":4711, "colors":["black"]},
+            {"id":4712, "colors":["red"]},
+            {"id":4713, "colors":["green"]},
+            {"id":4714, "colors":["white"]},
+            {"id":4715, "colors":["yellow"]},
+            {"id":4716, "colors":["pink"]},
+            {"id":4717, "colors":["blue"]},
+            {"id":4718, "colors":["purple"]},
+            {"id":4719, "colors":["brown"]},
+            {"id":4720, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4721, "zone":"torso", "category":"top", "security":"6a858a50385034e9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Fit for Speed",
+        "variations":[
+            {"id":4721, "colors":["black"]},
+            {"id":4722, "colors":["red"]},
+            {"id":4723, "colors":["green"]},
+            {"id":4724, "colors":["white"]},
+            {"id":4725, "colors":["yellow"]},
+            {"id":4726, "colors":["pink"]},
+            {"id":4727, "colors":["blue"]},
+            {"id":4728, "colors":["purple"]},
+            {"id":4729, "colors":["orange"]},
+            {"id":4730, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4731, "zone":"waistToKnee", "category":"pants", "security":"e1d0341328a7bf93", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Fit for Speed",
+        "variations":[
+            {"id":4731, "colors":["black"]},
+            {"id":4732, "colors":["red"]},
+            {"id":4733, "colors":["green"]},
+            {"id":4734, "colors":["white"]},
+            {"id":4735, "colors":["yellow"]},
+            {"id":4736, "colors":["pink"]},
+            {"id":4737, "colors":["blue"]},
+            {"id":4738, "colors":["purple"]},
+            {"id":4739, "colors":["brown"]},
+            {"id":4740, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4741, "zone":"torso", "category":"jacket", "security":"417e9bc2ea8e9b0e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cazadora",
+        "outfitName":"Fit for Speed",
+        "variations":[
+            {"id":4741, "colors":["white","black"]},
+            {"id":4742, "colors":["red","black"]},
+            {"id":4743, "colors":["green","black"]},
+            {"id":4744, "colors":["grey","white"]},
+            {"id":4745, "colors":["yellow","black"]},
+            {"id":4746, "colors":["pink","black"]},
+            {"id":4747, "colors":["blue","black"]},
+            {"id":4748, "colors":["purple","black"]},
+            {"id":4749, "colors":["brown","black"]},
+            {"id":4750, "colors":["black"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4751, "zone":"feet", "category":"shoes", "security":"acaa7dccf1168d17", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Fit for Speed",
+        "variations":[
+            {"id":4751, "colors":["black"]},
+            {"id":4752, "colors":["red"]},
+            {"id":4753, "colors":["green"]},
+            {"id":4754, "colors":["white"]},
+            {"id":4755, "colors":["yellow"]},
+            {"id":4756, "colors":["pink"]},
+            {"id":4757, "colors":["blue"]},
+            {"id":4758, "colors":["purple"]},
+            {"id":4759, "colors":["brown"]},
+            {"id":4760, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4761, "zone":"head", "category":"faceAccessory", "security":"6c69f3d57817a3c9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Fit for Speed",
+        "variations":[
+            {"id":4761, "colors":["black"]},
+            {"id":4762, "colors":["red","orange"]},
+            {"id":4763, "colors":["green"]},
+            {"id":4764, "colors":["white","blue"]},
+            {"id":4765, "colors":["yellow"]},
+            {"id":4766, "colors":["pink"]},
+            {"id":4767, "colors":["blue"]},
+            {"id":4768, "colors":["purple"]},
+            {"id":4769, "colors":["brown"]},
+            {"id":4770, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4771, "zone":"feet", "category":"socks", "security":"8855f78e36a7cfc4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Color Blur",
+        "variations":[
+            {"id":4771, "colors":["grey"]},
+            {"id":4772, "colors":["black"]},
+            {"id":4773, "colors":["brown"]},
+            {"id":4774, "colors":["orange"]},
+            {"id":4775, "colors":["red"]},
+            {"id":4776, "colors":["white"]},
+            {"id":4777, "colors":["pink"]},
+            {"id":4778, "colors":["yellow"]},
+            {"id":4779, "colors":["green"]},
+            {"id":4780, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4781, "zone":"feet", "category":"shoes", "security":"b922c314f60bd661", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Color Blur",
+        "variations":[
+            {"id":4781, "colors":["orange"]},
+            {"id":4782, "colors":["red"]},
+            {"id":4783, "colors":["purple"]},
+            {"id":4784, "colors":["brown"]},
+            {"id":4785, "colors":["black"]},
+            {"id":4786, "colors":["pink"]},
+            {"id":4787, "colors":["white"]},
+            {"id":4788, "colors":["yellow"]},
+            {"id":4789, "colors":["green"]},
+            {"id":4790, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4791, "zone":"torso", "category":"top", "security":"5c9cc39a5b4a9bee", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Color Blur",
+        "variations":[
+            {"id":4791, "colors":["black"]},
+            {"id":4792, "colors":["blue"]},
+            {"id":4793, "colors":["purple"]},
+            {"id":4794, "colors":["orange"]},
+            {"id":4795, "colors":["red"]},
+            {"id":4796, "colors":["white"]},
+            {"id":4797, "colors":["pink"]},
+            {"id":4798, "colors":["green"]},
+            {"id":4799, "colors":["yellow"]},
+            {"id":4800, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4801, "zone":"waistToKnee", "category":"pants", "security":"519d4110881ed669", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shorts",
+        "outfitName":"Color Blur",
+        "variations":[
+            {"id":4801, "colors":["black"]},
+            {"id":4802, "colors":["blue"]},
+            {"id":4803, "colors":["brown"]},
+            {"id":4804, "colors":["grey"]},
+            {"id":4805, "colors":["blue"]},
+            {"id":4806, "colors":["blue"]},
+            {"id":4807, "colors":["white"]},
+            {"id":4808, "colors":["brown"]},
+            {"id":4809, "colors":["red"]},
+            {"id":4810, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4811, "zone":"torso", "category":"jacket", "security":"6c538a83492fbc24", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cazadora perfecto",
+        "outfitName":"Color Blur",
+        "variations":[
+            {"id":4811, "colors":["white","multi"]},
+            {"id":4812, "colors":["red","multi"]},
+            {"id":4813, "colors":["orange","multi"]},
+            {"id":4814, "colors":["brown","multi"]},
+            {"id":4815, "colors":["black","multi"]},
+            {"id":4816, "colors":["pink","multi"]},
+            {"id":4817, "colors":["blue","multi"]},
+            {"id":4818, "colors":["yellow","multi"]},
+            {"id":4819, "colors":["green","multi"]},
+            {"id":4820, "colors":["blue","multi"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
+    },
+    {
+        "groupId":4821, "zone":"head", "category":"earring", "security":"4f37da6a487f6b14", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Color Blur",
+        "variations":[
+            {"id":4821, "colors":["yellow"]},
+            {"id":4822, "colors":["red"]},
+            {"id":4823, "colors":["orange"]},
+            {"id":4824, "colors":["black","grey"]},
+            {"id":4825, "colors":["purple"]},
+            {"id":4826, "colors":["blue"]},
+            {"id":4827, "colors":["white"]},
+            {"id":4828, "colors":["green"]},
+            {"id":4829, "colors":["green"]},
+            {"id":4830, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
     },
 
 

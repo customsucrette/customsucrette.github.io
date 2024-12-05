@@ -716,6 +716,16 @@
         "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
+        "id":111, "roomId":35, "slot":"background", "light":true, "security":"5a8e7a085e44b52d",
+        "name":"Paredes",
+        "roomName":"Warm Winter",
+        "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"},
+        "backgroundColors":{
+            "day":{"color1":"F9DCD2", "color2":"E0CECE", "colorLight":"773108"},
+            "night":{"color1":"6EAFFF", "color2":"659CEF", "colorLight":"020F6F"}
+        }
+    },
+    {
         "id":112, "roomId":35, "slot":"slot5", "light":false, "security":"a741eb126483d751",
         "name":"Pufs",
         "roomName":"Warm Winter",
@@ -734,10 +744,28 @@
         "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
     {
+        "id":115, "roomId":35, "slot":"slot2", "light":false, "security":"3692deab4911c8f6",
+        "name":"Cama",
+        "roomName":"Warm Winter",
+        "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+    },
+    {
         "id":116, "roomId":35, "slot":"slot1", "light":true, "security":"ab9feb9da7a0c2e5",
         "name":"Chimenea",
         "roomName":"Warm Winter",
         "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
+    },
+    {
+        "id":127, "roomId":37, "slot":"slot2", "light":true, "security":"b9057d50c6878173",
+        "name":"Sofá",
+        "roomName":"Quirky Pastels",
+        "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
+    {
+        "id":130, "roomId":38, "slot":"slot5", "light":false, "security":"afbb35077a8cff3e",
+        "name":"Estanque",
+        "roomName":"Zen Vibes",
+        "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
     },
     {
         "id":139, "roomId":39, "slot":"slot2", "light":true, "security":"1fd78e8bd348d331",
