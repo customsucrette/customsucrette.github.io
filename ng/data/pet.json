@@ -134,5 +134,9 @@
     {
         "id":41, "security":"2ff2c5d338d28eaa", "name":"La Goosina",
         "criteria":null
+    },
+    {
+        "id":42, "security":"2d874190e665598e", "name":"Tangloose",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     }
 ]

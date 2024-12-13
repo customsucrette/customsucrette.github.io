@@ -9050,5 +9050,244 @@
             {"id":7200, "colors":["red"]},
             {"id":7201, "colors":["brown"]}
         ], "criteria":null
+    },
+    {
+        "groupId":7202, "zone":"feet", "category":"shoes", "security":"5486275814f4eb02", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Glitter Bomb",
+        "variations":[
+            {"id":7202, "colors":["black"]},
+            {"id":7203, "colors":["white"]},
+            {"id":7204, "colors":["red"]},
+            {"id":7205, "colors":["yellow","orange"]},
+            {"id":7206, "colors":["purple"]},
+            {"id":7207, "colors":["blue"]},
+            {"id":7208, "colors":["pink"]},
+            {"id":7209, "colors":["green"]},
+            {"id":7210, "colors":["grey"]},
+            {"id":7211, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2024-9", "text":"Desbloqueado en el calendario\nN°09 - 2024"}
+    },
+    {
+        "groupId":7212, "zone":"torso_waistToKnee", "category":"dress", "security":"2d74ec5f4ff80702", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mono",
+        "outfitName":"Glitter Bomb",
+        "variations":[
+            {"id":7212, "colors":["blue"]},
+            {"id":7213, "colors":["white"]},
+            {"id":7214, "colors":["red"]},
+            {"id":7215, "colors":["yellow","orange"]},
+            {"id":7216, "colors":["purple"]},
+            {"id":7217, "colors":["black"]},
+            {"id":7218, "colors":["pink"]},
+            {"id":7219, "colors":["green"]},
+            {"id":7220, "colors":["grey"]},
+            {"id":7221, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2024-9", "text":"Desbloqueado en el calendario\nN°09 - 2024"}
+    },
+
+    {
+        "groupId":7222, "zone":"torso", "category":"jacket", "security":"24045c2d1c771a0f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Glitter Bomb",
+        "variations":[
+            {"id":7222, "colors":["yellow","orange"]},
+            {"id":7223, "colors":["red"]},
+            {"id":7224, "colors":["black"]},
+            {"id":7225, "colors":["blue","green"]},
+            {"id":7226, "colors":["white","blue"]},
+            {"id":7227, "colors":["pink"]},
+            {"id":7228, "colors":["purple"]},
+            {"id":7229, "colors":["brown","orange"]},
+            {"id":7230, "colors":["blue"]},
+            {"id":7231, "colors":["grey"]}
+        ], "criteria":{"type":"calendar", "info":"2024-9", "text":"Desbloqueado en el calendario\nN°09 - 2024"}
+    },
+    {
+        "groupId":7232, "zone":"torso_waistToKnee", "category":"waist", "security":"5d94b97cd04ff155", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Glitter Bomb",
+        "variations":[
+            {"id":7232, "colors":["black"]},
+            {"id":7233, "colors":["white"]},
+            {"id":7234, "colors":["red"]},
+            {"id":7235, "colors":["yellow","orange"]},
+            {"id":7236, "colors":["purple"]},
+            {"id":7237, "colors":["blue"]},
+            {"id":7238, "colors":["pink"]},
+            {"id":7239, "colors":["green"]},
+            {"id":7240, "colors":["grey"]},
+            {"id":7241, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2024-9", "text":"Desbloqueado en el calendario\nN°09 - 2024"}
+    },
+    {
+        "groupId":7242, "zone":"arms", "category":"bag", "security":"f59e0124ded71f8f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso de mano",
+        "outfitName":"Glitter Bomb",
+        "variations":[
+            {"id":7242, "colors":["blue"]},
+            {"id":7243, "colors":["white"]},
+            {"id":7244, "colors":["red"]},
+            {"id":7245, "colors":["yellow","orange"]},
+            {"id":7246, "colors":["purple"]},
+            {"id":7247, "colors":["black"]},
+            {"id":7248, "colors":["pink"]},
+            {"id":7249, "colors":["green"]},
+            {"id":7250, "colors":["grey"]},
+            {"id":7251, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2024-9", "text":"Desbloqueado en el calendario\nN°09 - 2024"}
+    },
+    {
+        "groupId":7252, "zone":"head", "category":"earring", "security":"4f83b9037e3389bb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Glitter Bomb",
+        "variations":[
+            {"id":7252, "colors":["black","yellow"]},
+            {"id":7253, "colors":["white","yellow"]},
+            {"id":7254, "colors":["red","yellow"]},
+            {"id":7255, "colors":["yellow"]},
+            {"id":7256, "colors":["grey","purple"]},
+            {"id":7257, "colors":["grey","blue"]},
+            {"id":7258, "colors":["pink","grey"]},
+            {"id":7259, "colors":["yellow","green"]},
+            {"id":7260, "colors":["grey"]},
+            {"id":7261, "colors":["grey","blue"]}
+        ], "criteria":{"type":"calendar", "info":"2024-9", "text":"Desbloqueado en el calendario\nN°09 - 2024"}
+    },
+    {
+        "groupId":7262, "zone":"feet", "category":"socks", "security":"20c442f08db7b556", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Medias",
+        "outfitName":"Sliding into the Christmas Spirit",
+        "variations":[
+            {"id":7262, "colors":["black"]},
+            {"id":7263, "colors":["red"]},
+            {"id":7264, "colors":["green"]},
+            {"id":7265, "colors":["blue"]},
+            {"id":7266, "colors":["pink"]},
+            {"id":7267, "colors":["brown"]},
+            {"id":7268, "colors":["purple"]},
+            {"id":7269, "colors":["grey"]},
+            {"id":7270, "colors":["white"]},
+            {"id":7271, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":7272, "zone":"feet", "category":"shoes", "security":"e4a4bf97530f286d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Patines",
+        "outfitName":"Sliding into the Christmas Spirit",
+        "variations":[
+            {"id":7272, "colors":["white"]},
+            {"id":7273, "colors":["black"]},
+            {"id":7274, "colors":["green"]},
+            {"id":7275, "colors":["red"]},
+            {"id":7276, "colors":["blue"]},
+            {"id":7277, "colors":["purple"]},
+            {"id":7278, "colors":["yellow"]},
+            {"id":7279, "colors":["brown"]},
+            {"id":7280, "colors":["brown"]},
+            {"id":7281, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":7282, "zone":"waistToKnee", "category":"skirt", "security":"c890e97b72635ba5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Sliding into the Christmas Spirit",
+        "variations":[
+            {"id":7282, "colors":["red","green","multi"]},
+            {"id":7283, "colors":["black","brown","multi"]},
+            {"id":7284, "colors":["green","brown","multi"]},
+            {"id":7285, "colors":["white","blue","multi"]},
+            {"id":7286, "colors":["blue","pink","multi"]},
+            {"id":7287, "colors":["purple","blue","multi"]},
+            {"id":7288, "colors":["yellow","green","multi"]},
+            {"id":7289, "colors":["brown","yellow","multi"]},
+            {"id":7290, "colors":["yellow","pink","multi"]},
+            {"id":7291, "colors":["pink","blue","multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":7292, "zone":"torso", "category":"top", "security":"cd0b04d62fd1e852", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jersey",
+        "outfitName":"Sliding into the Christmas Spirit",
+        "variations":[
+            {"id":7292, "colors":["white","red"]},
+            {"id":7293, "colors":["red","black"]},
+            {"id":7294, "colors":["green"]},
+            {"id":7295, "colors":["blue","white"]},
+            {"id":7296, "colors":["pink","blue"]},
+            {"id":7297, "colors":["yellow","purple"]},
+            {"id":7298, "colors":["purple","yellow"]},
+            {"id":7299, "colors":["grey","brown"]},
+            {"id":7300, "colors":["black","brown"]},
+            {"id":7301, "colors":["yellow","blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":7302, "zone":"torso", "category":"jacket", "security":"389e7b28c2cc4bae", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Abrigo",
+        "outfitName":"Sliding into the Christmas Spirit",
+        "variations":[
+            {"id":7302, "colors":["red"]},
+            {"id":7303, "colors":["black"]},
+            {"id":7304, "colors":["green"]},
+            {"id":7305, "colors":["white"]},
+            {"id":7306, "colors":["blue"]},
+            {"id":7307, "colors":["purple"]},
+            {"id":7308, "colors":["yellow"]},
+            {"id":7309, "colors":["brown"]},
+            {"id":7310, "colors":["brown"]},
+            {"id":7311, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":7312, "zone":"arms", "category":"bag", "security":"d591e12fd55a3cf4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Sliding into the Christmas Spirit",
+        "variations":[
+            {"id":7312, "colors":["brown"]},
+            {"id":7313, "colors":["white"]},
+            {"id":7314, "colors":["brown"]},
+            {"id":7315, "colors":["pink"]},
+            {"id":7316, "colors":["black"]},
+            {"id":7317, "colors":["blue"]},
+            {"id":7318, "colors":["purple"]},
+            {"id":7319, "colors":["brown"]},
+            {"id":7320, "colors":["brown"]},
+            {"id":7321, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":7322, "zone":"head", "category":"hat", "security":"38f8667b52eef530", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gorro",
+        "outfitName":"Sliding into the Christmas Spirit",
+        "variations":[
+            {"id":7322, "colors":["red"]},
+            {"id":7323, "colors":["black"]},
+            {"id":7324, "colors":["green"]},
+            {"id":7325, "colors":["white"]},
+            {"id":7326, "colors":["blue"]},
+            {"id":7327, "colors":["purple"]},
+            {"id":7328, "colors":["yellow"]},
+            {"id":7329, "colors":["brown"]},
+            {"id":7330, "colors":["brown"]},
+            {"id":7331, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":7332, "zone":"face", "category":"neckAccessory", "security":"86f7c43e841836b2", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Bufanda",
+        "outfitName":"Sliding into the Christmas Spirit",
+        "variations":[
+            {"id":7332, "colors":["red"]},
+            {"id":7333, "colors":["black"]},
+            {"id":7334, "colors":["green"]},
+            {"id":7335, "colors":["white"]},
+            {"id":7336, "colors":["blue"]},
+            {"id":7337, "colors":["purple"]},
+            {"id":7338, "colors":["yellow"]},
+            {"id":7339, "colors":["brown"]},
+            {"id":7340, "colors":["brown"]},
+            {"id":7341, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     }
 ]
