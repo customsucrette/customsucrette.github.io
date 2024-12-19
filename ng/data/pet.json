@@ -120,6 +120,10 @@
         "criteria":{"type":"gameEvent", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
     },
     {
+        "id":36, "security":"01d59c6343aa0c3b", "name":"Do You Want to Build a Snowgoose?",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+    },
+    {
         "id":37, "security":"5d5d57ba51557dc0", "name":"Divine Blessing",
         "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
     },

@@ -8005,7 +8005,7 @@
     },
     {
         "groupId":5823, "zone":"general", "category":"other", "security":"e142e86662c6b168", "multiLayered":false, "layerBehavior":"normal",
-        "name":"\nLibro de hechizos\n",
+        "name":"Libro de hechizos",
         "outfitName":"Delicate Witch",
         "variations":[
             {"id":5823, "colors":["blue"]},
@@ -8334,7 +8334,411 @@
             {"id":6013, "colors":["black","blue"]}
         ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
     },
-    
+    {
+        "groupId":6014, "zone":"feet", "category":"shoes", "security":"604ee130f38c3132", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Nutcracker's Reverie",
+        "variations":[
+            {"id":6014, "colors":["pink","blue"]},
+            {"id":6015, "colors":["red","green"]},
+            {"id":6016, "colors":["red","blue"]},
+            {"id":6017, "colors":["white","blue"]},
+            {"id":6018, "colors":["grey","black"]},
+            {"id":6019, "colors":["yellow","pink"]},
+            {"id":6020, "colors":["blue","purple"]},
+            {"id":6021, "colors":["purple","yellow"]},
+            {"id":6022, "colors":["blue","white"]},
+            {"id":6023, "colors":["brown","blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6024, "zone":"waistToKnee", "category":"skirt", "security":"ce3886076903455c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Nutcracker's Reverie",
+        "variations":[
+            {"id":6024, "colors":["pink","blue"]},
+            {"id":6025, "colors":["red","green"]},
+            {"id":6026, "colors":["red","blue"]},
+            {"id":6027, "colors":["white","blue"]},
+            {"id":6028, "colors":["black","grey"]},
+            {"id":6029, "colors":["yellow","pink"]},
+            {"id":6030, "colors":["blue","purple"]},
+            {"id":6031, "colors":["purple","yellow"]},
+            {"id":6032, "colors":["blue","white"]},
+            {"id":6033, "colors":["brown","blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6034, "zone":"torso", "category":"jacket", "security":"92ef1beacaf5668e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Nutcracker's Reverie",
+        "variations":[
+            {"id":6034, "colors":["blue","golden","pink"]},
+            {"id":6035, "colors":["golden","green","red"]},
+            {"id":6036, "colors":["blue","golden","red"]},
+            {"id":6037, "colors":["blue","golden","white"]},
+            {"id":6038, "colors":["black","golden","grey"]},
+            {"id":6039, "colors":["golden","pink","yellow"]},
+            {"id":6040, "colors":["blue","purple","silver"]},
+            {"id":6041, "colors":["purple","silver","yellow"]},
+            {"id":6042, "colors":["blue","silver","white"]},
+            {"id":6043, "colors":["blue","brown","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6044, "zone":"arms", "category":"bag", "security":"b3df3417566c67c7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lance",
+        "outfitName":"Nutcracker's Reverie",
+        "variations":[
+            {"id":6044, "colors":["golden","pink","silver"]},
+            {"id":6045, "colors":["golden","green","silver"]},
+            {"id":6046, "colors":["golden","red","silver"]},
+            {"id":6047, "colors":["golden","silver","white"]},
+            {"id":6048, "colors":["black","golden","silver"]},
+            {"id":6049, "colors":["golden","silver","yellow"]},
+            {"id":6050, "colors":["blue","silver"]},
+            {"id":6051, "colors":["purple","silver"]},
+            {"id":6052, "colors":["blue","silver"]},
+            {"id":6053, "colors":["brown","golden","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6054, "zone":"head", "category":"wig", "security":"66c00fea87f24178", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Nutcracker's Reverie",
+        "variations":[
+            {"id":6054, "colors":["brown"]},
+            {"id":6055, "colors":["white"]},
+            {"id":6056, "colors":["black"]},
+            {"id":6057, "colors":["blue"]},
+            {"id":6058, "colors":["blue"]},
+            {"id":6059, "colors":["purple"]},
+            {"id":6060, "colors":["red"]},
+            {"id":6061, "colors":["yellow"]},
+            {"id":6062, "colors":["orange"]},
+            {"id":6063, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6064, "zone":"head", "category":"hat", "security":"959d90c1efdbf08d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gorra",
+        "outfitName":"Nutcracker's Reverie",
+        "variations":[
+            {"id":6064, "colors":["blue","golden","pink"]},
+            {"id":6065, "colors":["golden","green","red"]},
+            {"id":6066, "colors":["blue","golden","red"]},
+            {"id":6067, "colors":["blue","golden","white"]},
+            {"id":6068, "colors":["black","golden","grey"]},
+            {"id":6069, "colors":["golden","pink","yellow"]},
+            {"id":6070, "colors":["blue","purple","silver"]},
+            {"id":6071, "colors":["purple","silver","yellow"]},
+            {"id":6072, "colors":["blue","silver","white"]},
+            {"id":6073, "colors":["blue","brown","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6074, "zone":"feet", "category":"socks", "security":"761dc971d55dd692", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Jolly Merry Elf",
+        "variations":[
+            {"id":6074, "colors":["white","red"]},
+            {"id":6075, "colors":["white","green"]},
+            {"id":6076, "colors":["white","blue"]},
+            {"id":6077, "colors":["white","blue"]},
+            {"id":6078, "colors":["white","black"]},
+            {"id":6079, "colors":["white","pink"]},
+            {"id":6080, "colors":["white","purple"]},
+            {"id":6081, "colors":["white","green"]},
+            {"id":6082, "colors":["white","brown"]},
+            {"id":6083, "colors":["white","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6084, "zone":"feet", "category":"shoes", "security":"5c667cd1bffa2295", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Jolly Merry Elf",
+        "variations":[
+            {"id":6084, "colors":["golden","green","red"]},
+            {"id":6085, "colors":["golden","green","red"]},
+            {"id":6086, "colors":["blue","golden","white"]},
+            {"id":6087, "colors":["blue","silver","white"]},
+            {"id":6088, "colors":["black","golden","grey"]},
+            {"id":6089, "colors":["golden","pink","yellow"]},
+            {"id":6090, "colors":["pink","purple","silver"]},
+            {"id":6091, "colors":["green","purple","silver"]},
+            {"id":6092, "colors":["blue","brown","silver"]},
+            {"id":6093, "colors":["green","silver","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6094, "zone":"torso_waistToKnee", "category":"underwear", "security":"b19f73e3de0b93ea", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Jolly Merry Elf",
+        "variations":[
+            {"id":6094, "colors":["golden","green","white"]},
+            {"id":6095, "colors":["golden","red","white"]},
+            {"id":6096, "colors":["blue","golden","white"]},
+            {"id":6097, "colors":["blue","silver","white"]},
+            {"id":6098, "colors":["black","golden","grey"]},
+            {"id":6099, "colors":["golden","pink","yellow"]},
+            {"id":6100, "colors":["pink","purple","silver"]},
+            {"id":6101, "colors":["green","purple","silver"]},
+            {"id":6102, "colors":["blue","brown","silver"]},
+            {"id":6103, "colors":["green","silver","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6104, "zone":"torso", "category":"jacket", "security":"ae9a1031095e7bae", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Jolly Merry Elf",
+        "variations":[
+            {"id":6104, "colors":["golden","green","red"]},
+            {"id":6105, "colors":["golden","green","red"]},
+            {"id":6106, "colors":["blue","golden","white"]},
+            {"id":6107, "colors":["blue","grey","white"]},
+            {"id":6108, "colors":["black","golden","grey"]},
+            {"id":6109, "colors":["golden","pink","yellow"]},
+            {"id":6110, "colors":["pink","purple","silver"]},
+            {"id":6111, "colors":["green","purple","silver"]},
+            {"id":6112, "colors":["blue","brown","silver"]},
+            {"id":6113, "colors":["green","silver","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6114, "zone":"waistToKnee", "category":"pants", "security":"afc25d71d8be01df", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Short",
+        "outfitName":"Jolly Merry Elf",
+        "variations":[
+            {"id":6114, "colors":["golden","green","red"]},
+            {"id":6115, "colors":["golden","green","red"]},
+            {"id":6116, "colors":["blue","golden","white"]},
+            {"id":6117, "colors":["blue","silver","white"]},
+            {"id":6118, "colors":["black","golden","grey"]},
+            {"id":6119, "colors":["golden","pink","yellow"]},
+            {"id":6120, "colors":["pink","purple","silver"]},
+            {"id":6121, "colors":["green","purple","silver"]},
+            {"id":6122, "colors":["blue","brown","silver"]},
+            {"id":6123, "colors":["green","silver","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6124, "zone":"head", "category":"wig", "security":"f94aefc93b955f37", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Jolly Merry Elf",
+        "variations":[
+            {"id":6124, "colors":["brown"]},
+            {"id":6125, "colors":["white"]},
+            {"id":6126, "colors":["black"]},
+            {"id":6127, "colors":["blue"]},
+            {"id":6128, "colors":["blue"]},
+            {"id":6129, "colors":["purple"]},
+            {"id":6130, "colors":["red"]},
+            {"id":6131, "colors":["yellow"]},
+            {"id":6132, "colors":["orange"]},
+            {"id":6133, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6134, "zone":"head", "category":"hat", "security":"c26569a6b64a8126", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gorro",
+        "outfitName":"Jolly Merry Elf",
+        "variations":[
+            {"id":6134, "colors":["golden","red"]},
+            {"id":6135, "colors":["golden","green"]},
+            {"id":6136, "colors":["blue","golden","white"]},
+            {"id":6137, "colors":["blue","silver"]},
+            {"id":6138, "colors":["black","golden"]},
+            {"id":6139, "colors":["golden","pink"]},
+            {"id":6140, "colors":["purple","silver"]},
+            {"id":6141, "colors":["green","silver"]},
+            {"id":6142, "colors":["brown","silver"]},
+            {"id":6143, "colors":["silver","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6144, "zone":"head", "category":"earring", "security":"79b16449eb0f9f74", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Orejas",
+        "outfitName":"Jolly Merry Elf",
+        "variations":[
+            {"id":6144, "colors":["brown","pink"]},
+            {"id":6145, "colors":["brown"]},
+            {"id":6146, "colors":["brown"]},
+            {"id":6147, "colors":["brown"]},
+            {"id":6148, "colors":["brown","pink"]},
+            {"id":6149, "colors":["brown"]},
+            {"id":6150, "colors":["brown","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":6151, "zone":"general", "category":"tattoo", "security":"1a5c96d6638ac0d3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Escarcha",
+        "outfitName":"Frosty Sovereign",
+        "variations":[
+            {"id":6151, "colors":["blue"]},
+            {"id":6152, "colors":["white"]},
+            {"id":6153, "colors":["black"]},
+            {"id":6154, "colors":["green"]},
+            {"id":6155, "colors":["brown"]},
+            {"id":6156, "colors":["purple"]},
+            {"id":6157, "colors":["blue"]},
+            {"id":6158, "colors":["red"]},
+            {"id":6159, "colors":["yellow"]},
+            {"id":6160, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        
+    },
+    {
+        "groupId":6161, "zone":"torso_waistToKnee", "category":"underwear", "security":"9071e6f5865d447e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Frosty Sovereign",
+        "variations":[
+            {"id":6161, "colors":["blue"]},
+            {"id":6162, "colors":["white"]},
+            {"id":6163, "colors":["black"]},
+            {"id":6164, "colors":["green"]},
+            {"id":6165, "colors":["brown"]},
+            {"id":6166, "colors":["purple"]},
+            {"id":6167, "colors":["blue"]},
+            {"id":6168, "colors":["red"]},
+            {"id":6169, "colors":["yellow"]},
+            {"id":6170, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        
+    },
+    {
+        "groupId":6171, "zone":"feet", "category":"shoes", "security":"43a809f62822a607", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Frosty Sovereign",
+        "variations":[
+            {"id":6171, "colors":["blue"]},
+            {"id":6172, "colors":["white"]},
+            {"id":6173, "colors":["black"]},
+            {"id":6174, "colors":["green"]},
+            {"id":6175, "colors":["brown"]},
+            {"id":6176, "colors":["purple"]},
+            {"id":6177, "colors":["brown"]},
+            {"id":6178, "colors":["red"]},
+            {"id":6179, "colors":["yellow"]},
+            {"id":6180, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        
+    },
+    {
+        "groupId":6181, "zone":"torso_waistToKnee", "category":"dress", "security":"62b2c3541f0b06b8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestidos",
+        "outfitName":"Frosty Sovereign",
+        "variations":[
+            {"id":6181, "colors":["blue","silver"]},
+            {"id":6182, "colors":["golden","white"]},
+            {"id":6183, "colors":["black","golden"]},
+            {"id":6184, "colors":["golden","green"]},
+            {"id":6185, "colors":["brown","golden"]},
+            {"id":6186, "colors":["purple","silver"]},
+            {"id":6187, "colors":["brown","silver"]},
+            {"id":6188, "colors":["golden","red"]},
+            {"id":6189, "colors":["golden","yellow"]},
+            {"id":6190, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        
+    },
+    {
+        "groupId":6191, "zone":"torso", "category":"jacket", "security":"9240438886cbcc67", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Frosty Sovereign",
+        "variations":[
+            {"id":6191, "colors":["blue","silver"]},
+            {"id":6192, "colors":["golden","white"]},
+            {"id":6193, "colors":["black","golden"]},
+            {"id":6194, "colors":["golden","green"]},
+            {"id":6195, "colors":["brown","golden"]},
+            {"id":6196, "colors":["purple","silver"]},
+            {"id":6197, "colors":["brown","silver"]},
+            {"id":6198, "colors":["golden","red"]},
+            {"id":6199, "colors":["golden","orange"]},
+            {"id":6200, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        
+    },
+    {
+        "groupId":6201, "zone":"torso", "category":"jacket", "security":"e1b4d8ed050a1039", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Abrigo",
+        "outfitName":"Frosty Sovereign",
+        "variations":[
+            {"id":6201, "colors":["blue","silver"]},
+            {"id":6202, "colors":["golden","white"]},
+            {"id":6203, "colors":["black","golden"]},
+            {"id":6204, "colors":["golden","green"]},
+            {"id":6205, "colors":["brown","golden"]},
+            {"id":6206, "colors":["purple","silver"]},
+            {"id":6207, "colors":["brown","silver"]},
+            {"id":6208, "colors":["golden","red"]},
+            {"id":6209, "colors":["golden"]},
+            {"id":6210, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        
+    },
+    {
+        "groupId":6211, "zone":"head", "category":"wig", "security":"61ee7b1ca2d6323e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Frosty Sovereign",
+        "variations":[
+            {"id":6211, "colors":["brown"]},
+            {"id":6212, "colors":["white"]},
+            {"id":6213, "colors":["black"]},
+            {"id":6214, "colors":["blue"]},
+            {"id":6215, "colors":["blue"]},
+            {"id":6216, "colors":["purple"]},
+            {"id":6217, "colors":["red"]},
+            {"id":6218, "colors":["yellow"]},
+            {"id":6219, "colors":["orange"]},
+            {"id":6220, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        
+    },
+    {
+        "groupId":6221, "zone":"head", "category":"hat", "security":"3cd25d65cd56497a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona",
+        "outfitName":"Frosty Sovereign",
+        "variations":[
+            {"id":6221, "colors":["white"]},
+            {"id":6222, "colors":["blue"]},
+            {"id":6223, "colors":["black"]},
+            {"id":6224, "colors":["green"]},
+            {"id":6225, "colors":["brown"]},
+            {"id":6226, "colors":["purple"]},
+            {"id":6227, "colors":["blue"]},
+            {"id":6228, "colors":["red"]},
+            {"id":6229, "colors":["yellow"]},
+            {"id":6230, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        
+    },
+    {
+        "groupId":6231, "zone":"general", "category":"other", "security":"5697fd7240bb7d34", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lince",
+        "outfitName":"Frosty Sovereign",
+        "variations":[
+            {"id":6231, "colors":["white"]},
+            {"id":6232, "colors":["brown"]},
+            {"id":6233, "colors":["grey","blue"]},
+            {"id":6234, "colors":["brown","green"]},
+            {"id":6235, "colors":["golden","white"]},
+            {"id":6236, "colors":["black","white"]},
+            {"id":6237, "colors":["black"]},
+            {"id":6238, "colors":["brown","grey"]},
+            {"id":6239, "colors":["grey","orange"]},
+            {"id":6240, "colors":["brown","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        
+    },
+    {
+        "groupId":6241, "zone":"general", "category":"other", "security":"f39a1d8278abf676", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Nieve",
+        "outfitName":"Frosty Sovereign",
+        "variations":[
+            {"id":6241, "colors":["white"]}
+        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+    },
 
 
     {
@@ -8577,7 +8981,7 @@
     },
     {
         "groupId":6922, "zone":"waistToKnee", "category":"skirt", "security":"47d1f9d972e83f41", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Falda\n",
+        "name":"Falda",
         "outfitName":"Infernal Embrace",
         "variations":[
             {"id":6922, "colors":["black","yellow"]},

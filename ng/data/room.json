@@ -1540,6 +1540,86 @@
         "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
     },
     {
+        "id":291, "roomId":65, "slot":"background", "light":true, "security":"4d9fe829a5f350c4",
+        "name":"Paredes",
+        "roomName":"Where the Magic of Christmas Happens",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"},
+        "backgroundColors":{
+            "day":{"color1":"E5D3C5","color2":"F1D2BB","colorLight":"70453A"},
+            "night":{"color1":"C9B1D6","color2":"AFB9CF","colorLight":"5A418C"}
+        }
+    },
+    {
+        "id":292, "roomId":65, "slot":"slot1", "light":true, "security":"5d3569a401c10dc6",
+        "name":"Renos",
+        "roomName":"Where the Magic of Christmas Happens",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "id":293, "roomId":65, "slot":"slot2", "light":true, "security":"1bad0cc27d64db90",
+        "name":"Escritorio",
+        "roomName":"Where the Magic of Christmas Happens",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "id":294, "roomId":65, "slot":"slot3", "light":false, "security":"b7fdaf5b9679c388",
+        "name":"Mecedora",
+        "roomName":"Where the Magic of Christmas Happens",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "id":295, "roomId":65, "slot":"slot4", "light":true, "security":"fe01d0577539bc3f",
+        "name":"Abeto",
+        "roomName":"Where the Magic of Christmas Happens",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "id":296, "roomId":65, "slot":"slot5", "light":false, "security":"1bf805982a997494",
+        "name":"Regalos",
+        "roomName":"Where the Magic of Christmas Happens",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "id":297, "roomId":66, "slot":"background", "light":true, "security":"ca42a06ab3da11ef",
+        "name":"Paredes",
+        "roomName":"Frosted Realm",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"},
+        "backgroundColors":{
+            "day":{"color1":"FEE9FB","color2":"80E1FF","colorLight":"381153"},
+            "night":{"color1":"CFFEF2","color2":"67A7EA","colorLight":"034027"}
+        }
+    },
+    {
+        "id":298, "roomId":66, "slot":"slot1", "light":false, "security":"a6c89461dc9565d2",
+        "name":"Árbol",
+        "roomName":"Frosted Realm",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+    },
+    {
+        "id":299, "roomId":66, "slot":"slot2", "light":false, "security":"c80d806102d46725",
+        "name":"Cama",
+        "roomName":"Frosted Realm",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+    },
+    {
+        "id":300, "roomId":66, "slot":"slot3", "light":false, "security":"dbb125c2ee99ea00",
+        "name":"Oso polar",
+        "roomName":"Frosted Realm",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+    },
+    {
+        "id":301, "roomId":66, "slot":"slot4", "light":false, "security":"0741c7103094e2af",
+        "name":"Espejo",
+        "roomName":"Frosted Realm",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+    },
+    {
+        "id":302, "roomId":66, "slot":"slot5", "light":false, "security":"300922c42684c32c",
+        "name":"Estalactitas y estalagmitas",
+        "roomName":"Frosted Realm",
+        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+    },
+    {
         "id":303, "roomId":67, "slot":"background", "light":true, "security":"bc6b4d4c12b205e3",
         "name":"Paredes",
         "roomName":"Calavera Haven",
