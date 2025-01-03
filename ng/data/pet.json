@@ -84,6 +84,10 @@
         "criteria":null
     },
     {
+        "id":24, "security":"58bef60e7052ae1d", "name":"Fashion you can buy, but style you possess",
+        "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
         "id":25, "security":"e54fe4ac642a1ea7", "name":"ROARRR",
         "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
     },
@@ -97,7 +101,7 @@
     },
     {
         "id":28, "security":"aa5af98de442d3b6", "name":"Goose Game",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "id":31, "security":"2084937288975e20", "name":"Belt of Venus",   
@@ -125,22 +129,26 @@
     },
     {
         "id":37, "security":"5d5d57ba51557dc0", "name":"Divine Blessing",
-        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+        "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
     },
     {
         "id":39, "security":"9895e4c5644a6b5a", "name":"Infernal Embrace",
-        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+        "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
     },
     {
         "id":40, "security":"483115d60bd45f42", "name":"Alien Ambassador",
-        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+        "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
     },
     {
         "id":41, "security":"2ff2c5d338d28eaa", "name":"La Goosina",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "id":42, "security":"2d874190e665598e", "name":"Tangloose",
         "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "id":43, "security":"86735789be2a0393", "name":"Graoose",
+        "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
     }
 ]

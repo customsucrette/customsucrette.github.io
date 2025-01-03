@@ -1223,7 +1223,7 @@
         "id":231, "roomId":55, "slot":"background", "light":true, "security":"1c1777039c142f6d",
         "name":"Paredes",
         "roomName":"Gamer Goals",
-        "criteria":null,
+        "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"},
         "backgroundColors":{
             "day":{"color1":"FF88FF", "color2":"7F8FB5", "colorLight":"7836A5"},
             "night":{"color1":"67EAFF", "color2":"4F6BB1", "colorLight":"003796"}
@@ -1233,31 +1233,31 @@
         "id":232, "roomId":55, "slot":"slot1", "light":false, "security":"0ba9194f5ffefe6e",
         "name":"Cama",
         "roomName":"Gamer Goals",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "id":233, "roomId":55, "slot":"slot2", "light":true, "security":"9eed5acd22954821",
         "name":"Pufs",
         "roomName":"Gamer Goals",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "id":234, "roomId":55, "slot":"slot3", "light":true, "security":"9a4979943ec58a21",
         "name":"Estación de gaming",
         "roomName":"Gamer Goals",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "id":235, "roomId":55, "slot":"slot4", "light":true, "security":"fdacfe84c85e1c11",
         "name":"Vitrina",
         "roomName":"Gamer Goals",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "id":236, "roomId":55, "slot":"slot5", "light":false, "security":"2051ca08d40bb2fa",
         "name":"Gato",
         "roomName":"Gamer Goals",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "id":249, "roomId":58, "slot":"background", "light":true, "security":"3dee509c09d3daa8",
@@ -1623,7 +1623,7 @@
         "id":303, "roomId":67, "slot":"background", "light":true, "security":"bc6b4d4c12b205e3",
         "name":"Paredes",
         "roomName":"Calavera Haven",
-        "criteria":null,
+        "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"},
         "backgroundColors":{
             "day":{"color1":"FFFFFF","color2":"F1DBD7","colorLight":"A95A17"},
             "night":{"color1":"99E1FF","color2":"DF95AC","colorLight":"005987"}
@@ -1633,30 +1633,70 @@
         "id":304, "roomId":67, "slot":"slot1", "light":false, "security":"6b7065c0b47fae7c",
         "name":"Banco",
         "roomName":"Calavera Haven",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "id":305, "roomId":67, "slot":"slot2", "light":false, "security":"59cd102bb9a7b915",
         "name":"Mesa",
         "roomName":"Calavera Haven",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "id":306, "roomId":67, "slot":"slot3", "light":false, "security":"6251482123c7c079",
         "name":"Mecedora",
         "roomName":"Calavera Haven",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "id":307, "roomId":67, "slot":"slot4", "light":false, "security":"efb1b08f2e5a8e69",
         "name":"Cactus",
         "roomName":"Calavera Haven",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "id":308, "roomId":67, "slot":"slot5", "light":false, "security":"4aa8c4b32c1ce26e",
         "name":"Flores",
         "roomName":"Calavera Haven",
-        "criteria":null
+        "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
+    },
+    {
+        "id":309, "roomId":68, "slot":"background", "light":true, "security":"c87e6697e77045c1",
+        "name":"Paredes",
+        "roomName":"New Dawn Pavilion",
+        "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF", "color2":"E2C6B2", "colorLight":"3F1C02"},
+            "night":{"color1":"FFB3B7", "color2":"E2C6B2", "colorLight":"621507"}
+        }
+    },
+    {
+        "id":310, "roomId":68, "slot":"slot1", "light":false, "security":"8b575649a9235b7b",
+        "name":"Paneles",
+        "roomName":"New Dawn Pavilion",
+        "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "id":311, "roomId":68, "slot":"slot2", "light":false, "security":"5011abfb7ad79380",
+        "name":"Mesa",
+        "roomName":"New Dawn Pavilion",
+        "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "id":312, "roomId":68, "slot":"slot3", "light":false, "security":"7cfdf6e54975ec38",
+        "name":"Mueble",
+        "roomName":"New Dawn Pavilion",
+        "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "id":313, "roomId":68, "slot":"slot4", "light":true, "security":"88de9b460b79ac1d",
+        "name":"Linterna",
+        "roomName":"New Dawn Pavilion",
+        "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "id":314, "roomId":68, "slot":"slot5", "light":true, "security":"3bab897162cf6623",
+        "name":"Linternas",
+        "roomName":"New Dawn Pavilion",
+        "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
     }
 ]

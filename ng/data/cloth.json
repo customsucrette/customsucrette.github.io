@@ -6994,8 +6994,278 @@
             {"id":4830, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
     },
-
-
+    {
+        "groupId":4831, "zone":"feet", "category":"socks", "security":"20972b0a9a957fb1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Cats in Arts",
+        "variations":[
+            {"id":4831, "colors":["black"]},
+            {"id":4832, "colors":["white"]},
+            {"id":4833, "colors":["green"]},
+            {"id":4834, "colors":["brown"]},
+            {"id":4835, "colors":["blue"]},
+            {"id":4836, "colors":["yellow"]},
+            {"id":4837, "colors":["grey"]},
+            {"id":4838, "colors":["red"]},
+            {"id":4839, "colors":["pink"]},
+            {"id":4840, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4841, "zone":"arms", "category":"gloves", "security":"95af2f30bc19bb70", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Manoplas",
+        "outfitName":"Cats in Arts",
+        "variations":[
+            {"id":4841, "colors":["black"]},
+            {"id":4842, "colors":["white"]},
+            {"id":4843, "colors":["green"]},
+            {"id":4844, "colors":["brown"]},
+            {"id":4845, "colors":["blue"]},
+            {"id":4846, "colors":["yellow"]},
+            {"id":4847, "colors":["grey"]},
+            {"id":4848, "colors":["red"]},
+            {"id":4849, "colors":["pink"]},
+            {"id":4850, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4851, "zone":"face", "category":"neckAccessory", "security":"bb3243a2f5b810eb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Cats in Arts",
+        "variations":[
+            {"id":4851, "colors":["silver"]},
+            {"id":4852, "colors":["black"]},
+            {"id":4853, "colors":["brown"]},
+            {"id":4854, "colors":["orange"]},
+            {"id":4855, "colors":["brown"]},
+            {"id":4856, "colors":["green"]},
+            {"id":4857, "colors":["golden"]},
+            {"id":4858, "colors":["grey"]},
+            {"id":4859, "colors":["red"]},
+            {"id":4860, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4861, "zone":"feet", "category":"shoes", "security":"ecc5717e9656ec05", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Cats in Arts",
+        "variations":[
+            {"id":4861, "colors":["black","white"]},
+            {"id":4862, "colors":["black","white"]},
+            {"id":4863, "colors":["black","brown"]},
+            {"id":4864, "colors":["black","orange"]},
+            {"id":4865, "colors":["black","brown"]},
+            {"id":4866, "colors":["black","green"]},
+            {"id":4867, "colors":["black","yellow"]},
+            {"id":4868, "colors":["black","grey"]},
+            {"id":4869, "colors":["black","red"]},
+            {"id":4870, "colors":["black","blue"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4871, "zone":"torso_waistToKnee", "category":"underwear", "security":"ff3f6658d98dbea9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Cats in Arts",
+        "variations":[
+            {"id":4871, "colors":["black"]},
+            {"id":4872, "colors":["white"]},
+            {"id":4873, "colors":["green"]},
+            {"id":4874, "colors":["brown"]},
+            {"id":4875, "colors":["blue"]},
+            {"id":4876, "colors":["yellow"]},
+            {"id":4877, "colors":["grey"]},
+            {"id":4878, "colors":["red"]},
+            {"id":4879, "colors":["pink"]},
+            {"id":4880, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4881, "zone":"torso", "category":"jacket", "security":"0395933b364cba88", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Cats in Arts",
+        "variations":[
+            {"id":4881, "colors":["black"]},
+            {"id":4882, "colors":["black","white"]},
+            {"id":4883, "colors":["black","green"]},
+            {"id":4884, "colors":["black","brown"]},
+            {"id":4885, "colors":["black","blue"]},
+            {"id":4886, "colors":["black","yellow"]},
+            {"id":4887, "colors":["black","grey"]},
+            {"id":4888, "colors":["red"]},
+            {"id":4889, "colors":["pink"]},
+            {"id":4890, "colors":["black","purple"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4891, "zone":"head", "category":"earring", "security":"14aebabcda252dc6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Cats in Arts",
+        "variations":[
+            {"id":4891, "colors":["white"]},
+            {"id":4892, "colors":["black"]},
+            {"id":4893, "colors":["brown"]},
+            {"id":4894, "colors":["orange"]},
+            {"id":4895, "colors":["brown"]},
+            {"id":4896, "colors":["green"]},
+            {"id":4897, "colors":["yellow"]},
+            {"id":4898, "colors":["grey"]},
+            {"id":4899, "colors":["red"]},
+            {"id":4900, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4901, "zone":"arms", "category":"armAccessory", "security":"7fa2f36d921d366d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pulseras",
+        "outfitName":"Cats in Arts",
+        "variations":[
+            {"id":4901, "colors":["black","white"]},
+            {"id":4902, "colors":["black","purple"]},
+            {"id":4903, "colors":["black","brown"]},
+            {"id":4904, "colors":["black","orange"]},
+            {"id":4905, "colors":["black","brown"]},
+            {"id":4906, "colors":["black","green"]},
+            {"id":4907, "colors":["black","yellow"]},
+            {"id":4908, "colors":["black","grey"]},
+            {"id":4909, "colors":["black","red"]},
+            {"id":4910, "colors":["black","blue"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4911, "zone":"feet", "category":"shoes", "security":"11cf999370b8109a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Deportivas",
+        "outfitName":"Art Shaped Colors",
+        "variations":[
+            {"id":4911, "colors":["blue","yellow","multi"]},
+            {"id":4912, "colors":["purple","pink","multi"]},
+            {"id":4913, "colors":["orange","red","multi"]},
+            {"id":4914, "colors":["grey","black","multi"]},
+            {"id":4915, "colors":["yellow","blue","multi"]},
+            {"id":4916, "colors":["green","purple","multi"]},
+            {"id":4917, "colors":["white","pink","multi"]},
+            {"id":4918, "colors":["blue","green","multi"]},
+            {"id":4919, "colors":["red","blue","multi"]},
+            {"id":4920, "colors":["pink","blue","multi"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4921, "zone":"torso", "category":"top", "security":"b4a2205b80f4bfd8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Art Shaped Colors",
+        "variations":[
+            {"id":4921, "colors":["black","multi"]},
+            {"id":4922, "colors":["yellow","multi"]},
+            {"id":4923, "colors":["red","multi"]},
+            {"id":4924, "colors":["white","multi"]},
+            {"id":4925, "colors":["green","multi"]},
+            {"id":4926, "colors":["pink","multi"]},
+            {"id":4927, "colors":["blue","multi"]},
+            {"id":4928, "colors":["purple","multi"]},
+            {"id":4929, "colors":["brown","multi"]},
+            {"id":4930, "colors":["blue","multi"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4931, "zone":"torso_waistToKnee", "category":"dress", "security":"2291deb7288dbf8e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mono",
+        "outfitName":"Art Shaped Colors",
+        "variations":[
+            {"id":4931, "colors":["black"]},
+            {"id":4932, "colors":["yellow"]},
+            {"id":4933, "colors":["red"]},
+            {"id":4934, "colors":["white"]},
+            {"id":4935, "colors":["green"]},
+            {"id":4936, "colors":["pink"]},
+            {"id":4937, "colors":["blue"]},
+            {"id":4938, "colors":["purple"]},
+            {"id":4939, "colors":["brown"]},
+            {"id":4940, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4941, "zone":"torso_waistToKnee", "category":"waist", "security":"29c9fb3a72b61e56", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Art Shaped Colors",
+        "variations":[
+            {"id":4941, "colors":["golden"]},
+            {"id":4942, "colors":["brown"]},
+            {"id":4943, "colors":["grey"]},
+            {"id":4944, "colors":["black"]},
+            {"id":4945, "colors":["pink"]},
+            {"id":4946, "colors":["green"]},
+            {"id":4947, "colors":["silver"]},
+            {"id":4948, "colors":["blue"]},
+            {"id":4949, "colors":["green"]},
+            {"id":4950, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4951, "zone":"torso", "category":"jacket", "security":"49da062d12e4679a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jersey",
+        "outfitName":"Art Shaped Colors",
+        "variations":[
+            {"id":4951, "colors":["black"]},
+            {"id":4952, "colors":["yellow"]},
+            {"id":4953, "colors":["red"]},
+            {"id":4954, "colors":["white"]},
+            {"id":4955, "colors":["green"]},
+            {"id":4956, "colors":["pink"]},
+            {"id":4957, "colors":["blue"]},
+            {"id":4958, "colors":["purple"]},
+            {"id":4959, "colors":["brown"]},
+            {"id":4960, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4961, "zone":"face", "category":"neckAccessory", "security":"711685b131d0ab73", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collares",
+        "outfitName":"Art Shaped Colors",
+        "variations":[
+            {"id":4961, "colors":["blue","golden","red"]},
+            {"id":4962, "colors":["golden","pink","purple"]},
+            {"id":4963, "colors":["brown","orange","silver"]},
+            {"id":4964, "colors":["black","golden","white"]},
+            {"id":4965, "colors":["golden","pink","yellow"]},
+            {"id":4966, "colors":["blue","golden","green"]},
+            {"id":4967, "colors":["silver","white","yellow"]},
+            {"id":4968, "colors":["blue","pink","silver"]},
+            {"id":4969, "colors":["black","red","silver"]},
+            {"id":4970, "colors":["pink","purple","silver"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4971, "zone":"arms", "category":"armAccessory", "security":"b602ae78c112fc27", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillo",
+        "outfitName":"Art Shaped Colors",
+        "variations":[
+            {"id":4971, "colors":["golden"]},
+            {"id":4972, "colors":["brown"]},
+            {"id":4973, "colors":["silver","white"]},
+            {"id":4974, "colors":["black"]},
+            {"id":4975, "colors":["pink"]},
+            {"id":4976, "colors":["green"]},
+            {"id":4977, "colors":["grey","silver"]},
+            {"id":4978, "colors":["blue"]},
+            {"id":4979, "colors":["green"]},
+            {"id":4980, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
+    {
+        "groupId":4981, "zone":"arms", "category":"bag", "security":"3e616aa197801381", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Art Shaped Colors",
+        "variations":[
+            {"id":4981, "colors":["blue","multi"]},
+            {"id":4982, "colors":["pink","multi"]},
+            {"id":4983, "colors":["orange","multi"]},
+            {"id":4984, "colors":["black","multi"]},
+            {"id":4985, "colors":["yellow","multi"]},
+            {"id":4986, "colors":["green","multi"]},
+            {"id":4987, "colors":["white","grey","multi"]},
+            {"id":4988, "colors":["blue","multi"]},
+            {"id":4989, "colors":["red","multi"]},
+            {"id":4990, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
+    },
     {
         "groupId":4991, "zone":"head", "category":"wig", "security":"66ab65c25e9132bc", "multiLayered":true, "layerBehavior":"normal",
         "name":"Peluca",
@@ -7215,7 +7485,7 @@
             {"id":5118, "colors":["white"]},
             {"id":5119, "colors":["brown"]},
             {"id":5120, "colors":["purple"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "groupId":5121, "zone":"feet", "category":"socks", "security":"3bfa89df703584ec", "multiLayered":false, "layerBehavior":"normal",
@@ -7232,7 +7502,7 @@
             {"id":5128, "colors":["black", "white"]},
             {"id":5129, "colors":["black", "brown"]},
             {"id":5130, "colors":["black", "purple"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "groupId":5131, "zone":"feet", "category":"shoes", "security":"ca9a9f11e4cb5746", "multiLayered":false, "layerBehavior":"normal",
@@ -7249,7 +7519,7 @@
             {"id":5138, "colors":["black"]},
             {"id":5139, "colors":["black", "brown", "green"]},
             {"id":5140, "colors":["black", "purple"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "groupId":5141, "zone":"waistToKnee", "category":"skirt", "security":"5454ed05bb8f9e08", "multiLayered":false, "layerBehavior":"normal",
@@ -7266,7 +7536,7 @@
             {"id":5148, "colors":["white"]},
             {"id":5149, "colors":["orange"]},
             {"id":5150, "colors":["grey"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "groupId":5151, "zone":"torso", "category":"jacket", "security":"e03593e9312d26de", "multiLayered":false, "layerBehavior":"normal",
@@ -7283,7 +7553,7 @@
             {"id":5158, "colors":["white"]},
             {"id":5159, "colors":["green"]},
             {"id":5160, "colors":["purple"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "groupId":5161, "zone":"torso_waistToKnee", "category":"waist", "security":"697e48aa9efb382a", "multiLayered":false, "layerBehavior":"normal",
@@ -7300,7 +7570,7 @@
             {"id":5168, "colors":["white"]},
             {"id":5169, "colors":["brown"]},
             {"id":5170, "colors":["grey"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "groupId":5171, "zone":"arms", "category":"bag", "security":"8c02abb0c533cbc7", "multiLayered":false, "layerBehavior":"normal",
@@ -7317,7 +7587,7 @@
             {"id":5178, "colors":["white"]},
             {"id":5179, "colors":["red"]},
             {"id":5180, "colors":["black"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "groupId":5181, "zone":"arms", "category":"bag", "security":"9f62e378cef23db5", "multiLayered":false, "layerBehavior":"normal",
@@ -7334,7 +7604,7 @@
             {"id":5188, "colors":["white"]},
             {"id":5189, "colors":["yellow"]},
             {"id":5190, "colors":["grey"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "groupId":5191, "zone":"head", "category":"wig", "security":"8d2bddfc666035e8", "multiLayered":false, "layerBehavior":"normal",
@@ -7351,7 +7621,7 @@
             {"id":5198, "colors":["yellow"]},
             {"id":5199, "colors":["orange"]},
             {"id":5200, "colors":["pink"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "groupId":5201, "zone":"head", "category":"hat", "security":"6f07afa0f67371f4", "multiLayered":true, "layerBehavior":"normal",
@@ -7368,7 +7638,7 @@
             {"id":5208, "colors":["white"]},
             {"id":5209, "colors":["black", "orange"]},
             {"id":5210, "colors":["purple"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
         "groupId":5211, "zone":"torso_waistToKnee", "category":"underwear", "security":"3c2c6a5ebbf3d4db", "multiLayered":false, "layerBehavior":"normal",
@@ -9215,7 +9485,7 @@
             {"id":7059, "colors":["brown","white"]},
             {"id":7060, "colors":["grey","white"]},
             {"id":7061, "colors":["red","white"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "groupId":7062, "zone":"face", "category":"makeup", "security":"56d65cadd222ea5b", "multiLayered":false, "layerBehavior":"normal",
@@ -9232,7 +9502,7 @@
             {"id":7069, "colors":["orange"]},
             {"id":7070, "colors":["green"]},
             {"id":7071, "colors":["white"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "groupId":7072, "zone":"feet", "category":"shoes", "security":"74c79e8a98042cc4", "multiLayered":false, "layerBehavior":"normal",
@@ -9249,7 +9519,7 @@
             {"id":7079, "colors":["green"]},
             {"id":7080, "colors":["white"]},
             {"id":7081, "colors":["yellow"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "groupId":7082, "zone":"torso", "category":"top", "security":"bd0819d3502d32d6", "multiLayered":false, "layerBehavior":"normal",
@@ -9266,7 +9536,7 @@
             {"id":7089, "colors":["green"]},
             {"id":7090, "colors":["black"]},
             {"id":7091, "colors":["yellow"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "groupId":7092, "zone":"waistToKnee", "category":"skirt", "security":"3789666032f0a941", "multiLayered":true, "layerBehavior":"normal",
@@ -9283,7 +9553,7 @@
             {"id":7099, "colors":["orange"]},
             {"id":7100, "colors":["green"]},
             {"id":7101, "colors":["brown"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "groupId":7102, "zone":"head", "category":"wig", "security":"ab20217e644eddf1", "multiLayered":true, "layerBehavior":"backInFront",
@@ -9300,7 +9570,7 @@
             {"id":7109, "colors":["yellow"]},
             {"id":7110, "colors":["orange"]},
             {"id":7111, "colors":["pink"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "groupId":7112, "zone":"head", "category":"earring", "security":"96308e6041658d2f", "multiLayered":false, "layerBehavior":"normal",
@@ -9317,7 +9587,7 @@
             {"id":7119, "colors":["grey","orange"]},
             {"id":7120, "colors":["green","yellow"]},
             {"id":7121, "colors":["grey","brown"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "groupId":7122, "zone":"head", "category":"hat", "security":"7b774b741bebaf38", "multiLayered":false, "layerBehavior":"normal",
@@ -9334,7 +9604,7 @@
             {"id":7129, "colors":["orange","black","multi"]},
             {"id":7130, "colors":["green","yellow","multi"]},
             {"id":7131, "colors":["brown","orange","multi"]}
-        ], "criteria":null
+        ], "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
         "groupId":7132, "zone":"face", "category":"makeup", "security":"0deb3ceb00cec29e", "multiLayered":false, "layerBehavior":"normal",
@@ -9693,5 +9963,175 @@
             {"id":7340, "colors":["brown"]},
             {"id":7341, "colors":["blue"]}
         ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+    },
+    {
+        "groupId":7342, "zone":"feet", "category":"shoes", "security":"1bf8885c9e56357a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Kkotsin",
+        "outfitName":"Silks of Dawn",
+        "variations":[
+            {"id":7342, "colors":["orange"]},
+            {"id":7343, "colors":["purple","blue"]},
+            {"id":7344, "colors":["pink","purple"]},
+            {"id":7345, "colors":["pink","red"]},
+            {"id":7346, "colors":["black","white"]},
+            {"id":7347, "colors":["black","white"]},
+            {"id":7348, "colors":["green","yellow"]},
+            {"id":7349, "colors":["blue","purple"]},
+            {"id":7350, "colors":["brown","red"]},
+            {"id":7351, "colors":["yellow","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "groupId":7352, "zone":"arms", "category":"bag", "security":"caba768fef35285e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Silks of Dawn",
+        "variations":[
+            {"id":7352, "colors":["golden","pink"]},
+            {"id":7353, "colors":["blue","golden"]},
+            {"id":7354, "colors":["blue","silver"]},
+            {"id":7355, "colors":["green","silver"]},
+            {"id":7356, "colors":["golden","red"]},
+            {"id":7357, "colors":["purple","silver"]},
+            {"id":7358, "colors":["silver","white"]},
+            {"id":7359, "colors":["black","golden"]},
+            {"id":7360, "colors":["golden","yellow"]},
+            {"id":7361, "colors":["orange","silver"]}
+        ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "groupId":7362, "zone":"torso_waistToKnee", "category":"dress", "security":"0d12c82053b5d5eb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chima",
+        "outfitName":"Silks of Dawn",
+        "variations":[
+            {"id":7362, "colors":["orange"]},
+            {"id":7363, "colors":["purple"]},
+            {"id":7364, "colors":["pink"]},
+            {"id":7365, "colors":["red"]},
+            {"id":7366, "colors":["black"]},
+            {"id":7367, "colors":["white"]},
+            {"id":7368, "colors":["green"]},
+            {"id":7369, "colors":["blue"]},
+            {"id":7370, "colors":["brown","orange"]},
+            {"id":7371, "colors":["yellow"]}
+        ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "groupId":7372, "zone":"waistToKnee", "category":"skirt", "security":"033c37da98362994", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Velo",
+        "outfitName":"Silks of Dawn",
+        "variations":[
+            {"id":7372, "colors":["pink"]},
+            {"id":7373, "colors":["blue"]},
+            {"id":7374, "colors":["blue"]},
+            {"id":7375, "colors":["purple"]},
+            {"id":7376, "colors":["red"]},
+            {"id":7377, "colors":["green"]},
+            {"id":7378, "colors":["white"]},
+            {"id":7379, "colors":["black"]},
+            {"id":7380, "colors":["yellow"]},
+            {"id":7381, "colors":["orange"]}
+        ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "groupId":7382, "zone":"torso", "category":"top", "security":"f25724d8f6c56701", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Diadema",
+        "outfitName":"Silks of Dawn",
+        "variations":[
+            {"id":7382, "colors":["orange","green"]},
+            {"id":7383, "colors":["yellow","purple"]},
+            {"id":7384, "colors":["purple","pink"]},
+            {"id":7385, "colors":["blue","red"]},
+            {"id":7386, "colors":["white","black"]},
+            {"id":7387, "colors":["black","white"]},
+            {"id":7388, "colors":["yellow","green"]},
+            {"id":7389, "colors":["purple","blue"]},
+            {"id":7390, "colors":["red","brown"]},
+            {"id":7391, "colors":["pink","yellow"]}
+        ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "groupId":7392, "zone":"torso", "category":"jacket", "security":"d70f6dc2534d1a43", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Jeogori",
+        "outfitName":"Silks of Dawn",
+        "variations":[
+            {"id":7392, "colors":["orange","green"]},
+            {"id":7393, "colors":["purple","yellow"]},
+            {"id":7394, "colors":["pink","purple"]},
+            {"id":7395, "colors":["red","blue"]},
+            {"id":7396, "colors":["black","white"]},
+            {"id":7397, "colors":["white","black"]},
+            {"id":7398, "colors":["green","yellow"]},
+            {"id":7399, "colors":["blue","purple"]},
+            {"id":7400, "colors":["orange","brown","red"]},
+            {"id":7401, "colors":["yellow","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "groupId":7402, "zone":"head", "category":"wig", "security":"d84519ceb9fb9a92", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Silks of Dawn",
+        "variations":[
+            {"id":7402, "colors":["brown"]},
+            {"id":7403, "colors":["white"]},
+            {"id":7404, "colors":["black"]},
+            {"id":7405, "colors":["blue"]},
+            {"id":7406, "colors":["blue"]},
+            {"id":7407, "colors":["purple"]},
+            {"id":7408, "colors":["red"]},
+            {"id":7409, "colors":["yellow"]},
+            {"id":7410, "colors":["orange"]},
+            {"id":7411, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "groupId":7412, "zone":"head", "category":"earring", "security":"a49ee5725cf269ab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Silks of Dawn",
+        "variations":[
+            {"id":7412, "colors":["golden","orange"]},
+            {"id":7413, "colors":["golden","purple"]},
+            {"id":7414, "colors":["pink","silver"]},
+            {"id":7415, "colors":["red","silver"]},
+            {"id":7416, "colors":["black","golden"]},
+            {"id":7417, "colors":["silver","white"]},
+            {"id":7418, "colors":["green","silver"]},
+            {"id":7419, "colors":["blue","golden"]},
+            {"id":7420, "colors":["brown","golden"]},
+            {"id":7421, "colors":["silver","yellow"]}
+        ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "groupId":7422, "zone":"head", "category":"hat", "security":"46b8de464c91a9cb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Joya para la cabeza",
+        "outfitName":"Silks of Dawn",
+        "variations":[
+            {"id":7422, "colors":["golden","green"]},
+            {"id":7423, "colors":["golden","purple"]},
+            {"id":7424, "colors":["pink","purple","silver"]},
+            {"id":7425, "colors":["red","silver"]},
+            {"id":7426, "colors":["golden","white"]},
+            {"id":7427, "colors":["black","silver"]},
+            {"id":7428, "colors":["silver","yellow"]},
+            {"id":7429, "colors":["blue","golden"]},
+            {"id":7430, "colors":["golden","red"]},
+            {"id":7431, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "groupId":7432, "zone":"arms", "category":"armAccessory", "security":"7b98873d1959a883", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillo",
+        "outfitName":"Silks of Dawn",
+        "variations":[
+            {"id":7432, "colors":["golden","green"]},
+            {"id":7433, "colors":["golden","yellow"]},
+            {"id":7434, "colors":["silver","purple"]},
+            {"id":7435, "colors":["silver","blue"]},
+            {"id":7436, "colors":["golden","white"]},
+            {"id":7437, "colors":["silver","black"]},
+            {"id":7438, "colors":["silver","yellow"]},
+            {"id":7439, "colors":["golden","purple"]},
+            {"id":7440, "colors":["golden","red"]},
+            {"id":7441, "colors":["silver","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
     }
 ]
