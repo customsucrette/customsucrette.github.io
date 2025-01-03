@@ -114,7 +114,7 @@ async function drawCategory(c = "top", declination = null) {
                     .append(`<img class="thumbnail" alt="${lista[i].name}" title="${lista[i].outfitName != null ? lista[i].outfitName : ""}" src="${composeHangerUrl(lista[i].variations[0].id, lista[i].security, type)}">`)
                     .append(`<div class="counter">${lista[i].variations.length}</div>`);
 
-                    if (lista[i].criteria != null) {
+                    if (lista[i].criteria != null && lista[i].criteria.type != "gauge") {
                         let icon = "";
                         switch(lista[i].criteria.type) {
                             case "episode": icon = "episodes";break;
@@ -122,6 +122,7 @@ async function drawCategory(c = "top", declination = null) {
                             case "pack": icon = "bankPacks";break;
                             case "calendar": icon = "calendar";break;
                             case "gameEvent": icon = "gameEvents";break;
+                            // case "gauge": icon = "gauge";break;
                         }
                         $(".asng-cloth").eq(i).find('div').not(".counter").append(`<img class="locked" title="${lista[i].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
                     };
@@ -145,7 +146,7 @@ async function drawCategory(c = "top", declination = null) {
                     $(`.asng-cloth[data-item="${dataI}"] div`).not(".item").not('.item-outline')
                     .append(`<img class="thumbnail" alt="${lista[i].name}" title="${lista[i].outfitName != null ? lista[i].outfitName : ""}" src="${composeHangerUrl(lista[i].variations[0].id, lista[i].security, type)}">`);
 
-                    if (lista[i].criteria != null) {
+                    if (lista[i].criteria != null && lista[i].criteria.type != "gauge") {
                         let icon = "";
                         switch(lista[i].criteria.type) {
                             case "episode": icon = "episodes";break;
@@ -153,6 +154,7 @@ async function drawCategory(c = "top", declination = null) {
                             case "pack": icon = "bankPacks";break;
                             case "calendar": icon = "calendar";break;
                             case "gameEvent": icon = "gameEvents";break;
+                            // case "gauge": icon = "gauge";break;
                         }
                         $(".asng-cloth").eq(i).find('div').not(".item").not(".item-outline").append(`<img class="locked" title="${lista[i].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
                     };
@@ -923,7 +925,7 @@ function drawRoomItems(c = "background") {
         $(".asng-room-item").eq(b).append(`<div class="item ${c}"><div class="item-outline${slot[b].security == item ? " equipped" : ""}"></div></div>`);
         $(".asng-room-item .item").eq(b).append(`<div tooltipplacement="bottom"><img class="thumbnail" alt="${slot[b].name}" src="${composeRoomUrl([c], slot[b].id, slot[b].security)}"></div>`);
 
-        if (slot[b].criteria != null) {
+        if (slot[b].criteria != null && slot[b].criteria.type != "gauge") {
             let icon = "";
             switch(slot[b].criteria.type) {
                 case "episode": icon = "episodes";break;
@@ -931,6 +933,7 @@ function drawRoomItems(c = "background") {
                 case "pack": icon = "bankPacks";break;
                 case "calendar": icon = "calendar";break;
                 case "gameEvent": icon = "gameEvents";break;
+                // case "gauge": icon = "gauge";break;
             };
             $(".asng-room-item .item div").not(".item-outline").eq(b).append(`<img class="locked" title="${slot[b].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
         };
@@ -1089,7 +1092,7 @@ function drawPetItems() {
         $(".asng-pet-outfit-item .item").eq(i).append(`<div class="item-outline${e}"></div><div tooltipplacement="bottom"><img class="thumbnail" /></div>`);
         $(".pet-outfits .thumbnail").eq(i).attr("alt", `${pet[i].name}`).attr("src", composePetUrl("hanger", pet[i].id, pet[i].security));
 
-        if (pet[i].criteria != null) {
+        if (pet[i].criteria != null && pet[i].criteria.type != "gauge") {
             let icon = "";
             switch(pet[i].criteria.type) {
                 case "episode": icon = "episodes";break;
@@ -1097,6 +1100,7 @@ function drawPetItems() {
                 case "pack": icon = "bankPacks";break;
                 case "calendar": icon = "calendar";break;
                 case "gameEvent": icon = "gameEvents";break;
+                // case "gauge": icon = "gauge";break;
             };
             $(".asng-pet-outfit-item .item div").not(".item-outline").eq(i).append(`<img class="locked" title="${pet[i].criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
         };
