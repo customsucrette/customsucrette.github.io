@@ -1498,5 +1498,13 @@
 	{"groupId":28727, "category":"shirt", "name":"Camisa Freshman Year"},
 	{"groupId":28728, "category":"jacket", "name":"Chaqueta Freshman Year"},
 	{"groupId":28729, "category":"pants", "name":"Piratas Freshman Year"},
-	{"groupId":28730, "category":"shoes", "name":"Zapatos Freshman Year"}
+	{"groupId":28730, "category":"shoes", "name":"Zapatos Freshman Year"},
+
+	{"groupId":36414, "category":"shoes", "name":"Deportivas BeeTwitch"},
+	{"groupId":36424, "category":"shirt", "name":"Top BeeTwitch"},
+	{"groupId":36434, "category":"pants", "name":"Vaqueros BeeTwitch"},
+	{"groupId":36444, "category":"jacket", "name":"Chaqueta BeeTwitch"},
+	{"groupId":36454, "category":"purse", "name":"Riñonera BeeTwitch"},
+	{"groupId":36464, "category":"wig", "name":"Peluca BeeTwitch"},
+	{"groupId":36476, "category":"accessory", "name":"Pendientes BeeTwitch"}
 ]
