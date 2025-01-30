@@ -899,6 +899,47 @@
         "roomName":"Mermaid Shinies",
         "criteria":{"type":"jobTask", "info":"Proyectos", "text":"Desbloqueado en la Misión del día\nProyectos"}
     },
+
+    {
+        "id":177, "roomId":46, "slot":"background", "light":true, "security":"bf9a5c6e1476f891",
+        "name":"Paredes",
+        "roomName":"Medieval Lair",
+        "criteria":{"type":"calendar", "info":"2025-10", "text":"Desbloqueado en el calendario\nN°10 - 2025"},
+        "backgroundColors":{
+            "day":{"color1":"EFCEE6","color2":"CFE5FF","colorLight":"F071F7"},
+            "night":{"color1":"9092D9","color2":"B994D9","colorLight":"9A38EC"}
+        }
+    },
+    {
+        "id":178, "roomId":46, "slot":"slot5", "light":false, "security":"4e73163b588b3316",
+        "name":"Mesa dragón",
+        "roomName":"Medieval Lair",
+        "criteria":{"type":"calendar", "info":"2025-10", "text":"Desbloqueado en el calendario\nN°10 - 2025"}
+    },
+    {
+        "id":179, "roomId":46, "slot":"slot4", "light":true, "security":"6386018dc2d80c0b",
+        "name":"Candelabro",
+        "roomName":"Medieval Lair",
+        "criteria":{"type":"calendar", "info":"2025-10", "text":"Desbloqueado en el calendario\nN°10 - 2025"}
+    },
+    {
+        "id":180, "roomId":46, "slot":"slot3", "light":false, "security":"157018037be7de81",
+        "name":"Sillón",
+        "roomName":"Medieval Lair",
+        "criteria":{"type":"calendar", "info":"2025-10", "text":"Desbloqueado en el calendario\nN°10 - 2025"}
+    },
+    {
+        "id":181, "roomId":46, "slot":"slot2", "light":false, "security":"f9b5e2d5bca4230f",
+        "name":"Cama",
+        "roomName":"Medieval Lair",
+        "criteria":{"type":"calendar", "info":"2025-10", "text":"Desbloqueado en el calendario\nN°10 - 2025"}
+    },
+    {
+        "id":182, "roomId":46, "slot":"slot1", "light":false, "security":"54d852421e7f8318",
+        "name":"Baño",
+        "roomName":"Medieval Lair",
+        "criteria":{"type":"calendar", "info":"2025-10", "text":"Desbloqueado en el calendario\nN°10 - 2025"}
+    },
     {
         "id":183, "roomId":47, "slot":"background", "light":true, "security":"3c417c76d9eb21b8",
         "name":"Paredes",
