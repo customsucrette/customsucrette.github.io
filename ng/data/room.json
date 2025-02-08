@@ -719,7 +719,7 @@
         "id":111, "roomId":35, "slot":"background", "light":true, "security":"5a8e7a085e44b52d",
         "name":"Paredes",
         "roomName":"Warm Winter",
-        "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"},
+        "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"},
         "backgroundColors":{
             "day":{"color1":"F9DCD2", "color2":"E0CECE", "colorLight":"773108"},
             "night":{"color1":"6EAFFF", "color2":"659CEF", "colorLight":"020F6F"}
@@ -747,7 +747,7 @@
         "id":115, "roomId":35, "slot":"slot2", "light":false, "security":"3692deab4911c8f6",
         "name":"Cama",
         "roomName":"Warm Winter",
-        "criteria":{"type":"jobTask", "info":"Unknown", "text":"Desbloqueado en la Misión del día\nUnknown"}
+        "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
     },
     {
         "id":116, "roomId":35, "slot":"slot1", "light":true, "security":"ab9feb9da7a0c2e5",
@@ -762,16 +762,44 @@
         "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
     },
     {
+        "id":129, "roomId":38, "slot":"background", "light":true, "security":"69ac0e599fab0a71",
+        "name":"Paredes",
+        "roomName":"Zen Vibes",
+        "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"},
+        "backgroundColors":{
+            "day":{"color1":"F1EEEB","color2":"CFBDB3","colorLight":"522A20"},
+            "night":{"color1":"66ADEA","color2":"5F7DB9","colorLight":"0084A4"}
+        }
+    },
+    {
         "id":130, "roomId":38, "slot":"slot5", "light":false, "security":"afbb35077a8cff3e",
         "name":"Estanque",
         "roomName":"Zen Vibes",
         "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
     },
     {
+        "id":133, "roomId":38, "slot":"slot2", "light":true, "security":"f65f5d21ac933f51",
+        "name":"Kotatsu",
+        "roomName":"Zen Vibes",
+        "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
+    {
+        "id":138, "roomId":39, "slot":"slot3", "light":true, "security":"cad3c8ef8a16f0fc",
+        "name":"Sillón",
+        "roomName":"Space Capsule",
+        "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
+    {
         "id":139, "roomId":39, "slot":"slot2", "light":true, "security":"1fd78e8bd348d331",
         "name":"Mesa",
         "roomName":"Space Capsule",
         "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
+    },
+    {
+        "id":145, "roomId":40, "slot":"slot2", "light":true, "security":"8f4c9a885b455c6a",
+        "name":"Sillón",
+        "roomName":"Dirty Garage",
+        "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
     },
     {
         "id":149, "roomId":41, "slot":"slot4", "light":false, "security":"4004f7a64599f7cc",

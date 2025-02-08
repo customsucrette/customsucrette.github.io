@@ -104,6 +104,10 @@
         "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
+        "id":29, "security":"044d20201f7c779e", "name":"Moss Goosewalker",
+        "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
         "id":31, "security":"2084937288975e20", "name":"Belt of Venus",   
         "criteria":null
     },
@@ -150,5 +154,9 @@
     {
         "id":43, "security":"86735789be2a0393", "name":"Graoose",
         "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "id":55, "security":"0dc18c270bef5432","name":"Helpful Wingman",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     }
 ]

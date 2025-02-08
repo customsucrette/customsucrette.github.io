@@ -2001,6 +2001,23 @@
     
 
     {
+        "groupId":1317, "zone":"face", "category":"neckAccessory", "security":"d90fd9f8bbd48f99", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar choker",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1317, "colors":["white"]},        
+            {"id":1318, "colors":["red"]},
+            {"id":1319, "colors":["blue"]},
+            {"id":1320, "colors":["purple"]},
+            {"id":1321, "colors":["brown"]},
+            {"id":1322, "colors":["brown"]},
+            {"id":1323, "colors":["yellow"]},
+            {"id":1324, "colors":["green"]},
+            {"id":1325, "colors":["black","white"]},
+            {"id":1326, "colors":["pink"]}
+        ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
+    {
         "groupId":1327, "zone":"head", "category":"earring", "security":"943f59e745d39ee2", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pendientes",
         "outfitName":"Femme Fatale",
@@ -2017,7 +2034,33 @@
             {"id":1336, "colors":["pink"]}
         ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
     },
+    {
+        "groupId":1337, "zone":"arms", "category":"bag", "security":"5e8a6f29c5ef1264", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Champán",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1337, "colors":["yellow"]}
+        ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
 
+
+    {
+        "groupId":1349, "zone":"feet", "category":"shoes", "security":"85257580593920f7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Biker Soul",
+        "variations":[
+            {"id":1349, "colors":["black"]},        
+            {"id":1350, "colors":["blue"]},
+            {"id":1351, "colors":["grey"]},
+            {"id":1352, "colors":["pink"]},
+            {"id":1353, "colors":["white"]},
+            {"id":1354, "colors":["brown"]},
+            {"id":1355, "colors":["green"]},
+            {"id":1356, "colors":["orange"]},
+            {"id":1357, "colors":["yellow"]},
+            {"id":1358, "colors":["red"]}
+        ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
 
 
     {
@@ -2242,6 +2285,26 @@
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
 
+
+    {
+        "groupId":1559, "zone":"arms", "category":"gloves", "security":"4592fc37417ba1b0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1559, "colors":["pink"]},        
+            {"id":1560, "colors":["pink"]},
+            {"id":1561, "colors":["orange"]},
+            {"id":1562, "colors":["yellow"]},
+            {"id":1563, "colors":["green"]},
+            {"id":1564, "colors":["blue"]},
+            {"id":1565, "colors":["blue"]},
+            {"id":1566, "colors":["purple"]},
+            {"id":1567, "colors":["white"]},
+            {"id":1568, "colors":["black"]}
+        ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
+
+
     {
         "groupId":1589, "zone":"arms", "category":"bag", "security":"8f23311e7f2c5c28", "multiLayered":false, "layerBehavior":"normal",
         "name":"Cetro",
@@ -2334,6 +2397,35 @@
             {"id":1717, "colors":["blue"]},
             {"id":1718, "colors":["black"]}
         ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
+
+
+    {
+        "groupId":1729, "zone":"general", "category":"other", "security":"18172fa2daeb5b4b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Charco de agua",
+        "outfitName":"Playing in the Rain",
+        "variations":[
+            {"id":1729, "colors":["blue"]}
+        ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
+
+
+    {
+        "groupId":1740, "zone":"feet", "category":"shoes", "security":"29cd5543a61e9bf7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de salón",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1740, "colors":["pink"]},        
+            {"id":1741, "colors":["purple"]},
+            {"id":1742, "colors":["blue"]},
+            {"id":1743, "colors":["blue"]},
+            {"id":1744, "colors":["white"]},
+            {"id":1745, "colors":["black"]},
+            {"id":1746, "colors":["brown"]},
+            {"id":1747, "colors":["green"]},
+            {"id":1748, "colors":["yellow"]},
+            {"id":1749, "colors":["red"]}
+        ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
     },
 
 
@@ -3565,6 +3657,42 @@
         ], "criteria":{"type":"calendar", "info":"2024-3", "text":"Desbloqueado en el calendario\nN°03 - 2024"}
     },
     {
+        "groupId":2683, "zone":"torso", "category":"top", "security":"20fdc3eee82d0d63", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Neo-Victorian",
+        "variations":[
+            {"id":2683, "colors":["green"]},        
+            {"id":2684, "colors":["white"]},
+            {"id":2685, "colors":["red"]},
+            {"id":2686, "colors":["yellow"]},
+            {"id":2687, "colors":["black"]},
+            {"id":2688, "colors":["purple"]},
+            {"id":2689, "colors":["blue"]},
+            {"id":2690, "colors":["brown"]},
+            {"id":2691, "colors":["pink"]},
+            {"id":2692, "colors":["grey"]}
+        ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
+
+
+    {
+        "groupId":2733, "zone":"head", "category":"hat", "security":"b244487b59dcfa92", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Neo-Victorian",
+        "variations":[
+            {"id":2733, "colors":["green"]},        
+            {"id":2734, "colors":["black"]},
+            {"id":2735, "colors":["red"]},
+            {"id":2736, "colors":["yellow"]},
+            {"id":2737, "colors":["orange"]},
+            {"id":2738, "colors":["purple"]},
+            {"id":2739, "colors":["blue"]},
+            {"id":2740, "colors":["brown"]},
+            {"id":2741, "colors":["pink"]},
+            {"id":2742, "colors":["white"]}
+        ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
+    {
         "groupId":2743, "zone":"torso_waistToKnee", "category":"underwear", "security":"95cc69d2d67fd242", "multiLayered":false, "layerBehavior":"normal",
         "name":"Ropa interior",
         "outfitName":"Night Out",
@@ -4736,6 +4864,110 @@
             {"id":3431, "colors":["white"]},
             {"id":3432, "colors":["pink", "multi"]}
         ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"}
+    },
+
+
+    {
+        "groupId":3444, "zone":"feet", "category":"socks", "security":"be1bf4a5c3aef65f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Parisian Chic",
+        "variations":[
+            {"id":3444, "colors":["black"]},
+            {"id":3445, "colors":["grey"]},
+            {"id":3446, "colors":["white"]},
+            {"id":3447, "colors":["pink"]},
+            {"id":3448, "colors":["blue"]},
+            {"id":3449, "colors":["yellow"]},
+            {"id":3450, "colors":["orange"]},
+            {"id":3451, "colors":["blue"]},
+            {"id":3452, "colors":["brown"]},
+            {"id":3453, "colors":["green"]}
+        ], "criteria":{"type":"calendar", "info":"2025-11", "text":"Desbloqueado en el calendario\nN°11 - 2025"}
+    },
+    {
+        "groupId":3454, "zone":"feet", "category":"shoes", "security":"0f8058257dca1160", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Parisian Chic",
+        "variations":[
+            {"id":3454, "colors":["brown"]},
+            {"id":3455, "colors":["black"]},
+            {"id":3456, "colors":["white"]},
+            {"id":3457, "colors":["brown"]},
+            {"id":3458, "colors":["purple"]},
+            {"id":3459, "colors":["pink"]},
+            {"id":3460, "colors":["red"]},
+            {"id":3461, "colors":["yellow"]},
+            {"id":3462, "colors":["green"]},
+            {"id":3463, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2025-11", "text":"Desbloqueado en el calendario\nN°11 - 2025"}
+    },
+    {
+        "groupId":3464, "zone":"waistToKnee", "category":"pants", "security":"d77f7fb5ec61ad7e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Short",
+        "outfitName":"Parisian Chic",
+        "variations":[
+            {"id":3464, "colors":["brown"]},
+            {"id":3465, "colors":["white"]},
+            {"id":3466, "colors":["black"]},
+            {"id":3467, "colors":["red"]},
+            {"id":3468, "colors":["pink"]},
+            {"id":3469, "colors":["purple"]},
+            {"id":3470, "colors":["brown"]},
+            {"id":3471, "colors":["green"]},
+            {"id":3472, "colors":["yellow"]},
+            {"id":3473, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2025-11", "text":"Desbloqueado en el calendario\nN°11 - 2025"}
+    },
+    {
+        "groupId":3474, "zone":"torso", "category":"jacket", "security":"0a365da22019cf16", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Capa",
+        "outfitName":"Parisian Chic",
+        "variations":[
+            {"id":3474, "colors":["brown"]},
+            {"id":3475, "colors":["black"]},
+            {"id":3476, "colors":["white"]},
+            {"id":3477, "colors":["blue"]},
+            {"id":3478, "colors":["purple"]},
+            {"id":3479, "colors":["pink"]},
+            {"id":3480, "colors":["red"]},
+            {"id":3481, "colors":["yellow"]},
+            {"id":3482, "colors":["green"]},
+            {"id":3483, "colors":["green"]}
+        ], "criteria":{"type":"calendar", "info":"2025-11", "text":"Desbloqueado en el calendario\nN°11 - 2025"}
+    },
+    {
+        "groupId":3484, "zone":"head", "category":"hat", "security":"685c469766008d3b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boina",
+        "outfitName":"Parisian Chic",
+        "variations":[
+            {"id":3484, "colors":["red"]},
+            {"id":3485, "colors":["black"]},
+            {"id":3486, "colors":["white"]},
+            {"id":3487, "colors":["pink"]},
+            {"id":3488, "colors":["blue"]},
+            {"id":3489, "colors":["yellow"]},
+            {"id":3490, "colors":["brown"]},
+            {"id":3491, "colors":["blue"]},
+            {"id":3492, "colors":["brown"]},
+            {"id":3493, "colors":["green"]}
+        ], "criteria":{"type":"calendar", "info":"2025-11", "text":"Desbloqueado en el calendario\nN°11 - 2025"}
+    },
+    {
+        "groupId":3494, "zone":"arms", "category":"bag", "security":"67708655df614e68", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bollería",
+        "outfitName":"Parisian Chic",
+        "variations":[
+            {"id":3494, "colors":["brown"]},
+            {"id":3495, "colors":["brown"]},
+            {"id":3496, "colors":["brown"]},
+            {"id":3497, "colors":["green"]},
+            {"id":3498, "colors":["brown"]},
+            {"id":3499, "colors":["brown"]},
+            {"id":3500, "colors":["brown"]},
+            {"id":3501, "colors":["brown"]},
+            {"id":3502, "colors":["brown"]},
+            {"id":3503, "colors":["brown"]}
+        ], "criteria":{"type":"calendar", "info":"2025-11", "text":"Desbloqueado en el calendario\nN°11 - 2025"}
     },
     {
         "groupId":3504, "zone":"head", "category":"wig", "security":"b82d3d69a095628c", "multiLayered":false, "layerBehavior":"normal",
@@ -9009,6 +9241,210 @@
             {"id":6241, "colors":["white"]}
         ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
     },
+    {
+        "groupId":6242, "zone":"feet", "category":"socks", "security":"5a01f7503f91fade", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Active Day",
+        "variations":[
+            {"id":6242, "colors":["white"]},
+            {"id":6243, "colors":["brown"]},
+            {"id":6244, "colors":["black"]},
+            {"id":6245, "colors":["blue"]},
+            {"id":6246, "colors":["green"]},
+            {"id":6247, "colors":["red"]},
+            {"id":6248, "colors":["pink"]},
+            {"id":6249, "colors":["yellow"]},
+            {"id":6250, "colors":["blue"]},
+            {"id":6251, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6252, "zone":"feet", "category":"shoes", "security":"af46a1d533133b19", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Deportivas",
+        "outfitName":"Active Day",
+        "variations":[
+            {"id":6252, "colors":["white"]},
+            {"id":6253, "colors":["brown"]},
+            {"id":6254, "colors":["black"]},
+            {"id":6255, "colors":["blue"]},
+            {"id":6256, "colors":["green"]},
+            {"id":6257, "colors":["red"]},
+            {"id":6258, "colors":["pink"]},
+            {"id":6259, "colors":["yellow"]},
+            {"id":6260, "colors":["blue"]},
+            {"id":6261, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6262, "zone":"waistToKnee", "category":"pants", "security":"4fb5cfe212189a26", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Short",
+        "outfitName":"Active Day",
+        "variations":[
+            {"id":6262, "colors":["blue"]},
+            {"id":6263, "colors":["red"]},
+            {"id":6264, "colors":["white"]},
+            {"id":6265, "colors":["pink"]},
+            {"id":6266, "colors":["yellow"]},
+            {"id":6267, "colors":["black"]},
+            {"id":6268, "colors":["green"]},
+            {"id":6269, "colors":["brown"]},
+            {"id":6270, "colors":["green"]},
+            {"id":6271, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6272, "zone":"torso", "category":"top", "security":"c719ff4619cb504f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Halter",
+        "outfitName":"Active Day",
+        "variations":[
+            {"id":6272, "colors":["blue"]},
+            {"id":6273, "colors":["red"]},
+            {"id":6274, "colors":["white"]},
+            {"id":6275, "colors":["pink"]},
+            {"id":6276, "colors":["yellow"]},
+            {"id":6277, "colors":["black"]},
+            {"id":6278, "colors":["green"]},
+            {"id":6279, "colors":["brown"]},
+            {"id":6280, "colors":["green"]},
+            {"id":6281, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6282, "zone":"torso", "category":"jacket", "security":"a8df5445e0b885fc", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hoodie",
+        "outfitName":"Active Day",
+        "variations":[
+            {"id":6282, "colors":["purple"]},
+            {"id":6283, "colors":["black"]},
+            {"id":6284, "colors":["blue"]},
+            {"id":6285, "colors":["red"]},
+            {"id":6286, "colors":["pink"]},
+            {"id":6287, "colors":["white"]},
+            {"id":6288, "colors":["blue"]},
+            {"id":6289, "colors":["green"]},
+            {"id":6290, "colors":["yellow"]},
+            {"id":6291, "colors":["orange"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6292, "zone":"arms", "category":"bag", "security":"c2efdcaf5eee6951", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gourde",
+        "outfitName":"Active Day",
+        "variations":[
+            {"id":6292, "colors":["green"]},
+            {"id":6293, "colors":["pink","purple"]},
+            {"id":6294, "colors":["blue"]},
+            {"id":6295, "colors":["black"]},
+            {"id":6296, "colors":["white"]},
+            {"id":6297, "colors":["yellow"]},
+            {"id":6298, "colors":["blue"]},
+            {"id":6299, "colors":["orange"]},
+            {"id":6300, "colors":["red"]},
+            {"id":6301, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6302, "zone":"torso_waistToKnee", "category":"underwear", "security":"9d161b23ff9eff87", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Rest Day",
+        "variations":[
+            {"id":6302, "colors":["orange"]},
+            {"id":6303, "colors":["yellow"]},
+            {"id":6304, "colors":["purple"]},
+            {"id":6305, "colors":["red"]},
+            {"id":6306, "colors":["black"]},
+            {"id":6307, "colors":["pink"]},
+            {"id":6308, "colors":["green"]},
+            {"id":6309, "colors":["brown"]},
+            {"id":6310, "colors":["blue"]},
+            {"id":6311, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6312, "zone":"waistToKnee", "category":"pants", "security":"29c2cd6e32da896d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Leggings",
+        "outfitName":"Rest Day",
+        "variations":[
+            {"id":6312, "colors":["grey"]},
+            {"id":6313, "colors":["orange"]},
+            {"id":6314, "colors":["brown"]},
+            {"id":6315, "colors":["brown"]},
+            {"id":6316, "colors":["pink"]},
+            {"id":6317, "colors":["purple"]},
+            {"id":6318, "colors":["black"]},
+            {"id":6319, "colors":["blue"]},
+            {"id":6320, "colors":["white"]},
+            {"id":6321, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6322, "zone":"waistToKnee", "category":"pants", "security":"b298916c3539c492", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalón de chándal",
+        "outfitName":"Rest Day",
+        "variations":[
+            {"id":6322, "colors":["green"]},
+            {"id":6323, "colors":["black"]},
+            {"id":6324, "colors":["white"]},
+            {"id":6325, "colors":["brown"]},
+            {"id":6326, "colors":["red"]},
+            {"id":6327, "colors":["brown"]},
+            {"id":6328, "colors":["grey"]},
+            {"id":6329, "colors":["blue"]},
+            {"id":6330, "colors":["purple"]},
+            {"id":6331, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6332, "zone":"torso", "category":"jacket", "security":"c2a0e1f1f8d60348", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hoodie",
+        "outfitName":"Rest Day",
+        "variations":[
+            {"id":6332, "colors":["green"]},
+            {"id":6333, "colors":["black"]},
+            {"id":6334, "colors":["white"]},
+            {"id":6335, "colors":["brown"]},
+            {"id":6336, "colors":["red"]},
+            {"id":6337, "colors":["brown"]},
+            {"id":6338, "colors":["grey"]},
+            {"id":6339, "colors":["blue"]},
+            {"id":6340, "colors":["purple"]},
+            {"id":6341, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6342, "zone":"feet", "category":"shoes", "security":"e9e4e38a715ad17e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Deportivas",
+        "outfitName":"Rest Day",
+        "variations":[
+            {"id":6342, "colors":["white"]},
+            {"id":6343, "colors":["grey"]},
+            {"id":6344, "colors":["brown"]},
+            {"id":6345, "colors":["pink"]},
+            {"id":6346, "colors":["brown"]},
+            {"id":6347, "colors":["red"]},
+            {"id":6348, "colors":["black"]},
+            {"id":6349, "colors":["green"]},
+            {"id":6350, "colors":["blue"]},
+            {"id":6351, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
+    {
+        "groupId":6352, "zone":"arms", "category":"bag", "security":"163b98d70f699bac", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Rest Day",
+        "variations":[
+            {"id":6352, "colors":["orange"]},
+            {"id":6353, "colors":["yellow"]},
+            {"id":6354, "colors":["purple"]},
+            {"id":6355, "colors":["red"]},
+            {"id":6356, "colors":["black"]},
+            {"id":6357, "colors":["pink"]},
+            {"id":6358, "colors":["green"]},
+            {"id":6359, "colors":["brown"]},
+            {"id":6360, "colors":["blue"]},
+            {"id":6361, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
+    },
 
 
     {
@@ -10133,5 +10569,143 @@
             {"id":7440, "colors":["golden","red"]},
             {"id":7441, "colors":["silver","pink"]}
         ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+
+    
+    {
+        "groupId":8232, "zone":"torso_waistToKnee", "category":"underwear", "security":"8c492a60f07f9da5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Love Bombing",
+        "variations":[
+            {"id":8232, "colors":["pink"]},
+            {"id":8233, "colors":["red"]},
+            {"id":8234, "colors":["purple"]},
+            {"id":8235, "colors":["yellow"]},
+            {"id":8236, "colors":["green"]},
+            {"id":8237, "colors":["blue"]},
+            {"id":8238, "colors":["blue"]},
+            {"id":8239, "colors":["white"]},
+            {"id":8240, "colors":["black"]},
+            {"id":8241, "colors":["white","multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8242, "zone":"feet", "category":"shoes", "security":"cd674111c0cf7f82", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Love Bombing",
+        "variations":[
+            {"id":8242, "colors":["red"]},
+            {"id":8243, "colors":["pink","multi"]},
+            {"id":8244, "colors":["purple"]},
+            {"id":8245, "colors":["yellow"]},
+            {"id":8246, "colors":["green"]},
+            {"id":8247, "colors":["blue"]},
+            {"id":8248, "colors":["green"]},
+            {"id":8249, "colors":["white"]},
+            {"id":8250, "colors":["black","red"]},
+            {"id":8251, "colors":["white","multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8252, "zone":"waistToKnee", "category":"pants", "security":"37048766fb045504", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jeans",
+        "outfitName":"Love Bombing",
+        "variations":[
+            {"id":8252, "colors":["pink"]},
+            {"id":8253, "colors":["red"]},
+            {"id":8254, "colors":["purple"]},
+            {"id":8255, "colors":["yellow"]},
+            {"id":8256, "colors":["green"]},
+            {"id":8257, "colors":["blue"]},
+            {"id":8258, "colors":["grey"]},
+            {"id":8259, "colors":["white"]},
+            {"id":8260, "colors":["black"]},
+            {"id":8261, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8262, "zone":"torso", "category":"top", "security":"8272452c0185494b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jersey",
+        "outfitName":"Love Bombing",
+        "variations":[
+            {"id":8262, "colors":["red","pink"]},
+            {"id":8263, "colors":["multi"]},
+            {"id":8264, "colors":["purple"]},
+            {"id":8265, "colors":["yellow","orange"]},
+            {"id":8266, "colors":["green"]},
+            {"id":8267, "colors":["blue"]},
+            {"id":8268, "colors":["blue"]},
+            {"id":8269, "colors":["white"]},
+            {"id":8270, "colors":["black"]},
+            {"id":8271, "colors":["multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8272, "zone":"head", "category":"earring", "security":"7ff9926355beefed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Love Bombing",
+        "variations":[
+            {"id":8272, "colors":["pink"]},
+            {"id":8273, "colors":["red"]},
+            {"id":8274, "colors":["purple"]},
+            {"id":8275, "colors":["yellow"]},
+            {"id":8276, "colors":["green"]},
+            {"id":8277, "colors":["blue"]},
+            {"id":8278, "colors":["blue"]},
+            {"id":8279, "colors":["white"]},
+            {"id":8280, "colors":["black"]},
+            {"id":8281, "colors":["multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8282, "zone":"arms", "category":"bag", "security":"954d5614228d7881", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piruleta",
+        "outfitName":"Love Bombing",
+        "variations":[
+            {"id":8282, "colors":["red","pink"]},
+            {"id":8283, "colors":["pink","multi"]},
+            {"id":8284, "colors":["purple","pink"]},
+            {"id":8285, "colors":["yellow","orange"]},
+            {"id":8286, "colors":["green"]},
+            {"id":8287, "colors":["blue"]},
+            {"id":8288, "colors":["blue","green"]},
+            {"id":8289, "colors":["white"]},
+            {"id":8290, "colors":["black"]},
+            {"id":8291, "colors":["multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8292, "zone":"head", "category":"faceAccessory", "security":"5cac13491538ea07", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Love Bombing",
+        "variations":[
+            {"id":8292, "colors":["red"]},
+            {"id":8293, "colors":["pink"]},
+            {"id":8294, "colors":["purple"]},
+            {"id":8295, "colors":["yellow"]},
+            {"id":8296, "colors":["green"]},
+            {"id":8297, "colors":["blue"]},
+            {"id":8298, "colors":["blue"]},
+            {"id":8299, "colors":["white"]},
+            {"id":8300, "colors":["black"]},
+            {"id":8301, "colors":["multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8302, "zone":"arms", "category":"bag", "security":"25692e791c5cb11e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Love Bombing",
+        "variations":[
+            {"id":8302, "colors":["red","golden"]},
+            {"id":8303, "colors":["pink","golden"]},
+            {"id":8304, "colors":["purple","silver"]},
+            {"id":8305, "colors":["yellow"]},
+            {"id":8306, "colors":["green","silver"]},
+            {"id":8307, "colors":["blue","silver"]},
+            {"id":8308, "colors":["green","silver"]},
+            {"id":8309, "colors":["white","golden"]},
+            {"id":8310, "colors":["black","silver"]},
+            {"id":8311, "colors":["multi","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     }
 ]
