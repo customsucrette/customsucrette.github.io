@@ -10707,5 +10707,406 @@
             {"id":8310, "colors":["black","silver"]},
             {"id":8311, "colors":["multi","golden"]}
         ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8312, "zone":"feet", "category":"shoes", "security":"4958a9db8d61c61b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bailarinas",
+        "outfitName":"Gentle Heart",
+        "variations":[
+            {"id":8312, "colors":["blue"]},
+            {"id":8313, "colors":["pink"]},
+            {"id":8314, "colors":["red"]},
+            {"id":8315, "colors":["yellow"]},
+            {"id":8316, "colors":["green"]},
+            {"id":8317, "colors":["white"]},
+            {"id":8318, "colors":["black"]},
+            {"id":8319, "colors":["purple"]},
+            {"id":8320, "colors":["green"]},
+            {"id":8321, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8322, "zone":"face", "category":"neckAccessory", "security":"d1d2ef703fe46227", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar choker",
+        "outfitName":"Gentle Heart",
+        "variations":[
+            {"id":8322, "colors":["golden","purple"]},
+            {"id":8323, "colors":["blue","golden"]},
+            {"id":8324, "colors":["golden","yellow"]},
+            {"id":8325, "colors":["purple","silver"]},
+            {"id":8326, "colors":["golden","orange"]},
+            {"id":8327, "colors":["black","grey","silver"]},
+            {"id":8328, "colors":["golden","white"]},
+            {"id":8329, "colors":["red","silver"]},
+            {"id":8330, "colors":["green","silver"]},
+            {"id":8331, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8332, "zone":"head", "category":"wig", "security":"9a1705f589bdbf81", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Gentle Heart",
+        "variations":[
+            {"id":8332, "colors":["brown"]},
+            {"id":8333, "colors":["white"]},
+            {"id":8334, "colors":["black"]},
+            {"id":8335, "colors":["blue"]},
+            {"id":8336, "colors":["blue"]},
+            {"id":8337, "colors":["purple"]},
+            {"id":8338, "colors":["red"]},
+            {"id":8339, "colors":["yellow"]},
+            {"id":8340, "colors":["orange"]},
+            {"id":8341, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8342, "zone":"torso_waistToKnee", "category":"dress", "security":"d3ca9bd0b38847e0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Gentle Heart",
+        "variations":[
+            {"id":8342, "colors":["blue","golden"]},
+            {"id":8343, "colors":["golden","pink"]},
+            {"id":8344, "colors":["golden","red"]},
+            {"id":8345, "colors":["silver","yellow"]},
+            {"id":8346, "colors":["golden","green"]},
+            {"id":8347, "colors":["silver","white"]},
+            {"id":8348, "colors":["black","golden"]},
+            {"id":8349, "colors":["purple","silver"]},
+            {"id":8350, "colors":["green","silver"]},
+            {"id":8351, "colors":["blue","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8352, "zone":"arms", "category":"armAccessory", "security":"cdc1cae7e2aef772", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Gentle Heart",
+        "variations":[
+            {"id":8352, "colors":["pink"]},
+            {"id":8353, "colors":["blue"]},
+            {"id":8354, "colors":["yellow"]},
+            {"id":8355, "colors":["purple"]},
+            {"id":8356, "colors":["brown","orange"]},
+            {"id":8357, "colors":["black"]},
+            {"id":8358, "colors":["white"]},
+            {"id":8359, "colors":["red"]},
+            {"id":8360, "colors":["green"]},
+            {"id":8361, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8362, "zone":"head", "category":"hat", "security":"6674006a0a0ec2bd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona",
+        "outfitName":"Gentle Heart",
+        "variations":[
+            {"id":8362, "colors":["pink"]},
+            {"id":8363, "colors":["blue"]},
+            {"id":8364, "colors":["yellow"]},
+            {"id":8365, "colors":["purple"]},
+            {"id":8366, "colors":["brown","orange"]},
+            {"id":8367, "colors":["black"]},
+            {"id":8368, "colors":["white"]},
+            {"id":8369, "colors":["red"]},
+            {"id":8370, "colors":["green"]},
+            {"id":8371, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8372, "zone":"feet", "category":"shoes", "security":"0e16929f7270716a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Blossom Heart",
+        "variations":[
+            {"id":8372, "colors":["pink"]},
+            {"id":8373, "colors":["purple"]},
+            {"id":8374, "colors":["blue"]},
+            {"id":8375, "colors":["white"]},
+            {"id":8376, "colors":["red"]},
+            {"id":8377, "colors":["black"]},
+            {"id":8378, "colors":["yellow"]},
+            {"id":8379, "colors":["green"]},
+            {"id":8380, "colors":["brown"]},
+            {"id":8381, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8382, "zone":"face", "category":"neckAccessory", "security":"68d24d239abbf546", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Blossom Heart",
+        "variations":[
+            {"id":8382, "colors":["golden","pink"]},
+            {"id":8383, "colors":["purple","silver"]},
+            {"id":8384, "colors":["blue","silver"]},
+            {"id":8385, "colors":["golden","white"]},
+            {"id":8386, "colors":["golden","red"]},
+            {"id":8387, "colors":["black","golden"]},
+            {"id":8388, "colors":["golden","yellow"]},
+            {"id":8389, "colors":["golden","green"]},
+            {"id":8390, "colors":["golden","pink"]},
+            {"id":8391, "colors":["purple","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8392, "zone":"waistToKnee", "category":"skirt", "security":"48c360ac2f1007cc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Blossom Heart",
+        "variations":[
+            {"id":8392, "colors":["golden","pink"]},
+            {"id":8393, "colors":["purple","silver"]},
+            {"id":8394, "colors":["blue","silver"]},
+            {"id":8395, "colors":["golden","white"]},
+            {"id":8396, "colors":["golden","red"]},
+            {"id":8397, "colors":["black","golden"]},
+            {"id":8398, "colors":["golden","orange"]},
+            {"id":8399, "colors":["golden","green"]},
+            {"id":8400, "colors":["brown","golden"]},
+            {"id":8401, "colors":["blue","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8402, "zone":"arms", "category":"armAccessory", "security":"45defeb782bc9c1c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Blossom Heart",
+        "variations":[
+            {"id":8402, "colors":["golden","pink"]},
+            {"id":8403, "colors":["purple","silver"]},
+            {"id":8404, "colors":["blue","silver"]},
+            {"id":8405, "colors":["golden","white"]},
+            {"id":8406, "colors":["golden","red"]},
+            {"id":8407, "colors":["black","golden"]},
+            {"id":8408, "colors":["golden","orange"]},
+            {"id":8409, "colors":["golden","green"]},
+            {"id":8410, "colors":["brown","golden"]},
+            {"id":8411, "colors":["blue","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8412, "zone":"torso", "category":"top", "security":"6a32f7c49d61be90", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bustier",
+        "outfitName":"Blossom Heart",
+        "variations":[
+            {"id":8412, "colors":["golden","pink"]},
+            {"id":8413, "colors":["purple","silver"]},
+            {"id":8414, "colors":["blue","silver"]},
+            {"id":8415, "colors":["golden","white"]},
+            {"id":8416, "colors":["golden","red"]},
+            {"id":8417, "colors":["black","golden"]},
+            {"id":8418, "colors":["golden","orange"]},
+            {"id":8419, "colors":["golden","green"]},
+            {"id":8420, "colors":["brown","golden"]},
+            {"id":8421, "colors":["blue","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8422, "zone":"head", "category":"wig", "security":"4b18eaf34f390100", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Blossom Heart",
+        "variations":[
+            {"id":8422, "colors":["brown"]},
+            {"id":8423, "colors":["white"]},
+            {"id":8424, "colors":["black"]},
+            {"id":8425, "colors":["blue"]},
+            {"id":8426, "colors":["blue"]},
+            {"id":8427, "colors":["purple"]},
+            {"id":8428, "colors":["red"]},
+            {"id":8429, "colors":["yellow"]},
+            {"id":8430, "colors":["orange"]},
+            {"id":8431, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8432, "zone":"head", "category":"hat", "security":"26855fd27a6d19f8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Diadema",
+        "outfitName":"Blossom Heart",
+        "variations":[
+            {"id":8432, "colors":["golden","pink"]},
+            {"id":8433, "colors":["purple","silver"]},
+            {"id":8434, "colors":["blue","silver"]},
+            {"id":8435, "colors":["golden","white"]},
+            {"id":8436, "colors":["golden","red"]},
+            {"id":8437, "colors":["black","golden"]},
+            {"id":8438, "colors":["yellow","orange"]},
+            {"id":8439, "colors":["green","orange"]},
+            {"id":8440, "colors":["orange","pink"]},
+            {"id":8441, "colors":["purple","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8442, "zone":"arms", "category":"bag", "security":"4658d84b28646410", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rose",
+        "outfitName":"Blossom Heart",
+        "variations":[
+            {"id":8442, "colors":["pink"]},
+            {"id":8443, "colors":["pink","purple"]},
+            {"id":8444, "colors":["blue"]},
+            {"id":8445, "colors":["white"]},
+            {"id":8446, "colors":["red"]},
+            {"id":8447, "colors":["black"]},
+            {"id":8448, "colors":["yellow"]},
+            {"id":8449, "colors":["green"]},
+            {"id":8450, "colors":["pink"]},
+            {"id":8451, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "groupId":8452, "zone":"head", "category":"wig", "security":"cf0e4229c48cbc46", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Shattered Heart",
+        "variations":[
+            {"id":8452, "colors":["white","brown"]},
+            {"id":8453, "colors":["white","black"]},
+            {"id":8454, "colors":["white","black"]},
+            {"id":8455, "colors":["white","blue"]},
+            {"id":8456, "colors":["white","blue"]},
+            {"id":8457, "colors":["white","purple"]},
+            {"id":8458, "colors":["white","red"]},
+            {"id":8459, "colors":["white","yellow"]},
+            {"id":8460, "colors":["white","orange"]},
+            {"id":8461, "colors":["white","pink"]},
+            {"id":8462, "colors":["brown"]},
+            {"id":8463, "colors":["white"]},
+            {"id":8464, "colors":["black"]},
+            {"id":8465, "colors":["blue"]},
+            {"id":8466, "colors":["blue"]},
+            {"id":8467, "colors":["purple"]},
+            {"id":8468, "colors":["red"]},
+            {"id":8469, "colors":["yellow"]},
+            {"id":8470, "colors":["orange"]},
+            {"id":8471, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "groupId":8472, "zone":"arms", "category":"gloves", "security":"266c11fd53200e7d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Manos",
+        "outfitName":"Shattered Heart",
+        "variations":[
+            {"id":8472, "colors":["black"]},
+            {"id":8473, "colors":["red"]},
+            {"id":8474, "colors":["pink"]},
+            {"id":8475, "colors":["white"]},
+            {"id":8476, "colors":["purple"]},
+            {"id":8477, "colors":["blue"]},
+            {"id":8478, "colors":["yellow"]},
+            {"id":8479, "colors":["brown"]},
+            {"id":8480, "colors":["green"]},
+            {"id":8481, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "groupId":8482, "zone":"arms", "category":"armAccessory", "security":"c0c132ace301d950", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Shattered Heart",
+        "variations":[
+            {"id":8482, "colors":["pink","silver"]},
+            {"id":8483, "colors":["black","red"]},
+            {"id":8484, "colors":["black","orange"]},
+            {"id":8485, "colors":["white"]},
+            {"id":8486, "colors":["purple","silver"]},
+            {"id":8487, "colors":["blue","golden"]},
+            {"id":8488, "colors":["yellow"]},
+            {"id":8489, "colors":["brown"]},
+            {"id":8490, "colors":["green","silver"]},
+            {"id":8491, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "groupId":8492, "zone":"torso_waistToKnee", "category":"underwear", "security":"5a86ee1513265827", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Shattered Heart",
+        "variations":[
+            {"id":8492, "colors":["pink","red"]},
+            {"id":8493, "colors":["red","silver"]},
+            {"id":8494, "colors":["black","pink"]},
+            {"id":8495, "colors":["blue","white"]},
+            {"id":8496, "colors":["black","purple"]},
+            {"id":8497, "colors":["blue","white"]},
+            {"id":8498, "colors":["yellow"]},
+            {"id":8499, "colors":["brown","orange"]},
+            {"id":8500, "colors":["green"]},
+            {"id":8501, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "groupId":8502, "zone":"feet", "category":"shoes", "security":"2699ed3317a179cf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Shattered Heart",
+        "variations":[
+            {"id":8502, "colors":["pink","red","silver"]},
+            {"id":8503, "colors":["black","grey","red"]},
+            {"id":8504, "colors":["black","orange","pink"]},
+            {"id":8505, "colors":["blue","silver","white"]},
+            {"id":8506, "colors":["black","purple","silver"]},
+            {"id":8507, "colors":["blue","golden","white"]},
+            {"id":8508, "colors":["brown","yellow"]},
+            {"id":8509, "colors":["brown","orange"]},
+            {"id":8510, "colors":["green","silver"]},
+            {"id":8511, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "groupId":8512, "zone":"waistToKnee", "category":"skirt", "security":"92dff1e5ac648713", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Shattered Heart",
+        "variations":[
+            {"id":8512, "colors":["pink"]},
+            {"id":8513, "colors":["red"]},
+            {"id":8514, "colors":["black"]},
+            {"id":8515, "colors":["white"]},
+            {"id":8516, "colors":["purple"]},
+            {"id":8517, "colors":["blue"]},
+            {"id":8518, "colors":["yellow"]},
+            {"id":8519, "colors":["brown"]},
+            {"id":8520, "colors":["green"]},
+            {"id":8521, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "groupId":8522, "zone":"face", "category":"neckAccessory", "security":"ad884caa5a87f59d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Arnés",
+        "outfitName":"Shattered Heart",
+        "variations":[
+            {"id":8522, "colors":["red","silver"]},
+            {"id":8523, "colors":["black","grey"]},
+            {"id":8524, "colors":["orange","pink"]},
+            {"id":8525, "colors":["white","blue"]},
+            {"id":8526, "colors":["grey","black"]},
+            {"id":8527, "colors":["golden","white"]},
+            {"id":8528, "colors":["brown","yellow"]},
+            {"id":8529, "colors":["golden","orange"]},
+            {"id":8530, "colors":["green","silver"]},
+            {"id":8531, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "groupId":8532, "zone":"arms", "category":"armAccessory", "security":"bea8aab55e190ba8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Shattered Heart",
+        "variations":[
+            {"id":8532, "colors":["red","silver"]},
+            {"id":8533, "colors":["black","red"]},
+            {"id":8534, "colors":["black","orange","pink"]},
+            {"id":8535, "colors":["white","blue"]},
+            {"id":8536, "colors":["black","purple","silver"]},
+            {"id":8537, "colors":["blue","golden","white"]},
+            {"id":8538, "colors":["brown","yellow"]},
+            {"id":8539, "colors":["golden","orange"]},
+            {"id":8540, "colors":["green","silver"]},
+            {"id":8541, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "groupId":8542, "zone":"head", "category":"hat", "security":"d1b24a9572708412", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona",
+        "outfitName":"Shattered Heart",
+        "variations":[
+            {"id":8542, "colors":["silver"]},
+            {"id":8543, "colors":["black"]},
+            {"id":8544, "colors":["golden","orange"]},
+            {"id":8545, "colors":["white"]},
+            {"id":8546, "colors":["grey","purple"]},
+            {"id":8547, "colors":["golden"]},
+            {"id":8548, "colors":["brown"]},
+            {"id":8549, "colors":["golden"]},
+            {"id":8550, "colors":["silver"]},
+            {"id":8551, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     }
 ]

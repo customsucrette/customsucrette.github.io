@@ -1,7 +1,7 @@
 [
     {
         "id":1, "security":"4a89eb83fc720162", "name":"Energized",
-        "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo \n Energized"}
+        "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo\nEnergized"}
     },
     {
         "id":2, "security":"2f24112b3b80b9c3", "name":"Worky Worky",
@@ -17,23 +17,23 @@
     },
     {
         "id":5, "security":"fa6409d630667f4c", "name":"Marshmallow Fluff",
-        "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo \n Marshmallow Fluff"}
+        "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo\nMarshmallow Fluff"}
     },
     {
         "id":6, "security":"4f1763bfac0310b0", "name":"Spiky Wit",
-        "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo \n Spiky Wit"}
+        "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo\nSpiky Wit"}
     },
     {
         "id":7, "security":"0cbe9bc2d2a31e6b", "name":"Elven Call",
-        "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo \n Elven Call"}
+        "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo\nElven Call"}
     },
     {
         "id":8, "security":"53cdb018f224fc1b", "name":"Quiet Reading",
-        "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo \n Quiet Reading"}
+        "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo\nQuiet Reading"}
     },
     {
         "id":9, "security":"095a85859e1cba7e", "name":"Fairycore",
-        "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"}
+        "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo\nFairycore"}
     },
     {
         "id":10, "security":"1cb89aed1e331dd3", "name":"Pizza Delivery Goose",
@@ -65,19 +65,19 @@
     },
     {
         "id":18, "security":"4e23470e302228a9", "name":"Lady Regency",
-        "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo \n Lady Regency"}
+        "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo\nLady Regency"}
     },
     {
         "id":19, "security":"39881ea8bf10e6be", "name":"Plastic Life",
-        "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
+        "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo\nPlastic Life"}
     },
     {
         "id":20, "security":"cbf8946ff8b4824c", "name":"Foggy Mystery",
-        "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo \n Foggy Mystery"}
+        "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo\nFoggy Mystery"}
     },
     {
         "id":21, "security":"11d979f6cf9ac456", "name":"Aren't We All a Bit Mad Here?",
-        "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo \n Aren't We All a Bit Mad Here?"}
+        "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo\nAren't We All a Bit Mad Here?"}
     },
     {
         "id":22, "security":"fdeffffbe5d1526a", "name":"Toot Tooooot!",
@@ -154,6 +154,10 @@
     {
         "id":43, "security":"86735789be2a0393", "name":"Graoose",
         "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+    {
+        "id":54, "security":"0fe02650a08ec057", "name":"Saboteur Wingman",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "id":55, "security":"0dc18c270bef5432","name":"Helpful Wingman",

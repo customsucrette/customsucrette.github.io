@@ -1767,5 +1767,86 @@
         "name":"Linternas",
         "roomName":"New Dawn Pavilion",
         "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
+    },
+  
+    {
+        "id":339, "roomId":73, "slot":"background", "light":true, "security":"6c4b0341d772019a",
+        "name":"Paredes",
+        "roomName":"Dreams of Love",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"ECD0E1","colorLight":"245DAB"},
+            "night":{"color1":"E2B9E7","color2":"8F9EEA","colorLight":"7C0CA4"}
+        }
+    },
+    {
+        "id":340, "roomId":73, "slot":"slot1", "light":true, "security":"712047f7a0fe7808",
+        "name":"Chimenea",
+        "roomName":"Dreams of Love",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "id":341, "roomId":73, "slot":"slot2", "light":true, "security":"603534ae61b35573",
+        "name":"Cama",
+        "roomName":"Dreams of Love",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "id":342, "roomId":73, "slot":"slot3", "light":false, "security":"f9ef10c326567388",
+        "name":"Peluquera",
+        "roomName":"Dreams of Love",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "id":343, "roomId":73, "slot":"slot4", "light":false, "security":"1666a5f9c3fc4cfd",
+        "name":"Flores",
+        "roomName":"Dreams of Love",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "id":344, "roomId":73, "slot":"slot5", "light":false, "security":"16811acdce04c9d2",
+        "name":"Conejos",
+        "roomName":"Dreams of Love",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "id":345, "roomId":74, "slot":"background", "light":true, "security":"b60d33d2b19fadbf",
+        "name":"Paredes",
+        "roomName":"Hopeless Despair",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"},
+        "backgroundColors":{
+            "day":{"color1":"F0B4FF","color2":"7F98A8","colorLight":"B969AF"},
+            "night":{"color1":"79ABFF","color2":"7F6BA4","colorLight":"5D74E2"}
+        }
+    },
+    {
+        "id":346, "roomId":74, "slot":"slot1", "light":true, "security":"0383c566fee52140",
+        "name":"Escalera",
+        "roomName":"Hopeless Despair",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "id":347, "roomId":74, "slot":"slot2", "light":true, "security":"799bef98c70df265",
+        "name":"Cama",
+        "roomName":"Hopeless Despair",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "id":348, "roomId":74, "slot":"slot3", "light":false, "security":"fb0e1b03f377fa4e",
+        "name":"Velador",
+        "roomName":"Hopeless Despair",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "id":349, "roomId":74, "slot":"slot4", "light":false, "security":"5479fbd4f011ad1a",
+        "name":"Espejo",
+        "roomName":"Hopeless Despair",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "id":350, "roomId":74, "slot":"slot5", "light":false, "security":"3f7bb1b7cb734522",
+        "name":"Estatua",
+        "roomName":"Hopeless Despair",
+        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     }
 ]

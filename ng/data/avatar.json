@@ -254,6 +254,24 @@
                     {"id":103, "colors":["black"]},
                     {"id":104, "colors":["white"]}
                 ], "criteria":{"type":"pack", "info":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"}
+            },
+
+            {
+                "groupId":116, "zone":"face", "category":"eyes", "security":"8a2177c00755d196",
+                "name":"Ojos",
+                "outfitName":"Shattered Heart",
+                "variations":[
+                    {"id":116, "colors":["red"]},
+                    {"id":117, "colors":["pink"]},
+                    {"id":118, "colors":["black"]},
+                    {"id":119, "colors":["white"]},
+                    {"id":120, "colors":["purple"]},
+                    {"id":121, "colors":["blue"]},
+                    {"id":122, "colors":["yellow"]},
+                    {"id":123, "colors":["brown"]},
+                    {"id":124, "colors":["green"]},
+                    {"id":125, "colors":["blue"]}
+                ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
             }
         ],
         "mouth":[
