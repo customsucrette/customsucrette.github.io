@@ -8182,7 +8182,7 @@
             {"id":5632, "colors":["pink"]},
             {"id":5633, "colors":["blue"]},
             {"id":5634, "colors":["grey"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5635, "zone":"feet", "category":"socks", "security":"85a8e3bfea1c6f0a", "multiLayered":false, "layerBehavior":"normal",
@@ -8199,7 +8199,7 @@
             {"id":5642, "colors":["pink"]},
             {"id":5643, "colors":["blue"]},
             {"id":5644, "colors":["grey"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5645, "zone":"arms", "category":"armAccessory", "security":"dba9b5206e0aeb83", "multiLayered":false, "layerBehavior":"normal",
@@ -8216,7 +8216,7 @@
             {"id":5652, "colors":["pink"]},
             {"id":5653, "colors":["blue"]},
             {"id":5654, "colors":["green"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5655, "zone":"feet", "category":"shoes", "security":"eeb5e94e2b5c3d35", "multiLayered":false, "layerBehavior":"normal",
@@ -8233,7 +8233,7 @@
             {"id":5662, "colors":["pink"]},
             {"id":5663, "colors":["blue"]},
             {"id":5664, "colors":["grey"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5665, "zone":"waistToKnee", "category":"skirt", "security":"e28c08128bf3fb2e", "multiLayered":true, "layerBehavior":"normal",
@@ -8250,7 +8250,7 @@
             {"id":5672, "colors":["black","pink"]},
             {"id":5673, "colors":["black","blue"]},
             {"id":5674, "colors":["black","green"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5675, "zone":"torso", "category":"top", "security":"63d02a97c674dc77", "multiLayered":false, "layerBehavior":"normal",
@@ -8267,7 +8267,7 @@
             {"id":5682, "colors":["pink","multi"]},
             {"id":5683, "colors":["blue","multi"]},
             {"id":5684, "colors":["grey","multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5685, "zone":"arms", "category":"bag", "security":"be1b60931675a3ab", "multiLayered":false, "layerBehavior":"normal",
@@ -8284,7 +8284,7 @@
             {"id":5692, "colors":["orange"]},
             {"id":5693, "colors":["orange"]},
             {"id":5694, "colors":["orange"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5695, "zone":"head", "category":"faceAccessory", "security":"31d512389021ede2", "multiLayered":false, "layerBehavior":"normal",
@@ -8301,7 +8301,7 @@
             {"id":5702, "colors":["pink"]},
             {"id":5703, "colors":["white","blue"]},
             {"id":5704, "colors":["white","grey"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5705, "zone":"general", "category":"tattoo", "security":"26410587d3101356", "multiLayered":false, "layerBehavior":"normal",
@@ -8316,7 +8316,7 @@
             {"id":5710, "colors":["brown"]},
             {"id":5711, "colors":["brown"]},
             {"id":5712, "colors":["black"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5713, "zone":"general", "category":"other", "security":"0cfc15ce8544b26a", "multiLayered":true, "layerBehavior":"normal",
@@ -8333,7 +8333,7 @@
             {"id":5720, "colors":["white"]},
             {"id":5721, "colors":["green"]},
             {"id":5722, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5723, "zone":"feet", "category":"shoes", "security":"33ba366d1e3bf566", "multiLayered":false, "layerBehavior":"normal",
@@ -8350,7 +8350,7 @@
             {"id":5730, "colors":["pink"]},
             {"id":5731, "colors":["blue"]},
             {"id":5732, "colors":["brown"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5733, "zone":"torso_waistToKnee", "category":"dress", "security":"66e551790e785c3b", "multiLayered":true, "layerBehavior":"normal",
@@ -8367,7 +8367,7 @@
             {"id":5740, "colors":["pink"]},
             {"id":5741, "colors":["blue"]},
             {"id":5742, "colors":["brown"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5743, "zone":"head", "category":"faceAccessory", "security":"ee745ef6f6ca413d", "multiLayered":false, "layerBehavior":"normal",
@@ -8384,7 +8384,7 @@
             {"id":5750, "colors":["pink"]},
             {"id":5751, "colors":["blue"]},
             {"id":5752, "colors":["brown"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5753, "zone":"head", "category":"wig", "security":"fa93506d8cad5af3", "multiLayered":true, "layerBehavior":"backInFront",
@@ -8401,7 +8401,7 @@
             {"id":5760, "colors":["yellow"]},
             {"id":5761, "colors":["orange"]},
             {"id":5762, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5763, "zone":"torso_waistToKnee", "category":"underwear", "security":"8d52929c0bc1cd72", "multiLayered":true, "layerBehavior":"normal",
@@ -8418,7 +8418,7 @@
             {"id":5770, "colors":["grey"]},
             {"id":5771, "colors":["green"]},
             {"id":5772, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5773, "zone":"feet", "category":"shoes", "security":"4f6ac59eae1059ad", "multiLayered":false, "layerBehavior":"normal",
@@ -8435,7 +8435,7 @@
             {"id":5780, "colors":["grey"]},
             {"id":5781, "colors":["green"]},
             {"id":5782, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5783, "zone":"torso_waistToKnee", "category":"dress", "security":"085a33e7791dbe12", "multiLayered":true, "layerBehavior":"backInFront",
@@ -8452,7 +8452,7 @@
             {"id":5790, "colors":["grey"]},
             {"id":5791, "colors":["green"]},
             {"id":5792, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5793, "zone":"torso_waistToKnee", "category":"waist", "security":"9732b95baa87236b", "multiLayered":false, "layerBehavior":"normal",
@@ -8469,7 +8469,7 @@
             {"id":5800, "colors":["green","multi"]},
             {"id":5801, "colors":["pink","multi"]},
             {"id":5802, "colors":["brown","multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5803, "zone":"head", "category":"wig", "security":"d97bf0ccd46ff740", "multiLayered":true, "layerBehavior":"normal",
@@ -8486,7 +8486,7 @@
             {"id":5810, "colors":["yellow"]},
             {"id":5811, "colors":["orange"]},
             {"id":5812, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5813, "zone":"head", "category":"hat", "security":"6f12155d397b6d27", "multiLayered":true, "layerBehavior":"normal",
@@ -8503,7 +8503,7 @@
             {"id":5820, "colors":["green","red"]},
             {"id":5821, "colors":["pink","red"]},
             {"id":5822, "colors":["brown","red"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5823, "zone":"general", "category":"other", "security":"e142e86662c6b168", "multiLayered":false, "layerBehavior":"normal",
@@ -8520,7 +8520,7 @@
             {"id":5830, "colors":["green"]},
             {"id":5831, "colors":["brown","orange"]},
             {"id":5832, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5833, "zone":"general", "category":"other", "security":"16e4a4d38f217678", "multiLayered":true, "layerBehavior":"normal",
@@ -8537,7 +8537,7 @@
             {"id":5840, "colors":["green","multi"]},
             {"id":5841, "colors":["pink","orange","multi"]},
             {"id":5842, "colors":["orange","pink","multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "groupId":5843, "zone":"feet", "category":"shoes", "security":"cf3c643c5daf9bc6", "multiLayered":false, "layerBehavior":"normal",
@@ -8554,7 +8554,7 @@
             {"id":5850, "colors":["orange"]},
             {"id":5851, "colors":["pink"]},
             {"id":5852, "colors":["brown"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "groupId":5853, "zone":"general", "category":"tattoo", "security":"5d2ee1028a285681", "multiLayered":false, "layerBehavior":"normal",
@@ -8562,7 +8562,7 @@
         "outfitName":"Sharp Countess",
         "variations":[
             {"id":5853, "colors":["red"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "groupId":5854, "zone":"face", "category":"neckAccessory", "security":"fee05e44c4f636e6", "multiLayered":false, "layerBehavior":"normal",
@@ -8579,7 +8579,7 @@
             {"id":5861, "colors":["orange"]},
             {"id":5862, "colors":["pink"]},
             {"id":5863, "colors":["brown"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "groupId":5864, "zone":"torso", "category":"jacket", "security":"661ce66fd64ca8d2", "multiLayered":false, "layerBehavior":"normal",
@@ -8596,7 +8596,7 @@
             {"id":5871, "colors":["orange"]},
             {"id":5872, "colors":["pink"]},
             {"id":5873, "colors":["brown"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "groupId":5874, "zone":"waistToKnee", "category":"skirt", "security":"01795aea382f9ee7", "multiLayered":true, "layerBehavior":"normal",
@@ -8613,7 +8613,7 @@
             {"id":5881, "colors":["orange"]},
             {"id":5882, "colors":["pink"]},
             {"id":5883, "colors":["brown"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "groupId":5884, "zone":"torso", "category":"top", "security":"d1004ae054f89e24", "multiLayered":false, "layerBehavior":"normal",
@@ -8630,7 +8630,7 @@
             {"id":5891, "colors":["orange"]},
             {"id":5892, "colors":["pink"]},
             {"id":5893, "colors":["brown"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "groupId":5894, "zone":"head", "category":"wig", "security":"b3e237a3da5e18b7", "multiLayered":false, "layerBehavior":"normal",
@@ -8647,7 +8647,7 @@
             {"id":5901, "colors":["yellow"]},
             {"id":5902, "colors":["orange"]},
             {"id":5903, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "groupId":5904, "zone":"general", "category":"other", "security":"562227df8a321054", "multiLayered":false, "layerBehavior":"normal",
@@ -8664,7 +8664,7 @@
             {"id":5911, "colors":["orange"]},
             {"id":5912, "colors":["white"]},
             {"id":5913, "colors":["brown"]}
-        ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "groupId":5914, "zone":"head", "category":"faceAccessory", "security":"64eab90b9ce412b5", "multiLayered":false, "layerBehavior":"normal",
@@ -8851,7 +8851,7 @@
             {"id":6021, "colors":["purple","yellow"]},
             {"id":6022, "colors":["blue","white"]},
             {"id":6023, "colors":["brown","blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6024, "zone":"waistToKnee", "category":"skirt", "security":"ce3886076903455c", "multiLayered":true, "layerBehavior":"normal",
@@ -8868,7 +8868,7 @@
             {"id":6031, "colors":["purple","yellow"]},
             {"id":6032, "colors":["blue","white"]},
             {"id":6033, "colors":["brown","blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6034, "zone":"torso", "category":"jacket", "security":"92ef1beacaf5668e", "multiLayered":false, "layerBehavior":"normal",
@@ -8885,7 +8885,7 @@
             {"id":6041, "colors":["purple","silver","yellow"]},
             {"id":6042, "colors":["blue","silver","white"]},
             {"id":6043, "colors":["blue","brown","golden"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6044, "zone":"arms", "category":"bag", "security":"b3df3417566c67c7", "multiLayered":false, "layerBehavior":"normal",
@@ -8902,7 +8902,7 @@
             {"id":6051, "colors":["purple","silver"]},
             {"id":6052, "colors":["blue","silver"]},
             {"id":6053, "colors":["brown","golden","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6054, "zone":"head", "category":"wig", "security":"66c00fea87f24178", "multiLayered":false, "layerBehavior":"normal",
@@ -8919,7 +8919,7 @@
             {"id":6061, "colors":["yellow"]},
             {"id":6062, "colors":["orange"]},
             {"id":6063, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6064, "zone":"head", "category":"hat", "security":"959d90c1efdbf08d", "multiLayered":false, "layerBehavior":"normal",
@@ -8936,7 +8936,7 @@
             {"id":6071, "colors":["purple","silver","yellow"]},
             {"id":6072, "colors":["blue","silver","white"]},
             {"id":6073, "colors":["blue","brown","golden"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6074, "zone":"feet", "category":"socks", "security":"761dc971d55dd692", "multiLayered":false, "layerBehavior":"normal",
@@ -8953,7 +8953,7 @@
             {"id":6081, "colors":["white","green"]},
             {"id":6082, "colors":["white","brown"]},
             {"id":6083, "colors":["white","yellow"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6084, "zone":"feet", "category":"shoes", "security":"5c667cd1bffa2295", "multiLayered":false, "layerBehavior":"normal",
@@ -8970,7 +8970,7 @@
             {"id":6091, "colors":["green","purple","silver"]},
             {"id":6092, "colors":["blue","brown","silver"]},
             {"id":6093, "colors":["green","silver","yellow"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6094, "zone":"torso_waistToKnee", "category":"underwear", "security":"b19f73e3de0b93ea", "multiLayered":false, "layerBehavior":"normal",
@@ -8987,7 +8987,7 @@
             {"id":6101, "colors":["green","purple","silver"]},
             {"id":6102, "colors":["blue","brown","silver"]},
             {"id":6103, "colors":["green","silver","yellow"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6104, "zone":"torso", "category":"jacket", "security":"ae9a1031095e7bae", "multiLayered":false, "layerBehavior":"normal",
@@ -9004,7 +9004,7 @@
             {"id":6111, "colors":["green","purple","silver"]},
             {"id":6112, "colors":["blue","brown","silver"]},
             {"id":6113, "colors":["green","silver","yellow"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6114, "zone":"waistToKnee", "category":"pants", "security":"afc25d71d8be01df", "multiLayered":false, "layerBehavior":"normal",
@@ -9021,7 +9021,7 @@
             {"id":6121, "colors":["green","purple","silver"]},
             {"id":6122, "colors":["blue","brown","silver"]},
             {"id":6123, "colors":["green","silver","yellow"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6124, "zone":"head", "category":"wig", "security":"f94aefc93b955f37", "multiLayered":false, "layerBehavior":"normal",
@@ -9038,7 +9038,7 @@
             {"id":6131, "colors":["yellow"]},
             {"id":6132, "colors":["orange"]},
             {"id":6133, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6134, "zone":"head", "category":"hat", "security":"c26569a6b64a8126", "multiLayered":false, "layerBehavior":"normal",
@@ -9055,7 +9055,7 @@
             {"id":6141, "colors":["green","silver"]},
             {"id":6142, "colors":["brown","silver"]},
             {"id":6143, "colors":["silver","yellow"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6144, "zone":"head", "category":"earring", "security":"79b16449eb0f9f74", "multiLayered":true, "layerBehavior":"backInFront",
@@ -9069,7 +9069,7 @@
             {"id":6148, "colors":["brown","pink"]},
             {"id":6149, "colors":["brown"]},
             {"id":6150, "colors":["brown","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":6151, "zone":"general", "category":"tattoo", "security":"1a5c96d6638ac0d3", "multiLayered":false, "layerBehavior":"normal",
@@ -9086,7 +9086,7 @@
             {"id":6158, "colors":["red"]},
             {"id":6159, "colors":["yellow"]},
             {"id":6160, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
         
     },
     {
@@ -9104,7 +9104,7 @@
             {"id":6168, "colors":["red"]},
             {"id":6169, "colors":["yellow"]},
             {"id":6170, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
         
     },
     {
@@ -9122,7 +9122,7 @@
             {"id":6178, "colors":["red"]},
             {"id":6179, "colors":["yellow"]},
             {"id":6180, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
         
     },
     {
@@ -9140,7 +9140,7 @@
             {"id":6188, "colors":["golden","red"]},
             {"id":6189, "colors":["golden","yellow"]},
             {"id":6190, "colors":["pink","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
         
     },
     {
@@ -9158,7 +9158,7 @@
             {"id":6198, "colors":["golden","red"]},
             {"id":6199, "colors":["golden","orange"]},
             {"id":6200, "colors":["pink","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
         
     },
     {
@@ -9176,7 +9176,7 @@
             {"id":6208, "colors":["golden","red"]},
             {"id":6209, "colors":["golden"]},
             {"id":6210, "colors":["pink","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
         
     },
     {
@@ -9194,7 +9194,7 @@
             {"id":6218, "colors":["yellow"]},
             {"id":6219, "colors":["orange"]},
             {"id":6220, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
         
     },
     {
@@ -9212,7 +9212,7 @@
             {"id":6228, "colors":["red"]},
             {"id":6229, "colors":["yellow"]},
             {"id":6230, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
         
     },
     {
@@ -9230,7 +9230,7 @@
             {"id":6238, "colors":["brown","grey"]},
             {"id":6239, "colors":["grey","orange"]},
             {"id":6240, "colors":["brown","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
         
     },
     {
@@ -9239,7 +9239,7 @@
         "outfitName":"Frosty Sovereign",
         "variations":[
             {"id":6241, "colors":["white"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
     },
     {
         "groupId":6242, "zone":"feet", "category":"socks", "security":"5a01f7503f91fade", "multiLayered":false, "layerBehavior":"normal",
@@ -10279,7 +10279,7 @@
             {"id":7269, "colors":["grey"]},
             {"id":7270, "colors":["white"]},
             {"id":7271, "colors":["yellow"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":7272, "zone":"feet", "category":"shoes", "security":"e4a4bf97530f286d", "multiLayered":false, "layerBehavior":"normal",
@@ -10296,7 +10296,7 @@
             {"id":7279, "colors":["brown"]},
             {"id":7280, "colors":["brown"]},
             {"id":7281, "colors":["blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":7282, "zone":"waistToKnee", "category":"skirt", "security":"c890e97b72635ba5", "multiLayered":false, "layerBehavior":"normal",
@@ -10313,7 +10313,7 @@
             {"id":7289, "colors":["brown","yellow","multi"]},
             {"id":7290, "colors":["yellow","pink","multi"]},
             {"id":7291, "colors":["pink","blue","multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":7292, "zone":"torso", "category":"top", "security":"cd0b04d62fd1e852", "multiLayered":false, "layerBehavior":"normal",
@@ -10330,7 +10330,7 @@
             {"id":7299, "colors":["grey","brown"]},
             {"id":7300, "colors":["black","brown"]},
             {"id":7301, "colors":["yellow","blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":7302, "zone":"torso", "category":"jacket", "security":"389e7b28c2cc4bae", "multiLayered":true, "layerBehavior":"normal",
@@ -10347,7 +10347,7 @@
             {"id":7309, "colors":["brown"]},
             {"id":7310, "colors":["brown"]},
             {"id":7311, "colors":["blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":7312, "zone":"arms", "category":"bag", "security":"d591e12fd55a3cf4", "multiLayered":false, "layerBehavior":"normal",
@@ -10364,7 +10364,7 @@
             {"id":7319, "colors":["brown"]},
             {"id":7320, "colors":["brown"]},
             {"id":7321, "colors":["brown"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":7322, "zone":"head", "category":"hat", "security":"38f8667b52eef530", "multiLayered":false, "layerBehavior":"normal",
@@ -10381,7 +10381,7 @@
             {"id":7329, "colors":["brown"]},
             {"id":7330, "colors":["brown"]},
             {"id":7331, "colors":["blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":7332, "zone":"face", "category":"neckAccessory", "security":"86f7c43e841836b2", "multiLayered":true, "layerBehavior":"backInFront",
@@ -10398,7 +10398,7 @@
             {"id":7339, "colors":["brown"]},
             {"id":7340, "colors":["brown"]},
             {"id":7341, "colors":["blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "groupId":7342, "zone":"feet", "category":"shoes", "security":"1bf8885c9e56357a", "multiLayered":false, "layerBehavior":"normal",
@@ -10587,7 +10587,7 @@
             {"id":8239, "colors":["white"]},
             {"id":8240, "colors":["black"]},
             {"id":8241, "colors":["white","multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8242, "zone":"feet", "category":"shoes", "security":"cd674111c0cf7f82", "multiLayered":false, "layerBehavior":"normal",
@@ -10604,7 +10604,7 @@
             {"id":8249, "colors":["white"]},
             {"id":8250, "colors":["black","red"]},
             {"id":8251, "colors":["white","multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8252, "zone":"waistToKnee", "category":"pants", "security":"37048766fb045504", "multiLayered":false, "layerBehavior":"normal",
@@ -10621,7 +10621,7 @@
             {"id":8259, "colors":["white"]},
             {"id":8260, "colors":["black"]},
             {"id":8261, "colors":["blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8262, "zone":"torso", "category":"top", "security":"8272452c0185494b", "multiLayered":false, "layerBehavior":"normal",
@@ -10638,7 +10638,7 @@
             {"id":8269, "colors":["white"]},
             {"id":8270, "colors":["black"]},
             {"id":8271, "colors":["multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8272, "zone":"head", "category":"earring", "security":"7ff9926355beefed", "multiLayered":false, "layerBehavior":"normal",
@@ -10655,7 +10655,7 @@
             {"id":8279, "colors":["white"]},
             {"id":8280, "colors":["black"]},
             {"id":8281, "colors":["multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8282, "zone":"arms", "category":"bag", "security":"954d5614228d7881", "multiLayered":false, "layerBehavior":"normal",
@@ -10672,7 +10672,7 @@
             {"id":8289, "colors":["white"]},
             {"id":8290, "colors":["black"]},
             {"id":8291, "colors":["multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8292, "zone":"head", "category":"faceAccessory", "security":"5cac13491538ea07", "multiLayered":false, "layerBehavior":"normal",
@@ -10689,7 +10689,7 @@
             {"id":8299, "colors":["white"]},
             {"id":8300, "colors":["black"]},
             {"id":8301, "colors":["multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8302, "zone":"arms", "category":"bag", "security":"25692e791c5cb11e", "multiLayered":true, "layerBehavior":"normal",
@@ -10706,7 +10706,7 @@
             {"id":8309, "colors":["white","golden"]},
             {"id":8310, "colors":["black","silver"]},
             {"id":8311, "colors":["multi","golden"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8312, "zone":"feet", "category":"shoes", "security":"4958a9db8d61c61b", "multiLayered":false, "layerBehavior":"normal",
@@ -10723,7 +10723,7 @@
             {"id":8319, "colors":["purple"]},
             {"id":8320, "colors":["green"]},
             {"id":8321, "colors":["blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8322, "zone":"face", "category":"neckAccessory", "security":"d1d2ef703fe46227", "multiLayered":false, "layerBehavior":"normal",
@@ -10740,7 +10740,7 @@
             {"id":8329, "colors":["red","silver"]},
             {"id":8330, "colors":["green","silver"]},
             {"id":8331, "colors":["pink","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8332, "zone":"head", "category":"wig", "security":"9a1705f589bdbf81", "multiLayered":true, "layerBehavior":"normal",
@@ -10757,7 +10757,7 @@
             {"id":8339, "colors":["yellow"]},
             {"id":8340, "colors":["orange"]},
             {"id":8341, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8342, "zone":"torso_waistToKnee", "category":"dress", "security":"d3ca9bd0b38847e0", "multiLayered":false, "layerBehavior":"normal",
@@ -10774,7 +10774,7 @@
             {"id":8349, "colors":["purple","silver"]},
             {"id":8350, "colors":["green","silver"]},
             {"id":8351, "colors":["blue","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8352, "zone":"arms", "category":"armAccessory", "security":"cdc1cae7e2aef772", "multiLayered":false, "layerBehavior":"normal",
@@ -10791,7 +10791,7 @@
             {"id":8359, "colors":["red"]},
             {"id":8360, "colors":["green"]},
             {"id":8361, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8362, "zone":"head", "category":"hat", "security":"6674006a0a0ec2bd", "multiLayered":false, "layerBehavior":"normal",
@@ -10808,7 +10808,7 @@
             {"id":8369, "colors":["red"]},
             {"id":8370, "colors":["green"]},
             {"id":8371, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8372, "zone":"feet", "category":"shoes", "security":"0e16929f7270716a", "multiLayered":false, "layerBehavior":"normal",
@@ -10825,7 +10825,7 @@
             {"id":8379, "colors":["green"]},
             {"id":8380, "colors":["brown"]},
             {"id":8381, "colors":["blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8382, "zone":"face", "category":"neckAccessory", "security":"68d24d239abbf546", "multiLayered":false, "layerBehavior":"normal",
@@ -10842,7 +10842,7 @@
             {"id":8389, "colors":["golden","green"]},
             {"id":8390, "colors":["golden","pink"]},
             {"id":8391, "colors":["purple","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8392, "zone":"waistToKnee", "category":"skirt", "security":"48c360ac2f1007cc", "multiLayered":false, "layerBehavior":"normal",
@@ -10859,7 +10859,7 @@
             {"id":8399, "colors":["golden","green"]},
             {"id":8400, "colors":["brown","golden"]},
             {"id":8401, "colors":["blue","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8402, "zone":"arms", "category":"armAccessory", "security":"45defeb782bc9c1c", "multiLayered":true, "layerBehavior":"normal",
@@ -10876,7 +10876,7 @@
             {"id":8409, "colors":["golden","green"]},
             {"id":8410, "colors":["brown","golden"]},
             {"id":8411, "colors":["blue","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8412, "zone":"torso", "category":"top", "security":"6a32f7c49d61be90", "multiLayered":false, "layerBehavior":"normal",
@@ -10893,7 +10893,7 @@
             {"id":8419, "colors":["golden","green"]},
             {"id":8420, "colors":["brown","golden"]},
             {"id":8421, "colors":["blue","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8422, "zone":"head", "category":"wig", "security":"4b18eaf34f390100", "multiLayered":true, "layerBehavior":"normal",
@@ -10910,7 +10910,7 @@
             {"id":8429, "colors":["yellow"]},
             {"id":8430, "colors":["orange"]},
             {"id":8431, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8432, "zone":"head", "category":"hat", "security":"26855fd27a6d19f8", "multiLayered":false, "layerBehavior":"normal",
@@ -10927,7 +10927,7 @@
             {"id":8439, "colors":["green","orange"]},
             {"id":8440, "colors":["orange","pink"]},
             {"id":8441, "colors":["purple","silver"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8442, "zone":"arms", "category":"bag", "security":"4658d84b28646410", "multiLayered":false, "layerBehavior":"normal",
@@ -10944,7 +10944,7 @@
             {"id":8449, "colors":["green"]},
             {"id":8450, "colors":["pink"]},
             {"id":8451, "colors":["purple"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "groupId":8452, "zone":"head", "category":"wig", "security":"cf0e4229c48cbc46", "multiLayered":true, "layerBehavior":"normal",
@@ -10971,7 +10971,7 @@
             {"id":8469, "colors":["yellow"]},
             {"id":8470, "colors":["orange"]},
             {"id":8471, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "groupId":8472, "zone":"arms", "category":"gloves", "security":"266c11fd53200e7d", "multiLayered":false, "layerBehavior":"normal",
@@ -10988,7 +10988,7 @@
             {"id":8479, "colors":["brown"]},
             {"id":8480, "colors":["green"]},
             {"id":8481, "colors":["blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "groupId":8482, "zone":"arms", "category":"armAccessory", "security":"c0c132ace301d950", "multiLayered":false, "layerBehavior":"normal",
@@ -11005,7 +11005,7 @@
             {"id":8489, "colors":["brown"]},
             {"id":8490, "colors":["green","silver"]},
             {"id":8491, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "groupId":8492, "zone":"torso_waistToKnee", "category":"underwear", "security":"5a86ee1513265827", "multiLayered":false, "layerBehavior":"normal",
@@ -11022,7 +11022,7 @@
             {"id":8499, "colors":["brown","orange"]},
             {"id":8500, "colors":["green"]},
             {"id":8501, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "groupId":8502, "zone":"feet", "category":"shoes", "security":"2699ed3317a179cf", "multiLayered":false, "layerBehavior":"normal",
@@ -11039,7 +11039,7 @@
             {"id":8509, "colors":["brown","orange"]},
             {"id":8510, "colors":["green","silver"]},
             {"id":8511, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "groupId":8512, "zone":"waistToKnee", "category":"skirt", "security":"92dff1e5ac648713", "multiLayered":true, "layerBehavior":"normal",
@@ -11056,7 +11056,7 @@
             {"id":8519, "colors":["brown"]},
             {"id":8520, "colors":["green"]},
             {"id":8521, "colors":["blue"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "groupId":8522, "zone":"face", "category":"neckAccessory", "security":"ad884caa5a87f59d", "multiLayered":false, "layerBehavior":"normal",
@@ -11073,7 +11073,7 @@
             {"id":8529, "colors":["golden","orange"]},
             {"id":8530, "colors":["green","silver"]},
             {"id":8531, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "groupId":8532, "zone":"arms", "category":"armAccessory", "security":"bea8aab55e190ba8", "multiLayered":false, "layerBehavior":"normal",
@@ -11090,7 +11090,7 @@
             {"id":8539, "colors":["golden","orange"]},
             {"id":8540, "colors":["green","silver"]},
             {"id":8541, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "groupId":8542, "zone":"head", "category":"hat", "security":"d1b24a9572708412", "multiLayered":false, "layerBehavior":"normal",
@@ -11107,6 +11107,6 @@
             {"id":8549, "colors":["golden"]},
             {"id":8550, "colors":["silver"]},
             {"id":8551, "colors":["pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     }
 ]

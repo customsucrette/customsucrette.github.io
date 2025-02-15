@@ -1372,7 +1372,7 @@
         "id":255, "roomId":59, "slot":"background", "light":true, "security":"5559c8074f246691",
         "name":"Porche",
         "roomName":"Deadly Reunion",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"},
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"},
         "backgroundColors":{
             "day":{"color1":"E2D6AB","color2":"B1C4BE","colorLight":"A56312"},
             "night":{"color1":"A9C26F","color2":"1861A2","colorLight":"3AB100"}
@@ -1382,37 +1382,37 @@
         "id":256, "roomId":59, "slot":"slot1", "light":true, "security":"6d84016edbd68a04",
         "name":"Cementerio",
         "roomName":"Deadly Reunion",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "id":257, "roomId":59, "slot":"slot2", "light":true, "security":"1abc1e44bea70133",
         "name":"Mesa decorada",
         "roomName":"Deadly Reunion",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "id":258, "roomId":59, "slot":"slot3", "light":true, "security":"0c9088d09a7f72f8",
         "name":"Calabazas",
         "roomName":"Deadly Reunion",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "id":259, "roomId":59, "slot":"slot4", "light":false, "security":"bc4af7af25833acb",
         "name":"Caldero",
         "roomName":"Deadly Reunion",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "id":260, "roomId":59, "slot":"slot5", "light":true, "security":"f01cc69f466aae93",
         "name":"Calabazas",
         "roomName":"Deadly Reunion",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
         "id":261, "roomId":60, "slot":"background", "light":true, "security":"4d051cdfbc110422",
         "name":"Paredes",
         "roomName":"Crimson Sanctuary",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"},
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"},
         "backgroundColors":{
             "day":{"color1":"EFDEDE","color2":"9A9394","colorLight":"432021"},
             "night":{"color1":"FDAFB0","color2":"785B62","colorLight":"432021"}
@@ -1422,37 +1422,37 @@
         "id":262, "roomId":60, "slot":"slot1", "light":true, "security":"bd20dc6e1fbb4c29",
         "name":"Órgano",
         "roomName":"Crimson Sanctuary",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "id":263, "roomId":60, "slot":"slot2", "light":true, "security":"c7bd4b55bd440ad1",
         "name":"Cama",
         "roomName":"Crimson Sanctuary",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "id":264, "roomId":60, "slot":"slot3", "light":true, "security":"152b4917b763caf3",
         "name":"Velador",
         "roomName":"Crimson Sanctuary",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "id":265, "roomId":60, "slot":"slot4", "light":false, "security":"6fcb33fad7705b25",
         "name":"Gárgola",
         "roomName":"Crimson Sanctuary",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "id":266, "roomId":60, "slot":"slot5", "light":true, "security":"d4d358253e0b5462",
         "name":"Ataúd",
         "roomName":"Crimson Sanctuary",
-        "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+        "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
         "id":267, "roomId":61, "slot":"background", "light":true, "security":"c7ae74fcb0a549d8",
         "name":"Paredes",
         "roomName":"Cyber Vault",
-        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "backgroundColors":{
             "day":{"color1":"9BF7FF","color2":"6E8B9F","colorLight":"0DACB9"},
             "night":{"color1":"D488F3","color2":"6D7593","colorLight":"46097B"}
@@ -1462,37 +1462,37 @@
         "id":268, "roomId":61, "slot":"slot1", "light":true, "security":"637f277a8dc5f817",
         "name":"Puerta",
         "roomName":"Cyber Vault",
-        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+        "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
     },
     {
         "id":269, "roomId":61, "slot":"slot2", "light":true, "security":"5edbf55205ae687c",
         "name":"Ordenador",
         "roomName":"Cyber Vault",
-        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+        "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
     },
     {
         "id":270, "roomId":61, "slot":"slot3", "light":true, "security":"1bf8fd372029deb7",
         "name":"Cofre",
         "roomName":"Cyber Vault",
-        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+        "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
     },
     {
         "id":271, "roomId":61, "slot":"slot4", "light":false, "security":"c372757abe8621d1",
         "name":"Estación de poleas",
         "roomName":"Cyber Vault",
-        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+        "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
     },
     {
         "id":272, "roomId":61, "slot":"slot5", "light":false, "security":"5cf1f64db44a4900",
         "name":"Maniquí de entrenamiento",
         "roomName":"Cyber Vault",
-        "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
+        "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
     },
     {
         "id":273, "roomId":62, "slot":"background", "light":true, "security":"b346ffe908a3fcdb",
         "name":"Entorno",
         "roomName":"Divine Blessing",
-        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "backgroundColors":{
             "day":{"color1":"FFFFFF","color2":"C2EBFF","colorLight":"070B34"},
             "night":{"color1":"FFF9EF","color2":"FFE1D5","colorLight":"4F3714"}
@@ -1502,37 +1502,37 @@
         "id":274, "roomId":62, "slot":"slot1", "light":false, "security":"44164a514fca54eb",
         "name":"Guardián angelical",
         "roomName":"Divine Blessing",
-        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+        "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
     },
     {
         "id":275, "roomId":62, "slot":"slot2", "light":false, "security":"1e1382e50596289d",
         "name":"Cama",
         "roomName":"Divine Blessing",
-        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+        "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
     },
     {
         "id":276, "roomId":62, "slot":"slot3", "light":false, "security":"a244c181b64f1ee6",
         "name":"Globo terráqueo",
         "roomName":"Divine Blessing",
-        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+        "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
     },
     {
         "id":277, "roomId":62, "slot":"slot4", "light":false, "security":"4c5b01306b2c67a1",
         "name":"Arpa",
         "roomName":"Divine Blessing",
-        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+        "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
     },
     {
         "id":278, "roomId":62, "slot":"slot5", "light":false, "security":"c27c773ca322a5ad",
         "name":"Palomas",
         "roomName":"Divine Blessing",
-        "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
+        "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
     },
     {
         "id":279, "roomId":63, "slot":"background", "light":true, "security":"465bbf79c2f2718f",
         "name":"Paredes",
         "roomName":"Infernal Embrace",
-        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
         "backgroundColors":{
             "day":{"color1":"FCCCAC","color2":"D6CAC2","colorLight":"804D2C"},
             "night":{"color1":"E2F894","color2":"90A290","colorLight":"086D20"}
@@ -1542,37 +1542,37 @@
         "id":280, "roomId":63, "slot":"slot1", "light":true, "security":"ad08c18716e43a60",
         "name":"Portal",
         "roomName":"Infernal Embrace",
-        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+        "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
     },
     {
         "id":281, "roomId":63, "slot":"slot2", "light":true, "security":"fd9e4dae5c134171",
         "name":"Trono",
         "roomName":"Infernal Embrace",
-        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+        "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
     },
     {
         "id":282, "roomId":63, "slot":"slot3", "light":true, "security":"28d54accd918d868",
         "name":"Guardián demoníaco",
         "roomName":"Infernal Embrace",
-        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+        "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
     },
     {
         "id":283, "roomId":63, "slot":"slot4", "light":true, "security":"74fc36e3808efd14",
         "name":"Brasero",
         "roomName":"Infernal Embrace",
-        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+        "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
     },
     {
         "id":284, "roomId":63, "slot":"slot5", "light":false, "security":"40753ff999b18e26",
         "name":"Falla",
         "roomName":"Infernal Embrace",
-        "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+        "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
     },
     {
         "id":285, "roomId":64, "slot":"background", "light":true, "security":"5fa8f75e7bc1cee7",
         "name":"Paredes",
         "roomName":"Alien Ambassador",
-        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+        "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
         "backgroundColors":{
             "day":{"color1":"F9EBFF","color2":"C7F5F8","colorLight":"510D70"},
             "night":{"color1":"E29AC4","color2":"6A8DCB","colorLight":"6F079E"}
@@ -1582,37 +1582,37 @@
         "id":286, "roomId":64, "slot":"slot1", "light":true, "security":"48e2679df2196df3",
         "name":"Nave",
         "roomName":"Alien Ambassador",
-        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+        "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
     },
     {
         "id":287, "roomId":64, "slot":"slot2", "light":false, "security":"779a1a665ee5cbc3",
         "name":"Cama",
         "roomName":"Alien Ambassador",
-        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+        "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
     },
     {
         "id":288, "roomId":64, "slot":"slot3", "light":true, "security":"a0f189a25b76fce5",
         "name":"Esferas",
         "roomName":"Alien Ambassador",
-        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+        "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
     },
     {
         "id":289, "roomId":64, "slot":"slot4", "light":false, "security":"349df5f15a07bd71",
         "name":"Plantas alienígenas",
         "roomName":"Alien Ambassador",
-        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+        "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
     },
     {
         "id":290, "roomId":64, "slot":"slot5", "light":false, "security":"872bbc9aaec013f0",
         "name":"Vegetación alienígena",
         "roomName":"Alien Ambassador",
-        "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+        "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
     },
     {
         "id":291, "roomId":65, "slot":"background", "light":true, "security":"4d9fe829a5f350c4",
         "name":"Paredes",
         "roomName":"Where the Magic of Christmas Happens",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"},
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"},
         "backgroundColors":{
             "day":{"color1":"E5D3C5","color2":"F1D2BB","colorLight":"70453A"},
             "night":{"color1":"C9B1D6","color2":"AFB9CF","colorLight":"5A418C"}
@@ -1622,37 +1622,37 @@
         "id":292, "roomId":65, "slot":"slot1", "light":true, "security":"5d3569a401c10dc6",
         "name":"Renos",
         "roomName":"Where the Magic of Christmas Happens",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "id":293, "roomId":65, "slot":"slot2", "light":true, "security":"1bad0cc27d64db90",
         "name":"Escritorio",
         "roomName":"Where the Magic of Christmas Happens",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "id":294, "roomId":65, "slot":"slot3", "light":false, "security":"b7fdaf5b9679c388",
         "name":"Mecedora",
         "roomName":"Where the Magic of Christmas Happens",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "id":295, "roomId":65, "slot":"slot4", "light":true, "security":"fe01d0577539bc3f",
         "name":"Abeto",
         "roomName":"Where the Magic of Christmas Happens",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "id":296, "roomId":65, "slot":"slot5", "light":false, "security":"1bf805982a997494",
         "name":"Regalos",
         "roomName":"Where the Magic of Christmas Happens",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
         "id":297, "roomId":66, "slot":"background", "light":true, "security":"ca42a06ab3da11ef",
         "name":"Paredes",
         "roomName":"Frosted Realm",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"},
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"},
         "backgroundColors":{
             "day":{"color1":"FEE9FB","color2":"80E1FF","colorLight":"381153"},
             "night":{"color1":"CFFEF2","color2":"67A7EA","colorLight":"034027"}
@@ -1662,31 +1662,31 @@
         "id":298, "roomId":66, "slot":"slot1", "light":false, "security":"a6c89461dc9565d2",
         "name":"Árbol",
         "roomName":"Frosted Realm",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
     },
     {
         "id":299, "roomId":66, "slot":"slot2", "light":false, "security":"c80d806102d46725",
         "name":"Cama",
         "roomName":"Frosted Realm",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
     },
     {
         "id":300, "roomId":66, "slot":"slot3", "light":false, "security":"dbb125c2ee99ea00",
         "name":"Oso polar",
         "roomName":"Frosted Realm",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
     },
     {
         "id":301, "roomId":66, "slot":"slot4", "light":false, "security":"0741c7103094e2af",
         "name":"Espejo",
         "roomName":"Frosted Realm",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
     },
     {
         "id":302, "roomId":66, "slot":"slot5", "light":false, "security":"300922c42684c32c",
         "name":"Estalactitas y estalagmitas",
         "roomName":"Frosted Realm",
-        "criteria":{"type":"gameEvent", "info":"Navidad 2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
+        "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
     },
     {
         "id":303, "roomId":67, "slot":"background", "light":true, "security":"bc6b4d4c12b205e3",
@@ -1773,7 +1773,7 @@
         "id":339, "roomId":73, "slot":"background", "light":true, "security":"6c4b0341d772019a",
         "name":"Paredes",
         "roomName":"Dreams of Love",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"},
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"},
         "backgroundColors":{
             "day":{"color1":"FFFFFF","color2":"ECD0E1","colorLight":"245DAB"},
             "night":{"color1":"E2B9E7","color2":"8F9EEA","colorLight":"7C0CA4"}
@@ -1783,37 +1783,37 @@
         "id":340, "roomId":73, "slot":"slot1", "light":true, "security":"712047f7a0fe7808",
         "name":"Chimenea",
         "roomName":"Dreams of Love",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "id":341, "roomId":73, "slot":"slot2", "light":true, "security":"603534ae61b35573",
         "name":"Cama",
         "roomName":"Dreams of Love",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "id":342, "roomId":73, "slot":"slot3", "light":false, "security":"f9ef10c326567388",
         "name":"Peluquera",
         "roomName":"Dreams of Love",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "id":343, "roomId":73, "slot":"slot4", "light":false, "security":"1666a5f9c3fc4cfd",
         "name":"Flores",
         "roomName":"Dreams of Love",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "id":344, "roomId":73, "slot":"slot5", "light":false, "security":"16811acdce04c9d2",
         "name":"Conejos",
         "roomName":"Dreams of Love",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     },
     {
         "id":345, "roomId":74, "slot":"background", "light":true, "security":"b60d33d2b19fadbf",
         "name":"Paredes",
         "roomName":"Hopeless Despair",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"},
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"},
         "backgroundColors":{
             "day":{"color1":"F0B4FF","color2":"7F98A8","colorLight":"B969AF"},
             "night":{"color1":"79ABFF","color2":"7F6BA4","colorLight":"5D74E2"}
@@ -1823,30 +1823,30 @@
         "id":346, "roomId":74, "slot":"slot1", "light":true, "security":"0383c566fee52140",
         "name":"Escalera",
         "roomName":"Hopeless Despair",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "id":347, "roomId":74, "slot":"slot2", "light":true, "security":"799bef98c70df265",
         "name":"Cama",
         "roomName":"Hopeless Despair",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "id":348, "roomId":74, "slot":"slot3", "light":false, "security":"fb0e1b03f377fa4e",
         "name":"Velador",
         "roomName":"Hopeless Despair",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "id":349, "roomId":74, "slot":"slot4", "light":false, "security":"5479fbd4f011ad1a",
         "name":"Espejo",
         "roomName":"Hopeless Despair",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     },
     {
         "id":350, "roomId":74, "slot":"slot5", "light":false, "security":"3f7bb1b7cb734522",
         "name":"Estatua",
         "roomName":"Hopeless Despair",
-        "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
     }
 ]

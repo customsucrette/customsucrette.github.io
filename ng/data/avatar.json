@@ -126,7 +126,7 @@
                     {"id":31,"colors":["orange"]},
                     {"id":32, "colors":["pink"]},
                     {"id":33, "colors":["brown"]}
-                ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+                ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
             },
             {
                 "groupId":34, "zone":"face", "category":"eyes", "security":"ee42f6687908f8b8",
@@ -271,7 +271,7 @@
                     {"id":123, "colors":["brown"]},
                     {"id":124, "colors":["green"]},
                     {"id":125, "colors":["blue"]}
-                ], "criteria":{"type":"gameEvent", "info":"San Valentín 2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+                ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
             }
         ],
         "mouth":[
@@ -322,7 +322,7 @@
                     {"id":58,"colors":["orange"]},
                     {"id":59, "colors":["pink"]},
                     {"id":60, "colors":["brown"]}
-                ], "criteria":{"type":"gameEvent", "info":"Halloween 2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+                ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
             },
             {
                 "groupId":61, "zone":"face", "category":"mouth", "security":"bc55a9af41bb0d28",
