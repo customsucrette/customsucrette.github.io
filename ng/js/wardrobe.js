@@ -1592,7 +1592,7 @@ $(function () {
     });
     
     $(".room-items").on("click", ".asng-room-item", function() {
-        let item = ($(this).find("img").attr("src"));
+        let item = ($(this).find("img.thumbnail").attr("src"));
         item = item.split("/");
         item = (item[item.length-1]).split(".")[0];
         let c = $(this).find(".item").attr("class").split(" ")[1];
