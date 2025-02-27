@@ -162,5 +162,9 @@
     {
         "id":55, "security":"0dc18c270bef5432","name":"Helpful Wingman",
         "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+    },
+    {
+        "id":56, "security":"e1572f583b00d88e","name":"Gaggling Lepregoose",
+        "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
     }
 ]

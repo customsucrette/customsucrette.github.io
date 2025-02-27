@@ -11108,5 +11108,175 @@
             {"id":8550, "colors":["silver"]},
             {"id":8551, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "groupId":8552, "zone":"face", "category":"makeup", "security":"9fa9d117e977a65d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Trébol",
+        "outfitName":"Lucky Charm",
+        "variations":[
+            {"id":8552, "colors":["green"]},
+            {"id":8553, "colors":["yellow"]},
+            {"id":8554, "colors":["brown"]},
+            {"id":8555, "colors":["black"]},
+            {"id":8556, "colors":["white"]},
+            {"id":8557, "colors":["grey"]},
+            {"id":8558, "colors":["blue"]},
+            {"id":8559, "colors":["purple"]},
+            {"id":8560, "colors":["red"]},
+            {"id":8561, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "groupId":8562, "zone":"feet", "category":"socks", "security":"25137753cbe8b1f6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Lucky Charm",
+        "variations":[
+            {"id":8562, "colors":["white","green"]},
+            {"id":8563, "colors":["white","yellow"]},
+            {"id":8564, "colors":["white","brown"]},
+            {"id":8565, "colors":["white","black"]},
+            {"id":8566, "colors":["white","blue"]},
+            {"id":8567, "colors":["white","grey"]},
+            {"id":8568, "colors":["white","blue"]},
+            {"id":8569, "colors":["white","purple"]},
+            {"id":8570, "colors":["white","red"]},
+            {"id":8571, "colors":["white","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "groupId":8572, "zone":"feet", "category":"shoes", "security":"1ab34e8c653c5153", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Lucky Charm",
+        "variations":[
+            {"id":8572, "colors":["brown","green"]},
+            {"id":8573, "colors":["brown","yellow"]},
+            {"id":8574, "colors":["black"]},
+            {"id":8575, "colors":["grey"]},
+            {"id":8576, "colors":["white"]},
+            {"id":8577, "colors":["green"]},
+            {"id":8578, "colors":["blue","brown"]},
+            {"id":8579, "colors":["purple"]},
+            {"id":8580, "colors":["brown","red"]},
+            {"id":8581, "colors":["brown","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "groupId":8582, "zone":"torso", "category":"top", "security":"87b21dcc5f510485", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blusa",
+        "outfitName":"Lucky Charm",
+        "variations":[
+            {"id":8582, "colors":["white"]},
+            {"id":8583, "colors":["brown"]},
+            {"id":8584, "colors":["grey"]},
+            {"id":8585, "colors":["black"]},
+            {"id":8586, "colors":["blue"]},
+            {"id":8587, "colors":["brown"]},
+            {"id":8588, "colors":["pink"]},
+            {"id":8589, "colors":["purple"]},
+            {"id":8590, "colors":["red"]},
+            {"id":8591, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "groupId":8592, "zone":"waistToKnee", "category":"pants", "security":"3025f0c2c705efe7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones capri",
+        "outfitName":"Lucky Charm",
+        "variations":[
+            {"id":8592, "colors":["brown"]},
+            {"id":8593, "colors":["pink"]},
+            {"id":8594, "colors":["black"]},
+            {"id":8595, "colors":["grey"]},
+            {"id":8596, "colors":["white"]},
+            {"id":8597, "colors":["green"]},
+            {"id":8598, "colors":["red"]},
+            {"id":8599, "colors":["blue"]},
+            {"id":8600, "colors":["brown"]},
+            {"id":8601, "colors":["yellow"]}
+        ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "groupId":8602, "zone":"torso", "category":"jacket", "security":"53c494f3fca285eb", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaleco",
+        "outfitName":"Lucky Charm",
+        "variations":[
+            {"id":8602, "colors":["yellow"]},
+            {"id":8603, "colors":["brown"]},
+            {"id":8604, "colors":["black"]},
+            {"id":8605, "colors":["grey"]},
+            {"id":8606, "colors":["blue"]},
+            {"id":8607, "colors":["green"]},
+            {"id":8608, "colors":["red"]},
+            {"id":8609, "colors":["brown","orange"]},
+            {"id":8610, "colors":["blue"]},
+            {"id":8611, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "groupId":8612, "zone":"torso", "category":"jacket", "security":"7fbddd8b9ac63347", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Lucky Charm",
+        "variations":[
+            {"id":8612, "colors":["golden","green"]},
+            {"id":8613, "colors":["yellow"]},
+            {"id":8614, "colors":["brown","silver"]},
+            {"id":8615, "colors":["black","silver"]},
+            {"id":8616, "colors":["silver","white"]},
+            {"id":8617, "colors":["grey","silver"]},
+            {"id":8618, "colors":["blue","golden"]},
+            {"id":8619, "colors":["golden","purple"]},
+            {"id":8620, "colors":["golden","red"]},
+            {"id":8621, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "groupId":8622, "zone":"arms", "category":"bag", "security":"d117b8803a02633d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jarra",
+        "outfitName":"Lucky Charm",
+        "variations":[
+            {"id":8622, "colors":["brown","silver"]},
+            {"id":8623, "colors":["brown","orange"]},
+            {"id":8624, "colors":["brown","black"]},
+            {"id":8625, "colors":["grey","brown"]},
+            {"id":8626, "colors":["white"]},
+            {"id":8627, "colors":["brown","green"]},
+            {"id":8628, "colors":["brown","blue"]},
+            {"id":8629, "colors":["brown","purple"]},
+            {"id":8630, "colors":["brown","red"]},
+            {"id":8631, "colors":["brown","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "groupId":8632, "zone":"head", "category":"wig", "security":"6ebf92914cc70ed5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Lucky Charm",
+        "variations":[
+            {"id":8632, "colors":["brown"]},
+            {"id":8633, "colors":["orange"]},
+            {"id":8634, "colors":["white"]},
+            {"id":8635, "colors":["black"]},
+            {"id":8636, "colors":["blue"]},
+            {"id":8637, "colors":["blue"]},
+            {"id":8638, "colors":["purple"]},
+            {"id":8639, "colors":["red"]},
+            {"id":8640, "colors":["yellow"]},
+            {"id":8641, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "groupId":8642, "zone":"head", "category":"hat", "security":"26322f484aaa7d13", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Lucky Charm",
+        "variations":[
+            {"id":8642, "colors":["golden","green"]},
+            {"id":8643, "colors":["yellow"]},
+            {"id":8644, "colors":["brown","silver"]},
+            {"id":8645, "colors":["black","silver"]},
+            {"id":8646, "colors":["silver","white"]},
+            {"id":8647, "colors":["grey","silver"]},
+            {"id":8648, "colors":["blue","golden"]},
+            {"id":8649, "colors":["golden","purple"]},
+            {"id":8650, "colors":["golden","red"]},
+            {"id":8651, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
     }
 ]

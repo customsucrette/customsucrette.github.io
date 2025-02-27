@@ -1848,5 +1848,45 @@
         "name":"Estatua",
         "roomName":"Hopeless Despair",
         "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+    },
+    {
+        "id":351, "roomId":75, "slot":"background", "light":true, "security":"1da57d9d16f5ea38",
+        "name":"Entorno",
+        "roomName":"Over the Rainbow",
+        "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"},
+        "backgroundColors":{
+            "day":{"color1":"FFF4E1","color2":"9D7D5E","colorLight":"C58600"},
+            "night":{"color1":"B685C5","color2":"6F758D","colorLight":"D545FF"}
+        }
+    },
+    {
+        "id":352, "roomId":75, "slot":"slot1", "light":true, "security":"c4ea3bcc36c89060",
+        "name":"Banco",
+        "roomName":"Over the Rainbow",
+        "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "id":353, "roomId":75, "slot":"slot2", "light":true, "security":"03d007a6a14f5ce3",
+        "name":"Mesa",
+        "roomName":"Over the Rainbow",
+        "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "id":354, "roomId":75, "slot":"slot3", "light":false, "security":"decfb1b7da0dc179",
+        "name":"Plantas",
+        "roomName":"Over the Rainbow",
+        "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "id":355, "roomId":75, "slot":"slot4", "light":true, "security":"9a32044af2a01bcb",
+        "name":"Calderos de oro",
+        "roomName":"Over the Rainbow",
+        "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "id":356, "roomId":75, "slot":"slot5", "light":true, "security":"de02bccac38b294e",
+        "name":"Estufa de leña",
+        "roomName":"Over the Rainbow",
+        "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
     }
 ]
