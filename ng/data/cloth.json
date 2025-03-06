@@ -9445,6 +9445,210 @@
             {"id":6361, "colors":["white"]}
         ], "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
     },
+    {
+        "groupId":6362, "zone":"feet", "category":"socks", "security":"615f80fece30adf3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"The Theorist",
+        "variations":[
+            {"id":6362, "colors":["white"]},
+            {"id":6363, "colors":["black"]},
+            {"id":6364, "colors":["brown"]},
+            {"id":6365, "colors":["red"]},
+            {"id":6366, "colors":["green"]},
+            {"id":6367, "colors":["purple"]},
+            {"id":6368, "colors":["yellow"]},
+            {"id":6369, "colors":["green","blue"]},
+            {"id":6370, "colors":["blue"]},
+            {"id":6371, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6372, "zone":"feet", "category":"shoes", "security":"fe0c6bb174ac3103", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"The Theorist",
+        "variations":[
+            {"id":6372, "colors":["green","blue"]},
+            {"id":6373, "colors":["green"]},
+            {"id":6374, "colors":["red"]},
+            {"id":6375, "colors":["white"]},
+            {"id":6376, "colors":["black"]},
+            {"id":6377, "colors":["blue"]},
+            {"id":6378, "colors":["pink"]},
+            {"id":6379, "colors":["purple"]},
+            {"id":6380, "colors":["brown"]},
+            {"id":6381, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6382, "zone":"head", "category":"earring", "security":"12db7510f81f16f3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"The Theorist",
+        "variations":[
+            {"id":6382, "colors":["golden"]},
+            {"id":6383, "colors":["silver"]},
+            {"id":6384, "colors":["red"]},
+            {"id":6385, "colors":["black"]},
+            {"id":6386, "colors":["green"]},
+            {"id":6387, "colors":["purple"]},
+            {"id":6388, "colors":["pink"]},
+            {"id":6389, "colors":["orange"]},
+            {"id":6390, "colors":["blue"]},
+            {"id":6391, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6392, "zone":"torso_waistToKnee", "category":"dress", "security":"10491ea16628f5e3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"The Theorist",
+        "variations":[
+            {"id":6392, "colors":["green","blue"]},
+            {"id":6393, "colors":["green"]},
+            {"id":6394, "colors":["red"]},
+            {"id":6395, "colors":["white"]},
+            {"id":6396, "colors":["black"]},
+            {"id":6397, "colors":["blue"]},
+            {"id":6398, "colors":["pink"]},
+            {"id":6399, "colors":["purple"]},
+            {"id":6400, "colors":["brown"]},
+            {"id":6401, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6402, "zone":"torso", "category":"jacket", "security":"b99a846c0884a9dd", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Abrigo",
+        "outfitName":"The Theorist",
+        "variations":[
+            {"id":6402, "colors":["brown"]},
+            {"id":6403, "colors":["black"]},
+            {"id":6404, "colors":["white"]},
+            {"id":6405, "colors":["red"]},
+            {"id":6406, "colors":["green"]},
+            {"id":6407, "colors":["purple"]},
+            {"id":6408, "colors":["yellow"]},
+            {"id":6409, "colors":["brown"]},
+            {"id":6410, "colors":["blue"]},
+            {"id":6411, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6412, "zone":"arms", "category":"bag", "security":"8492e55e4329bb44", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"The Theorist",
+        "variations":[
+            {"id":6412, "colors":["golden","red"]},
+            {"id":6413, "colors":["blue","silver"]},
+            {"id":6414, "colors":["green","silver"]},
+            {"id":6415, "colors":["yellow"]},
+            {"id":6416, "colors":["brown","golden"]},
+            {"id":6417, "colors":["silver","white"]},
+            {"id":6418, "colors":["golden","orange"]},
+            {"id":6419, "colors":["blue","golden","green"]},
+            {"id":6420, "colors":["black","silver"]},
+            {"id":6421, "colors":["brown","silver"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6422, "zone":"waistToKnee", "category":"pants", "security":"a905c334d690b77d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jeans",
+        "outfitName":"The Practitioner",
+        "variations":[
+            {"id":6422, "colors":["blue"]},
+            {"id":6423, "colors":["blue"]},
+            {"id":6424, "colors":["white"]},
+            {"id":6425, "colors":["green"]},
+            {"id":6426, "colors":["black"]},
+            {"id":6427, "colors":["blue"]},
+            {"id":6428, "colors":["red"]},
+            {"id":6429, "colors":["blue"]},
+            {"id":6430, "colors":["brown"]},
+            {"id":6431, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6432, "zone":"feet", "category":"shoes", "security":"0203662398dcb530", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Deportivas",
+        "outfitName":"The Practitioner",
+        "variations":[
+            {"id":6432, "colors":["blue"]},
+            {"id":6433, "colors":["red"]},
+            {"id":6434, "colors":["black"]},
+            {"id":6435, "colors":["green"]},
+            {"id":6436, "colors":["white"]},
+            {"id":6437, "colors":["yellow"]},
+            {"id":6438, "colors":["grey"]},
+            {"id":6439, "colors":["pink"]},
+            {"id":6440, "colors":["brown"]},
+            {"id":6441, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6442, "zone":"torso", "category":"top", "security":"e95ccde5acadad68", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"The Practitioner",
+        "variations":[
+            {"id":6442, "colors":["green"]},
+            {"id":6443, "colors":["black"]},
+            {"id":6444, "colors":["white"]},
+            {"id":6445, "colors":["yellow"]},
+            {"id":6446, "colors":["red"]},
+            {"id":6447, "colors":["pink"]},
+            {"id":6448, "colors":["grey"]},
+            {"id":6449, "colors":["purple"]},
+            {"id":6450, "colors":["green"]},
+            {"id":6451, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6452, "zone":"arms", "category":"armAccessory", "security":"22dd8de5da85b27b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Reloj de pulsera",
+        "outfitName":"The Practitioner",
+        "variations":[
+            {"id":6452, "colors":["white"]},
+            {"id":6453, "colors":["black"]},
+            {"id":6454, "colors":["red"]},
+            {"id":6455, "colors":["yellow"]},
+            {"id":6456, "colors":["pink"]},
+            {"id":6457, "colors":["blue"]},
+            {"id":6458, "colors":["green"]},
+            {"id":6459, "colors":["orange"]},
+            {"id":6460, "colors":["green"]},
+            {"id":6461, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6462, "zone":"torso", "category":"jacket", "security":"17f12d2741963b8f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"The Practitioner",
+        "variations":[
+            {"id":6462, "colors":["blue"]},
+            {"id":6463, "colors":["red"]},
+            {"id":6464, "colors":["black"]},
+            {"id":6465, "colors":["green"]},
+            {"id":6466, "colors":["white","blue"]},
+            {"id":6467, "colors":["yellow"]},
+            {"id":6468, "colors":["grey"]},
+            {"id":6469, "colors":["pink"]},
+            {"id":6470, "colors":["brown"]},
+            {"id":6471, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
+        "groupId":6472, "zone":"head", "category":"hat", "security":"5ad119cf1b795b3d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gorro",
+        "outfitName":"The Practitioner",
+        "variations":[
+            {"id":6472, "colors":["blue"]},
+            {"id":6473, "colors":["red"]},
+            {"id":6474, "colors":["black"]},
+            {"id":6475, "colors":["green"]},
+            {"id":6476, "colors":["white"]},
+            {"id":6477, "colors":["yellow"]},
+            {"id":6478, "colors":["grey"]},
+            {"id":6479, "colors":["pink"]},
+            {"id":6480, "colors":["brown"]},
+            {"id":6481, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
 
 
     {

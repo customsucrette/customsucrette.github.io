@@ -84,6 +84,10 @@
         "criteria":null
     },
     {
+        "id":23, "security":"44962d2491e08432", "name":"Diamonds are a Girl’s Best Friend",
+        "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"}
+    },
+    {
         "id":24, "security":"58bef60e7052ae1d", "name":"Fashion you can buy, but style you possess",
         "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
     },
