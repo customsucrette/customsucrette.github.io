@@ -927,7 +927,46 @@
         "roomName":"Mermaid Shinies",
         "criteria":{"type":"jobTask", "info":"Proyectos", "text":"Desbloqueado en la Misión del día\nProyectos"}
     },
-
+    {
+        "id":171, "roomId":45, "slot":"background", "light":true, "security":"b1e68ab4af8cb7a7",
+        "name":"Paredes",
+        "roomName":"Art Déco",
+        "criteria":{"type":"calendar", "argument":"2025-12", "text":"Desbloqueado en el calendario\nN°12 - 2025"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"D9CCC3","colorLight":"4497D3"},
+            "night":{"color1":"CBBFFF","color2":"A4B7D7","colorLight":"6A468C"}
+        }
+    },
+    {
+        "id":172, "roomId":45, "slot":"slot5", "light":false, "security":"1fb2cf9adb5acf2d",
+        "name":"Camarera y mesas auxiliares",
+        "roomName":"Art Déco",
+        "criteria":{"type":"calendar", "argument":"2025-12", "text":"Desbloqueado en el calendario\nN°12 - 2025"}
+    },
+    {
+        "id":173, "roomId":45, "slot":"slot4", "light":false, "security":"410c50fd4a3e334a",
+        "name":"Escultura pantera",
+        "roomName":"Art Déco",
+        "criteria":{"type":"calendar", "argument":"2025-12", "text":"Desbloqueado en el calendario\nN°12 - 2025"}
+    },
+    {
+        "id":174, "roomId":45, "slot":"slot3", "light":false, "security":"8944bec8887a2edb",
+        "name":"Cómoda",
+        "roomName":"Art Déco",
+        "criteria":{"type":"calendar", "argument":"2025-12", "text":"Desbloqueado en el calendario\nN°12 - 2025"}
+    },
+    {
+        "id":175, "roomId":45, "slot":"slot2", "light":true, "security":"4f91fd31370695a7",
+        "name":"Cama",
+        "roomName":"Art Déco",
+        "criteria":{"type":"calendar", "argument":"2025-12", "text":"Desbloqueado en el calendario\nN°12 - 2025"}
+    },
+    {
+        "id":176, "roomId":45, "slot":"slot1", "light":true, "security":"f28acac203b36c86",
+        "name":"Tocador",
+        "roomName":"Art Déco",
+        "criteria":{"type":"calendar", "argument":"2025-12", "text":"Desbloqueado en el calendario\nN°12 - 2025"}
+    },
     {
         "id":177, "roomId":46, "slot":"background", "light":true, "security":"bf9a5c6e1476f891",
         "name":"Paredes",
