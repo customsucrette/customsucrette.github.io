@@ -170,5 +170,9 @@
     {
         "id":56, "security":"e1572f583b00d88e","name":"Gaggling Lepregoose",
         "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+    {
+        "id":57, "security":"ce337d7b0240d189","name":"Goose in a Tux",
+        "criteria":null
     }
 ]
