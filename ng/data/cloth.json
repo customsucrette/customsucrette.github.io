@@ -128,6 +128,111 @@
             {"id":61, "colors":["white"]}
         ], "criteria":{"type":"episode", "info":"01", "text":"Desbloqueado en el episodio 01"}
     },
+
+
+
+    {
+        "groupId":82, "zone":"head", "category":"earring", "security":"eb61e77cd940c463", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Aros",
+        "outfitName":"Urban Delight",
+        "variations":[
+            {"id":82, "colors":["golden"]},
+            {"id":83, "colors":["silver"]},
+            {"id":84, "colors":["purple"]},
+            {"id":85, "colors":["golden"]},
+            {"id":86, "colors":["black"]},
+            {"id":87, "colors":["golden"]},
+            {"id":88, "colors":["white"]},
+            {"id":89, "colors":["silver"]},
+            {"id":90, "colors":["green"]},
+            {"id":91, "colors":["orange"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":92, "zone":"head", "category":"faceAccessory", "security":"c3cfd4aa6a62d316", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Urban Delight",
+        "variations":[
+            {"id":92, "colors":["purple"]},
+            {"id":93, "colors":["blue"]},
+            {"id":94, "colors":["blue"]},
+            {"id":95, "colors":["green"]},
+            {"id":96, "colors":["yellow"]},
+            {"id":97, "colors":["orange"]},
+            {"id":98, "colors":["red"]},
+            {"id":99, "colors":["black"]},
+            {"id":100, "colors":["white"]},
+            {"id":101, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":102, "zone":"torso", "category":"top", "security":"0e15083f9e9e60ab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top crop",
+        "outfitName":"Urban Delight",
+        "variations":[
+            {"id":102, "colors":["pink"]},
+            {"id":103, "colors":["purple"]},
+            {"id":104, "colors":["blue"]},
+            {"id":105, "colors":["blue"]},
+            {"id":106, "colors":["green"]},
+            {"id":107, "colors":["yellow"]},
+            {"id":108, "colors":["orange"]},
+            {"id":109, "colors":["red"]},
+            {"id":110, "colors":["black"]},
+            {"id":111, "colors":["white"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":112,"zone":"torso", "category":"top", "security":"36e43da8dee0cd2b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Urban Delight",
+        "variations":[
+            {"id":112, "colors":["black"]},
+            {"id":113, "colors":["purple"]},
+            {"id":114, "colors":["blue"]},
+            {"id":115, "colors":["white"]},
+            {"id":116, "colors":["yellow"]},
+            {"id":117, "colors":["orange"]},
+            {"id":118, "colors":["red"]},
+            {"id":119, "colors":["grey"]},
+            {"id":120, "colors":["green"]},
+            {"id":121, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":122, "zone":"waistToKnee", "category":"pants", "security":"3e23918b994f090a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shorts",
+        "outfitName":"Urban Delight",
+        "variations":[
+            {"id":122, "colors":["blue"]},
+            {"id":123, "colors":["white"]},
+            {"id":124, "colors":["blue"]},
+            {"id":125, "colors":["grey"]},
+            {"id":126, "colors":["green"]},
+            {"id":127, "colors":["brown"]},
+            {"id":128, "colors":["brown"]},
+            {"id":129, "colors":["black"]},
+            {"id":130, "colors":["blue"]},
+            {"id":131, "colors":["red"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":132, "zone":"feet", "category":"shoes", "security":"4fe631c9aded3794", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Urban Delight",
+        "variations":[
+            {"id":132, "colors":["pink"]},
+            {"id":133, "colors":["purple"]},
+            {"id":134, "colors":["blue"]},
+            {"id":135, "colors":["blue"]},
+            {"id":136, "colors":["green"]},
+            {"id":137, "colors":["yellow"]},
+            {"id":138, "colors":["orange"]},
+            {"id":139, "colors":["red"]},
+            {"id":140, "colors":["black"]},
+            {"id":141, "colors":["white"]}
+        ], "criteria":null
+    },
     {
         "groupId":142, "zone":"feet", "category":"legAccessory", "security":"3aa67ff279c1b33b", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pulseras de tobillo",
@@ -3451,6 +3556,108 @@
             {"id":2501, "colors":["yellow","brown"]},
             {"id":2502, "colors":["yellow","pink"]}
         ], "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo \n Fairycore"}
+    },
+    {
+        "groupId":2503,"zone":"torso", "category":"top", "security":"1e704e0bb61cf8e1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Ladylike",
+        "variations":[
+            {"id":2503, "colors":["white"]},
+            {"id":2504, "colors":["red"]},
+            {"id":2505, "colors":["black"]},
+            {"id":2506, "colors":["yellow"]},
+            {"id":2507, "colors":["green"]},
+            {"id":2508, "colors":["blue"]},
+            {"id":2509, "colors":["pink"]},
+            {"id":2510, "colors":["purple"]},
+            {"id":2511, "colors":["brown"]},
+            {"id":2512, "colors":["grey"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":2513, "zone":"waistToKnee", "category":"pants", "security":"e9e4327c276c3041", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Ladylike",
+        "variations":[
+            {"id":2513, "colors":["black"]},
+            {"id":2514, "colors":["red"]},
+            {"id":2515, "colors":["white"]},
+            {"id":2516, "colors":["yellow"]},
+            {"id":2517, "colors":["green"]},
+            {"id":2518, "colors":["blue"]},
+            {"id":2519, "colors":["pink"]},
+            {"id":2520, "colors":["purple"]},
+            {"id":2521, "colors":["brown"]},
+            {"id":2522, "colors":["grey"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":2523,"zone":"torso", "category":"jacket", "security":"bb84a902411383f1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaleco",
+        "outfitName":"Ladylike",
+        "variations":[
+            {"id":2523, "colors":["grey"]},
+            {"id":2524, "colors":["red"]},
+            {"id":2525, "colors":["white"]},
+            {"id":2526, "colors":["brown"]},
+            {"id":2527, "colors":["green"]},
+            {"id":2528, "colors":["blue"]},
+            {"id":2529, "colors":["red"]},
+            {"id":2530, "colors":["pink"]},
+            {"id":2531, "colors":["brown"]},
+            {"id":2532, "colors":["black"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":2533, "zone":"feet", "category":"shoes", "security":"9538b0e1cf304b0b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Derbies\n",
+        "outfitName":"Ladylike",
+        "variations":[
+            {"id":2533, "colors":["white","black"]},
+            {"id":2534, "colors":["red","black"]},
+            {"id":2535, "colors":["black"]},
+            {"id":2536, "colors":["yellow","black"]},
+            {"id":2537, "colors":["green","black"]},
+            {"id":2538, "colors":["blue","black"]},
+            {"id":2539, "colors":["pink","black"]},
+            {"id":2540, "colors":["purple","black"]},
+            {"id":2541, "colors":["brown","black"]},
+            {"id":2542, "colors":["grey","black"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":2543, "zone":"arms", "category":"gloves", "security":"1456acac3687981d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Ladylike",
+        "variations":[
+            {"id":2543, "colors":["grey"]},
+            {"id":2544,"colors":["red"]},
+            {"id":2545,"colors":["white"]},
+            {"id":2546,"colors":["brown"]},
+            {"id":2547,"colors":["green"]},
+            {"id":2548,"colors":["blue"]},
+            {"id":2549,"colors":["red"]},
+            {"id":2550,"colors":["pink"]},
+            {"id":2551,"colors":["brown"]},
+            {"id":2552,"colors":["black"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":2553,"zone":"torso", "category":"jacket", "security":"74ec119e77305052", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blazer",
+        "outfitName":"Ladylike",
+        "variations":[
+            {"id":2553, "colors":["black"]},
+            {"id":2554, "colors":["red"]},
+            {"id":2555, "colors":["white"]},
+            {"id":2556, "colors":["yellow"]},
+            {"id":2557, "colors":["green"]},
+            {"id":2558, "colors":["blue"]},
+            {"id":2559, "colors":["pink"]},
+            {"id":2560, "colors":["purple"]},
+            {"id":2561, "colors":["brown"]},
+            {"id":2562, "colors":["grey"]}
+        ], "criteria":null
     },
     {
         "groupId":2563, "zone":"feet", "category":"socks", "security":"dad99a235d793e90", "multiLayered":false, "layerBehavior":"normal",
@@ -10774,8 +10981,934 @@
             {"id":7441, "colors":["silver","pink"]}
         ], "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
     },
+    {
+        "groupId":7442, "zone":"feet", "category":"shoes", "security":"e3d900d950729792", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Evergreens",
+        "variations":[
+            {"id":7442, "colors":["green"]},
+            {"id":7443, "colors":["red"]},
+            {"id":7444, "colors":["blue"]},
+            {"id":7445, "colors":["white"]},
+            {"id":7446, "colors":["black"]},
+            {"id":7447, "colors":["orange"]},
+            {"id":7448, "colors":["blue"]},
+            {"id":7449, "colors":["pink"]},
+            {"id":7450, "colors":["yellow"]},
+            {"id":7451, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7452, "zone":"feet", "category":"socks", "security":"3099d5c13a2b1d7c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lianas",
+        "outfitName":"Evergreens",
+        "variations":[
+            {"id":7452, "colors":["yellow","green"]},
+            {"id":7453, "colors":["brown","yellow"]},
+            {"id":7454, "colors":["white","brown"]},
+            {"id":7455, "colors":["pink","green"]},
+            {"id":7456, "colors":["black","green","purple"]},
+            {"id":7457, "colors":["orange","red"]},
+            {"id":7458, "colors":["blue","green"]},
+            {"id":7459, "colors":["green","yellow"]},
+            {"id":7460, "colors":["red","green"]},
+            {"id":7461, "colors":["black","brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7462, "zone":"arms", "category":"gloves", "security":"2352f7588f86eb85", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Manoplas",
+        "outfitName":"Evergreens",
+        "variations":[
+            {"id":7462, "colors":["blue","green"]},
+            {"id":7463,"colors":["black"]},
+            {"id":7464,"colors":["white"]},
+            {"id":7465,"colors":["pink"]},
+            {"id":7466,"colors":["purple"]},
+            {"id":7467,"colors":["red"]},
+            {"id":7468,"colors":["grey"]},
+            {"id":7469,"colors":["blue"]},
+            {"id":7470,"colors":["brown"]},
+            {"id":7471,"colors":["yellow"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7472, "zone":"waistToKnee", "category":"skirt", "security":"88673d79c6f29d2a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Evergreens",
+        "variations":[
+            {"id":7472, "colors":["green"]},
+            {"id":7473, "colors":["red"]},
+            {"id":7474, "colors":["blue"]},
+            {"id":7475, "colors":["white"]},
+            {"id":7476, "colors":["black"]},
+            {"id":7477, "colors":["orange"]},
+            {"id":7478, "colors":["blue"]},
+            {"id":7479, "colors":["pink"]},
+            {"id":7480, "colors":["yellow"]},
+            {"id":7481, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7482,"zone":"torso", "category":"top", "security":"1f3de1a94e7efe49", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Evergreens",
+        "variations":[
+            {"id":7482, "colors":["golden","green"]},
+            {"id":7483, "colors":["golden","red"]},
+            {"id":7484, "colors":["blue","silver"]},
+            {"id":7485, "colors":["golden","white"]},
+            {"id":7486, "colors":["black","silver"]},
+            {"id":7487, "colors":["golden","orange"]},
+            {"id":7488, "colors":["blue","silver"]},
+            {"id":7489, "colors":["golden","pink"]},
+            {"id":7490, "colors":["silver","yellow"]},
+            {"id":7491, "colors":["brown","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7492,"zone":"torso", "category":"jacket", "security":"c3a2b3bf475208fe", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Evergreens",
+        "variations":[
+            {"id":7492, "colors":["blue","golden","green"]},
+            {"id":7493, "colors":["black","golden"]},
+            {"id":7494, "colors":["silver","white"]},
+            {"id":7495, "colors":["golden","pink"]},
+            {"id":7496, "colors":["purple","silver"]},
+            {"id":7497, "colors":["golden","red"]},
+            {"id":7498, "colors":["grey","silver"]},
+            {"id":7499, "colors":["blue","golden"]},
+            {"id":7500, "colors":["brown","silver"]},
+            {"id":7501, "colors":["silver","yellow"]}
+        ], "criteria":null
+    },
 
+
+    {
+        "groupId":7503, "zone":"face", "category":"neckAccessory", "security":"4c805aece4369f4c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Power Print",
+        "variations":[
+            {"id":7502, "colors":["red","silver"]},
+            {"id":7503, "colors":["golden","white"]},
+            {"id":7504, "colors":["black","golden"]},
+            {"id":7505, "colors":["golden","orange"]},
+            {"id":7506, "colors":["blue","golden"]},
+            {"id":7507, "colors":["golden","purple"]},
+            {"id":7508, "colors":["silver","yellow"]},
+            {"id":7509, "colors":["green","silver"]},
+            {"id":7510, "colors":["grey","silver"]},
+            {"id":7511, "colors":["green","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7512, "zone":"feet", "category":"shoes", "security":"1224f4b560a8bbd7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Power Print",
+        "variations":[
+            {"id":7512, "colors":["blue","golden"]},
+            {"id":7513, "colors":["golden","red"]},
+            {"id":7514, "colors":["black","silver"]},
+            {"id":7515, "colors":["golden","green"]},
+            {"id":7516, "colors":["golden","grey"]},
+            {"id":7517, "colors":["golden","yellow"]},
+            {"id":7518, "colors":["silver","white"]},
+            {"id":7519, "colors":["purple","silver"]},
+            {"id":7520, "colors":["pink","silver"]},
+            {"id":7521, "colors":["brown","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7522, "zone":"waistToKnee", "category":"pants", "security":"259c522f7c8b480f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Leggings",
+        "outfitName":"Power Print",
+        "variations":[
+            {"id":7522, "colors":["brown"]},
+            {"id":7523, "colors":["black"]},
+            {"id":7524, "colors":["white","blue"]},
+            {"id":7525, "colors":["brown"]},
+            {"id":7526, "colors":["white","black"]},
+            {"id":7527, "colors":["pink"]},
+            {"id":7528, "colors":["purple"]},
+            {"id":7529, "colors":["blue"]},
+            {"id":7530, "colors":["red"]},
+            {"id":7531, "colors":["green"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7532,"zone":"torso", "category":"jacket", "security":"730bfe75be5ff89b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Power Print",
+        "variations":[
+            {"id":7532, "colors":["blue"]},
+            {"id":7533, "colors":["red"]},
+            {"id":7534, "colors":["black"]},
+            {"id":7535, "colors":["green"]},
+            {"id":7536, "colors":["grey"]},
+            {"id":7537, "colors":["yellow"]},
+            {"id":7538, "colors":["white"]},
+            {"id":7539, "colors":["purple"]},
+            {"id":7540, "colors":["pink"]},
+            {"id":7541, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7542,"zone":"torso_waistToKnee", "category":"waist", "security":"2fbb0ddb6d2b0aac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Power Print",
+        "variations":[
+            {"id":7542, "colors":["black","golden"]},
+            {"id":7543, "colors":["golden","grey"]},
+            {"id":7544, "colors":["silver","white"]},
+            {"id":7545, "colors":["brown","golden"]},
+            {"id":7546, "colors":["golden","red"]},
+            {"id":7547, "colors":["brown","golden"]},
+            {"id":7548, "colors":["pink","silver"]},
+            {"id":7549, "colors":["blue","silver"]},
+            {"id":7550, "colors":["silver","yellow"]},
+            {"id":7551, "colors":["green","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7552, "zone":"arms", "category":"bag", "security":"1f80e9d3046681c3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Power Print",
+        "variations":[
+            {"id":7552, "colors":["black","golden"]},
+            {"id":7553,"colors":["golden","grey"]},
+            {"id":7554,"colors":["silver","white"]},
+            {"id":7555,"colors":["golden","orange"]},
+            {"id":7556,"colors":["golden","red"]},
+            {"id":7557,"colors":["brown","golden"]},
+            {"id":7558,"colors":["pink","silver"]},
+            {"id":7559,"colors":["blue","silver"]},
+            {"id":7560,"colors":["silver","yellow"]},
+            {"id":7561,"colors":["green","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7562, "zone":"feet", "category":"shoes", "security":"f9f0912b476829a6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Elderwood Nomad",
+        "variations":[
+            {"id":7562, "colors":["brown"]},
+            {"id":7563, "colors":["blue"]},
+            {"id":7564, "colors":["pink"]},
+            {"id":7565, "colors":["green"]},
+            {"id":7566, "colors":["yellow"]},
+            {"id":7567, "colors":["black"]},
+            {"id":7568, "colors":["white"]},
+            {"id":7569, "colors":["red"]},
+            {"id":7570, "colors":["purple"]},
+            {"id":7571, "colors":["grey"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7572, "zone":"arms", "category":"bag", "security":"1cf055f633a2e953", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Palo",
+        "outfitName":"Elderwood Nomad",
+        "variations":[
+            {"id":7572, "colors":["brown","blue"]},
+            {"id":7573,"colors":["brown","red"]},
+            {"id":7574,"colors":["brown","white"]},
+            {"id":7575,"colors":["brown","black"]},
+            {"id":7576,"colors":["brown","purple"]},
+            {"id":7577,"colors":["black","green"]},
+            {"id":7578,"colors":["white","yellow"]},
+            {"id":7579,"colors":["brown"]},
+            {"id":7580,"colors":["brown","pink"]},
+            {"id":7581,"colors":["black","blue"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7582,"zone":"torso", "category":"top", "security":"f3112b82aa552e55", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Elderwood Nomad",
+        "variations":[
+            {"id":7582, "colors":["blue"]},
+            {"id":7583, "colors":["red"]},
+            {"id":7584, "colors":["white"]},
+            {"id":7585, "colors":["black"]},
+            {"id":7586, "colors":["purple"]},
+            {"id":7587, "colors":["green"]},
+            {"id":7588, "colors":["yellow"]},
+            {"id":7589, "colors":["brown"]},
+            {"id":7590, "colors":["pink"]},
+            {"id":7591, "colors":["blue","green"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7592, "zone":"waistToKnee", "category":"skirt", "security":"1a5d9091bec5eedc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Elderwood Nomad",
+        "variations":[
+            {"id":7592, "colors":["brown"]},
+            {"id":7593, "colors":["blue"]},
+            {"id":7594, "colors":["pink"]},
+            {"id":7595, "colors":["green"]},
+            {"id":7596, "colors":["yellow"]},
+            {"id":7597, "colors":["black"]},
+            {"id":7598, "colors":["white"]},
+            {"id":7599, "colors":["red"]},
+            {"id":7600, "colors":["purple"]},
+            {"id":7601, "colors":["blue","grey"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7602,"zone":"torso", "category":"jacket", "security":"53a25b40381f7791", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Elderwood Nomad",
+        "variations":[
+            {"id":7602, "colors":["blue"]},
+            {"id":7603, "colors":["red"]},
+            {"id":7604, "colors":["white"]},
+            {"id":7605, "colors":["black"]},
+            {"id":7606, "colors":["purple"]},
+            {"id":7607, "colors":["green"]},
+            {"id":7608, "colors":["yellow"]},
+            {"id":7609, "colors":["brown"]},
+            {"id":7610, "colors":["pink"]},
+            {"id":7611, "colors":["blue"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7612,"zone":"torso_waistToKnee", "category":"waist", "security":"46367f658a5a04f3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Elderwood Nomad",
+        "variations":[
+            {"id":7612, "colors":["brown"]},
+            {"id":7613, "colors":["brown","blue"]},
+            {"id":7614, "colors":["brown","pink"]},
+            {"id":7615, "colors":["brown","green"]},
+            {"id":7616, "colors":["brown","yellow"]},
+            {"id":7617, "colors":["brown","black"]},
+            {"id":7618, "colors":["brown","white"]},
+            {"id":7619, "colors":["brown","red"]},
+            {"id":7620, "colors":["brown","purple"]},
+            {"id":7621, "colors":["brown","grey"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7622,"zone":"torso", "category":"top", "security":"054b57420d10aa85", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta con cuello vuelto",
+        "outfitName":"Puffy Classics",
+        "variations":[
+            {"id":7622, "colors":["white"]},
+            {"id":7623, "colors":["brown"]},
+            {"id":7624, "colors":["black"]},
+            {"id":7625, "colors":["pink"]},
+            {"id":7626, "colors":["purple"]},
+            {"id":7627, "colors":["green"]},
+            {"id":7628, "colors":["blue"]},
+            {"id":7629, "colors":["yellow"]},
+            {"id":7630, "colors":["red"]},
+            {"id":7631, "colors":["grey"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7632, "zone":"feet", "category":"shoes", "security":"4d40ec1eab471460", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Deportivas",
+        "outfitName":"Puffy Classics",
+        "variations":[
+            {"id":7632, "colors":["white","red"]},
+            {"id":7633, "colors":["white","yellow"]},
+            {"id":7634, "colors":["white","blue"]},
+            {"id":7635, "colors":["white","green"]},
+            {"id":7636, "colors":["white","black"]},
+            {"id":7637, "colors":["white"]},
+            {"id":7638, "colors":["white","purple"]},
+            {"id":7639, "colors":["white","pink"]},
+            {"id":7640, "colors":["white","green"]},
+            {"id":7641, "colors":["white","brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7642, "zone":"waistToKnee", "category":"pants", "security":"770536838592b5f1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jeans",
+        "outfitName":"Puffy Classics",
+        "variations":[
+            {"id":7642, "colors":["blue"]},
+            {"id":7643, "colors":["blue"]},
+            {"id":7644, "colors":["grey"]},
+            {"id":7645, "colors":["white"]},
+            {"id":7646, "colors":["brown"]},
+            {"id":7647, "colors":["red"]},
+            {"id":7648, "colors":["green"]},
+            {"id":7649, "colors":["brown"]},
+            {"id":7650, "colors":["black"]},
+            {"id":7651, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7652,"zone":"torso", "category":"jacket", "security":"e8f8bfbb7bc8b30f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Abrigo",
+        "outfitName":"Puffy Classics",
+        "variations":[
+            {"id":7652, "colors":["yellow"]},
+            {"id":7653, "colors":["black"]},
+            {"id":7654, "colors":["blue"]},
+            {"id":7655, "colors":["brown"]},
+            {"id":7656, "colors":["red"]},
+            {"id":7657, "colors":["pink"]},
+            {"id":7658, "colors":["white"]},
+            {"id":7659, "colors":["green"]},
+            {"id":7660, "colors":["brown"]},
+            {"id":7661, "colors":["purple"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7662, "zone":"head", "category":"faceAccessory", "security":"eb1a42130aeac231", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Puffy Classics",
+        "variations":[
+            {"id":7662, "colors":["red","golden"]},
+            {"id":7663, "colors":["yellow","silver"]},
+            {"id":7664, "colors":["blue","silver"]},
+            {"id":7665, "colors":["green","silver"]},
+            {"id":7666, "colors":["black","silver"]},
+            {"id":7667, "colors":["white","golden"]},
+            {"id":7668, "colors":["purple","golden"]},
+            {"id":7669, "colors":["pink","golden"]},
+            {"id":7670, "colors":["green","silver"]},
+            {"id":7671, "colors":["brown","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7672, "zone":"arms", "category":"bag", "security":"7ae19b0176eb471c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Smartphone\n",
+        "outfitName":"Puffy Classics",
+        "variations":[
+            {"id":7672, "colors":["red"]},
+            {"id":7673,"colors":["yellow"]},
+            {"id":7674,"colors":["blue"]},
+            {"id":7675,"colors":["green"]},
+            {"id":7676,"colors":["black"]},
+            {"id":7677,"colors":["white"]},
+            {"id":7678,"colors":["purple"]},
+            {"id":7679,"colors":["pink"]},
+            {"id":7680,"colors":["green"]},
+            {"id":7681,"colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7682, "zone":"arms", "category":"armAccessory", "security":"7e7c465b569e84fa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillo",
+        "outfitName":"Squared",
+        "variations":[
+            {"id":7682, "colors":["red"]},
+            {"id":7683,"colors":["orange"]},
+            {"id":7684,"colors":["yellow"]},
+            {"id":7685,"colors":["pink"]},
+            {"id":7686,"colors":["black"]},
+            {"id":7687,"colors":["green"]},
+            {"id":7688,"colors":["purple"]},
+            {"id":7689,"colors":["blue"]},
+            {"id":7690,"colors":["brown"]},
+            {"id":7691,"colors":["white"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7692, "zone":"feet", "category":"shoes", "security":"176cd7fe636a78de", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Squared",
+        "variations":[
+            {"id":7692, "colors":["white"]},
+            {"id":7693, "colors":["purple"]},
+            {"id":7694, "colors":["yellow"]},
+            {"id":7695, "colors":["pink"]},
+            {"id":7696, "colors":["red"]},
+            {"id":7697, "colors":["green"]},
+            {"id":7698, "colors":["black"]},
+            {"id":7699, "colors":["blue"]},
+            {"id":7700, "colors":["brown"]},
+            {"id":7701, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7702,"zone":"torso", "category":"top", "security":"807b0ce6f0360161", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Squared",
+        "variations":[
+            {"id":7702, "colors":["white"]},
+            {"id":7703, "colors":["red"]},
+            {"id":7704, "colors":["green"]},
+            {"id":7705, "colors":["yellow"]},
+            {"id":7706, "colors":["black"]},
+            {"id":7707, "colors":["brown"]},
+            {"id":7708, "colors":["purple"]},
+            {"id":7709, "colors":["blue"]},
+            {"id":7710, "colors":["pink"]},
+            {"id":7711, "colors":["orange"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7712, "zone":"waistToKnee", "category":"skirt", "security":"7d7472313922d2d6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Squared",
+        "variations":[
+            {"id":7712, "colors":["blue"]},
+            {"id":7713, "colors":["purple"]},
+            {"id":7714, "colors":["orange","yellow"]},
+            {"id":7715, "colors":["pink"]},
+            {"id":7716, "colors":["red"]},
+            {"id":7717, "colors":["green"]},
+            {"id":7718, "colors":["black"]},
+            {"id":7719, "colors":["white"]},
+            {"id":7720, "colors":["brown"]},
+            {"id":7721, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7722, "zone":"face", "category":"neckAccessory", "security":"2692102bb9afe214", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bufanda",
+        "outfitName":"Squared",
+        "variations":[
+            {"id":7722, "colors":["blue","yellow","multi"]},
+            {"id":7723, "colors":["orange","purple","multi"]},
+            {"id":7724, "colors":["green","orange","multi"]},
+            {"id":7725, "colors":["pink","yellow","multi"]},
+            {"id":7726, "colors":["black","red","multi"]},
+            {"id":7727, "colors":["black","green","multi"]},
+            {"id":7728, "colors":["purple","pink"]},
+            {"id":7729, "colors":["blue","white","multi"]},
+            {"id":7730, "colors":["brown","white","multi"]},
+            {"id":7731, "colors":["brown","orange","multi"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7732, "zone":"arms", "category":"bag", "security":"1c33e9c91399b29c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Squared",
+        "variations":[
+            {"id":7732, "colors":["yellow"]},
+            {"id":7733,"colors":["orange"]},
+            {"id":7734,"colors":["green"]},
+            {"id":7735,"colors":["pink"]},
+            {"id":7736,"colors":["black"]},
+            {"id":7737,"colors":["brown"]},
+            {"id":7738,"colors":["purple"]},
+            {"id":7739,"colors":["blue"]},
+            {"id":7740,"colors":["white"]},
+            {"id":7741,"colors":["red"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7742, "zone":"head", "category":"wig", "security":"9526a7d808909ea3", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Squared",
+        "variations":[
+            {"id":7742, "colors":["brown"]},
+            {"id":7743, "colors":["white"]},
+            {"id":7744, "colors":["black"]},
+            {"id":7745, "colors":["blue"]},
+            {"id":7746, "colors":["blue"]},
+            {"id":7747, "colors":["purple"]},
+            {"id":7748, "colors":["red"]},
+            {"id":7749, "colors":["yellow"]},
+            {"id":7750, "colors":["orange"]},
+            {"id":7751, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7752, "zone":"head", "category":"hat", "security":"8f4ffd7ec1b2b219", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bandana",
+        "outfitName":"Squared",
+        "variations":[
+            {"id":7752, "colors":["blue"]},
+            {"id":7753, "colors":["red"]},
+            {"id":7754, "colors":["yellow"]},
+            {"id":7755, "colors":["pink"]},
+            {"id":7756, "colors":["black"]},
+            {"id":7757, "colors":["green"]},
+            {"id":7758, "colors":["purple"]},
+            {"id":7759, "colors":["white"]},
+            {"id":7760, "colors":["brown"]},
+            {"id":7761, "colors":["orange"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7762, "zone":"head", "category":"hat", "security":"91b2f0cfd0a55e06", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Prendedores",
+        "outfitName":"Squared",
+        "variations":[
+            {"id":7762, "colors":["yellow"]},
+            {"id":7763, "colors":["orange"]},
+            {"id":7764, "colors":["green"]},
+            {"id":7765, "colors":["pink","purple"]},
+            {"id":7766, "colors":["red"]},
+            {"id":7767, "colors":["black"]},
+            {"id":7768, "colors":["white"]},
+            {"id":7769, "colors":["white"]},
+            {"id":7770, "colors":["pink"]},
+            {"id":7771, "colors":["brown"]}
+        ], "criteria":null
+    },
+
+
+    {
+        "groupId":7772, "zone":"feet", "category":"socks", "security":"c9071b68a0d3fcdb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Medias",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7772, "colors":["blue"]},
+            {"id":7773, "colors":["green"]},
+            {"id":7774, "colors":["white"]},
+            {"id":7775, "colors":["black"]},
+            {"id":7776, "colors":["blue"]},
+            {"id":7777, "colors":["purple"]},
+            {"id":7778, "colors":["red"]},
+            {"id":7779, "colors":["yellow"]},
+            {"id":7780, "colors":["brown"]},
+            {"id":7781, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7782, "zone":"arms", "category":"bag", "security":"9f08a693d0caa961", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bastón",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7782, "colors":["brown","golden"]},
+            {"id":7783,"colors":["black","silver"]},
+            {"id":7784,"colors":["green","silver"]},
+            {"id":7785,"colors":["purple","silver"]},
+            {"id":7786,"colors":["golden","red"]},
+            {"id":7787,"colors":["golden","pink"]},
+            {"id":7788,"colors":["blue","golden"]},
+            {"id":7789,"colors":["silver","white"]},
+            {"id":7790,"colors":["black","grey"]},
+            {"id":7791,"colors":["black","yellow"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7792,"zone":"torso", "category":"top", "security":"f1eb4ca0ed9e9818", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blusa",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7792, "colors":["blue"]},
+            {"id":7793, "colors":["green"]},
+            {"id":7794, "colors":["white"]},
+            {"id":7795, "colors":["black"]},
+            {"id":7796, "colors":["blue"]},
+            {"id":7797, "colors":["purple"]},
+            {"id":7798, "colors":["red"]},
+            {"id":7799, "colors":["yellow"]},
+            {"id":7800, "colors":["brown"]},
+            {"id":7801, "colors":["pink"]}
+        ], "criteria":null
+    },
     
+
+    {
+        "groupId":7812, "zone":"feet", "category":"shoes", "security":"eaea76cddc0963ca", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7812, "colors":["black"]},
+            {"id":7813, "colors":["green"]},
+            {"id":7814, "colors":["white"]},
+            {"id":7815, "colors":["brown"]},
+            {"id":7816, "colors":["blue"]},
+            {"id":7817, "colors":["purple"]},
+            {"id":7818, "colors":["red"]},
+            {"id":7819, "colors":["yellow","orange"]},
+            {"id":7820, "colors":["grey"]},
+            {"id":7821, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7822, "zone":"waistToKnee", "category":"skirt", "security":"4cb4d9d272f3f58b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7822, "colors":["brown"]},
+            {"id":7823, "colors":["black"]},
+            {"id":7824, "colors":["green"]},
+            {"id":7825, "colors":["purple"]},
+            {"id":7826, "colors":["red"]},
+            {"id":7827, "colors":["pink"]},
+            {"id":7828, "colors":["blue"]},
+            {"id":7829, "colors":["white"]},
+            {"id":7830, "colors":["grey"]},
+            {"id":7831, "colors":["yellow"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7832,"zone":"torso", "category":"top", "security":"b6d9d1241761f6c0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corsé",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7832, "colors":["brown"]},
+            {"id":7833, "colors":["black"]},
+            {"id":7834, "colors":["green"]},
+            {"id":7835, "colors":["purple"]},
+            {"id":7836, "colors":["red"]},
+            {"id":7837, "colors":["pink"]},
+            {"id":7838, "colors":["blue"]},
+            {"id":7839, "colors":["white"]},
+            {"id":7840, "colors":["grey"]},
+            {"id":7841, "colors":["yellow"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7842, "zone":"head", "category":"wig", "security":"8f9f299f02246a40", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7842, "colors":["black","brown"]},
+            {"id":7843, "colors":["black","white"]},
+            {"id":7844, "colors":["black","grey"]},
+            {"id":7845, "colors":["black","blue"]},
+            {"id":7846, "colors":["black","blue"]},
+            {"id":7847, "colors":["black","purple"]},
+            {"id":7848, "colors":["black","red"]},
+            {"id":7849, "colors":["black","yellow"]},
+            {"id":7850, "colors":["black","orange"]},
+            {"id":7851, "colors":["black","pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7852, "zone":"head", "category":"earring", "security":"c0b0743e89df7e3a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7852, "colors":["golden"]},
+            {"id":7853, "colors":["green"]},
+            {"id":7854, "colors":["white"]},
+            {"id":7855, "colors":["black"]},
+            {"id":7856, "colors":["blue"]},
+            {"id":7857, "colors":["purple"]},
+            {"id":7858, "colors":["red"]},
+            {"id":7859, "colors":["silver"]},
+            {"id":7860, "colors":["brown"]},
+            {"id":7861, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7862, "zone":"head", "category":"hat", "security":"cee21a5dcd3ab7d1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7862, "colors":["brown","golden"]},
+            {"id":7863, "colors":["black","silver"]},
+            {"id":7864, "colors":["green","silver"]},
+            {"id":7865, "colors":["purple","silver"]},
+            {"id":7866, "colors":["golden","red"]},
+            {"id":7867, "colors":["golden","pink"]},
+            {"id":7868, "colors":["blue","golden"]},
+            {"id":7869, "colors":["silver","white"]},
+            {"id":7870, "colors":["grey","black"]},
+            {"id":7871, "colors":["golden","yellow"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7872, "zone":"head", "category":"wig", "security":"24eaf53eebb87489", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca Basic Locks",
+        "outfitName":null,
+        "variations":[
+            {"id":7872, "colors":["brown"]},
+            {"id":7873, "colors":["white"]},
+            {"id":7874, "colors":["black"]},
+            {"id":7875, "colors":["blue"]},
+            {"id":7876, "colors":["blue"]},
+            {"id":7877, "colors":["purple"]},
+            {"id":7878, "colors":["red"]},
+            {"id":7879, "colors":["yellow"]},
+            {"id":7880, "colors":["orange"]},
+            {"id":7881, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7882, "zone":"general", "category":"tattoo", "security":"f87d88202824b2aa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Fires of the Long",
+        "variations":[
+            {"id":7882, "colors":["red"]},
+            {"id":7883, "colors":["black"]},
+            {"id":7884, "colors":["pink"]},
+            {"id":7885, "colors":["blue"]},
+            {"id":7886, "colors":["green"]},
+            {"id":7887, "colors":["white"]},
+            {"id":7888, "colors":["yellow"]},
+            {"id":7889, "colors":["purple"]},
+            {"id":7890, "colors":["blue"]},
+            {"id":7891, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7892, "zone":"feet", "category":"footNailPolish", "security":"f6aa1e5a321a1158", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Esmalte uñas",
+        "outfitName":"Fires of the Long",
+        "variations":[
+            {"id":7892, "colors":["red"]},
+            {"id":7893, "colors":["black"]},
+            {"id":7894, "colors":["pink"]},
+            {"id":7895, "colors":["blue"]},
+            {"id":7896, "colors":["green"]},
+            {"id":7897, "colors":["white"]},
+            {"id":7898, "colors":["yellow"]},
+            {"id":7899, "colors":["purple"]},
+            {"id":7900, "colors":["blue"]},
+            {"id":7901, "colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7902, "zone":"arms", "category":"handNailPolish", "security":"533ef21fa7b2ae10", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Esmalte uñas",
+        "outfitName":"Fires of the Long",
+        "variations":[
+            {"id":7902, "colors":["red"]},
+            {"id":7903,"colors":["black"]},
+            {"id":7904,"colors":["pink"]},
+            {"id":7905,"colors":["blue"]},
+            {"id":7906,"colors":["green"]},
+            {"id":7907,"colors":["white"]},
+            {"id":7908,"colors":["yellow"]},
+            {"id":7909,"colors":["purple"]},
+            {"id":7910,"colors":["blue"]},
+            {"id":7911,"colors":["brown"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7912, "zone":"feet", "category":"shoes", "security":"5eba73835f2fea37", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Fires of the Long",
+        "variations":[
+            {"id":7912, "colors":["golden","red"]},
+            {"id":7913, "colors":["black","golden"]},
+            {"id":7914, "colors":["golden","pink"]},
+            {"id":7915, "colors":["blue","golden"]},
+            {"id":7916, "colors":["golden","green"]},
+            {"id":7917, "colors":["silver","white"]},
+            {"id":7918, "colors":["golden","yellow"]},
+            {"id":7919, "colors":["purple","silver"]},
+            {"id":7920, "colors":["blue","silver"]},
+            {"id":7921, "colors":["brown","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7922,"zone":"torso_waistToKnee", "category":"dress", "security":"0e8e323a069e3c0e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Fires of the Long",
+        "variations":[
+            {"id":7922, "colors":["golden","red"]},
+            {"id":7923, "colors":["black","golden"]},
+            {"id":7924, "colors":["golden","pink"]},
+            {"id":7925, "colors":["blue","golden"]},
+            {"id":7926, "colors":["golden","green"]},
+            {"id":7927, "colors":["silver","white"]},
+            {"id":7928, "colors":["golden","yellow"]},
+            {"id":7929, "colors":["purple","silver"]},
+            {"id":7930, "colors":["blue","silver"]},
+            {"id":7931, "colors":["brown","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7932, "zone":"head", "category":"earring", "security":"80903b0439f51503", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Fires of the Long",
+        "variations":[
+            {"id":7932, "colors":["golden","red"]},
+            {"id":7933, "colors":["black","golden"]},
+            {"id":7934, "colors":["golden","pink"]},
+            {"id":7935, "colors":["blue","golden"]},
+            {"id":7936, "colors":["golden","green"]},
+            {"id":7937, "colors":["silver","white"]},
+            {"id":7938, "colors":["silver","yellow"]},
+            {"id":7939, "colors":["purple","silver"]},
+            {"id":7940, "colors":["blue","silver"]},
+            {"id":7941, "colors":["brown","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7942, "zone":"head", "category":"wig", "security":"5c1fd82988009c09", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Fires of the Long",
+        "variations":[
+            {"id":7942, "colors":["brown"]},
+            {"id":7943, "colors":["white"]},
+            {"id":7944, "colors":["black"]},
+            {"id":7945, "colors":["blue"]},
+            {"id":7946, "colors":["blue"]},
+            {"id":7947, "colors":["purple"]},
+            {"id":7948, "colors":["red"]},
+            {"id":7949, "colors":["yellow"]},
+            {"id":7950, "colors":["orange"]},
+            {"id":7951, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7952, "zone":"head", "category":"hat", "security":"6b0a12b3b56e7f31", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Prendedor",
+        "outfitName":"Fires of the Long",
+        "variations":[
+            {"id":7952, "colors":["golden","red"]},
+            {"id":7953, "colors":["black","golden"]},
+            {"id":7954, "colors":["golden","pink"]},
+            {"id":7955, "colors":["blue","golden"]},
+            {"id":7956, "colors":["golden","green"]},
+            {"id":7957, "colors":["silver","white"]},
+            {"id":7958, "colors":["golden","yellow"]},
+            {"id":7959, "colors":["purple","silver"]},
+            {"id":7960, "colors":["blue","silver"]},
+            {"id":7961, "colors":["brown","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7962, "zone":"arms", "category":"bag", "security":"54e3796916bcc3b6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Abanico",
+        "outfitName":"Fires of the Long",
+        "variations":[
+            {"id":7962, "colors":["red","multi"]},
+            {"id":7963,"colors":["black","multi"]},
+            {"id":7964,"colors":["pink","multi"]},
+            {"id":7965,"colors":["blue","multi"]},
+            {"id":7966,"colors":["green","multi"]},
+            {"id":7967,"colors":["white","purple","multi"]},
+            {"id":7968,"colors":["yellow","multi"]},
+            {"id":7969,"colors":["purple","multi"]},
+            {"id":7970,"colors":["blue","multi"]},
+            {"id":7971,"colors":["brown","multi"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":7972, "zone":"arms", "category":"armAccessory", "security":"8a125610f9a0b530", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Fires of the Long",
+        "variations":[
+            {"id":7972, "colors":["golden","red"]},
+            {"id":7973,"colors":["black","golden"]},
+            {"id":7974,"colors":["golden","pink"]},
+            {"id":7975,"colors":["blue","golden"]},
+            {"id":7976,"colors":["golden","green"]},
+            {"id":7977,"colors":["silver","white"]},
+            {"id":7978,"colors":["golden","yellow"]},
+            {"id":7979,"colors":["purple","silver"]},
+            {"id":7980,"colors":["blue","silver"]},
+            {"id":7981,"colors":["brown","silver"]}
+        ], "criteria":null
+    },
+
+
+    {
+        "groupId":7802, "zone":"face", "category":"neckAccessory", "security":"7ac5eb6c0321bded", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7802, "colors":["blue","golden"]},
+            {"id":7803, "colors":["green","silver"]},
+            {"id":7804, "colors":["silver","white"]},
+            {"id":7805, "colors":["black","silver"]},
+            {"id":7806, "colors":["blue","golden"]},
+            {"id":7807, "colors":["golden","purple"]},
+            {"id":7808, "colors":["golden","red"]},
+            {"id":7809, "colors":["silver","yellow"]},
+            {"id":7810, "colors":["brown","silver"]},
+            {"id":7811, "colors":["golden","pink"]}
+        ], "criteria":null
+    },
+
+
     {
         "groupId":8232, "zone":"torso_waistToKnee", "category":"underwear", "security":"8c492a60f07f9da5", "multiLayered":false, "layerBehavior":"normal",
         "name":"Ropa interior",
@@ -11482,5 +12615,153 @@
             {"id":8650, "colors":["golden","red"]},
             {"id":8651, "colors":["golden","pink"]}
         ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+
+
+    {
+        "groupId":9107, "zone":"general", "category":"other", "security":"bb702c3efcbf922b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Alas",
+        "outfitName":"Shimmering Dragonfly",
+        "variations":[
+            {"id":9107, "colors":["blue","purple"]},
+            {"id":9108, "colors":["red","purple"]},
+            {"id":9109, "colors":["white","blue"]},
+            {"id":9110, "colors":["black","blue"]},
+            {"id":9111, "colors":["pink","blue"]},
+            {"id":9112, "colors":["green","blue"]},
+            {"id":9113, "colors":["yellow","pink"]},
+            {"id":9114, "colors":["purple","pink"]},
+            {"id":9115, "colors":["blue","black"]},
+            {"id":9116, "colors":["pink","purple"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9117, "zone":"arms", "category":"armAccessory", "security":"e405827a1a35ba5c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Shimmering Dragonfly",
+        "variations":[
+            {"id":9117, "colors":["blue","purple","golden"]},
+            {"id":9118,"colors":["red","purple","golden"]},
+            {"id":9119,"colors":["white","blue","silver"]},
+            {"id":9120,"colors":["black","blue","golden"]},
+            {"id":9121,"colors":["pink","blue","golden"]},
+            {"id":9122,"colors":["green","blue","golden"]},
+            {"id":9123,"colors":["yellow","pink","golden"]},
+            {"id":9124,"colors":["purple","pink","silver"]},
+            {"id":9125,"colors":["blue","black","silver"]},
+            {"id":9126,"colors":["pink","silver","black"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9127, "zone":"feet", "category":"shoes", "security":"3d71f1108dea11c4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Shimmering Dragonfly",
+        "variations":[
+            {"id":9127, "colors":["blue"]},
+            {"id":9128, "colors":["red"]},
+            {"id":9129, "colors":["white","blue"]},
+            {"id":9130, "colors":["black"]},
+            {"id":9131, "colors":["pink"]},
+            {"id":9132, "colors":["green"]},
+            {"id":9133, "colors":["yellow","orange"]},
+            {"id":9134, "colors":["purple"]},
+            {"id":9135, "colors":["blue"]},
+            {"id":9136, "colors":["pink"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9137,"zone":"torso_waistToKnee", "category":"dress", "security":"a84b3064acd2cdaa", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Shimmering Dragonfly",
+        "variations":[
+            {"id":9137, "colors":["blue"]},
+            {"id":9138, "colors":["red"]},
+            {"id":9139, "colors":["white","blue"]},
+            {"id":9140, "colors":["black"]},
+            {"id":9141, "colors":["pink"]},
+            {"id":9142, "colors":["green"]},
+            {"id":9143, "colors":["orange","yellow"]},
+            {"id":9144, "colors":["purple"]},
+            {"id":9145, "colors":["blue"]},
+            {"id":9146, "colors":["grey","blue"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9147,"zone":"torso", "category":"top", "security":"d2f0acd69a8c506c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bustier",
+        "outfitName":"Shimmering Dragonfly",
+        "variations":[
+            {"id":9147, "colors":["blue","golden","purple"]},
+            {"id":9148, "colors":["red","golden"]},
+            {"id":9149, "colors":["white","blue","silver"]},
+            {"id":9150, "colors":["black","golden"]},
+            {"id":9151, "colors":["pink","purple","golden"]},
+            {"id":9152, "colors":["green","golden"]},
+            {"id":9153, "colors":["yellow","orange","golden"]},
+            {"id":9154, "colors":["purple","silver"]},
+            {"id":9155, "colors":["blue","silver"]},
+            {"id":9156, "colors":["pink","purple","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9157,"zone":"torso_waistToKnee", "category":"waist", "security":"57cc93ab2b9abb2a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Gasas",
+        "outfitName":"Shimmering Dragonfly",
+        "variations":[
+            {"id":9157, "colors":["blue","golden"]},
+            {"id":9158, "colors":["red","golden"]},
+            {"id":9159, "colors":["white","silver"]},
+            {"id":9160, "colors":["black","golden"]},
+            {"id":9161, "colors":["pink","golden"]},
+            {"id":9162, "colors":["green","golden"]},
+            {"id":9163, "colors":["yellow","golden"]},
+            {"id":9164, "colors":["purple","silver"]},
+            {"id":9165, "colors":["blue","silver"]},
+            {"id":9166, "colors":["pink","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9167, "zone":"face", "category":"neckAccessory", "security":"86afb48d6c0ef2e8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Shimmering Dragonfly",
+        "variations":[
+            {"id":9167, "colors":["blue","golden"]},
+            {"id":9168, "colors":["red","golden"]},
+            {"id":9169, "colors":["white","silver"]},
+            {"id":9170, "colors":["black","golden"]},
+            {"id":9171, "colors":["pink","golden"]},
+            {"id":9172, "colors":["green","golden"]},
+            {"id":9173, "colors":["yellow","golden"]},
+            {"id":9174, "colors":["purple","silver"]},
+            {"id":9175, "colors":["blue","silver"]},
+            {"id":9176, "colors":["pink","silver"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9177, "zone":"head", "category":"wig", "security":"ef2cbc9c5b311742", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Shimmering Dragonfly",
+        "variations":[
+            {"id":9177, "colors":["brown","golden"]},
+            {"id":9178, "colors":["white","golden"]},
+            {"id":9179, "colors":["black","golden"]},
+            {"id":9180, "colors":["blue","golden"]},
+            {"id":9181, "colors":["blue","golden"]},
+            {"id":9182, "colors":["purple","golden"]},
+            {"id":9183, "colors":["red","golden"]},
+            {"id":9184, "colors":["yellow","golden"]},
+            {"id":9185, "colors":["orange","golden"]},
+            {"id":9186, "colors":["pink","golden"]},
+            {"id":9187, "colors":["brown","silver"]},
+            {"id":9188, "colors":["white","silver"]},
+            {"id":9189, "colors":["black","silver"]},
+            {"id":9190, "colors":["blue","silver"]},
+            {"id":9191, "colors":["blue","silver"]},
+            {"id":9192, "colors":["purple","silver"]},
+            {"id":9193, "colors":["red","silver"]},
+            {"id":9194, "colors":["yellow","silver"]},
+            {"id":9195, "colors":["orange","silver"]},
+            {"id":9196, "colors":["pink","silver"]}
+        ], "criteria":null
     }
 ]

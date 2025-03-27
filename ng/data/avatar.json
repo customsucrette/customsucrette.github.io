@@ -255,7 +255,24 @@
                     {"id":104, "colors":["white"]}
                 ], "criteria":{"type":"pack", "info":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"}
             },
-
+            {
+                "groupId":105, "zone":"face", "category":"eyes", "security":"c3815f7f7537ff16",
+                "name":"Ojos",
+                "outfitName":"Squared",
+                "variations":[
+                    {"id":105, "colors":["yellow"]},
+                    {"id":106, "colors":["red"]},
+                    {"id":107, "colors":["green"]},
+                    {"id":108, "colors":["pink"]},
+                    {"id":109, "colors":["black"]},
+                    {"id":110, "colors":["brown"]},
+                    {"id":111, "colors":["purple"]},
+                    {"id":112, "colors":["blue"]},
+                    {"id":113, "colors":["white"]},
+                    {"id":114, "colors":["orange"]},
+                    {"id":115, "colors":["black"]}
+                ], "criteria":null
+            },
             {
                 "groupId":116, "zone":"face", "category":"eyes", "security":"8a2177c00755d196",
                 "name":"Ojos",
@@ -272,6 +289,24 @@
                     {"id":124, "colors":["green"]},
                     {"id":125, "colors":["blue"]}
                 ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+            },
+
+            {
+                "groupId":127, "zone":"face", "category":"eyes", "security":"54d7e5255feb2204",
+                "name":"Ojos",
+                "outfitName":"Shimmering Dragonfly",
+                "variations":[
+                    {"id":127, "colors":["blue"]},
+                    {"id":128, "colors":["red"]},
+                    {"id":129, "colors":["white"]},
+                    {"id":130, "colors":["black"]},
+                    {"id":131, "colors":["pink","purple"]},
+                    {"id":132, "colors":["green"]},
+                    {"id":133, "colors":["golden","yellow"]},
+                    {"id":134, "colors":["purple"]},
+                    {"id":135, "colors":["blue"]},
+                    {"id":136, "colors":["pink"]}
+                ], "criteria":null
             }
         ],
         "mouth":[

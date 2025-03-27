@@ -159,6 +159,36 @@
         "id":43, "security":"86735789be2a0393", "name":"Graoose",
         "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
     },
+
+    {
+        "id":45, "security":"eaf4c2829ab48790", "name":"G■■se",
+        "criteria":null
+    },
+    {
+        "id":46, "security":"09ed60d028a393b0", "name":"Professor Quackenburg Feathersworth",
+        "criteria":null
+    },
+    {
+        "id":47, "security":"e93c2214c416dc2e", "name":"Takanda",
+        "criteria":null
+    },
+    {
+        "id":48, "security":"4b9950537fb9d91d", "name":"Takevon",
+        "criteria":null
+    },
+    {
+        "id":49, "security":"2d4bd8b597b485a2", "name":"Takason",
+        "criteria":null
+    },
+    {
+        "id":50, "security":"ae610d1a171fd029", "name":"Takoy",
+        "criteria":null
+    },
+    {
+        "id":51, "security":"f1b95a726ba9d525", "name":"Takomas",
+        "criteria":null
+    },
+
     {
         "id":54, "security":"0fe02650a08ec057", "name":"Saboteur Wingman",
         "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}

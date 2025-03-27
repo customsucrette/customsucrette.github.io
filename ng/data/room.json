@@ -1807,7 +1807,127 @@
         "roomName":"New Dawn Pavilion",
         "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
     },
-  
+    {
+        "id":315, "roomId":69, "slot":"background", "light":true, "security":"12d1a7e507a7cc69",
+        "name":"Paredes",
+        "roomName":"Whispers of the Long",
+        "criteria":null,
+        "backgroundColors":{
+            "day":{"color1":"F7FEFF","color2":"E7BFB4","colorLight":"026493"},
+            "night":{"color1":"D3B7FB","color2":"7F8FB5","colorLight":"8A00E0"}
+        }
+    },
+    {
+        "id":316, "roomId":69, "slot":"slot1", "light":false, "security":"a817220e296a1fba",
+        "name":"Estantería",
+        "roomName":"Whispers of the Long",
+        "criteria":null
+    },
+    {
+        "id":317, "roomId":69, "slot":"slot2", "light":false, "security":"0205f3cba257a355",
+        "name":"Cama",
+        "roomName":"Whispers of the Long",
+        "criteria":null
+    },
+    {
+        "id":318, "roomId":69, "slot":"slot3", "light":false, "security":"38f1250e93753af3",
+        "name":"Mesa de calígrafo",
+        "roomName":"Whispers of the Long",
+        "criteria":null
+    },
+    {
+        "id":319, "roomId":69, "slot":"slot4", "light":true, "security":"6112e2f144028a60",
+        "name":"Linternas",
+        "roomName":"Whispers of the Long",
+        "criteria":null
+    },
+    {
+        "id":320, "roomId":69, "slot":"slot5", "light":false, "security":"9bec2c70554c8775",
+        "name":"Fuente",
+        "roomName":"Whispers of the Long",
+        "criteria":null
+    },
+    {
+        "id":321, "roomId":70, "slot":"background", "light":true, "security":"d6189d63a72a6cac",
+        "name":"Paredes",
+        "roomName":"BrickLand",
+        "criteria":null,
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"F1DBD7","colorLight":"4E2207"},
+            "night":{"color1":"5599FF","color2":"F1DBD7","colorLight":"005987"}
+        }
+    },
+    {
+        "id":322, "roomId":70, "slot":"slot1", "light":false, "security":"daf4fdc6e0a2beb3",
+        "name":"Biblioteca",
+        "roomName":"BrickLand",
+        "criteria":null
+    },
+    {
+        "id":323, "roomId":70, "slot":"slot2", "light":true, "security":"3bc11ee1e5a2e17b",
+        "name":"Cama",
+        "roomName":"BrickLand",
+        "criteria":null
+    },
+    {
+        "id":324, "roomId":70, "slot":"slot3", "light":false, "security":"a7982099553a1cb2",
+        "name":"Puf",
+        "roomName":"BrickLand",
+        "criteria":null
+    },
+    {
+        "id":325, "roomId":70, "slot":"slot4", "light":false, "security":"f3dbb2b07b74747b",
+        "name":"Escritorio",
+        "roomName":"BrickLand",
+        "criteria":null
+    },
+    {
+        "id":326, "roomId":70, "slot":"slot5", "light":false, "security":"3f2ad3f59720a33c",
+        "name":"Mesa auxiliar",
+        "roomName":"BrickLand",
+        "criteria":null
+    },
+    {
+        "id":327, "roomId":71, "slot":"background", "light":true, "security":"8e5be9436cd625fc",
+        "name":"Ventanilla",
+        "roomName":"Twenty Thousand Leagues Under The Sea",
+        "criteria":null,
+        "backgroundColors":{
+            "day":{"color1":"C0DAFF","color2":"EDD6C2","colorLight":"062A5D"},
+            "night":{"color1":"75A0F5","color2":"E6B285","colorLight":"062A5D"}
+        }
+    },
+    {
+        "id":328, "roomId":71, "slot":"slot1", "light":true, "security":"75aa0a68a9b1bd9c",
+        "name":"Reloj de pie",
+        "roomName":"Twenty Thousand Leagues Under The Sea",
+        "criteria":null
+    },
+    {
+        "id":329, "roomId":71, "slot":"slot2", "light":true, "security":"715c1835e24b591b",
+        "name":"Sofá",
+        "roomName":"Twenty Thousand Leagues Under The Sea",
+        "criteria":null
+    },
+    {
+        "id":330, "roomId":71, "slot":"slot3", "light":false, "security":"aa87536bc2e3ef00",
+        "name":"Sillón",
+        "roomName":"Twenty Thousand Leagues Under The Sea",
+        "criteria":null
+    },
+    {
+        "id":331, "roomId":71, "slot":"slot4", "light":false, "security":"2f448f3eda4ac5be",
+        "name":"Catalejo",
+        "roomName":"Twenty Thousand Leagues Under The Sea",
+        "criteria":null
+    },
+    {
+        "id":332, "roomId":71, "slot":"slot5", "light":false, "security":"925b69ae21b1f489",
+        "name":"Animatrónicos",
+        "roomName":"Twenty Thousand Leagues Under The Sea",
+        "criteria":null
+    },
+
     {
         "id":339, "roomId":73, "slot":"background", "light":true, "security":"6c4b0341d772019a",
         "name":"Paredes",
@@ -1927,5 +2047,46 @@
         "name":"Estufa de leña",
         "roomName":"Over the Rainbow",
         "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
+    },
+
+    {
+        "id":369, "roomId":78, "slot":"background", "light":true, "security":"3367ed5e0491037a",
+        "name":"Entorno",
+        "roomName":"Lilypond Reverie",
+        "criteria":null,
+        "backgroundColors":{
+            "day":{"color1":"FCFFE7","color2":"D6DAC2","colorLight":"084771"},
+            "night":{"color1":"87B4E9","color2":"A1A58E","colorLight":"084771"}
+        }
+    },
+    {
+        "id":370, "roomId":78, "slot":"slot1", "light":true, "security":"24bfb3247ea5e319",
+        "name":"Libro",
+        "roomName":"Lilypond Reverie",
+        "criteria":null
+    },
+    {
+        "id":371, "roomId":78, "slot":"slot2", "light":true, "security":"0b75b9844f8212bf",
+        "name":"Cama",
+        "roomName":"Lilypond Reverie",
+        "criteria":null
+    },
+    {
+        "id":372, "roomId":78, "slot":"slot3", "light":false, "security":"2f05c106410086df",
+        "name":"Ranas",
+        "roomName":"Lilypond Reverie",
+        "criteria":null
+    },
+    {
+        "id":373, "roomId":78, "slot":"slot4", "light":false, "security":"c97878fd17a93563",
+        "name":"Mariposa",
+        "roomName":"Lilypond Reverie",
+        "criteria":null
+    },
+    {
+        "id":374, "roomId":78, "slot":"slot5", "light":false, "security":"f1b736ce0fe1e517",
+        "name":"Mesa y silla",
+        "roomName":"Lilypond Reverie",
+        "criteria":null
     }
 ]
