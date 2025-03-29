@@ -159,7 +159,10 @@
         "id":43, "security":"86735789be2a0393", "name":"Graoose",
         "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
     },
-
+    {
+        "id":44, "security":"47eda0bb75432330", "name":"Celestial Quack",
+        "criteria":null
+    },
     {
         "id":45, "security":"eaf4c2829ab48790", "name":"G■■se",
         "criteria":null
