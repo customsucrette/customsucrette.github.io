@@ -191,6 +191,10 @@
         "id":51, "security":"f1b95a726ba9d525", "name":"Takomas",
         "criteria":null
     },
+    {
+        "id":52, "security":"62ccac9008614d6e", "name":"Goosebug",
+        "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
 
     {
         "id":54, "security":"0fe02650a08ec057", "name":"Saboteur Wingman",
@@ -206,6 +210,11 @@
     },
     {
         "id":57, "security":"ce337d7b0240d189","name":"Goose in a Tux",
+        "criteria":null
+    },
+
+    {
+        "id":59, "security":"98c876729963ec6c", "name":"It's Corn!",
         "criteria":null
     }
 ]

@@ -290,7 +290,14 @@
                     {"id":125, "colors":["blue"]}
                 ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
             },
-
+            {
+                "groupId":126, "zone":"face", "category":"eyes", "security":"5daa9f917bbea82f",
+                "name":"Ojeras",
+                "outfitName":null,
+                "variations":[
+                    {"id":126, "colors":["black","brown"]}
+                ], "criteria":{"type":"episode", "argument":"14", "text":"Desbloqueado en el episodio 14"}
+            },
             {
                 "groupId":127, "zone":"face", "category":"eyes", "security":"54d7e5255feb2204",
                 "name":"Ojos",
@@ -499,7 +506,7 @@
         ]
     },
     "expressions":{
-        "eyebrow": [
+        "eyebrow":[
             "A_Mid",
             "AS_Low_Mid",
             "AS_Mid_High",
@@ -508,7 +515,7 @@
             "N_Mid",
             "S_Mid"
         ],
-        "eye": [
+        "eye":[
             "H_Closed",
             "N_Closed",
             "N_HalfOpen_FrontLook",
@@ -522,7 +529,7 @@
             "H_HalfOpen_FrontLook_efxTears",
             "N_Closed_Open_FrontLook"
         ],
-        "mouth": [
+        "mouth":[
             "H_Closed",
             "H_HalfOpen",
             "H_WideOpen",

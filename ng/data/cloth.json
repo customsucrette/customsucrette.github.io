@@ -2103,8 +2103,41 @@
         ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
 
-    
+    {
+        "groupId":1237, "zone":"waistToKnee", "category":"skirt", "security":"0ba8e97aeb7c34dd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1237, "colors":["blue"]},
+            {"id":1238, "colors":["pink"]},
+            {"id":1239, "colors":["blue"]},
+            {"id":1240, "colors":["black"]},
+            {"id":1241, "colors":["yellow"]},
+            {"id":1242, "colors":["red"]},
+            {"id":1243, "colors":["green"]},
+            {"id":1244, "colors":["purple"]},
+            {"id":1245, "colors":["blue"]},
+            {"id":1246, "colors":["yellow","pink"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
+    },
 
+    {
+        "groupId":1307, "zone":"torso", "category":"jacket", "security":"a65905d91703c54e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Abrigo",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1307, "colors":["white"]},
+            {"id":1308, "colors":["yellow"]},
+            {"id":1309, "colors":["red"]},
+            {"id":1310, "colors":["blue"]},
+            {"id":1311, "colors":["brown"]},
+            {"id":1312, "colors":["pink"]},
+            {"id":1313, "colors":["brown"]},
+            {"id":1314, "colors":["black"]},
+            {"id":1315, "colors":["purple"]},
+            {"id":1316, "colors":["green"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
+    },
     {
         "groupId":1317, "zone":"face", "category":"neckAccessory", "security":"d90fd9f8bbd48f99", "multiLayered":false, "layerBehavior":"normal",
         "name":"Collar choker",
@@ -2148,7 +2181,23 @@
         ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
     },
 
-
+    {
+        "groupId":1339, "zone":"waistToKnee", "category":"pants", "security":"27802f7760b71186", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Biker Soul",
+        "variations":[
+            {"id":1339, "colors":["black"]},
+            {"id":1340, "colors":["blue"]},
+            {"id":1341, "colors":["grey"]},
+            {"id":1342, "colors":["pink"]},
+            {"id":1343, "colors":["white"]},
+            {"id":1344, "colors":["brown"]},
+            {"id":1345, "colors":["green"]},
+            {"id":1346, "colors":["orange"]},
+            {"id":1347, "colors":["yellow"]},
+            {"id":1348, "colors":["red"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
+    },
     {
         "groupId":1349, "zone":"feet", "category":"shoes", "security":"85257580593920f7", "multiLayered":false, "layerBehavior":"normal",
         "name":"Botas",
@@ -2166,8 +2215,23 @@
             {"id":1358, "colors":["red"]}
         ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
     },
-
-
+    {
+        "groupId":1359, "zone":"torso", "category":"top", "security":"a90a4548c6319fdd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Biker Soul",
+        "variations":[
+            {"id":1359, "colors":["red"]},
+            {"id":1360, "colors":["pink"]},
+            {"id":1361, "colors":["purple"]},
+            {"id":1362, "colors":["blue"]},
+            {"id":1363, "colors":["blue"]},
+            {"id":1364, "colors":["green"]},
+            {"id":1365, "colors":["yellow"]},
+            {"id":1366, "colors":["orange"]},
+            {"id":1367, "colors":["black"]},
+            {"id":1368, "colors":["white"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
+    },
     {
         "groupId":1369, "zone":"torso", "category":"jacket", "security":"ab7ba4d97c82ae2c", "multiLayered":false, "layerBehavior":"normal",
         "name":"Cazadora",
@@ -2408,7 +2472,23 @@
             {"id":1568, "colors":["black"]}
         ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
     },
-
+    {
+        "groupId":1569, "zone":"head", "category":"hat", "security":"0ffc15bdcc2afe9a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Prendedor",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1569, "colors":["blue","purple"]},
+            {"id":1570, "colors":["purple","orange"]},
+            {"id":1571, "colors":["yellow","green"]},
+            {"id":1572, "colors":["blue","black"]},
+            {"id":1573, "colors":["black","green"]},
+            {"id":1574, "colors":["green"]},
+            {"id":1575, "colors":["pink","purple"]},
+            {"id":1576, "colors":["orange","white"]},
+            {"id":1577, "colors":["black","grey"]},
+            {"id":1578, "colors":["pink","black"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
+    },
 
     {
         "groupId":1589, "zone":"arms", "category":"bag", "security":"8f23311e7f2c5c28", "multiLayered":false, "layerBehavior":"normal",
@@ -2602,8 +2682,23 @@
             {"id":1879, "colors":["white","black"]}
         ], "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
-
-
+    {
+        "groupId":1880, "zone":"feet", "category":"socks", "security":"6d77ae7dc30f8ddf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Medias rejilla",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1880, "colors":["white"]},
+            {"id":1881, "colors":["yellow"]},
+            {"id":1882, "colors":["green"]},
+            {"id":1883, "colors":["blue"]},
+            {"id":1884, "colors":["pink"]},
+            {"id":1885, "colors":["purple"]},
+            {"id":1886, "colors":["orange"]},
+            {"id":1887, "colors":["black"]},
+            {"id":1888, "colors":["purple"]},
+            {"id":1889, "colors":["red"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
+    },
     {
         "groupId":1890, "zone":"feet", "category":"shoes", "security":"55f7795da38caa2d", "multiLayered":false, "layerBehavior":"normal",
         "name":"Zapatillas",
@@ -3881,6 +3976,23 @@
         ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
     },
 
+    {
+        "groupId":2713, "zone":"feet", "category":"shoes", "security":"7c9641eb928ca374", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Neo-Victorian",
+        "variations":[
+            {"id":2713, "colors":["brown"]},
+            {"id":2714, "colors":["grey"]},
+            {"id":2715, "colors":["pink"]},
+            {"id":2716, "colors":["black"]},
+            {"id":2717, "colors":["brown","yellow"]},
+            {"id":2718, "colors":["red"]},
+            {"id":2719, "colors":["purple"]},
+            {"id":2720, "colors":["green"]},
+            {"id":2721, "colors":["white"]},
+            {"id":2722, "colors":["blue"]}
+        ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
+    },
 
     {
         "groupId":2733, "zone":"head", "category":"hat", "security":"b244487b59dcfa92", "multiLayered":true, "layerBehavior":"normal",
@@ -11597,8 +11709,23 @@
             {"id":7801, "colors":["pink"]}
         ], "criteria":null
     },
-    
-
+    {
+        "groupId":7802, "zone":"face", "category":"neckAccessory", "security":"7ac5eb6c0321bded", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Like Clockwork",
+        "variations":[
+            {"id":7802, "colors":["blue","golden"]},
+            {"id":7803, "colors":["green","silver"]},
+            {"id":7804, "colors":["silver","white"]},
+            {"id":7805, "colors":["black","silver"]},
+            {"id":7806, "colors":["blue","golden"]},
+            {"id":7807, "colors":["golden","purple"]},
+            {"id":7808, "colors":["golden","red"]},
+            {"id":7809, "colors":["silver","yellow"]},
+            {"id":7810, "colors":["brown","silver"]},
+            {"id":7811, "colors":["golden","pink"]}
+        ], "criteria":null
+    },
     {
         "groupId":7812, "zone":"feet", "category":"shoes", "security":"eaea76cddc0963ca", "multiLayered":false, "layerBehavior":"normal",
         "name":"Botas",
@@ -11888,26 +12015,245 @@
             {"id":7981,"colors":["brown","silver"]}
         ], "criteria":null
     },
-
-
     {
-        "groupId":7802, "zone":"face", "category":"neckAccessory", "security":"7ac5eb6c0321bded", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Collar",
-        "outfitName":"Like Clockwork",
+        "groupId":7982, "zone":"torso_waistToKnee", "category":"underwear", "security":"fab7b1fe968adfda", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Restored Health",
         "variations":[
-            {"id":7802, "colors":["blue","golden"]},
-            {"id":7803, "colors":["green","silver"]},
-            {"id":7804, "colors":["silver","white"]},
-            {"id":7805, "colors":["black","silver"]},
-            {"id":7806, "colors":["blue","golden"]},
-            {"id":7807, "colors":["golden","purple"]},
-            {"id":7808, "colors":["golden","red"]},
-            {"id":7809, "colors":["silver","yellow"]},
-            {"id":7810, "colors":["brown","silver"]},
-            {"id":7811, "colors":["golden","pink"]}
-        ], "criteria":null
+            {"id":7982, "colors":["blue","green"]},
+            {"id":7983, "colors":["yellow","brown"]},
+            {"id":7984, "colors":["pink"]},
+            {"id":7985, "colors":["blue"]},
+            {"id":7986, "colors":["white"]},
+            {"id":7987, "colors":["black"]},
+            {"id":7988, "colors":["green"]},
+            {"id":7989, "colors":["grey"]},
+            {"id":7990, "colors":["yellow"]},
+            {"id":7991, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":7992, "zone":"feet", "category":"socks", "security":"198e6614df651165", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":7992, "colors":["blue","green","pink"]},
+            {"id":7993, "colors":["brown","yellow"]},
+            {"id":7994, "colors":["blue","pink"]},
+            {"id":7995, "colors":["purple","blue"]},
+            {"id":7996, "colors":["white","black"]},
+            {"id":7997, "colors":["white","black"]},
+            {"id":7998, "colors":["green"]},
+            {"id":7999, "colors":["grey","red"]},
+            {"id":8000, "colors":["yellow","brown"]},
+            {"id":8001, "colors":["blue","purple"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8002, "zone":"feet", "category":"shoes", "security":"40ccaa427236a855", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Deportivas",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":8002, "colors":["green"]},
+            {"id":8003, "colors":["yellow"]},
+            {"id":8004, "colors":["pink"]},
+            {"id":8005, "colors":["blue"]},
+            {"id":8006, "colors":["white"]},
+            {"id":8007, "colors":["black"]},
+            {"id":8008, "colors":["green"]},
+            {"id":8009, "colors":["red"]},
+            {"id":8010, "colors":["yellow"]},
+            {"id":8011, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8012, "zone":"feet", "category":"socks", "security":"c20fa85cb6738acf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calentadores",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":8012, "colors":["pink"]},
+            {"id":8013, "colors":["yellow"]},
+            {"id":8014, "colors":["blue"]},
+            {"id":8015, "colors":["purple"]},
+            {"id":8016, "colors":["black"]},
+            {"id":8017, "colors":["white"]},
+            {"id":8018, "colors":["green"]},
+            {"id":8019, "colors":["red"]},
+            {"id":8020, "colors":["brown"]},
+            {"id":8021, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8022, "zone":"waistToKnee", "category":"pants", "security":"f528530aefebad70", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Short",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":8022, "colors":["green","blue"]},
+            {"id":8023, "colors":["yellow","brown"]},
+            {"id":8024, "colors":["pink"]},
+            {"id":8025, "colors":["blue"]},
+            {"id":8026, "colors":["white"]},
+            {"id":8027, "colors":["black"]},
+            {"id":8028, "colors":["green"]},
+            {"id":8029, "colors":["grey"]},
+            {"id":8030, "colors":["yellow"]},
+            {"id":8031, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8032, "zone":"torso", "category":"top", "security":"395b2744c4fe953d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":8032, "colors":["purple","pink"]},
+            {"id":8033, "colors":["yellow","brown"]},
+            {"id":8034, "colors":["blue"]},
+            {"id":8035, "colors":["pink"]},
+            {"id":8036, "colors":["black"]},
+            {"id":8037, "colors":["white"]},
+            {"id":8038, "colors":["brown"]},
+            {"id":8039, "colors":["red"]},
+            {"id":8040, "colors":["green"]},
+            {"id":8041, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8042, "zone":"torso", "category":"jacket", "security":"bf3c02a184edec88", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cazadora",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":8042, "colors":["blue","green","pink"]},
+            {"id":8043, "colors":["yellow","brown"]},
+            {"id":8044, "colors":["pink","blue"]},
+            {"id":8045, "colors":["blue","pink"]},
+            {"id":8046, "colors":["white","blue"]},
+            {"id":8047, "colors":["black"]},
+            {"id":8048, "colors":["green","blue"]},
+            {"id":8049, "colors":["grey"]},
+            {"id":8050, "colors":["yellow","orange"]},
+            {"id":8051, "colors":["purple","blue"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8052, "zone":"torso_waistToKnee", "category":"underwear", "security":"491d293b04b9e344", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Replenished Strength",
+        "variations":[
+            {"id":8052, "colors":["green"]},
+            {"id":8053, "colors":["red"]},
+            {"id":8054, "colors":["blue"]},
+            {"id":8055, "colors":["black"]},
+            {"id":8056, "colors":["white"]},
+            {"id":8057, "colors":["purple"]},
+            {"id":8058, "colors":["yellow","brown"]},
+            {"id":8059, "colors":["grey"]},
+            {"id":8060, "colors":["pink"]},
+            {"id":8061, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8062, "zone":"torso", "category":"jacket", "security":"f8f0cee19c68feb8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Replenished Strength",
+        "variations":[
+            {"id":8062, "colors":["black"]},
+            {"id":8063, "colors":["red"]},
+            {"id":8064, "colors":["blue"]},
+            {"id":8065, "colors":["white"]},
+            {"id":8066, "colors":["green"]},
+            {"id":8067, "colors":["purple"]},
+            {"id":8068, "colors":["yellow"]},
+            {"id":8069, "colors":["grey"]},
+            {"id":8070, "colors":["pink"]},
+            {"id":8071, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
     },
 
+    {
+        "groupId":8072, "zone":"feet", "category":"shoes", "security":"2bfe994a416b97b7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Replenished Strength",
+        "variations":[
+            {"id":8072, "colors":["green"]},
+            {"id":8073, "colors":["red"]},
+            {"id":8074, "colors":["blue"]},
+            {"id":8075, "colors":["black"]},
+            {"id":8076, "colors":["white"]},
+            {"id":8077, "colors":["purple"]},
+            {"id":8078, "colors":["yellow","brown"]},
+            {"id":8079, "colors":["grey"]},
+            {"id":8080, "colors":["pink"]},
+            {"id":8081, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8082, "zone":"feet", "category":"socks", "security":"6546d2e42ef64f73", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Calcetines",
+        "outfitName":"Replenished Strength",
+        "variations":[
+            {"id":8082, "colors":["green"]},
+            {"id":8083, "colors":["red"]},
+            {"id":8084, "colors":["blue"]},
+            {"id":8085, "colors":["white"]},
+            {"id":8086, "colors":["black"]},
+            {"id":8087, "colors":["purple"]},
+            {"id":8088, "colors":["yellow"]},
+            {"id":8089, "colors":["grey"]},
+            {"id":8090, "colors":["pink"]},
+            {"id":8091, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8092, "zone":"torso", "category":"top", "security":"f5148f18d46aa268", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta tirantes",
+        "outfitName":"Replenished Strength",
+        "variations":[
+            {"id":8092, "colors":["green"]},
+            {"id":8093, "colors":["red"]},
+            {"id":8094, "colors":["blue"]},
+            {"id":8095, "colors":["black"]},
+            {"id":8096, "colors":["white"]},
+            {"id":8097, "colors":["purple"]},
+            {"id":8098, "colors":["brown"]},
+            {"id":8099, "colors":["grey"]},
+            {"id":8100, "colors":["pink"]},
+            {"id":8101, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8102, "zone":"torso", "category":"jacket", "security":"1448887dbbf03a63", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sudadera",
+        "outfitName":"Replenished Strength",
+        "variations":[
+            {"id":8102, "colors":["green"]},
+            {"id":8103, "colors":["red"]},
+            {"id":8104, "colors":["blue"]},
+            {"id":8105, "colors":["black"]},
+            {"id":8106, "colors":["white"]},
+            {"id":8107, "colors":["purple"]},
+            {"id":8108, "colors":["brown"]},
+            {"id":8109, "colors":["grey"]},
+            {"id":8110, "colors":["pink"]},
+            {"id":8111, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
+    {
+        "groupId":8112, "zone":"waistToKnee", "category":"skirt", "security":"ddf50136b8a0e848", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Replenished Strength",
+        "variations":[
+            {"id":8112, "colors":["green"]},
+            {"id":8113, "colors":["red"]},
+            {"id":8114, "colors":["blue"]},
+            {"id":8115, "colors":["black"]},
+            {"id":8116, "colors":["white"]},
+            {"id":8117, "colors":["purple"]},
+            {"id":8118, "colors":["yellow","brown"]},
+            {"id":8119, "colors":["grey"]},
+            {"id":8120, "colors":["pink"]},
+            {"id":8121, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"}
+    },
 
     {
         "groupId":8232, "zone":"torso_waistToKnee", "category":"underwear", "security":"8c492a60f07f9da5", "multiLayered":false, "layerBehavior":"normal",
@@ -12617,6 +12963,38 @@
         ], "criteria":{"type":"gauge", "info":"Lucky Charm", "text":"Desbloqueado en el evento de medidor\nLucky Charm"}
     },
 
+    {
+        "groupId":9043, "zone":"feet", "category":"socks", "security":"e05530b44899e348", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Honk Honk",
+        "variations":[
+            {"id":9043, "colors":["yellow"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9044, "zone":"feet", "category":"shoes", "security":"d6c2cfb88fc7f5a1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Honk Honk",
+        "variations":[
+            {"id":9044, "colors":["yellow"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9045, "zone":"arms", "category":"bag", "security":"8d04a4454b5aadd0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maíz",
+        "outfitName":"Honk Honk",
+        "variations":[
+            {"id":9045, "colors":["yellow"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9046, "zone":"torso", "category":"jacket", "security":"8b77afaa763218f7", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hoodie",
+        "outfitName":"Honk Honk",
+        "variations":[
+            {"id":9046, "colors":["brown","white"]}
+        ], "criteria":null
+    },
 
     {
         "groupId":9107, "zone":"general", "category":"other", "security":"bb702c3efcbf922b", "multiLayered":false, "layerBehavior":"normal",

@@ -778,10 +778,28 @@
         "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
     },
     {
+        "id":131, "roomId":38, "slot":"slot4", "light":false, "security":"ee2edd0911f58ae6",
+        "name":"Biombo",
+        "roomName":"Zen Vibes",
+        "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
+    },
+    {
+        "id":132, "roomId":38, "slot":"slot3", "light":false, "security":"bb3fa69ffcedb49d",
+        "name":"Kokedama",
+        "roomName":"Zen Vibes",
+        "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
+    },
+    {
         "id":133, "roomId":38, "slot":"slot2", "light":true, "security":"f65f5d21ac933f51",
         "name":"Kotatsu",
         "roomName":"Zen Vibes",
         "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
+    {
+        "id":137, "roomId":39, "slot":"slot4", "light":true, "security":"dc58f23a27601c55",
+        "name":"Terrario",
+        "roomName":"Space Capsule",
+        "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
     },
     {
         "id":138, "roomId":39, "slot":"slot3", "light":true, "security":"cad3c8ef8a16f0fc",
@@ -800,6 +818,16 @@
         "name":"Sillón",
         "roomName":"Dirty Garage",
         "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
+    {
+        "id":147, "roomId":41, "slot":"background", "light":true, "security":"f29c4cecb900420c",
+        "name":"Paredes",
+        "roomName":"Rock n' Wild",
+        "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"},
+        "backgroundColors":{
+            "day":{"color1":"CCD9E7","color2":"9D9D9F","colorLight":"043D82"},
+            "night":{"color1":"ECBF8F","color2":"7798C1","colorLight":"784A02"}
+        }
     },
     {
         "id":149, "roomId":41, "slot":"slot4", "light":false, "security":"4004f7a64599f7cc",
