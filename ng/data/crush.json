@@ -1,0 +1,69 @@
+[
+    {"id":1, "crushName":"Roy", "security":"4d78d4a46bd7238a"},
+    {"id":2, "crushName":"Amanda", "security":"5107e4b97283a11c"},
+    {"id":3, "crushName":"Devon", "security":"5351acc77b1e8b04"},
+    {"id":4, "crushName":"Thomas", "security":"7798d8babf27eae1"},
+
+    {"id":11, "crushName":"Jason", "security":"a1f7b12eb0271c70"},
+
+    {"id":17, "crushName":"Amanda", "security":"b050c1e281a88323"},
+    
+    {"id":19, "crushName":"Amanda", "security":"6950ee5c00ed9f7d"},
+
+    {"id":21, "crushName":"Roy", "security":"1abb70cc6640404f"},
+    {"id":22, "crushName":"Roy", "security":"e9c52d8cff39b5a0"},
+    {"id":23, "crushName":"Roy", "security":"de4844f5f2840ef7"},
+    {"id":24, "crushName":"Roy", "security":"e740d888cadc185e"},
+
+    {"id":26, "crushName":"Devon", "security":"a4d487c42c494c3e"},
+    {"id":27, "crushName":"Devon", "security":"ac8de939ccc4e42c"},
+
+    {"id":29, "crushName":"Thomas", "security":"053b05d02e0fc9d8"},
+    {"id":30, "crushName":"Thomas", "security":"92ddb63cb1e8d708"},
+    {"id":31, "crushName":"Thomas", "security":"a4102f66ae9d0c21"},
+
+    {"id":33, "crushName":"Jason", "security":"1191ccf1dfda4a54"},
+    {"id":34, "crushName":"Jason", "security":"485569827b08de31"},
+    
+    {"id":39, "crushName":"Thomas", "security":"79027dd7de596920"},
+    {"id":40, "crushName":"Roy", "security":"1234cabc895be97b"},
+    
+    {"id":52, "crushName":"Amanda", "security":"719c9c628f81e636"},
+
+    {"id":60, "crushName":"Devon", "security":"679ca18672bc8d26"},
+    
+    {"id":64, "crushName":"Amanda", "security":"ab4fd4e92328d48f"},
+    {"id":65, "crushName":"Amanda", "security":"bfbeab31df70b73e"},
+    {"id":66, "crushName":"Jason", "security":"1112e7573bddf7b4"},
+    {"id":67, "crushName":"Amanda", "security":"6160984c20965589"},
+
+    {"id":69, "crushName":"Thomas", "security":"c570b3cacd04edd1"},
+
+    {"id":92, "crushName":"Roy", "security":"a7de13f5385454aa"},
+    {"id":93, "crushName":"Amanda", "security":"a9c1054453f7df67"},
+    {"id":94, "crushName":"Devon", "security":"37c331a19da12af4"},
+    {"id":95, "crushName":"Thomas", "security":"f99a045c97a0d330"},
+
+    {"id":98, "crushName":"Thomas", "security":"4743a42b1a958bdf"},
+
+    {"id":100, "crushName":"Thomas", "security":"5a41706c3de29a5f"},
+
+    {"id":116, "crushName":"Devon", "security":"5ee3840706e61806"},
+
+    {"id":134, "crushName":"Roy", "security":"489ecbf80ce7b407"},
+    {"id":135, "crushName":"Amanda", "security":"1b258089a08199c5"},
+    {"id":136, "crushName":"Devon", "security":"9d22d89c8d5d908a"},
+    {"id":137, "crushName":"Thomas", "security":"1ea01d657ce2f5bc"},
+    {"id":138, "crushName":"Jason", "security":"89e5c7a3ded950fc"},
+
+    {"id":151, "crushName":"Roy", "security":"79295a9645b0d394"},
+    {"id":152, "crushName":"Amanda", "security":"266da4c69e0a76ce"},
+    {"id":153, "crushName":"Devon", "security":"6ae08d544ef4e13c"},
+    {"id":154, "crushName":"Thomas", "security":"448e3fb2c64581b1"},
+    {"id":155, "crushName":"Jason", "security":"a77b670d0b62d9f0"},
+    
+    {"id":177, "crushName":"Jason", "security":"baed41c1aa466e8f"},
+    {"id":178, "crushName":"Jason", "security":"e2c0e2fa59dc6612"},
+    
+    {"id":194, "crushName":"Jason", "security":"bdb20ab43fb89c2d"}
+]

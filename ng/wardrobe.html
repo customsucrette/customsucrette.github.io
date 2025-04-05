@@ -208,8 +208,8 @@
                                                     <span class="material-symbols-outlined">keyboard_arrow_down</span>
                                                 </section>
 
-                                                <div class="list closed"  ss-container>
-                                                    <ol>                                                                            
+                                                <div class="list closed" ss-container>
+                                                    <ol>
                                                         <li class="category-list-item" data-category="hat"><div class="category-icon" style="mask: url('assets/personalization/categories/hat.svg');"></div> Sombreros </li>
                                                         <li class="category-list-item" data-category="wig"><div class="category-icon" style="mask: url('assets/personalization/categories/wig.svg');"></div> Pelucas </li>
                                                         <li class="category-list-item" data-category="eyebrows"><div class="category-icon" style="mask: url('assets/personalization/categories/eyebrows.svg');"></div> Cejas </li>
@@ -374,6 +374,33 @@
                                             </div>
                                         </section>
                                     </div>
+                                    <div id="asng-crush-outfit-list-panel">
+                                        <asng-crush-list>
+                                            <section class="crush-list-current-crush">
+                                                <span class="current-crush">Amanda</span>
+                                                <span class="material-symbols-outlined">keyboard_arrow_down</span>
+                                            </section>
+
+                                            <div class="list closed" ss-container>
+                                                <ol>                                                                            
+                                                    <li class="crush-list-item current" data-crush="Amanda">Amanda</li>
+                                                    <li class="crush-list-item" data-crush="Devon">Devon</li>
+                                                    <li class="crush-list-item" data-crush="Jason">Jason</li>
+                                                    <li class="crush-list-item" data-crush="Roy">Roy</li>
+                                                    <li class="crush-list-item" data-crush="Thomas">Thomas</li>
+                                                </ol>
+                                            </div>
+                                        </asng-crush-list>
+                                        
+
+                                        <section class="crush-portraits">
+                                            <div class="ng-scrollbar asng-white-scrollbar" ss-container>
+                                                <section class="items-container">
+                                                    <!-- lista de crush items -->
+                                                </section>
+                                            </div>
+                                        </section>
+                                    </div>
 
                                 </div>
                             </div>
@@ -422,6 +449,14 @@
                                                 <div class="icon"></div>
                                             </div>
                                         </div>
+
+                                        <div class="shortcut crush">
+                                            <p class="counter">...</p>
+                                            <div class="link">
+                                                <p class="counter">...</p>
+                                                <div class="icon"></div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
 
@@ -429,6 +464,9 @@
                             <div class="right-container">
                                 <div class="asng-sucrette-personalization">
                                     <div class="asng-fitting-avatar">
+                                        <div id="asng-crush" resolution="hd" format="full">
+                                            <canvas id="crush-canvas" width="1200" height="1550"></canvas>
+                                        </div>
                                         <div id="asng-avatar" resolution="hd" format="full"></div>
                                         <div id="asng-pet">
                                             <img id="pet-base" src="https://assets.corazondemelon-newgen.es/pet-outfit/full/md/base.png" />

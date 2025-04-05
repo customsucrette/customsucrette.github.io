@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $(".version").text("v1.4.9");
+    $(".version").text("v1.6.0");
 });
 
 function currentPage(name) {
@@ -9,9 +9,9 @@ function currentPage(name) {
     } else if (name == "gallery") {
         $(".asng-menu .menu .wave .header").css("height", "276px");
         $("#asng-menu-gallery").addClass("force-active");
-    } else if(name == "checker") {
+    } else if(name == "tracker") {
         $(".asng-menu .menu .wave .header").css("height", "346px");
-        $("#asng-menu-checker").addClass("force-active");
+        $("#asng-menu-tracker").addClass("force-active");
     };
 };
 
@@ -112,7 +112,7 @@ $(function () {
         if(info.split("-")[0] == "room") rr = info.split("-")[1];
         userSettings();
         if ((window.location.href).includes("wardrobe.html")) {
-            if(info.split("-")[0] == "canvas") drawSucrette();
+            if(info.split("-")[0] == "canvas") {drawSucrette(); drawCrush()};
             if(info.split("-")[0] == "room") drawRoomCanvas();
         };
     });

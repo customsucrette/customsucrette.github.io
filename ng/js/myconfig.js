@@ -33,6 +33,10 @@ var sucrette = {
     "pet":{
         "status":true,
         "outfit":null
+    },
+    "crush":{
+        "outfit":null,
+        "position":"back"
     }
 }
 
