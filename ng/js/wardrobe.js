@@ -62,6 +62,7 @@ async function codeUpdate() {
 
     $("#loading-layout").addClass("room avatar");
 
+    drawCrush();
     drawSucrette();
     drawRoomCanvas();
     drawZIndex();
@@ -352,6 +353,11 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
         if (mode != "update_avatar") $(".avatar-canvas").remove();
         if (mode == "load") $("#loading-layout").addClass("avatar");
 
+        // check crush save position
+        if ($("#save-canvas").length == 1 && sucrette.crush.position == "back" && sucrette.crush.outfit != null) {
+            await drawCrush(true);
+        };
+
         for (m = 0; m < sucrette.orderInfo.length; m++) {
             if (sucrette.orderInfo[m].category == "avatar") {
                 $("#asng-avatar").append('<canvas class="avatar-canvas" id="avatar-base" width="1200" height="1550"></canvas>');
@@ -368,13 +374,13 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
                 let img = "", ready = "";
 
-                // draw crush first ?
-                if ($("#save-canvas").length == 1 && sucrette.crush.position == "back" && size == "hd") {
-                    let c = (sucrette.crush.outfit).split("-");
-                    img = size == "hd" ? composeCrushUrl(c[0], c[1], "full", size) : composeCrushUrl(c[0], c[1], "big", size);
-                    ready = await preloadIMG(img);
-                    ctx.drawImage(ready, 0, 0, w, h);
-                };
+                // // draw crush first ?
+                // if ($("#save-canvas").length == 1 && sucrette.crush.position == "back" && sucrette.crush.outfit != null && size == "hd") {
+                //     let c = (sucrette.crush.outfit).split("-");
+                //     img = size == "hd" ? composeCrushUrl(c[0], c[1], "full", size) : composeCrushUrl(c[0], c[1], "big", size);
+                //     ready = await preloadIMG(img);
+                //     ctx.drawImage(ready, 0, 0, w, h);
+                // };
 
                 img = (sucrette.avatar.customSkin == null) ? composeAvatarUrl("skin", size, sucrette.avatar.skin) : composeCanvasUrl("cloth", size, sucrette.avatar.customSkin);
                 ready = await preloadIMG(img);
@@ -443,6 +449,11 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
                 };
             };
+        };
+
+        // check crush save position
+        if ($("#save-canvas").length == 1 && sucrette.crush.position == "front" && sucrette.crush.outfit != null) {
+            await drawCrush(true);
         };
 
         // tempWM("save");
@@ -1143,18 +1154,20 @@ function drawCrushPortraits() {
     moveScroll(".crush-portraits .ss-content", "reset");
 };
 
-async function drawCrush() {
+async function drawCrush(save = false) {
+
     let item = sucrette.crush.outfit;
-    var ctx = document.getElementById("crush-canvas").getContext("2d");
+    let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
+    let w = 1200, h = 1550;
 
     if (item != null) {
         // Dibujar canvas
-        var img = composeCrushUrl(item.split("-")[0], item.split("-")[1]);
+        let img = !save ? composeCrushUrl(item.split("-")[0], item.split("-")[1]) : composeCrushUrl(item.split("-")[0], item.split("-")[1], "full", "hd");
         ready = await preloadIMG(img);
-        ctx.clearRect(0, 0, 1200, 1550);
-        ctx.drawImage(ready, 0, 0, 1200, 1550);
+        if (!save) ctx.clearRect(0, 0, w, h);
+        ctx.drawImage(ready, 0, 0, w, h);
     } else {
-        ctx.clearRect(0, 0, 1200, 1550);
+        if (!save) ctx.clearRect(0, 0, w, h);
     };
 };
 

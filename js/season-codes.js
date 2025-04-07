@@ -72,6 +72,11 @@ function generateCode(version = null) {
         code += sucrette.pet.outfit == null ? "0" : (sucrette.pet.outfit).split("-")[0];
         code += "i";
 
+        // test crush in code
+        code += sucrette.crush.position == "back" ? "0C" : "1C";
+        code += sucrette.crush.outfit == null ? "0" : (sucrette.crush.outfit).split("-")[0];
+        code += "i";
+
         code += (sucrette.room.background).split("-")[0] + "S";
         code += sucrette.room.slot1 != null ? (sucrette.room.slot1).split("-")[0] + "S" : "0" + "S";
         code += sucrette.room.slot2 != null ? (sucrette.room.slot2).split("-")[0] + "S" : "0" + "S";
@@ -351,9 +356,11 @@ function loadCode(code = null) {
     } else if (code[0] == 3) {
         $(".code-input input").val("");
         try {
+            let x = 1;
+
             code = code.split("i");
             // 0 / 1 / 2 == ver / taki / room
-            let cPet = code[1].split("T");
+            let cPet = code[x].split("T");
             sucrette.pet.status = cPet[0] == 1 ? true : false;
             if (cPet[1] == 0) {
                 sucrette.pet.outfit = null;
@@ -362,7 +369,25 @@ function loadCode(code = null) {
                 sucrette.pet.outfit = `${cPet[1]}-${p[0].security}`;
             };
 
-            let cRoom = code[2].split("S");
+            x++;
+            if (code[x].includes("C")) {
+                // tiene crush
+                let cCrush = code[x].split("C");
+                cCrush[0] == 0 ? sucrette.crush.position = "back" : "front";
+                if (cCrush[1] != 0) {
+                    let o = crush.filter(v => v.id == cCrush[1]);
+                    sucrette.crush.outfit = `${cCrush[1]}-${o[0].security}`;
+                } else {
+                    sucrette.crush.outfit = null;
+                }
+                x++;
+            } else {
+                // es código viejo
+                sucrette.crush.outfit = null;
+                sucrette.crush.position = "back";
+            };
+
+            let cRoom = code[x].split("S");
             const bg = room.filter(v => {return v.id == cRoom[0]});
             sucrette.room.background = bg.length == 1 ? `${cRoom[0]}-${bg[0].security}` : null;
             const slot1 = room.filter(v => {return v.id == cRoom[1]});
@@ -376,7 +401,8 @@ function loadCode(code = null) {
             const slot5 = room.filter(v => {return v.id == cRoom[5]});
             sucrette.room.slot5 = slot5.length == 1 ? `${cRoom[5]}-${slot5[0].security}` : null;
 
-            code.splice(0,3);
+            x++;
+            code.splice(0,x);
 
             sucrette.orderInfo.length = 0; // Clean current sucrette
 
