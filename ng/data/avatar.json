@@ -502,6 +502,24 @@
                     {"id":139, "colors":["grey","pink"]},
                     {"id":140, "colors":["pink","yellow"]}
                 ], "criteria":{"type":"pack", "name":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"}
+            },
+            {
+                "groupId":141, "zone":"face", "category":"mouth", "security":"9aed8576a4d41d52",
+                "name":"Boca",
+                "outfitName":"Caring Shepherdess",
+                "variations":[
+                    {"id":141, "colors":["red"]},
+                    {"id":142, "colors":["purple"]},
+                    {"id":143, "colors":["pink"]},
+                    {"id":144, "colors":["orange"]},
+                    {"id":145, "colors":["red"]},
+                    {"id":146, "colors":["purple"]},
+                    {"id":147, "colors":["pink"]},
+                    {"id":148, "colors":["brown"]},
+                    {"id":149, "colors":["white"]},
+                    {"id":150, "colors":["black"]}
+                ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Desbloqueado en el Pack exclusivo\nCaring Shepherdess (Pascua 2025)"},
+                "releaseDate":"2025-04-15"
             }
         ]
     },

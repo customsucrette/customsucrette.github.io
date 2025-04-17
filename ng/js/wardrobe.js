@@ -100,7 +100,13 @@ async function drawCategory(c = "top", declination = null) {
 
         $("asng-cloth-list-panel .empty").remove();
 
+        // debe ordenarse segun releaseDate
+        // Orden temporal hasta añadir todas las fechas
+        lista.sort((a,b) => (a.releaseDate > b.releaseDate) ? 1 : ((b.releaseDate > a.releaseDate) ? -1 : 0));
         lista.reverse();
+
+        // Orden definitivo
+        //lista.sort((a,b) => (a.releaseDate < b.releaseDate) ? 1 : ((b.releaseDate < a.releaseDate) ? -1 : 0))
 
         if (declination == null) {
             moveScroll("#clothes-container .ss-content", "reset");
@@ -925,6 +931,7 @@ function drawRoomItems(c = "background") {
 
     const slot = room.filter(v => v.slot == c);
 
+    slot.sort((a,b) => (a.releaseDate > b.releaseDate) ? 1 : ((b.releaseDate > a.releaseDate) ? -1 : 0));
     slot.reverse();
 
     for (b = 0; b < slot.length; b++) {
@@ -1081,6 +1088,7 @@ function drawPetItems() {
     let p = sucrette.pet.status ? " off" : " on";
     $(".pet-outfits .items-container").append(`<div class="pet-option visibility${p}"></div>`);
 
+    pet.sort((a,b) => (a.releaseDate > b.releaseDate) ? 1 : ((b.releaseDate > a.releaseDate) ? -1 : 0));
     pet.reverse();
 
     for (i = 0; i < pet.length; i++) {
