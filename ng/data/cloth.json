@@ -14602,5 +14602,186 @@
             {"id":9196, "colors":["pink","silver"]}
         ], "criteria":null,
         "releaseDate":"2000"
+    },
+
+    {
+        "groupId":9257, "zone":"face", "category":"neckAccessory", "security":"bc170ae257f40c30", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9257, "colors":["grey","silver"]},
+            {"id":9258, "colors":["red"]},
+            {"id":9259, "colors":["white"]},
+            {"id":9260, "colors":["black"]},
+            {"id":9261, "colors":["yellow","golden"]},
+            {"id":9262, "colors":["pink"]},
+            {"id":9263, "colors":["green"]},
+            {"id":9264, "colors":["purple"]},
+            {"id":9265, "colors":["blue"]},
+            {"id":9266, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9267, "zone":"head", "category":"earring", "security":"4ec256d9cafd094e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9267, "colors":["grey","silver"]},
+            {"id":9268, "colors":["red"]},
+            {"id":9269, "colors":["white"]},
+            {"id":9270, "colors":["black"]},
+            {"id":9271, "colors":["yellow","golden"]},
+            {"id":9272, "colors":["pink"]},
+            {"id":9273, "colors":["green"]},
+            {"id":9274, "colors":["purple"]},
+            {"id":9275, "colors":["blue"]},
+            {"id":9276, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9277, "zone":"feet", "category":"shoes", "security":"e100f3b3ea34b709", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9277, "colors":["grey","silver"]},
+            {"id":9278, "colors":["red"]},
+            {"id":9279, "colors":["white"]},
+            {"id":9280, "colors":["black"]},
+            {"id":9281, "colors":["yellow","golden"]},
+            {"id":9282, "colors":["pink"]},
+            {"id":9283, "colors":["green"]},
+            {"id":9284, "colors":["purple"]},
+            {"id":9285, "colors":["blue"]},
+            {"id":9286, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9287, "zone":"waistToKnee", "category":"skirt", "security":"fe29569b143365a5", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9287, "colors":["red"]},
+            {"id":9288, "colors":["grey","silver"]},
+            {"id":9289, "colors":["white"]},
+            {"id":9290, "colors":["black"]},
+            {"id":9291, "colors":["yellow","golden"]},
+            {"id":9292, "colors":["pink"]},
+            {"id":9293, "colors":["green"]},
+            {"id":9294, "colors":["purple"]},
+            {"id":9295, "colors":["blue"]},
+            {"id":9296, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9297, "zone":"torso", "category":"top", "security":"82a0a024f5b0443c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9297, "colors":["red"]},
+            {"id":9298, "colors":["silver","grey"]},
+            {"id":9299, "colors":["white"]},
+            {"id":9300, "colors":["black"]},
+            {"id":9301, "colors":["yellow","golden"]},
+            {"id":9302, "colors":["pink"]},
+            {"id":9303, "colors":["green"]},
+            {"id":9304, "colors":["purple"]},
+            {"id":9305, "colors":["blue"]},
+            {"id":9306, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9307, "zone":"torso_waistToKnee", "category":"waist", "security":"a82bf99f00fa7272", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cola",
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9307, "colors":["red"]},
+            {"id":9308, "colors":["silver","grey"]},
+            {"id":9309, "colors":["white"]},
+            {"id":9310, "colors":["black"]},
+            {"id":9311, "colors":["golden","yellow"]},
+            {"id":9312, "colors":["pink"]},
+            {"id":9313, "colors":["green"]},
+            {"id":9314, "colors":["purple"]},
+            {"id":9315, "colors":["blue"]},
+            {"id":9316, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9317, "zone":"arms", "category":"armAccessory", "security":"faf5907846bce7e8", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Lazo",
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9317, "colors":["red"]},
+            {"id":9318, "colors":["silver","grey"]},
+            {"id":9319, "colors":["white"]},
+            {"id":9320, "colors":["black"]},
+            {"id":9321, "colors":["yellow","golden"]},
+            {"id":9322, "colors":["pink"]},
+            {"id":9323, "colors":["green"]},
+            {"id":9324, "colors":["purple"]},
+            {"id":9325, "colors":["blue"]},
+            {"id":9326, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9327, "zone":"head", "category":"wig", "security":"14caad0ca35833b6", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9327, "colors":["brown"]},
+            {"id":9328, "colors":["white"]},
+            {"id":9329, "colors":["black"]},
+            {"id":9330, "colors":["blue"]},
+            {"id":9331, "colors":["blue"]},
+            {"id":9332, "colors":["purple"]},
+            {"id":9333, "colors":["red"]},
+            {"id":9334, "colors":["yellow"]},
+            {"id":9335, "colors":["orange"]},
+            {"id":9336, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9337, "zone":"arms", "category":"armAccessory", "security":"34ffc44c24ca0818", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9337, "colors":["grey","silver"]},
+            {"id":9338, "colors":["red"]},
+            {"id":9339, "colors":["white"]},
+            {"id":9340, "colors":["black"]},
+            {"id":9341, "colors":["yellow","golden"]},
+            {"id":9342, "colors":["pink"]},
+            {"id":9343, "colors":["green"]},
+            {"id":9344, "colors":["purple"]},
+            {"id":9345, "colors":["blue"]},
+            {"id":9346, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9347, "zone":"arms", "category":"bag", "security":"17a89094d252442e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Recompensa",
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9347, "colors":["golden","yellow"]},
+            {"id":9348, "colors":["silver","grey"]},
+            {"id":9349, "colors":["red"]},
+            {"id":9350, "colors":["black"]},
+            {"id":9351, "colors":["brown"]},
+            {"id":9352, "colors":["pink"]},
+            {"id":9353, "colors":["green"]},
+            {"id":9354, "colors":["purple"]},
+            {"id":9355, "colors":["blue"]},
+            {"id":9356, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "releaseDate":"2025-04-29"
     }
 ]

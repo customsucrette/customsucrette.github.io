@@ -314,6 +314,24 @@
                     {"id":135, "colors":["blue"]},
                     {"id":136, "colors":["pink"]}
                 ], "criteria":null
+            },
+            {
+                "groupId":137, "zone":"face", "category":"eyes", "security":"8044fe1bc7ddedb6",
+                "name":"Ojos",
+                "outfitName":"Red Carpet Spotlight",
+                "variations":[
+                    {"id":137, "colors":["golden","yellow"]},
+                    {"id":138, "colors":["silver","white"]},
+                    {"id":139, "colors":["red"]},
+                    {"id":140, "colors":["black"]},
+                    {"id":141, "colors":["brown"]},
+                    {"id":142, "colors":["pink"]},
+                    {"id":143, "colors":["green"]},
+                    {"id":144, "colors":["purple"]},
+                    {"id":145, "colors":["blue"]},
+                    {"id":146, "colors":["blue"]}
+                ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+                "releaseDate":"2025-04-29"
             }
         ],
         "mouth":[

@@ -2195,5 +2195,46 @@
         "name":"Mesa y silla",
         "roomName":"Lilypond Reverie",
         "criteria":null
+    },
+
+    {
+        "id":378, "roomId":82, "slot":"background", "releaseDate":"2025-04-29", "light":true, "security":"ee69d0163acfab8f",
+        "name":"Alfombra roja",
+        "roomName":"Red Carpet Walk",
+        "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"F5DACF","colorLight":"AD4A0B"},
+            "night":{"color1":"DEB5D2","color2":"C1E1F5","colorLight":"005987"}
+        }
+    },
+    {
+        "id":379, "roomId":82, "slot":"slot1", "releaseDate":"2025-04-29", "light":false, "security":"82ce153763863285",
+        "name":"Escalera",
+        "roomName":"Red Carpet Walk",
+        "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"}
+    },
+    {
+        "id":380, "roomId":82, "slot":"slot2", "releaseDate":"2025-04-29", "light":false, "security":"09547527d854052e",
+        "name":"Photocall",
+        "roomName":"Red Carpet Walk",
+        "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"}
+    },
+    {
+        "id":381, "roomId":82, "slot":"slot3", "releaseDate":"2025-04-29", "light":false, "security":"a482377b5f21c5c3",
+        "name":"Sillón",
+        "roomName":"Red Carpet Walk",
+        "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"}
+    },
+    {
+        "id":382, "roomId":82, "slot":"slot4", "releaseDate":"2025-04-29", "light":true, "security":"bb3339f4fb03f59c",
+        "name":"Foco",
+        "roomName":"Red Carpet Walk",
+        "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"}
+    },
+    {
+        "id":383, "roomId":82, "slot":"slot5", "releaseDate":"2025-04-29", "light":true, "security":"7441326621ea2158",
+        "name":"Barrera de cuerda",
+        "roomName":"Red Carpet Walk",
+        "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"}
     }
 ]

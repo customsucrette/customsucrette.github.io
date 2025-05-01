@@ -223,5 +223,9 @@
     {
         "id":60, "security":"e81ddf3c3b6e355b", "releaseDate":"2025-04-15", "name":"BAAAaaa... Honk!",
         "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Desbloqueado en el Pack exclusivo \n Caring Shepherdess (Pascua 2025)"}
+    },
+    {
+        "id":61, "security":"8561e7c7860068b6", "releaseDate":"2025-04-29", "name":"Flaparazzi",
+        "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"}
     }
 ]
