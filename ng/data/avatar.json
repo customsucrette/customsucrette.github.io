@@ -332,6 +332,60 @@
                     {"id":146, "colors":["blue"]}
                 ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
                 "releaseDate":"2025-04-29"
+            },
+            {
+                "groupId":147, "zone":"face", "category":"eyes", "security":"5ddc3ca48d0d4dd8",
+                "name":"Ojos",
+                "outfitName":"Lights On",
+                "variations":[
+                    {"id":147, "colors":["red"]},
+                    {"id":148, "colors":["black"]},
+                    {"id":149, "colors":["white"]},
+                    {"id":150, "colors":["pink"]},
+                    {"id":151, "colors":["blue"]},
+                    {"id":152, "colors":["green"]},
+                    {"id":153, "colors":["grey"]},
+                    {"id":154, "colors":["purple"]},
+                    {"id":155, "colors":["blue"]},
+                    {"id":156, "colors":["yellow"]}
+                ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+                "releaseDate":"2025-05-02"
+            },
+            {
+                "groupId":157, "zone":"face", "category":"eyes", "security":"132138047a0e6ae4",
+                "name":"Eyeliner",
+                "outfitName":"Game On",
+                "variations":[
+                    {"id":157, "colors":["orange"]},
+                    {"id":158, "colors":["red"]},
+                    {"id":159, "colors":["pink"]},
+                    {"id":160, "colors":["yellow"]},
+                    {"id":161, "colors":["blue"]},
+                    {"id":162, "colors":["white"]},
+                    {"id":163, "colors":["green"]},
+                    {"id":164, "colors":["blue"]},
+                    {"id":165, "colors":["black"]},
+                    {"id":166, "colors":["purple"]}
+                ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+                "releaseDate":"2025-05-02"
+            },
+            {
+                "groupId":167, "zone":"face", "category":"eyes", "security":"650aad90cfb07a3f",
+                "name":"Smokey",
+                "outfitName":"Drive On",
+                "variations":[
+                    {"id":167, "colors":["brown"]},
+                    {"id":168, "colors":["red"]},
+                    {"id":169, "colors":["brown"]},
+                    {"id":170, "colors":["yellow"]},
+                    {"id":171, "colors":["green"]},
+                    {"id":172, "colors":["white"]},
+                    {"id":173, "colors":["blue"]},
+                    {"id":174, "colors":["purple"]},
+                    {"id":175, "colors":["pink","red"]},
+                    {"id":176, "colors":["black"]}
+                ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+                "releaseDate":"2025-05-02"
             }
         ],
         "mouth":[
@@ -538,6 +592,42 @@
                     {"id":150, "colors":["black"]}
                 ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Desbloqueado en el Pack exclusivo\nCaring Shepherdess (Pascua 2025)"},
                 "releaseDate":"2025-04-15"
+            },
+            {
+                "groupId":151, "zone":"face", "category":"mouth", "security":"ff168129a98cc173",
+                "name":"Boca",
+                "outfitName":"Negotiations On",
+                "variations":[
+                    {"id":151, "colors":["brown"]},
+                    {"id":152, "colors":["brown"]},
+                    {"id":153, "colors":["pink"]},
+                    {"id":154, "colors":["black"]},
+                    {"id":155, "colors":["pink"]},
+                    {"id":156, "colors":["pink"]},
+                    {"id":157, "colors":["red"]},
+                    {"id":158, "colors":["red"]},
+                    {"id":159, "colors":["red"]},
+                    {"id":160, "colors":["pink"]}
+                ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+                "releaseDate":"2025-05-02"
+            },
+            {
+                "groupId":161, "zone":"face", "category":"mouth", "security":"6699787eb4ebf569",
+                "name":"Boca",
+                "outfitName":"Lights On",
+                "variations":[
+                    {"id":161, "colors":["red"]},
+                    {"id":162, "colors":["black"]},
+                    {"id":163, "colors":["white"]},
+                    {"id":164, "colors":["pink"]},
+                    {"id":165, "colors":["blue"]},
+                    {"id":166, "colors":["green"]},
+                    {"id":167, "colors":["grey"]},
+                    {"id":168, "colors":["purple"]},
+                    {"id":169, "colors":["blue"]},
+                    {"id":170, "colors":["yellow"]}
+                ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+                "releaseDate":"2025-05-02"
             }
         ]
     },

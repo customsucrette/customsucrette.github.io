@@ -2196,7 +2196,24 @@
         "roomName":"Lilypond Reverie",
         "criteria":null
     },
-
+    {
+        "id":375, "roomId":79, "slot":"slot2", "releaseDate":"2025-05-02", "light":false, "security":"6001389acd7485f3",
+        "name":"Mesa de cultivo",
+        "roomName":"Floral Hobbyist",
+        "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"}
+    },
+    {
+        "id":376, "roomId":80, "slot":"slot3", "releaseDate":"2025-05-02", "light":false, "security":"a238a3ff0ffebeb6",
+        "name":"Estación de manualidades",
+        "roomName":"Crafting Hobbyist",
+        "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"}
+    },
+    {
+        "id":377, "roomId":81, "slot":"slot4", "releaseDate":"2025-05-02", "light":false, "security":"efcb4b47afd5de8a",
+        "name":"Maniquí de madera",
+        "roomName":"Martial Hobbyist",
+        "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"}
+    },
     {
         "id":378, "roomId":82, "slot":"background", "releaseDate":"2025-04-29", "light":true, "security":"ee69d0163acfab8f",
         "name":"Alfombra roja",
@@ -2236,5 +2253,45 @@
         "name":"Barrera de cuerda",
         "roomName":"Red Carpet Walk",
         "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"}
+    },
+    {
+        "id":384, "roomId":83, "slot":"background", "releaseDate":"2025-05-06", "light":true, "security":"1b2846282c7f9f5e",
+        "name":"Paredes",
+        "roomName":"Willow & Whisk",
+        "criteria":{"type":"calendar", "info":"2025-14", "text":"Desbloqueado en el calendario\nN°14 - 2025"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"DEC0AF","colorLight":"3B280A"},
+            "night":{"color1":"8592DA","color2":"99B2D6","colorLight":"005987"}
+        }
+    },
+    {
+        "id":385, "roomId":83, "slot":"slot1", "releaseDate":"2025-05-06", "light":false, "security":"3fd2aeeb6a9d8785",
+        "name":"Aparador",
+        "roomName":"Willow & Whisk",
+        "criteria":{"type":"calendar", "info":"2025-14", "text":"Desbloqueado en el calendario\nN°14 - 2025"}
+    },
+    {
+        "id":386, "roomId":83, "slot":"slot2", "releaseDate":"2025-05-06", "light":true, "security":"6b39f1035cca794c",
+        "name":"Cocina",
+        "roomName":"Willow & Whisk",
+        "criteria":{"type":"calendar", "info":"2025-14", "text":"Desbloqueado en el calendario\nN°14 - 2025"}
+    },
+    {
+        "id":387, "roomId":83, "slot":"slot3", "releaseDate":"2025-05-06", "light":false, "security":"cadc1a40ed006e5a",
+        "name":"Mesa auxiliar",
+        "roomName":"Willow & Whisk",
+        "criteria":{"type":"calendar", "info":"2025-14", "text":"Desbloqueado en el calendario\nN°14 - 2025"}
+    },
+    {
+        "id":388, "roomId":83, "slot":"slot4", "releaseDate":"2025-05-06", "light":true, "security":"53b8f144fff84564",
+        "name":"Puerta y gallinas",
+        "roomName":"Willow & Whisk",
+        "criteria":{"type":"calendar", "info":"2025-14", "text":"Desbloqueado en el calendario\nN°14 - 2025"}
+    },
+    {
+        "id":389, "roomId":83, "slot":"slot5", "releaseDate":"2025-05-06", "light":false, "security":"46c56c5540bc60c5",
+        "name":"Plantas aromáticas",
+        "roomName":"Willow & Whisk",
+        "criteria":{"type":"calendar", "info":"2025-14", "text":"Desbloqueado en el calendario\nN°14 - 2025"}
     }
 ]

@@ -140,6 +140,10 @@
         "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
     },
     {
+        "id":38, "security":"a8aaa801f61dd4d9", "releaseDate":"2025-05-02", "name":"Honk Loud, Honk Proud!",
+        "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"}
+    },
+    {
         "id":39, "security":"9895e4c5644a6b5a", "releaseDate":"2000", "name":"Infernal Embrace",
         "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
     },

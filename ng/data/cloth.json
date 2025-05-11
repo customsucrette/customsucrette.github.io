@@ -10557,8 +10557,546 @@
         ], "criteria":{"type":"episode", "info":"13", "text":"Desbloqueado en el episodio 13"},
         "releaseDate":"2000"
     },
-
-
+    {
+        "groupId":6482, "zone":"feet", "category":"socks", "security":"4da7820a2afeb36e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6482, "colors":["blue"]},
+            {"id":6483, "colors":["black"]},
+            {"id":6484, "colors":["white"]},
+            {"id":6485, "colors":["red"]},
+            {"id":6486, "colors":["blue"]},
+            {"id":6487, "colors":["green"]},
+            {"id":6488, "colors":["purple"]},
+            {"id":6489, "colors":["yellow","brown"]},
+            {"id":6490, "colors":["brown"]},
+            {"id":6491, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6492, "zone":"feet", "category":"shoes", "security":"15dd5284a15cbca5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Deportivas",
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6492, "colors":["blue","white"]},
+            {"id":6493, "colors":["white","black"]},
+            {"id":6494, "colors":["white"]},
+            {"id":6495, "colors":["white","red"]},
+            {"id":6496, "colors":["white","blue"]},
+            {"id":6497, "colors":["white","green"]},
+            {"id":6498, "colors":["white","purple"]},
+            {"id":6499, "colors":["white","yellow","orange"]},
+            {"id":6500, "colors":["white","brown"]},
+            {"id":6501, "colors":["white","pink"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6502, "zone":"waistToKnee", "category":"skirt", "security":"34f3783ef0eb7ec6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6502, "colors":["purple","blue"]},
+            {"id":6503, "colors":["red","black"]},
+            {"id":6504, "colors":["white","black"]},
+            {"id":6505, "colors":["orange","red"]},
+            {"id":6506, "colors":["white","blue"]},
+            {"id":6507, "colors":["yellow","green"]},
+            {"id":6508, "colors":["pink","purple"]},
+            {"id":6509, "colors":["purple","yellow"]},
+            {"id":6510, "colors":["green","brown"]},
+            {"id":6511, "colors":["blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6512, "zone":"torso", "category":"top", "security":"b45434ce4301a09a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta tirantes",
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6512, "colors":["purple"]},
+            {"id":6513, "colors":["red"]},
+            {"id":6514, "colors":["black"]},
+            {"id":6515, "colors":["orange"]},
+            {"id":6516, "colors":["white"]},
+            {"id":6517, "colors":["yellow"]},
+            {"id":6518, "colors":["pink"]},
+            {"id":6519, "colors":["purple"]},
+            {"id":6520, "colors":["green"]},
+            {"id":6521, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6522, "zone":"torso", "category":"jacket", "security":"c54a9716ed14c041", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6522, "colors":["blue"]},
+            {"id":6523, "colors":["black"]},
+            {"id":6524, "colors":["white"]},
+            {"id":6525, "colors":["red"]},
+            {"id":6526, "colors":["blue"]},
+            {"id":6527, "colors":["green"]},
+            {"id":6528, "colors":["purple"]},
+            {"id":6529, "colors":["yellow"]},
+            {"id":6530, "colors":["brown"]},
+            {"id":6531, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6532, "zone":"face", "category":"neckAccessory", "security":"fdc3822ec953a35a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collares",
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6532, "colors":["golden","pink"]},
+            {"id":6533, "colors":["silver","yellow"]},
+            {"id":6534, "colors":["golden","red"]},
+            {"id":6535, "colors":["black","golden"]},
+            {"id":6536, "colors":["purple","silver"]},
+            {"id":6537, "colors":["silver","white"]},
+            {"id":6538, "colors":["blue","golden"]},
+            {"id":6539, "colors":["green","silver"]},
+            {"id":6540, "colors":["golden","purple"]},
+            {"id":6541, "colors":["blue","silver"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6542, "zone":"arms", "category":"bag", "security":"582191211b803eaa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6542, "colors":["blue"]},
+            {"id":6543, "colors":["black"]},
+            {"id":6544, "colors":["white"]},
+            {"id":6545, "colors":["red"]},
+            {"id":6546, "colors":["blue"]},
+            {"id":6547, "colors":["green"]},
+            {"id":6548, "colors":["purple"]},
+            {"id":6549, "colors":["yellow"]},
+            {"id":6550, "colors":["brown"]},
+            {"id":6551, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6552, "zone":"waistToKnee", "category":"pants", "security":"7b8198077d3b69e4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jeans",
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6553, "colors":["blue"]},
+            {"id":6554, "colors":["blue"], "variationNumber":2},
+            {"id":6552, "colors":["yellow"], "variationNumber":3},
+            {"id":6555, "colors":["black"], "variationNumber":4},
+            {"id":6556, "colors":["white"], "variationNumber":5},
+            {"id":6557, "colors":["pink"], "variationNumber":6},
+            {"id":6558, "colors":["grey"], "variationNumber":7},
+            {"id":6559, "colors":["purple"], "variationNumber":8},
+            {"id":6560, "colors":["green"], "variationNumber":9},
+            {"id":6561, "colors":["brown"], "variationNumber":10}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6562, "zone":"feet", "category":"shoes", "security":"4d361e7bbeb7bf2a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6562, "colors":["brown"]},
+            {"id":6563, "colors":["black"]},
+            {"id":6564, "colors":["pink"]},
+            {"id":6565, "colors":["grey"]},
+            {"id":6566, "colors":["blue"]},
+            {"id":6567, "colors":["red"]},
+            {"id":6568, "colors":["green"]},
+            {"id":6569, "colors":["white"]},
+            {"id":6570, "colors":["yellow"]},
+            {"id":6571, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6572, "zone":"torso_waistToKnee", "category":"waist", "security":"b6917896a2250991", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6572, "colors":["brown"]},
+            {"id":6573, "colors":["black"]},
+            {"id":6574, "colors":["brown"]},
+            {"id":6575, "colors":["grey"]},
+            {"id":6576, "colors":["blue"]},
+            {"id":6577, "colors":["pink"]},
+            {"id":6578, "colors":["green"]},
+            {"id":6579, "colors":["red"]},
+            {"id":6580, "colors":["yellow"]},
+            {"id":6581, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6582, "zone":"face", "category":"neckAccessory", "security":"1eb95d2dd5a60684", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collares",
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6582, "colors":["golden"]},
+            {"id":6583, "colors":["silver"]},
+            {"id":6584, "colors":["pink"]},
+            {"id":6585, "colors":["black"]},
+            {"id":6586, "colors":["white"]},
+            {"id":6587, "colors":["red"]},
+            {"id":6588, "colors":["green"]},
+            {"id":6589, "colors":["blue"]},
+            {"id":6590, "colors":["brown"]},
+            {"id":6591, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6592, "zone":"torso", "category":"top", "security":"d3c0c3551f95d236", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Camiseta",
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6592, "colors":["orange"]},
+            {"id":6593, "colors":["red"]},
+            {"id":6594, "colors":["pink"]},
+            {"id":6595, "colors":["yellow"]},
+            {"id":6596, "colors":["blue"]},
+            {"id":6597, "colors":["white"]},
+            {"id":6598, "colors":["green"]},
+            {"id":6599, "colors":["blue"]},
+            {"id":6600, "colors":["black"]},
+            {"id":6601, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6602, "zone":"arms", "category":"armAccessory", "security":"ff1103a296a34a75", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillos",
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6602, "colors":["golden"]},
+            {"id":6603, "colors":["silver"]},
+            {"id":6604, "colors":["pink"]},
+            {"id":6605, "colors":["black"]},
+            {"id":6606, "colors":["white"]},
+            {"id":6607, "colors":["red"]},
+            {"id":6608, "colors":["green"]},
+            {"id":6609, "colors":["blue"]},
+            {"id":6610, "colors":["brown"]},
+            {"id":6611, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6612, "zone":"feet", "category":"shoes", "security":"0266567ade28e5d9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de salón",
+        "outfitName":"Negotiations On",
+        "variations":[
+            {"id":6612, "colors":["black","golden"]},
+            {"id":6613, "colors":["silver","white"]},
+            {"id":6614, "colors":["golden","green"]},
+            {"id":6615, "colors":["golden","red"]},
+            {"id":6616, "colors":["blue","silver"]},
+            {"id":6617, "colors":["silver","yellow"]},
+            {"id":6618, "colors":["golden","purple"]},
+            {"id":6619, "colors":["silver","yellow"]},
+            {"id":6620, "colors":["green","silver"]},
+            {"id":6621, "colors":["golden","pink"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6622, "zone":"torso_waistToKnee", "category":"dress", "security":"dc19fc3b406edc9d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Negotiations On",
+        "variations":[
+            {"id":6622, "colors":["blue"]},
+            {"id":6623, "colors":["red"]},
+            {"id":6624, "colors":["green"]},
+            {"id":6625, "colors":["black"]},
+            {"id":6626, "colors":["white"]},
+            {"id":6627, "colors":["purple"]},
+            {"id":6628, "colors":["pink"]},
+            {"id":6629, "colors":["blue","green"]},
+            {"id":6630, "colors":["yellow"]},
+            {"id":6631, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6632, "zone":"face", "category":"neckAccessory", "security":"9e56a1278a572eca", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Negotiations On",
+        "variations":[
+            {"id":6632, "colors":["blue","golden"]},
+            {"id":6633, "colors":["red","silver"]},
+            {"id":6634, "colors":["golden","green"]},
+            {"id":6635, "colors":["black","golden"]},
+            {"id":6636, "colors":["silver","white"]},
+            {"id":6637, "colors":["purple","silver"]},
+            {"id":6638, "colors":["golden","pink"]},
+            {"id":6639, "colors":["green","silver"]},
+            {"id":6640, "colors":["silver","yellow"]},
+            {"id":6641, "colors":["golden","orange"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6642, "zone":"arms", "category":"bag", "security":"6fe866a32e79eda8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso de mano",
+        "outfitName":"Negotiations On",
+        "variations":[
+            {"id":6642, "colors":["black","golden"]},
+            {"id":6643, "colors":["silver","white"]},
+            {"id":6644, "colors":["golden","green"]},
+            {"id":6645, "colors":["golden","red"]},
+            {"id":6646, "colors":["blue","silver"]},
+            {"id":6647, "colors":["silver","yellow"]},
+            {"id":6648, "colors":["golden","purple"]},
+            {"id":6649, "colors":["silver","yellow"]},
+            {"id":6650, "colors":["green","silver"]},
+            {"id":6651, "colors":["pink","silver"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6652, "zone":"torso", "category":"jacket", "security":"69aff1e7b42ed7c4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Negotiations On",
+        "variations":[
+            {"id":6652, "colors":["black"]},
+            {"id":6653, "colors":["white"]},
+            {"id":6654, "colors":["green"]},
+            {"id":6655, "colors":["red"]},
+            {"id":6656, "colors":["blue"]},
+            {"id":6657, "colors":["yellow","brown"]},
+            {"id":6658, "colors":["purple"]},
+            {"id":6659, "colors":["yellow"]},
+            {"id":6660, "colors":["green"]},
+            {"id":6661, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6662, "zone":"head", "category":"earring", "security":"bae1d8ee09bbfd4d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Negotiations On",
+        "variations":[
+            {"id":6662, "colors":["blue","golden"]},
+            {"id":6663, "colors":["red","silver"]},
+            {"id":6664, "colors":["golden","green"]},
+            {"id":6665, "colors":["black","golden"]},
+            {"id":6666, "colors":["silver","white"]},
+            {"id":6667, "colors":["purple","silver"]},
+            {"id":6668, "colors":["golden","pink"]},
+            {"id":6669, "colors":["green","silver"]},
+            {"id":6670, "colors":["silver","yellow"]},
+            {"id":6671, "colors":["golden","orange"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6672, "zone":"feet", "category":"socks", "security":"02a1eef8235fed32", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Lights On",
+        "variations":[
+            {"id":6673, "colors":["black"]},
+            {"id":6674, "colors":["red"], "variationNumber":2},
+            {"id":6675, "colors":["white"], "variationNumber":3},
+            {"id":6676, "colors":["pink"], "variationNumber":4},
+            {"id":6672, "colors":["blue"], "variationNumber":5},
+            {"id":6677, "colors":["green"], "variationNumber":6},
+            {"id":6678, "colors":["grey"], "variationNumber":7},
+            {"id":6679, "colors":["purple"], "variationNumber":8},
+            {"id":6680, "colors":["blue"], "variationNumber":9},
+            {"id":6681, "colors":["yellow"], "variationNumber":10}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6682, "zone":"feet", "category":"shoes", "security":"c8b24f1468e44ece", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de salón",
+        "outfitName":"Lights On",
+        "variations":[
+            {"id":6682, "colors":["red","silver"]},
+            {"id":6683, "colors":["black","golden"]},
+            {"id":6684, "colors":["silver","white"]},
+            {"id":6685, "colors":["pink","silver"]},
+            {"id":6686, "colors":["blue","silver"]},
+            {"id":6687, "colors":["golden","green"]},
+            {"id":6688, "colors":["golden","grey"]},
+            {"id":6689, "colors":["purple","silver"]},
+            {"id":6690, "colors":["blue","golden"]},
+            {"id":6691, "colors":["golden","yellow"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6692, "zone":"torso_waistToKnee", "category":"dress", "security":"4ba43f96574f806a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Lights On",
+        "variations":[
+            {"id":6692, "colors":["red","silver"]},
+            {"id":6693, "colors":["black","golden"]},
+            {"id":6694, "colors":["silver","white"]},
+            {"id":6695, "colors":["pink","silver"]},
+            {"id":6696, "colors":["blue","silver"]},
+            {"id":6697, "colors":["golden","green"]},
+            {"id":6698, "colors":["golden","grey"]},
+            {"id":6699, "colors":["purple","silver"]},
+            {"id":6700, "colors":["blue","golden"]},
+            {"id":6701, "colors":["golden","yellow"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6702, "zone":"face", "category":"neckAccessory", "security":"8d72713ee52c0dc6", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Collares",
+        "outfitName":"Lights On",
+        "variations":[
+            {"id":6702, "colors":["red","silver"]},
+            {"id":6703, "colors":["black","golden"]},
+            {"id":6704, "colors":["silver","white"]},
+            {"id":6705, "colors":["pink","silver"]},
+            {"id":6706, "colors":["blue","silver"]},
+            {"id":6707, "colors":["golden","green"]},
+            {"id":6708, "colors":["golden","grey"]},
+            {"id":6709, "colors":["purple","silver"]},
+            {"id":6710, "colors":["blue","golden"]},
+            {"id":6711, "colors":["golden","yellow"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6712, "zone":"head", "category":"hat", "security":"05003f8496ce4605", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Lights On",
+        "variations":[
+            {"id":6712, "colors":["red"]},
+            {"id":6713, "colors":["black"]},
+            {"id":6714, "colors":["white"]},
+            {"id":6715, "colors":["pink"]},
+            {"id":6716, "colors":["blue"]},
+            {"id":6717, "colors":["green"]},
+            {"id":6718, "colors":["grey"]},
+            {"id":6719, "colors":["purple"]},
+            {"id":6720, "colors":["blue"]},
+            {"id":6721, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6722, "zone":"arms", "category":"armAccessory", "security":"0aea10e7b418ff34", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6722, "colors":["black","silver"]},
+            {"id":6723, "colors":["red","silver"]},
+            {"id":6724, "colors":["orange","silver"]},
+            {"id":6725, "colors":["silver","yellow"]},
+            {"id":6726, "colors":["green","silver"]},
+            {"id":6727, "colors":["silver","white"]},
+            {"id":6728, "colors":["blue","silver"]},
+            {"id":6729, "colors":["purple","silver"]},
+            {"id":6730, "colors":["pink","silver"]},
+            {"id":6731, "colors":["brown","silver"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6732, "zone":"waistToKnee", "category":"pants", "security":"c73f20efc916c1af", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6732, "colors":["black","white"]},
+            {"id":6733, "colors":["black","red"]},
+            {"id":6734, "colors":["black","orange"]},
+            {"id":6735, "colors":["black","yellow"]},
+            {"id":6736, "colors":["black","green"]},
+            {"id":6737, "colors":["black","blue"]},
+            {"id":6738, "colors":["black","blue"]},
+            {"id":6739, "colors":["black","purple"]},
+            {"id":6740, "colors":["black","pink"]},
+            {"id":6741, "colors":["black","brown"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6742, "zone":"feet", "category":"shoes", "security":"40a0957ca3fec796", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6742, "colors":["black"]},
+            {"id":6743, "colors":["red"]},
+            {"id":6744, "colors":["orange"]},
+            {"id":6745, "colors":["yellow"]},
+            {"id":6746, "colors":["green"]},
+            {"id":6747, "colors":["white"]},
+            {"id":6748, "colors":["blue"]},
+            {"id":6749, "colors":["purple"]},
+            {"id":6750, "colors":["pink"]},
+            {"id":6751, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6752, "zone":"face", "category":"neckAccessory", "security":"2f0e5e0f75fe20d0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6752, "colors":["black"]},
+            {"id":6753, "colors":["red"]},
+            {"id":6754, "colors":["orange"]},
+            {"id":6755, "colors":["yellow"]},
+            {"id":6756, "colors":["green"]},
+            {"id":6757, "colors":["white"]},
+            {"id":6758, "colors":["blue"]},
+            {"id":6759, "colors":["purple"]},
+            {"id":6760, "colors":["pink"]},
+            {"id":6761, "colors":["multi"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6762, "zone":"torso", "category":"top", "security":"35a328f7860460be", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6762, "colors":["pink"]},
+            {"id":6763, "colors":["black"]},
+            {"id":6764, "colors":["grey"]},
+            {"id":6765, "colors":["white"]},
+            {"id":6766, "colors":["purple"]},
+            {"id":6767, "colors":["green"]},
+            {"id":6768, "colors":["yellow"]},
+            {"id":6769, "colors":["red"]},
+            {"id":6770, "colors":["brown"]},
+            {"id":6771, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6772, "zone":"arms", "category":"bag", "security":"a4c15eb1db6f5b48", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Casco",
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6772, "colors":["red"]},
+            {"id":6773, "colors":["red"]},
+            {"id":6774, "colors":["orange"]},
+            {"id":6775, "colors":["yellow"]},
+            {"id":6776, "colors":["green"]},
+            {"id":6777, "colors":["white"]},
+            {"id":6778, "colors":["blue"]},
+            {"id":6779, "colors":["purple"]},
+            {"id":6780, "colors":["pink"]},
+            {"id":6781, "colors":["black"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
+        "releaseDate":"2025-05-02"
+    },
     {
         "groupId":6782, "zone":"general", "category":"other", "security":"c0466fd8ba108b17", "multiLayered":true, "layerBehavior":"normal",
         "name":"Alas",
