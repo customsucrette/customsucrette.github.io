@@ -2248,6 +2248,43 @@
     },
 
     {
+        "groupId":1267, "zone":"torso_waistToKnee", "category":"waist", "security":"368d9dd988ebc999", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Arnés",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1267, "colors":["purple"]},
+            {"id":1268, "colors":["pink"]},
+            {"id":1269, "colors":["blue"]},
+            {"id":1270, "colors":["black"]},
+            {"id":1271, "colors":["yellow"]},
+            {"id":1272, "colors":["red"]},
+            {"id":1273, "colors":["green"]},
+            {"id":1274, "colors":["purple"]},
+            {"id":1275, "colors":["blue"]},
+            {"id":1276, "colors":["yellow","pink"]}
+        ], "criteria":{"type":"jobTask", "info":"Grapadora (Episodio 16)", "text":"Desbloqueado en la Misión del día\nGrapadora"},
+        "releaseDate":"2025-05-30"
+    },
+
+    {
+        "groupId":1297, "zone":"feet", "category":"shoes", "security":"5c93f742eecffe7e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas altas",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1297, "colors":["black"]},
+            {"id":1298, "colors":["red"]},
+            {"id":1299, "colors":["blue"]},
+            {"id":1300, "colors":["purple"]},
+            {"id":1301, "colors":["brown"]},
+            {"id":1302, "colors":["brown"]},
+            {"id":1303, "colors":["yellow"]},
+            {"id":1304, "colors":["green"]},
+            {"id":1305, "colors":["white"]},
+            {"id":1306, "colors":["pink"]}
+        ], "criteria":{"type":"jobTask", "info":"Grapadora (Episodio 16)", "text":"Desbloqueado en la Misión del día\nGrapadora"},
+        "releaseDate":"2025-05-30"
+    },
+    {
         "groupId":1307, "zone":"torso", "category":"jacket", "security":"a65905d91703c54e", "multiLayered":true, "layerBehavior":"normal",
         "name":"Abrigo",
         "outfitName":"Femme Fatale",
@@ -2310,7 +2347,15 @@
         ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"},
         "releaseDate":"2000"
     },
-
+    {
+        "groupId":1338, "zone":"general", "category":"tattoo", "security":"4627ad997c48523c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuajes",
+        "outfitName":"Biker Soul",
+        "variations":[
+            {"id":1338, "colors":["black"]}
+        ], "criteria":{"type":"jobTask", "info":"Grapadora (Episodio 16)", "text":"Desbloqueado en la Misión del día\nGrapadora"},
+        "releaseDate":"2025-05-30"
+    },
     {
         "groupId":1339, "zone":"waistToKnee", "category":"pants", "security":"27802f7760b71186", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pantalones",
@@ -2600,6 +2645,24 @@
         "releaseDate":"2000"
     },
 
+    {
+        "groupId":1539, "zone":"waistToKnee", "category":"pants", "security":"8959f31ef1eb963f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"What the F***?",
+        "variations":[
+            {"id":1539, "colors":["white"]},
+            {"id":1540, "colors":["blue"]},
+            {"id":1541, "colors":["green"]},
+            {"id":1542, "colors":["pink"]},
+            {"id":1543, "colors":["black"]},
+            {"id":1544, "colors":["yellow"]},
+            {"id":1545, "colors":["red"]},
+            {"id":1546, "colors":["blue"]},
+            {"id":1547, "colors":["purple"]},
+            {"id":1548, "colors":["pink"]}
+        ], "criteria":{"type":"jobTask", "info":"Grapadora (Episodio 16)", "text":"Desbloqueado en la Misión del día\nGrapadora"},
+        "releaseDate":"2025-05-30"
+    },
 
     {
         "groupId":1559, "zone":"arms", "category":"gloves", "security":"4592fc37417ba1b0", "multiLayered":false, "layerBehavior":"normal",
@@ -2715,9 +2778,6 @@
         "releaseDate":"2000"
     },
 
-
-
-
     {
         "groupId":1709, "zone":"torso", "category":"jacket", "security":"97731a42d00a63ba", "multiLayered":true, "layerBehavior":"normal",
         "name":"Impermeable",
@@ -2737,7 +2797,6 @@
         "releaseDate":"2000"
     },
 
-
     {
         "groupId":1729, "zone":"general", "category":"other", "security":"18172fa2daeb5b4b", "multiLayered":true, "layerBehavior":"normal",
         "name":"Charco de agua",
@@ -2747,8 +2806,24 @@
         ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"},
         "releaseDate":"2000"
     },
-
-
+    {
+        "groupId":1730, "zone":"feet", "category":"socks", "security":"9c0b1ca6ad8db5a1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Medias",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1730, "colors":["pink"]},
+            {"id":1731, "colors":["purple"]},
+            {"id":1732, "colors":["blue"]},
+            {"id":1733, "colors":["blue"]},
+            {"id":1734, "colors":["white"]},
+            {"id":1735, "colors":["black"]},
+            {"id":1736, "colors":["brown"]},
+            {"id":1737, "colors":["green"]},
+            {"id":1738, "colors":["yellow"]},
+            {"id":1739, "colors":["red"]}
+        ], "criteria":{"type":"jobTask", "info":"Grapadora (Episodio 16)", "text":"Desbloqueado en la Misión del día\nGrapadora"},
+        "releaseDate":"2025-05-30"
+    },
     {
         "groupId":1740, "zone":"feet", "category":"shoes", "security":"29cd5543a61e9bf7", "multiLayered":false, "layerBehavior":"normal",
         "name":"Zapatos de salón",
@@ -2768,6 +2843,24 @@
         "releaseDate":"2000"
     },
 
+    {
+        "groupId":1800, "zone":"feet", "category":"shoes", "security":"54551a0957b0dfff", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Royal Fighter",
+        "variations":[
+            {"id":1800, "colors":["silver"]},
+            {"id":1801, "colors":["blue","silver"]},
+            {"id":1802, "colors":["purple"]},
+            {"id":1803, "colors":["brown"]},
+            {"id":1804, "colors":["golden"]},
+            {"id":1805, "colors":["black"]},
+            {"id":1806, "colors":["silver","white"]},
+            {"id":1807, "colors":["golden"]},
+            {"id":1808, "colors":["blue"]},
+            {"id":1809, "colors":["pink"]}
+        ], "criteria":{"type":"jobTask", "info":"Grapadora (Episodio 16)", "text":"Desbloqueado en la Misión del día\nGrapadora"},
+        "releaseDate":"2025-05-30"
+    },
 
     {
         "groupId":1830, "zone":"torso", "category":"top", "security":"06ba72889f4971ce", "multiLayered":false, "layerBehavior":"normal",
@@ -4212,6 +4305,24 @@
     },
 
     {
+        "groupId":2703, "zone":"arms", "category":"gloves", "security":"0676c44f21e0afee", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Manoplas",
+        "outfitName":"Neo-Victorian",
+        "variations":[
+            {"id":2703, "colors":["green"]},
+            {"id":2704, "colors":["black"]},
+            {"id":2705, "colors":["red"]},
+            {"id":2706, "colors":["yellow"]},
+            {"id":2707, "colors":["orange"]},
+            {"id":2708, "colors":["purple"]},
+            {"id":2709, "colors":["blue"]},
+            {"id":2710, "colors":["brown"]},
+            {"id":2711, "colors":["pink"]},
+            {"id":2712, "colors":["white"]}
+        ], "criteria":{"type":"jobTask", "info":"Grapadora (Episodio 16)", "text":"Desbloqueado en la Misión del día\nGrapadora"},
+        "releaseDate":"2025-05-30"
+    },
+    {
         "groupId":2713, "zone":"feet", "category":"shoes", "security":"7c9641eb928ca374", "multiLayered":false, "layerBehavior":"normal",
         "name":"Botines",
         "outfitName":"Neo-Victorian",
@@ -4229,7 +4340,24 @@
         ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"},
         "releaseDate":"2000"
     },
-
+    {
+        "groupId":2723, "zone":"waistToKnee", "category":"skirt", "security":"ae44c81afc7e42af", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Neo-Victorian",
+        "variations":[
+            {"id":2723, "colors":["green"]},
+            {"id":2724, "colors":["black"]},
+            {"id":2725, "colors":["red"]},
+            {"id":2726, "colors":["yellow"]},
+            {"id":2727, "colors":["orange"]},
+            {"id":2728, "colors":["purple"]},
+            {"id":2729, "colors":["blue"]},
+            {"id":2730, "colors":["brown"]},
+            {"id":2731, "colors":["pink"]},
+            {"id":2732, "colors":["white"]}
+        ], "criteria":{"type":"jobTask", "info":"Grapadora (Episodio 16)", "text":"Desbloqueado en la Misión del día\nGrapadora"},
+        "releaseDate":"2025-05-30"
+    },
     {
         "groupId":2733, "zone":"head", "category":"hat", "security":"b244487b59dcfa92", "multiLayered":true, "layerBehavior":"normal",
         "name":"Sombrero",
@@ -15141,7 +15269,114 @@
         ], "criteria":null,
         "releaseDate":"2000"
     },
-
+    {
+        "groupId":9197, "zone":"torso_waistToKnee", "category":"waist", "security":"720f86f98b5c8b1d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lazo",
+        "outfitName":"Celestial Prism",
+        "variations":[
+            {"id":9197, "colors":["multi"]},
+            {"id":9198, "colors":["multi"]},
+            {"id":9199, "colors":["black","red"]},
+            {"id":9200, "colors":["white","multi"]},
+            {"id":9201, "colors":["orange","red"]},
+            {"id":9202, "colors":["purple","pink"]},
+            {"id":9203, "colors":["blue"]},
+            {"id":9204, "colors":["green","blue"]},
+            {"id":9205, "colors":["green","red","yellow"]},
+            {"id":9206, "colors":["pink","purple"]}
+        ], "criteria":{"type":"calendar", "info":"2025-15", "text":"Desbloqueado en el calendario\nN°15 - 2025"},
+        "releaseDate":"2025-06-05"
+    },
+    {
+        "groupId":9207, "zone":"feet", "category":"shoes", "security":"90eb7816f4881261", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Celestial Prism",
+        "variations":[
+            {"id":9207, "colors":["multi"]},
+            {"id":9208, "colors":["multi"]},
+            {"id":9209, "colors":["black","blue","red"]},
+            {"id":9210, "colors":["white"]},
+            {"id":9211, "colors":["orange","red"]},
+            {"id":9212, "colors":["purple","pink"]},
+            {"id":9213, "colors":["blue","green"]},
+            {"id":9214, "colors":["green","blue"]},
+            {"id":9215, "colors":["pink","yellow"]},
+            {"id":9216, "colors":["pink"]}
+        ], "criteria":{"type":"calendar", "info":"2025-15", "text":"Desbloqueado en el calendario\nN°15 - 2025"},
+        "releaseDate":"2025-06-05"
+    },
+    {
+        "groupId":9217, "zone":"head", "category":"hat", "security":"739e47f01166718d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Horquillas rojas",
+        "outfitName":"Celestial Prism",
+        "variations":[
+            {"id":9217, "colors":["multi","golden"]},
+            {"id":9218, "colors":["multi","silver"]},
+            {"id":9219, "colors":["black","silver"]},
+            {"id":9220, "colors":["white","golden"]},
+            {"id":9221, "colors":["red","golden"]},
+            {"id":9222, "colors":["purple","golden"]},
+            {"id":9223, "colors":["blue","silver"]},
+            {"id":9224, "colors":["green","silver"]},
+            {"id":9225, "colors":["yellow","golden"]},
+            {"id":9226, "colors":["pink","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2025-15", "text":"Desbloqueado en el calendario\nN°15 - 2025"},
+        "releaseDate":"2025-06-05"
+    },
+    {
+        "groupId":9227, "zone":"arms", "category":"armAccessory", "security":"e0e37f3ab88d8300", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Celestial Prism",
+        "variations":[
+            {"id":9227, "colors":["golden","multi"]},
+            {"id":9228, "colors":["multi","silver"]},
+            {"id":9229, "colors":["black","silver"]},
+            {"id":9230, "colors":["golden","white"]},
+            {"id":9231, "colors":["golden","orange","red"]},
+            {"id":9232, "colors":["purple","pink","golden"]},
+            {"id":9233, "colors":["blue","silver"]},
+            {"id":9234, "colors":["green","blue","silver"]},
+            {"id":9235, "colors":["golden","pink","yellow"]},
+            {"id":9236, "colors":["pink","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2025-15", "text":"Desbloqueado en el calendario\nN°15 - 2025"},
+        "releaseDate":"2025-06-05"
+    },
+    {
+        "groupId":9237, "zone":"torso_waistToKnee", "category":"dress", "security":"a8b31c7568419b72", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Celestial Prism",
+        "variations":[
+            {"id":9237, "colors":["multi","golden"]},
+            {"id":9238, "colors":["multi","silver"]},
+            {"id":9239, "colors":["black","red","silver"]},
+            {"id":9240, "colors":["golden","white"]},
+            {"id":9241, "colors":["golden","red"]},
+            {"id":9242, "colors":["purple","pink","golden"]},
+            {"id":9243, "colors":["blue","silver"]},
+            {"id":9244, "colors":["green","blue","silver"]},
+            {"id":9245, "colors":["golden","pink","yellow"]},
+            {"id":9246, "colors":["pink","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2025-15", "text":"Desbloqueado en el calendario\nN°15 - 2025"},
+        "releaseDate":"2025-06-05"
+    },
+    {
+        "groupId":9247, "zone":"arms", "category":"armAccessory", "security":"12388dfa23c7882b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Celestial Prism",
+        "variations":[
+            {"id":9247, "colors":["multi","golden"]},
+            {"id":9248, "colors":["multi","silver"]},
+            {"id":9249, "colors":["black","multi","silver"]},
+            {"id":9250, "colors":["white","golden"]},
+            {"id":9251, "colors":["golden","red"]},
+            {"id":9252, "colors":["golden","purple"]},
+            {"id":9253, "colors":["blue","silver"]},
+            {"id":9254, "colors":["green","blue","silver"]},
+            {"id":9255, "colors":["yellow","golden"]},
+            {"id":9256, "colors":["pink","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2025-15", "text":"Desbloqueado en el calendario\nN°15 - 2025"},
+        "releaseDate":"2025-06-05"
+    },
     {
         "groupId":9257, "zone":"face", "category":"neckAccessory", "security":"bc170ae257f40c30", "multiLayered":false, "layerBehavior":"normal",
         "name":"Collar",
@@ -15321,5 +15556,420 @@
             {"id":9356, "colors":["blue"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
         "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9357, "zone":"feet", "category":"shoes", "security":"a9f51febec8b1cf8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Mellow Stroll",
+        "variations":[
+            {"id":9358, "colors":["brown"]},
+            {"id":9359, "colors":["white"], "variationNumber":2},
+            {"id":9360, "colors":["black"], "variationNumber":3},
+            {"id":9361, "colors":["blue"], "variationNumber":4},
+            {"id":9362, "colors":["green"], "variationNumber":5},
+            {"id":9363, "colors":["purple"], "variationNumber":6},
+            {"id":9357, "colors":["pink"], "variationNumber":7},
+            {"id":9364, "colors":["brown","yellow"], "variationNumber":8},
+            {"id":9365, "colors":["red"], "variationNumber":9},
+            {"id":9366, "colors":["brown"], "variationNumber":10}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9367, "zone":"arms", "category":"armAccessory", "security":"3c84430ebee7eeb7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillo",
+        "outfitName":"Mellow Stroll",
+        "variations":[
+            {"id":9367, "colors":["brown","golden"]},
+            {"id":9368, "colors":["white","golden"]},
+            {"id":9369, "colors":["black","silver"]},
+            {"id":9370, "colors":["blue","silver"]},
+            {"id":9371, "colors":["green","golden"]},
+            {"id":9372, "colors":["purple","silver"]},
+            {"id":9373, "colors":["pink","golden"]},
+            {"id":9374, "colors":["yellow","golden"]},
+            {"id":9375, "colors":["orange","golden"]},
+            {"id":9376, "colors":["red","golden"]}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9377, "zone":"head", "category":"earring", "security":"afee15fd0db66f21", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Mellow Stroll",
+        "variations":[
+            {"id":9377, "colors":["brown","golden"]},
+            {"id":9378, "colors":["white","golden"]},
+            {"id":9379, "colors":["black","silver"]},
+            {"id":9380, "colors":["blue","silver"]},
+            {"id":9381, "colors":["green","golden"]},
+            {"id":9382, "colors":["purple","silver"]},
+            {"id":9383, "colors":["pink","golden"]},
+            {"id":9384, "colors":["yellow","golden"]},
+            {"id":9385, "colors":["orange","golden"]},
+            {"id":9386, "colors":["red","golden"]}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9387, "zone":"waistToKnee", "category":"skirt", "security":"525174a5b24d8a6a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Mellow Stroll",
+        "variations":[
+            {"id":9387, "colors":["red"]},
+            {"id":9388, "colors":["white"]},
+            {"id":9389, "colors":["black"]},
+            {"id":9390, "colors":["blue"]},
+            {"id":9391, "colors":["green"]},
+            {"id":9392, "colors":["purple"]},
+            {"id":9393, "colors":["pink"]},
+            {"id":9394, "colors":["brown","yellow"]},
+            {"id":9395, "colors":["orange"]},
+            {"id":9396, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9397, "zone":"torso", "category":"jacket", "security":"901c51846819583d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jersey",
+        "outfitName":"Mellow Stroll",
+        "variations":[
+            {"id":9397, "colors":["pink"]},
+            {"id":9398, "colors":["white"]},
+            {"id":9399, "colors":["black"]},
+            {"id":9400, "colors":["blue"]},
+            {"id":9401, "colors":["green"]},
+            {"id":9402, "colors":["purple"]},
+            {"id":9403, "colors":["red"]},
+            {"id":9404, "colors":["yellow"]},
+            {"id":9405, "colors":["orange"]},
+            {"id":9406, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9407, "zone":"arms", "category":"bag", "security":"6bd346416030a08f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Mellow Stroll",
+        "variations":[
+            {"id":9407, "colors":["brown","silver"]},
+            {"id":9408, "colors":["white","golden"]},
+            {"id":9409, "colors":["black","silver"]},
+            {"id":9410, "colors":["blue","silver"]},
+            {"id":9411, "colors":["green","golden"]},
+            {"id":9412, "colors":["purple","silver"]},
+            {"id":9413, "colors":["pink","golden"]},
+            {"id":9414, "colors":["brown","golden","yellow"]},
+            {"id":9415, "colors":["red","golden"]},
+            {"id":9416, "colors":["brown","golden"]}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9417, "zone":"face", "category":"neckAccessory", "security":"e7dd138af4c71867", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Perky Stroll",
+        "variations":[
+            {"id":9418, "colors":["pink","golden"]},
+            {"id":9419, "colors":["orange","silver"], "variationNumber":2},
+            {"id":9420, "colors":["black","silver"], "variationNumber":3},
+            {"id":9421, "colors":["white","golden"], "variationNumber":4},
+            {"id":9422, "colors":["green","silver"], "variationNumber":5},
+            {"id":9417, "colors":["red","golden"], "variationNumber":6},
+            {"id":9423, "colors":["blue","silver"], "variationNumber":7},
+            {"id":9424, "colors":["brown","silver"], "variationNumber":8},
+            {"id":9425, "colors":["purple","golden"], "variationNumber":9},
+            {"id":9426, "colors":["yellow","golden"], "variationNumber":10}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9427, "zone":"head", "category":"hat", "security":"a05ec327ce435369", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Prendedor",
+        "outfitName":"Perky Stroll",
+        "variations":[
+            {"id":9427, "colors":["pink","golden"]},
+            {"id":9428, "colors":["orange","silver"]},
+            {"id":9429, "colors":["black","silver"]},
+            {"id":9430, "colors":["white","golden"]},
+            {"id":9431, "colors":["green","silver"]},
+            {"id":9432, "colors":["red","golden"]},
+            {"id":9433, "colors":["blue","silver"]},
+            {"id":9434, "colors":["brown","silver"]},
+            {"id":9435, "colors":["purple","golden"]},
+            {"id":9436, "colors":["yellow","golden"]}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9437, "zone":"torso", "category":"top", "security":"4209c0a310f5b2c1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Perky Stroll",
+        "variations":[
+            {"id":9437, "colors":["green"]},
+            {"id":9438, "colors":["brown"]},
+            {"id":9439, "colors":["white"]},
+            {"id":9440, "colors":["black"]},
+            {"id":9441, "colors":["blue"]},
+            {"id":9442, "colors":["purple"]},
+            {"id":9443, "colors":["red"]},
+            {"id":9444, "colors":["yellow"]},
+            {"id":9445, "colors":["orange"]},
+            {"id":9446, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9447, "zone":"feet", "category":"shoes", "security":"66e3c353627e077c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Perky Stroll",
+        "variations":[
+            {"id":9447, "colors":["brown","yellow"]},
+            {"id":9448, "colors":["blue"]},
+            {"id":9449, "colors":["pink"]},
+            {"id":9450, "colors":["red"]},
+            {"id":9451, "colors":["orange"]},
+            {"id":9452, "colors":["yellow"]},
+            {"id":9453, "colors":["purple"]},
+            {"id":9454, "colors":["black"]},
+            {"id":9455, "colors":["green"]},
+            {"id":9456, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9457, "zone":"arms", "category":"bag", "security":"2548b10ec8bce2ca", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Perky Stroll",
+        "variations":[
+            {"id":9457, "colors":["white","brown"]},
+            {"id":9458, "colors":["blue"]},
+            {"id":9459, "colors":["pink"]},
+            {"id":9460, "colors":["red"]},
+            {"id":9461, "colors":["orange"]},
+            {"id":9462, "colors":["yellow"]},
+            {"id":9463, "colors":["purple"]},
+            {"id":9464, "colors":["black","grey"]},
+            {"id":9465, "colors":["green"]},
+            {"id":9466, "colors":["white","blue"]}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+    {
+        "groupId":9467, "zone":"waistToKnee", "category":"pants", "security":"7722d1631a950c0d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Perky Stroll",
+        "variations":[
+            {"id":9467, "colors":["brown","white"]},
+            {"id":9468, "colors":["blue"]},
+            {"id":9469, "colors":["pink"]},
+            {"id":9470, "colors":["red"]},
+            {"id":9471, "colors":["brown"]},
+            {"id":9472, "colors":["yellow"]},
+            {"id":9473, "colors":["purple"]},
+            {"id":9474, "colors":["black"]},
+            {"id":9475, "colors":["green"]},
+            {"id":9476, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
+        "releaseDate":"2025-05-30"
+    },
+
+    {
+        "groupId":9747, "zone":"feet", "category":"shoes", "security":"0ce3eccf3fde39b3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bailarinas",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9747, "colors":["white","silver"]},
+            {"id":9748, "colors":["black"]},
+            {"id":9749, "colors":["red","yellow","golden"]},
+            {"id":9750, "colors":["blue"]},
+            {"id":9751, "colors":["green"]},
+            {"id":9752, "colors":["pink"]},
+            {"id":9753, "colors":["brown"]},
+            {"id":9754, "colors":["purple"]},
+            {"id":9755, "colors":["yellow"]},
+            {"id":9756, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9757, "zone":"waistToKnee", "category":"skirt", "security":"a59027579bca67b0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9757, "colors":["white"]},
+            {"id":9758, "colors":["black"]},
+            {"id":9759, "colors":["red"]},
+            {"id":9760, "colors":["blue"]},
+            {"id":9761, "colors":["green"]},
+            {"id":9762, "colors":["pink"]},
+            {"id":9763, "colors":["brown"]},
+            {"id":9764, "colors":["purple"]},
+            {"id":9765, "colors":["yellow"]},
+            {"id":9766, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9767, "zone":"torso", "category":"top", "security":"3dd6cf7dd9090a75", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9767, "colors":["white"]},
+            {"id":9768, "colors":["black"]},
+            {"id":9769, "colors":["red"]},
+            {"id":9770, "colors":["blue"]},
+            {"id":9771, "colors":["green"]},
+            {"id":9772, "colors":["pink"]},
+            {"id":9773, "colors":["brown"]},
+            {"id":9774, "colors":["purple"]},
+            {"id":9775, "colors":["yellow"]},
+            {"id":9776, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9777, "zone":"torso_waistToKnee", "category":"waist", "security":"e9074164ebc6955c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9777, "colors":["silver"]},
+            {"id":9778, "colors":["white"]},
+            {"id":9779, "colors":["yellow","golden"]},
+            {"id":9780, "colors":["purple"]},
+            {"id":9781, "colors":["green"]},
+            {"id":9782, "colors":["red"]},
+            {"id":9783, "colors":["brown"]},
+            {"id":9784, "colors":["pink"]},
+            {"id":9785, "colors":["black"]},
+            {"id":9786, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9787, "zone":"face", "category":"neckAccessory", "security":"8c46bc5959f6e1f5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lazo",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9787, "colors":["white"]},
+            {"id":9788, "colors":["black"]},
+            {"id":9789, "colors":["red"]},
+            {"id":9790, "colors":["blue"]},
+            {"id":9791, "colors":["green"]},
+            {"id":9792, "colors":["pink"]},
+            {"id":9793, "colors":["brown"]},
+            {"id":9794, "colors":["purple"]},
+            {"id":9795, "colors":["yellow"]},
+            {"id":9796, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9797, "zone":"torso", "category":"jacket", "security":"f0577627bc729544", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Estola",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9797, "colors":["blue"]},
+            {"id":9798, "colors":["white"]},
+            {"id":9799, "colors":["black"]},
+            {"id":9800, "colors":["purple"]},
+            {"id":9801, "colors":["green"]},
+            {"id":9802, "colors":["red"]},
+            {"id":9803, "colors":["brown"]},
+            {"id":9804, "colors":["pink"]},
+            {"id":9805, "colors":["orange"]},
+            {"id":9806, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9807, "zone":"head", "category":"wig", "security":"b2c24cc19f5a0e3c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9807, "colors":["brown"]},
+            {"id":9808, "colors":["white"]},
+            {"id":9809, "colors":["black"]},
+            {"id":9810, "colors":["blue"]},
+            {"id":9811, "colors":["blue"]},
+            {"id":9812, "colors":["purple"]},
+            {"id":9813, "colors":["red"]},
+            {"id":9814, "colors":["yellow"]},
+            {"id":9815, "colors":["orange"]},
+            {"id":9816, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9817, "zone":"head", "category":"earring", "security":"9ad5689550aca1cf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9817, "colors":["silver"]},
+            {"id":9818, "colors":["white"]},
+            {"id":9819, "colors":["yellow","golden"]},
+            {"id":9820, "colors":["purple"]},
+            {"id":9821, "colors":["green"]},
+            {"id":9822, "colors":["red"]},
+            {"id":9823, "colors":["brown"]},
+            {"id":9824, "colors":["pink"]},
+            {"id":9825, "colors":["black"]},
+            {"id":9826, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9827, "zone":"head", "category":"hat", "security":"5a7a046bf422528d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Broche",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9827, "colors":["grey","silver","white"]},
+            {"id":9828, "colors":["silver","white"]},
+            {"id":9829, "colors":["golden","orange","yellow"]},
+            {"id":9830, "colors":["purple"]},
+            {"id":9831, "colors":["green"]},
+            {"id":9832, "colors":["red"]},
+            {"id":9833, "colors":["brown"]},
+            {"id":9834, "colors":["pink","purple"]},
+            {"id":9835, "colors":["black","grey"]},
+            {"id":9836, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9837, "zone":"general", "category":"other", "security":"013ea5df663b8e92", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Contrabajo",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9837, "colors":["brown","silver"]},
+            {"id":9838, "colors":["brown","silver"]},
+            {"id":9839, "colors":["black","silver"]},
+            {"id":9840, "colors":["white"]},
+            {"id":9841, "colors":["blue","silver"]},
+            {"id":9842, "colors":["brown","red","golden"]},
+            {"id":9843, "colors":["brown","golden"]},
+            {"id":9844, "colors":["pink","golden"]},
+            {"id":9845, "colors":["grey"]},
+            {"id":9846, "colors":["green", "silver"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9847, "zone":"arms", "category":"bag", "security":"79e5bf75ba39bb57", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Arco",
+        "outfitName":"Allegro Ensemble",
+        "variations":[
+            {"id":9847, "colors":["brown"]},
+            {"id":9848, "colors":["brown"]},
+            {"id":9849, "colors":["black"]},
+            {"id":9850, "colors":["white"]},
+            {"id":9851, "colors":["blue"]},
+            {"id":9852, "colors":["brown","red"]},
+            {"id":9853, "colors":["brown"]},
+            {"id":9854, "colors":["pink"]},
+            {"id":9855, "colors":["grey"]},
+            {"id":9856, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
+        "releaseDate":"2025-05-28"
     }
 ]

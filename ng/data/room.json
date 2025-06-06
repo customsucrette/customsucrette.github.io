@@ -744,7 +744,7 @@
         "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
     {
-        "id":115, "roomId":35, "slot":"slot2", "releaseDate":"2000", "light":false, "security":"3692deab4911c8f6",
+        "id":115, "roomId":35, "slot":"slot2", "releaseDate":"2024-12-04", "light":false, "security":"3692deab4911c8f6",
         "name":"Cama",
         "roomName":"Warm Winter",
         "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
@@ -756,13 +756,24 @@
         "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
     {
+        "id":123,
+        "name":"Paredes",
+        "roomName":"Quirky Pastels",
+        "roomId":37, "slot":"background", "releaseDate":"2025-05-30", "light":true, "security":"7089d75b0651ca70",
+        "criteria":{"type":"jobTask", "info":"Grapadora", "text":"Desbloqueado en la Misión del día\nGrapadora"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"F8CFEE","colorLight":"522801"},
+            "night":{"color1":"8CD3EA","color2":"CFC3E2","colorLight":"07757B"}
+        }
+    },
+    {
         "id":127, "roomId":37, "slot":"slot2", "releaseDate":"2000", "light":true, "security":"b9057d50c6878173",
         "name":"Sofá",
         "roomName":"Quirky Pastels",
         "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
     },
     {
-        "id":129, "roomId":38, "slot":"background", "releaseDate":"2000", "light":true, "security":"69ac0e599fab0a71",
+        "id":129, "roomId":38, "slot":"background", "releaseDate":"2025-02-05", "light":true, "security":"69ac0e599fab0a71",
         "name":"Paredes",
         "roomName":"Zen Vibes",
         "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"},
@@ -796,7 +807,13 @@
         "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
     },
     {
-        "id":137, "roomId":39, "slot":"slot4", "releaseDate":"2000", "light":true, "security":"dc58f23a27601c55",
+        "id":134, "roomId":38, "slot":"slot1", "releaseDate":"2025-05-30", "light":true, "security":"982ee7bff2a905ff",
+        "name":"Futón",
+        "roomName":"Zen Vibes",
+        "criteria":{"type":"jobTask", "info":"Grapadora", "text":"Desbloqueado en la Misión del día\nGrapadora"}
+    },
+    {
+        "id":137, "roomId":39, "slot":"slot4", "releaseDate":"2025-03-28", "light":true, "security":"dc58f23a27601c55",
         "name":"Terrario",
         "roomName":"Space Capsule",
         "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"}
@@ -813,6 +830,14 @@
         "roomName":"Space Capsule",
         "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
+
+    {
+        "id":143, "roomId":40, "slot":"slot4", "releaseDate":"2025-05-30", "light":false, "security":"57c06d83f2b6e33c",
+        "name":"Carro de servicio",
+        "roomName":"Dirty Garage",
+        "criteria":{"type":"jobTask", "info":"Grapadora", "text":"Desbloqueado en la Misión del día\nGrapadora"}
+    },
+
     {
         "id":145, "roomId":40, "slot":"slot2", "releaseDate":"2000", "light":true, "security":"8f4c9a885b455c6a",
         "name":"Sillón",
@@ -828,6 +853,12 @@
             "day":{"color1":"CCD9E7","color2":"9D9D9F","colorLight":"043D82"},
             "night":{"color1":"ECBF8F","color2":"7798C1","colorLight":"784A02"}
         }
+    },
+    {
+        "id":148, "roomId":41, "slot":"slot5", "releaseDate":"2025-05-30", "light":false, "security":"2665b1ba049f8272",
+        "name":"Sillón",
+        "roomName":"Rock n' Wild",
+        "criteria":{"type":"jobTask", "info":"Grapadora", "text":"Desbloqueado en la Misión del día\nGrapadora"}
     },
     {
         "id":149, "roomId":41, "slot":"slot4", "releaseDate":"2000", "light":false, "security":"4004f7a64599f7cc",
@@ -2293,5 +2324,47 @@
         "name":"Plantas aromáticas",
         "roomName":"Willow & Whisk",
         "criteria":{"type":"calendar", "info":"2025-14", "text":"Desbloqueado en el calendario\nN°14 - 2025"}
+    },
+
+    {
+        "id":396, "roomId":85, "slot":"background", "releaseDate":"2025-05-28", "light":true, "security":"3b78feb34e7242b3",
+        "name":"Paredes",
+        "roomName":"The Staccato Study",
+        "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor \n Allegro Ensemble"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"D7DCF1","colorLight":"084771"},
+            "night":{"color1":"A1BAF1","color2":"A9B6D6","colorLight":"1B5A8B"}
+        }
+    },
+
+    {
+        "id":397, "roomId":85, "slot":"slot1", "releaseDate":"2025-05-28", "light":false, "security":"8fe647e708eba2b3",
+        "name":"Vestidor",
+        "roomName":"The Staccato Study",
+        "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor \n Allegro Ensemble"}
+    },
+    {
+        "id":398, "roomId":85, "slot":"slot2", "releaseDate":"2025-05-28", "light":true, "security":"be1fe3f49229d58f",
+        "name":"Piano",
+        "roomName":"The Staccato Study",
+        "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor \n Allegro Ensemble"}
+    },
+    {
+        "id":399, "roomId":85, "slot":"slot4", "releaseDate":"2025-05-28", "light":false, "security":"34365e6ef93e4071",
+        "name":"Gramófono",
+        "roomName":"The Staccato Study",
+        "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor \n Allegro Ensemble"}
+    },
+    {
+        "id":400, "roomId":85, "slot":"slot5", "releaseDate":"2025-05-28", "light":false, "security":"bfd53b51f6c1358a",
+        "name":"Meridiana",
+        "roomName":"The Staccato Study",
+        "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor \n Allegro Ensemble"}
+    },
+    {
+        "id":401, "roomId":85, "slot":"slot3", "releaseDate":"2025-05-28", "light":true, "security":"7a1f490a6d247e2c",
+        "name":"Peluquera",
+        "roomName":"The Staccato Study",
+        "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor \n Allegro Ensemble"}
     }
 ]
