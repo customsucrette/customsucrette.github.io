@@ -7,7 +7,8 @@
                 "outfitName":null,
                 "variations":[
                     {"id":1, "colors":["black"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-04-17"
             },
             {
                 "groupId":3, "zone":"head", "category":"eyebrows", "security":"5ac817a2595a11df",
@@ -15,7 +16,8 @@
                 "outfitName":null,
                 "variations":[
                     {"id":3, "colors":["black"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-04-17"
             },
             {
                 "groupId":4, "zone":"head", "category":"eyebrows", "security":"4d992de25208858a",
@@ -23,7 +25,8 @@
                 "outfitName":null,
                 "variations":[
                     {"id":4, "colors":["black"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-04-17"
             },
             {
                 "groupId":5, "zone":"head", "category":"eyebrows", "security":"bd0e88a718ba4d01",
@@ -31,7 +34,8 @@
                 "outfitName":null,
                 "variations":[
                     {"id":5, "colors":["black"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-04-17"
             },
             {
                 "groupId":6, "zone":"head", "category":"eyebrows", "security":"8aee5185443be8ee",
@@ -39,7 +43,8 @@
                 "outfitName":null,
                 "variations":[
                     {"id":6, "colors":["black"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-04-17"
             },
             {
                 "groupId":7, "zone":"head", "category":"eyebrows", "security":"900edda5def34164",
@@ -56,7 +61,8 @@
                     {"id":14, "colors":["grey"]},
                     {"id":15, "colors":["blue"]},
                     {"id":16, "colors":["red"]}
-                ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+                ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+                "releaseDate":"2024-11-14"
             }
         
         ],
@@ -67,7 +73,8 @@
                 "outfitName":null,
                 "variations":[
                     {"id":1, "colors":["black"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-04-17"
             },
             {
                 "groupId":2, "zone":"face", "category":"eyes", "security":"db7fd47200fc5c1d",
@@ -84,7 +91,8 @@
                     {"id":9, "colors":["white"]},
                     {"id":10, "colors":["red"]},
                     {"id":11, "colors":["green"]}
-                ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
+                ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"},
+                "releaseDate":"2024-04-17"
             },
             {
                 "groupId":12, "zone":"face", "category":"eyes", "security":"43984a3df5d4c3d6",
@@ -92,7 +100,8 @@
                 "outfitName":"Infernal Embrace",
                 "variations":[
                     {"id":12, "colors":["black"]}
-                ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
+                ], "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+                "releaseDate":"2024-11-14"
             },
             {
                 "groupId":13, "zone":"face", "category":"eyes", "security":"9dc1f13ea41c0082",
@@ -109,7 +118,8 @@
                     {"id":20, "colors":["blue", "grey"]},
                     {"id":21, "colors":["yellow"]},
                     {"id":22, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
+                ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+                "releaseDate":"2024-11-14"
             },
             {
                 "groupId":23, "zone":"face", "category":"eyes", "security":"ae12ff46fc0cacb3",
@@ -126,7 +136,8 @@
                     {"id":31,"colors":["orange"]},
                     {"id":32, "colors":["pink"]},
                     {"id":33, "colors":["brown"]}
-                ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+                ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"},
+                "releaseDate":"2024-10-28"
             },
             {
                 "groupId":34, "zone":"face", "category":"eyes", "security":"ee42f6687908f8b8",
@@ -143,7 +154,8 @@
                     {"id":41, "colors":["brown"]},
                     {"id":42, "colors":["green"]},
                     {"id":43, "colors":["grey"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-11-06"
             },
             {
                 "groupId":44, "zone":"face", "category":"eyes", "security":"b0f8ca4fe95e73de",
@@ -160,7 +172,8 @@
                     {"id":51, "colors":["blue","purple"]},
                     {"id":52, "colors":["green"]},
                     {"id":53, "colors":["blue","pink"]}
-                ], "criteria":{"type":"pack", "info":"Blooming", "text":"Desbloqueado en el Pack exclusivo\nBlooming"}
+                ], "criteria":{"type":"pack", "info":"Blooming", "text":"Desbloqueado en el Pack exclusivo\nBlooming"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":54, "zone":"face", "category":"eyes", "security":"ffbe5d15d2679600",
@@ -177,7 +190,8 @@
                     {"id":61, "colors":["green"]},
                     {"id":62, "colors":["blue","purple"]},
                     {"id":63, "colors":["grey"]}
-                ], "criteria":{"type":"pack", "info":"Starry", "text":"Desbloqueado en el Pack exclusivo\nStarry"}
+                ], "criteria":{"type":"pack", "info":"Starry", "text":"Desbloqueado en el Pack exclusivo\nStarry"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":64, "zone":"face", "category":"eyes", "security":"9c8b4ab14b413398",
@@ -194,7 +208,8 @@
                     {"id":71, "colors":["white"]},
                     {"id":72, "colors":["black"]},
                     {"id":73, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "info":"Graphic", "text":"Desbloqueado en el Pack exclusivo\nGraphic"}
+                ], "criteria":{"type":"pack", "info":"Graphic", "text":"Desbloqueado en el Pack exclusivo\nGraphic"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":74, "zone":"face", "category":"eyes", "security":"cafa19ce5a0f3fd3",
@@ -211,7 +226,8 @@
                     {"id":81, "colors":["orange","white"]},
                     {"id":82, "colors":["blue","pink"]},
                     {"id":83, "colors":["blue","green"]}
-                ], "criteria":{"type":"pack", "info":"Artsy", "text":"Desbloqueado en el Pack exclusivo\nArtsy"}
+                ], "criteria":{"type":"pack", "info":"Artsy", "text":"Desbloqueado en el Pack exclusivo\nArtsy"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":84, "zone":"face", "category":"eyes", "security":"a77f37a97452a170",
@@ -219,7 +235,8 @@
                 "outfitName":"Nasalang",
                 "variations":[
                     {"id":84, "colors":["grey"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-04-17"
             },
             {
                 "groupId":85, "zone":"face", "category":"eyes", "security":"310ce50bdebed5eb",
@@ -236,7 +253,8 @@
                     {"id":92, "colors":["blue","green"]},
                     {"id":93, "colors":["white"]},
                     {"id":94, "colors":["black"]}
-                ], "criteria":{"type":"pack", "info":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"}
+                ], "criteria":{"type":"pack", "info":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":95, "zone":"face", "category":"eyes", "security":"e899275bad47dfc6",
@@ -253,7 +271,8 @@
                     {"id":102, "colors":["orange"]},
                     {"id":103, "colors":["black"]},
                     {"id":104, "colors":["white"]}
-                ], "criteria":{"type":"pack", "info":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"}
+                ], "criteria":{"type":"pack", "info":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":105, "zone":"face", "category":"eyes", "security":"c3815f7f7537ff16",
@@ -271,7 +290,8 @@
                     {"id":113, "colors":["white"]},
                     {"id":114, "colors":["orange"]},
                     {"id":115, "colors":["black"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2025-03-26"
             },
             {
                 "groupId":116, "zone":"face", "category":"eyes", "security":"8a2177c00755d196",
@@ -288,7 +308,8 @@
                     {"id":123, "colors":["brown"]},
                     {"id":124, "colors":["green"]},
                     {"id":125, "colors":["blue"]}
-                ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"}
+                ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado en el Pack exclusivo\nShattered Heart (San Valentín 2025)"},
+                "releaseDate":"2025-02-10"
             },
             {
                 "groupId":126, "zone":"face", "category":"eyes", "security":"5daa9f917bbea82f",
@@ -296,7 +317,8 @@
                 "outfitName":null,
                 "variations":[
                     {"id":126, "colors":["black","brown"]}
-                ], "criteria":{"type":"episode", "argument":"14", "text":"Desbloqueado en el episodio 14"}
+                ], "criteria":{"type":"episode", "info":"14", "text":"Desbloqueado en el episodio 14"},
+                "releaseDate":"2025-03-28"
             },
             {
                 "groupId":127, "zone":"face", "category":"eyes", "security":"54d7e5255feb2204",
@@ -313,7 +335,8 @@
                     {"id":134, "colors":["purple"]},
                     {"id":135, "colors":["blue"]},
                     {"id":136, "colors":["pink"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2025-03-26"
             },
             {
                 "groupId":137, "zone":"face", "category":"eyes", "security":"8044fe1bc7ddedb6",
@@ -402,7 +425,8 @@
                     {"id":6, "colors":["red"]},
                     {"id":7, "colors":["brown"]},
                     {"id":8, "colors":["black"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-04-17"
             },
             {
                 "groupId":41, "zone":"face", "category":"mouth", "security":"545cb910be3195d1",
@@ -419,7 +443,8 @@
                     {"id":48, "colors":["white"]},
                     {"id":49, "colors":["red"]},
                     {"id":50, "colors":["green"]}
-                ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"}
+                ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"},
+                "releaseDate":"2024-04-17"
             },
             {
                 "groupId":51, "zone":"face", "category":"mouth", "security":"fc2df9b8263560b8",
@@ -436,7 +461,8 @@
                     {"id":58,"colors":["orange"]},
                     {"id":59, "colors":["pink"]},
                     {"id":60, "colors":["brown"]}
-                ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
+                ], "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"},
+                "releaseDate":"2024-10-28"
             },
             {
                 "groupId":61, "zone":"face", "category":"mouth", "security":"bc55a9af41bb0d28",
@@ -453,7 +479,8 @@
                     {"id":68, "colors":["orange"]},
                     {"id":69, "colors":["green"]},
                     {"id":70, "colors":["white"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-11-06"
             },
             {
                 "groupId":71, "zone":"face", "category":"mouth", "security":"c7d3cadf196d38ce",
@@ -470,7 +497,8 @@
                     {"id":78, "colors":["black","blue"]},
                     {"id":79, "colors":["green"]},
                     {"id":80, "colors":["pink"]}
-                ], "criteria":{"type":"pack", "name":"Blooming", "text":"Desbloqueado en el Pack exclusivo\nBlooming"}
+                ], "criteria":{"type":"pack", "info":"Blooming", "text":"Desbloqueado en el Pack exclusivo\nBlooming"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":81, "zone":"face", "category":"mouth", "security":"53d415ea21249748",
@@ -487,7 +515,8 @@
                     {"id":88, "colors":["green"]},
                     {"id":89, "colors":["blue","purple"]},
                     {"id":90, "colors":["grey"]}
-                ], "criteria":{"type":"pack", "name":"Starry", "text":"Desbloqueado en el Pack exclusivo\nStarry"}
+                ], "criteria":{"type":"pack", "info":"Starry", "text":"Desbloqueado en el Pack exclusivo\nStarry"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":91, "zone":"face", "category":"mouth", "security":"b91fdaf867694d7b",
@@ -504,7 +533,8 @@
                     {"id":98, "colors":["white"]},
                     {"id":99, "colors":["black"]},
                     {"id":100, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "name":"Graphic", "text":"Desbloqueado en el Pack exclusivo\nGraphic"}
+                ], "criteria":{"type":"pack", "info":"Graphic", "text":"Desbloqueado en el Pack exclusivo\nGraphic"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":101, "zone":"face", "category":"mouth", "security":"a1cbdb89a3ec2d7f",
@@ -521,7 +551,8 @@
                     {"id":108, "colors":["white","yellow"]},
                     {"id":109, "colors":["blue","pink"]},
                     {"id":110, "colors":["blue","green"]}
-                ], "criteria":{"type":"pack", "name":"Artsy", "text":"Desbloqueado en el Pack exclusivo\nArtsy"}
+                ], "criteria":{"type":"pack", "info":"Artsy", "text":"Desbloqueado en el Pack exclusivo\nArtsy"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":111, "zone":"face", "category":"mouth", "security":"c328d2b5b887e493",
@@ -538,7 +569,8 @@
                     {"id":118, "colors":["pink"]},
                     {"id":119, "colors":["black","brown"]},
                     {"id":120, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "name":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"}
+                ], "criteria":{"type":"pack", "info":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":121, "zone":"face", "category":"mouth", "security":"abd51b7f3afb0884",
@@ -555,7 +587,8 @@
                     {"id":128, "colors":["unknown"]},
                     {"id":129, "colors":["unknown"]},
                     {"id":130, "colors":["unknown"]}
-                ], "criteria":null
+                ], "criteria":null,
+                "releaseDate":"2024-04-17"
                 
             },
             {
@@ -573,7 +606,8 @@
                     {"id":138, "colors":["red","yellow"]},
                     {"id":139, "colors":["grey","pink"]},
                     {"id":140, "colors":["pink","yellow"]}
-                ], "criteria":{"type":"pack", "name":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"}
+                ], "criteria":{"type":"pack", "info":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"},
+                "releaseDate":"2024-11-20"
             },
             {
                 "groupId":141, "zone":"face", "category":"mouth", "security":"9aed8576a4d41d52",
@@ -688,7 +722,7 @@
         ["AS_Mid_High", "N_HalfOpen_FrontLook", "N_Closed"],
         ["H_Mid", "N_Closed_Open_FrontLook", "H_Closed"],
         ["S_Mid", "N_Closed", "S_HalfOpen"],
-        ["S_Mid", "H_HalfOpen_FrontLook_efxTears", "S_Closed"],
+        ["S_Mid", "H_HalfOpen_FrontLook", "S_Closed"],
         ["A_Mid", "N_Open_FrontLook", "S_Closed"],
         ["A_Mid", "H_Open_FrontLook", "S_Closed"]
     ]

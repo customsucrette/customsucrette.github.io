@@ -1,86 +1,86 @@
 [
     {
-        "id":1, "security":"4a89eb83fc720162", "releaseDate":"2000", "name":"Energized",
+        "id":1, "security":"4a89eb83fc720162", "releaseDate":"2024-04-17", "name":"Energized",
         "criteria":{"type":"pack", "info":"Energized", "text":"Desbloqueado en el Pack exclusivo\nEnergized"}
     },
     {
-        "id":2, "security":"2f24112b3b80b9c3", "releaseDate":"2000", "name":"Worky Worky",
+        "id":2, "security":"2f24112b3b80b9c3", "releaseDate":"2024-04-17", "name":"Worky Worky",
         "criteria":{"type":"episode", "info":"01", "text":"Desbloqueado en el episodio 01"}
     },
     {
-        "id":3, "security":"72cf5f2a0a3fefa6", "releaseDate":"2000", "name":"Hippie Love",
+        "id":3, "security":"72cf5f2a0a3fefa6", "releaseDate":"2024-04-17", "name":"Hippie Love",
         "criteria":null
     },
     {
-        "id":4, "security":"a9c87ff8f9e91bf8", "releaseDate":"2000", "name":"Coffee Helper",
+        "id":4, "security":"a9c87ff8f9e91bf8", "releaseDate":"2024-04-17", "name":"Coffee Helper",
         "criteria":null
     },
     {
-        "id":5, "security":"fa6409d630667f4c", "releaseDate":"2000", "name":"Marshmallow Fluff",
+        "id":5, "security":"fa6409d630667f4c", "releaseDate":"2024-04-17", "name":"Marshmallow Fluff",
         "criteria":{"type":"pack", "info":"Marshmallow Fluff", "text":"Desbloqueado en el Pack exclusivo\nMarshmallow Fluff"}
     },
     {
-        "id":6, "security":"4f1763bfac0310b0", "releaseDate":"2000", "name":"Spiky Wit",
+        "id":6, "security":"4f1763bfac0310b0", "releaseDate":"2024-04-17", "name":"Spiky Wit",
         "criteria":{"type":"pack", "info":"Spiky Wit", "text":"Desbloqueado en el Pack exclusivo\nSpiky Wit"}
     },
     {
-        "id":7, "security":"0cbe9bc2d2a31e6b", "releaseDate":"2000", "name":"Elven Call",
+        "id":7, "security":"0cbe9bc2d2a31e6b", "releaseDate":"2024-04-17", "name":"Elven Call",
         "criteria":{"type":"pack", "info":"Elven Call", "text":"Desbloqueado en el Pack exclusivo\nElven Call"}
     },
     {
-        "id":8, "security":"53cdb018f224fc1b", "releaseDate":"2000", "name":"Quiet Reading",
+        "id":8, "security":"53cdb018f224fc1b", "releaseDate":"2024-04-17", "name":"Quiet Reading",
         "criteria":{"type":"pack", "info":"Quiet Reading", "text":"Desbloqueado en el Pack exclusivo\nQuiet Reading"}
     },
     {
-        "id":9, "security":"095a85859e1cba7e", "releaseDate":"2000", "name":"Fairycore",
+        "id":9, "security":"095a85859e1cba7e", "releaseDate":"2024-04-17", "name":"Fairycore",
         "criteria":{"type":"pack", "info":"Fairycore", "text":"Desbloqueado en el Pack exclusivo\nFairycore"}
     },
     {
-        "id":10, "security":"1cb89aed1e331dd3", "releaseDate":"2000", "name":"Pizza Delivery Goose",
+        "id":10, "security":"1cb89aed1e331dd3", "releaseDate":"2024-04-17", "name":"Pizza Delivery Goose",
         "criteria":{"type":"episode", "info":"02", "text":"Desbloqueado en el episodio 02"}
     },
     {
-        "id":11, "security":"24a24f8194dfe1c6", "releaseDate":"2000", "name":"Pwetty Flawer",
+        "id":11, "security":"24a24f8194dfe1c6", "releaseDate":"2024-05-08", "name":"Pwetty Flawer",
         "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"}
     },
     {
-        "id":12, "security":"d211a2b7e2c92af3", "releaseDate":"2000", "name":"Alluring Feathers",
+        "id":12, "security":"d211a2b7e2c92af3", "releaseDate":"2024-06-05", "name":"Alluring Feathers",
         "criteria":{"type":"episode", "info":"04", "text":"Desbloqueado en el episodio 04"}
     },
     {
-        "id":13, "security":"aa49a4367d4c9385", "releaseDate":"2000", "name":"¡Todos a cubierta!",
+        "id":13, "security":"aa49a4367d4c9385", "releaseDate":"2024-07-03", "name":"¡Todos a cubierta!",
         "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"}
     },
     {
-        "id":14, "security":"01ee6f26d320e08c", "releaseDate":"2000", "name":"It Floats",
+        "id":14, "security":"01ee6f26d320e08c", "releaseDate":"2024-08-07", "name":"It Floats",
         "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"}
     },
     {
-        "id":16, "security":"73198dac52050a52", "releaseDate":"2000", "name":"On and Off, and On, and Off, and...",
+        "id":16, "security":"73198dac52050a52", "releaseDate":"2024-09-04", "name":"On and Off, and On, and Off, and...",
         "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"}
     },
     {
-        "id":17, "security":"a5219fdf5ad054a1", "releaseDate":"2000", "name":"Splashy Splash",
+        "id":17, "security":"a5219fdf5ad054a1", "releaseDate":"2024-10-02", "name":"Splashy Splash",
         "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"}
     },
     {
-        "id":18, "security":"4e23470e302228a9", "releaseDate":"2000", "name":"Lady Regency",
+        "id":18, "security":"4e23470e302228a9", "releaseDate":"2024-04-17", "name":"Lady Regency",
         "criteria":{"type":"pack", "info":"Lady Regency", "text":"Desbloqueado en el Pack exclusivo\nLady Regency"}
     },
     {
-        "id":19, "security":"39881ea8bf10e6be", "releaseDate":"2000", "name":"Plastic Life",
+        "id":19, "security":"39881ea8bf10e6be", "releaseDate":"2024-04-17", "name":"Plastic Life",
         "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo\nPlastic Life"}
     },
     {
-        "id":20, "security":"cbf8946ff8b4824c", "releaseDate":"2000", "name":"Foggy Mystery",
+        "id":20, "security":"cbf8946ff8b4824c", "releaseDate":"2024-04-17", "name":"Foggy Mystery",
         "criteria":{"type":"pack", "info":"Foggy Mystery", "text":"Desbloqueado en el Pack exclusivo\nFoggy Mystery"}
     },
     {
-        "id":21, "security":"11d979f6cf9ac456", "releaseDate":"2000", "name":"Aren't We All a Bit Mad Here?",
+        "id":21, "security":"11d979f6cf9ac456", "releaseDate":"2024-04-17", "name":"Aren't We All a Bit Mad Here?",
         "criteria":{"type":"pack", "info":"Aren't We All a Bit Mad Here?", "text":"Desbloqueado en el Pack exclusivo\nAren't We All a Bit Mad Here?"}
     },
     {
-        "id":22, "security":"fdeffffbe5d1526a", "releaseDate":"2000", "name":"Toot Tooooot!",
+        "id":22, "security":"fdeffffbe5d1526a", "releaseDate":"2024-04-17", "name":"Toot Tooooot!",
         "criteria":null
     },
     {
@@ -92,19 +92,19 @@
         "criteria":{"type":"episode", "info":"11", "text":"Desbloqueado en el episodio 11"}
     },
     {
-        "id":25, "security":"e54fe4ac642a1ea7", "releaseDate":"2000", "name":"ROARRR",
+        "id":25, "security":"e54fe4ac642a1ea7", "releaseDate":"2024-11-06", "name":"ROARRR",
         "criteria":{"type":"episode", "info":"09", "text":"Desbloqueado en el episodio 09"}
     },
     {
-        "id":26, "security":"fc0bb99b60d8628a", "releaseDate":"2000", "name":"Vroom Vroom",
+        "id":26, "security":"fc0bb99b60d8628a", "releaseDate":"2024-12-04", "name":"Vroom Vroom",
         "criteria":{"type":"episode", "info":"10", "text":"Desbloqueado en el episodio 10"}
     },
     {
-        "id":27, "security":"699a1c9ef0887c7c", "releaseDate":"2000", "name":"D.B. Gooser",
+        "id":27, "security":"699a1c9ef0887c7c", "releaseDate":"2024-06-26", "name":"D.B. Gooser",
         "criteria":null
     },
     {
-        "id":28, "security":"aa5af98de442d3b6", "releaseDate":"2000", "name":"Goose Game",
+        "id":28, "security":"aa5af98de442d3b6", "releaseDate":"2024-09-16", "name":"Goose Game",
         "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
@@ -112,31 +112,31 @@
         "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
     },
     {
-        "id":31, "security":"2084937288975e20", "releaseDate":"2000", "name":"Belt of Venus",   
+        "id":31, "security":"2084937288975e20", "releaseDate":"2024-08-19", "name":"Belt of Venus",   
         "criteria":null
     },
     {
-        "id":32, "security":"c6d27f6311dc6322", "releaseDate":"2000", "name":"ZEvent 2024",
+        "id":32, "security":"c6d27f6311dc6322", "releaseDate":"2024-09-06", "name":"ZEvent 2024",
         "criteria":null
     },
     {
-        "id":33, "security":"8a3d9f621883a320", "releaseDate":"2000", "name":"Honk or Treat",
+        "id":33, "security":"8a3d9f621883a320", "releaseDate":"2024-10-21", "name":"Honk or Treat",
         "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado durante el evento\nHalloween 2024"}
     },
     {
-        "id":34, "security":"fccccd016088757e", "releaseDate":"2000", "name":"Careful, I bite",
+        "id":34, "security":"fccccd016088757e", "releaseDate":"2024-10-28", "name":"Careful, I bite",
         "criteria":{"type":"gameEvent", "info":"halloween-2024", "text":"Desbloqueado en el Pack exclusivo\nSharp Countess (Halloween 2024)"}
     },
     {
-        "id":35, "security":"f4b08bd1fe857d30", "releaseDate":"2000", "name":"Robin Goose",
+        "id":35, "security":"f4b08bd1fe857d30", "releaseDate":"2024-11-29", "name":"Robin Goose",
         "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"}
     },
     {
-        "id":36, "security":"01d59c6343aa0c3b", "releaseDate":"2000", "name":"Do You Want to Build a Snowgoose?",
+        "id":36, "security":"01d59c6343aa0c3b", "releaseDate":"2024-12-19", "name":"Do You Want to Build a Snowgoose?",
         "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado en el Pack exclusivo\nFrosty Sovereign (Navidad 2024)"}
     },
     {
-        "id":37, "security":"5d5d57ba51557dc0", "releaseDate":"2000", "name":"Divine Blessing",
+        "id":37, "security":"5d5d57ba51557dc0", "releaseDate":"2023-11-14", "name":"Divine Blessing",
         "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"}
     },
     {
@@ -144,23 +144,23 @@
         "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"}
     },
     {
-        "id":39, "security":"9895e4c5644a6b5a", "releaseDate":"2000", "name":"Infernal Embrace",
+        "id":39, "security":"9895e4c5644a6b5a", "releaseDate":"2023-11-14", "name":"Infernal Embrace",
         "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"}
     },
     {
-        "id":40, "security":"483115d60bd45f42", "releaseDate":"2000", "name":"Alien Ambassador",
+        "id":40, "security":"483115d60bd45f42", "releaseDate":"2023-11-14", "name":"Alien Ambassador",
         "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"}
     },
     {
-        "id":41, "security":"2ff2c5d338d28eaa", "releaseDate":"2000", "name":"La Goosina",
+        "id":41, "security":"2ff2c5d338d28eaa", "releaseDate":"2024-11-06", "name":"La Goosina",
         "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"}
     },
     {
-        "id":42, "security":"2d874190e665598e", "releaseDate":"2000", "name":"Tangloose",
+        "id":42, "security":"2d874190e665598e", "releaseDate":"2025-01-12", "name":"Tangloose",
         "criteria":{"type":"gameEvent", "info":"christmas-2024", "text":"Desbloqueado durante el evento\nNavidad 2024"}
     },
     {
-        "id":43, "security":"86735789be2a0393", "releaseDate":"2000", "name":"Graoose",
+        "id":43, "security":"86735789be2a0393", "releaseDate":"2024-12-27", "name":"Graoose",
         "criteria":{"type":"gauge", "info":"Silks of Dawn", "text":"Desbloqueado en el evento de medidor\nSilks of Dawn"}
     },
     {
