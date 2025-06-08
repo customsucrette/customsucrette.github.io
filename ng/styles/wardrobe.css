@@ -1439,14 +1439,19 @@ asng-cloth-list-panel .empty p {
 
 .asng-cloth .locked, .asng-room-item .locked, .asng-pet-outfit-item .locked {
     position: absolute;
-    bottom: -13px;
-    left: -12px;
+    bottom: -11px;
+    left: -10px;
     -webkit-user-select: none;
     user-select: none;
     background-color: #38c1b4;
     border-radius: 100%;
-    width: 32px;
-    height: 32px;
+    width: 28px;
+    height: 28px;
+}
+
+.item img.locked {
+    bottom: -3px;
+    left: -8px;
 }
 
 .clothes .asng-cloth {
