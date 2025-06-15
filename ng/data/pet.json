@@ -240,5 +240,9 @@
     {
         "id":64, "security":"98c75d63291c5309", "releaseDate":"2025-05-28", "name":"Goosevanni",
         "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"}
+    },
+    {
+        "id":65, "security":"d2b102ae04626434", "releaseDate":"2025-06-15", "name":"Devon's Influence",
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     }
 ]

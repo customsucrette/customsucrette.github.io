@@ -2366,5 +2366,50 @@
         "name":"Peluquera",
         "roomName":"The Staccato Study",
         "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"}
+    },
+    {
+        "id":402, "roomId":86, "slot":"background", "releaseDate":"2025-06-15", "light":true, "security":"9beb42d0f3136bb2",
+        "name":"Paredes",
+        "roomName":"Devon's Touch",
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"E2DED3","colorLight":"2F3F83"},
+            "night":{"color1":"83B1ED","color2":"B7BCC4","colorLight":"376C9A"}
+        }
+    },
+    {
+        "id":403, "roomId":86, "slot":"slot1", "releaseDate":"2025-06-15", "light":true, "security":"b308bd7b0c90ac70",
+        "name":"Escritorio",
+        "roomName":"Devon's Touch",
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "backgroundColors":null
+    },
+    {
+        "id":404, "roomId":86, "slot":"slot2", "releaseDate":"2025-06-15", "light":true, "security":"e4d688d15badeaea",
+        "name":"Cama",
+        "roomName":"Devon's Touch",
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "backgroundColors":null
+    },
+    {
+        "id":405, "roomId":86, "slot":"slot3", "releaseDate":"2025-06-15", "light":true, "security":"ce59b78b3d74d90f",
+        "name":"Sillón",
+        "roomName":"Devon's Touch",
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "backgroundColors":null
+    },
+    {
+        "id":406, "roomId":86, "slot":"slot4", "releaseDate":"2025-06-15", "light":false, "security":"32913d8aa8f4f233",
+        "name":"Vestidor",
+        "roomName":"Devon's Touch",
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "backgroundColors":null
+    },
+    {
+        "id":407, "roomId":86, "slot":"slot5", "releaseDate":"2025-06-15", "light":false, "security":"91ed42ba8c8d3eba",
+        "name":"Mesa baja",
+        "roomName":"Devon's Touch",
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "backgroundColors":null
     }
 ]

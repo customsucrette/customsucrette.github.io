@@ -15962,5 +15962,186 @@
             {"id":9856, "colors":["green"]}
         ], "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"},
         "releaseDate":"2025-05-28"
+    },
+    {
+        "groupId":9858, "zone":"arms", "category":"armAccessory", "security":"c73c8cf4743c3813", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Reloj de pulsera",
+        "outfitName":"Devon's Vibe",
+        "variations":[
+            {"id":9858, "colors":["blue"]},
+            {"id":9859, "colors":["black"]},
+            {"id":9860, "colors":["white"]},
+            {"id":9861, "colors":["red"]},
+            {"id":9862, "colors":["green"]},
+            {"id":9863, "colors":["yellow"]},
+            {"id":9864, "colors":["pink"]},
+            {"id":9865, "colors":["orange"]},
+            {"id":9866, "colors":["brown"]},
+            {"id":9867, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "releaseDate":"2025-06-15"
+    },
+    {
+        "groupId":9868, "zone":"feet", "category":"socks", "security":"7c87a7110171b501", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Devon's Vibe",
+        "variations":[
+            {"id":9868, "colors":["blue","brown"]},
+            {"id":9869, "colors":["yellow","black"]},
+            {"id":9870, "colors":["red","white"]},
+            {"id":9871, "colors":["red","blue"]},
+            {"id":9872, "colors":["green","black"]},
+            {"id":9873, "colors":["brown","yellow"]},
+            {"id":9874, "colors":["pink","purple"]},
+            {"id":9875, "colors":["orange","grey"]},
+            {"id":9876, "colors":["green","brown"]},
+            {"id":9877, "colors":["pink","purple"]}
+        ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "releaseDate":"2025-06-15"
+    },
+    {
+        "groupId":9878, "zone":"feet", "category":"shoes", "security":"bffb2998a37f6637", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Deportivas",
+        "outfitName":"Devon's Vibe",
+        "variations":[
+            {"id":9878, "colors":["white","multi"]},
+            {"id":9879, "colors":["yellow","multi"]},
+            {"id":9880, "colors":["red","multi"]},
+            {"id":9881, "colors":["blue","multi"]},
+            {"id":9882, "colors":["black","multi"]},
+            {"id":9883, "colors":["brown","multi"]},
+            {"id":9884, "colors":["purple","multi"]},
+            {"id":9885, "colors":["grey","multi"]},
+            {"id":9886, "colors":["green","multi"]},
+            {"id":9887, "colors":["pink","multi"]}
+        ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "releaseDate":"2025-06-15"
+    },
+    {
+        "groupId":9888, "zone":"torso", "category":"top", "security":"5e1beb6be8372b12", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Devon's Vibe",
+        "variations":[
+            {"id":9888, "colors":["white"]},
+            {"id":9889, "colors":["yellow"]},
+            {"id":9890, "colors":["red"]},
+            {"id":9891, "colors":["blue"]},
+            {"id":9892, "colors":["black"]},
+            {"id":9893, "colors":["brown"]},
+            {"id":9894, "colors":["purple"]},
+            {"id":9895, "colors":["grey"]},
+            {"id":9896, "colors":["green"]},
+            {"id":9897, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "releaseDate":"2025-06-15"
+    },
+    {
+        "groupId":9898, "zone":"waistToKnee", "category":"pants", "security":"bd4a0149cb40084d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Devon's Vibe",
+        "variations":[
+            {"id":9898, "colors":["blue"]},
+            {"id":9899, "colors":["black"]},
+            {"id":9900, "colors":["white"]},
+            {"id":9901, "colors":["red"]},
+            {"id":9902, "colors":["green"]},
+            {"id":9903, "colors":["yellow"]},
+            {"id":9904, "colors":["pink"]},
+            {"id":9905, "colors":["orange"]},
+            {"id":9906, "colors":["brown"]},
+            {"id":9907, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "releaseDate":"2025-06-15"
+    },
+    {
+        "groupId":9908, "zone":"torso", "category":"jacket", "security":"1b7ba3c136810e09", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Devon's Vibe",
+        "variations":[
+            {"id":9908, "colors":["blue"]},
+            {"id":9909, "colors":["black"]},
+            {"id":9910, "colors":["white"]},
+            {"id":9911, "colors":["red"]},
+            {"id":9912, "colors":["green"]},
+            {"id":9913, "colors":["yellow"]},
+            {"id":9914, "colors":["pink"]},
+            {"id":9915, "colors":["orange"]},
+            {"id":9916, "colors":["brown"]},
+            {"id":9917, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "releaseDate":"2025-06-15"
+    },
+    {
+        "groupId":9918, "zone":"head", "category":"faceAccessory", "security":"11346beda45bb55b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Devon's Vibe",
+        "variations":[
+            {"id":9918, "colors":["brown"]},
+            {"id":9919, "colors":["yellow"]},
+            {"id":9920, "colors":["red"]},
+            {"id":9921, "colors":["blue"]},
+            {"id":9922, "colors":["black"]},
+            {"id":9923, "colors":["white"]},
+            {"id":9924, "colors":["purple"]},
+            {"id":9925, "colors":["grey"]},
+            {"id":9926, "colors":["green"]},
+            {"id":9927, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "releaseDate":"2025-06-15"
+    },
+    {
+        "groupId":9928, "zone":"head", "category":"wig", "security":"528b66170f49a4b5", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Devon's Vibe",
+        "variations":[
+            {"id":9928, "colors":["black","brown"]},
+            {"id":9929, "colors":["black","brown"]},
+            {"id":9930, "colors":["black","white"]},
+            {"id":9931, "colors":["black"]},
+            {"id":9932, "colors":["black","blue"]},
+            {"id":9933, "colors":["black","blue"]},
+            {"id":9934, "colors":["black","purple"]},
+            {"id":9935, "colors":["black","red"]},
+            {"id":9936, "colors":["black","yellow"]},
+            {"id":9937, "colors":["black","orange"]},
+            {"id":9938, "colors":["black","pink"]}
+        ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "releaseDate":"2025-06-15"
+    },
+    {
+        "groupId":9939, "zone":"arms", "category":"bag", "security":"87c944243197e2d9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vaso",
+        "outfitName":"Devon's Vibe",
+        "variations":[
+            {"id":9939, "colors":["red"]},
+            {"id":9940, "colors":["blue"]},
+            {"id":9941, "colors":["yellow"]},
+            {"id":9942, "colors":["purple"]},
+            {"id":9943, "colors":["white"]},
+            {"id":9944, "colors":["pink"]},
+            {"id":9945, "colors":["brown"]},
+            {"id":9946, "colors":["black"]},
+            {"id":9947, "colors":["green"]},
+            {"id":9948, "colors":["blue","green"]}
+        ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "releaseDate":"2025-06-15"
+    },
+    {
+        "groupId":9949, "zone":"arms", "category":"bag", "security":"cd796fe1c03fadc7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Proyectos",
+        "outfitName":"Devon's Vibe",
+        "variations":[
+            {"id":9949, "colors":["red"]},
+            {"id":9950, "colors":["blue"]},
+            {"id":9951, "colors":["yellow"]},
+            {"id":9952, "colors":["purple"]},
+            {"id":9953, "colors":["white"]},
+            {"id":9954, "colors":["pink"]},
+            {"id":9955, "colors":["brown"]},
+            {"id":9956, "colors":["black"]},
+            {"id":9957, "colors":["green"]},
+            {"id":9958, "colors":["blue","green"]}
+        ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
+        "releaseDate":"2025-06-15"
     }
 ]
