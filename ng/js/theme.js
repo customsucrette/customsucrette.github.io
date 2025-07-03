@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $(".version").text("v1.6.7");
+    $(".version").text("v1.6.9");
 });
 
 function currentPage(name) {

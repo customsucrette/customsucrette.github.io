@@ -872,18 +872,19 @@ function removeItem(z) {
                 sucrette.orderInfo.splice(z, 1);
                 $(".avatar-canvas").eq(z).remove();
             };
-
-            if (c == "wig") {
-                // añadir hair
-                sucrette.orderInfo.push({"category":"hair", "layer":"back", "value":"auto"});
-                drawSucrette(cr, "new");
-                sucrette.orderInfo.push({"category":"hair", "layer":"front", "value":"auto"});
-                drawSucrette(cr, "new");
-            };
+            
         };
-
-        drawZIndex();
     };
+
+    if (c == "wig") {
+        // añadir hair
+        sucrette.orderInfo.push({"category":"hair", "layer":"back", "value":"auto"});
+        drawSucrette(cr, "new");
+        sucrette.orderInfo.push({"category":"hair", "layer":"front", "value":"auto"});
+        drawSucrette(cr, "new");
+    };
+
+    drawZIndex();
 }
 
 function resetSucrette() {
@@ -1334,10 +1335,18 @@ $(function () {
         
         if (c == "eyebrows" || c == "eyes" || c == "wig" || c == "mouth" || c == "underwear" || c == "skin") {
             // Categorías únicas
-            $(".item-outline").removeClass("equipped");
+            // Comprobar si el item seleccionado ya está puesto
+            let clase = $(this).find(".item-outline").attr("class");
+            
+            if (!clase.includes("equipped") || c == "skin" || c == "wig") {
+                $(".item-outline").removeClass("equipped");
+            };
 
         } else if ($(this).parent().attr("class") == "declinations-panel") {
             $(".declinations-panel .item-outline").removeClass("equipped");
+
+        } else {
+            $(this).find(".item-outline").removeClass("equipped");
         };
 
         if (checkCurrentItems(s)) {
