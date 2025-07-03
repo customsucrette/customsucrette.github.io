@@ -81,5 +81,11 @@
     {"id":194, "crushName":"Jason", "security":"bdb20ab43fb89c2d"},
 
     {"id":202, "crushName":"Amanda", "security":"506b3d49a20ab183"},
-    {"id":203, "crushName":"Jason", "security":"e9b342715149254a"}
+    {"id":203, "crushName":"Jason", "security":"e9b342715149254a"},
+    
+    {"id":218, "crushName":"Roy", "security":"6ac6396e007174b9"},
+    {"id":219, "crushName":"Amanda", "security":"77e6e27449b770e5"},
+    {"id":220, "crushName":"Devon", "security":"7194dff461bd8ebc"},
+    {"id":221, "crushName":"Thomas", "security":"07389cb9b890a92a"},
+    {"id":222, "crushName":"Jason", "security":"5f81363ad89b2ea9"}
 ]

@@ -8920,6 +8920,156 @@
         ], "criteria":{"type":"calendar", "info":"2024-5", "text":"Desbloqueado en el calendario\nN°05 - 2024"},
         "releaseDate":"2024-08-13"
     },
+
+
+    {
+        "groupId":5434, "zone":"general", "category":"tattoo", "security":"1afb81521f8f47cf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Summer Saver",
+        "variations":[
+            {"id":5434, "colors":["multi","pink","blue"]},
+            {"id":5435, "colors":["undefined"]},
+            {"id":5436, "colors":["undefined"]},
+            {"id":5437, "colors":["undefined"]},
+            {"id":5438, "colors":["undefined"]},
+            {"id":5439, "colors":["undefined"]},
+            {"id":5440, "colors":["undefined"]},
+            {"id":5441, "colors":["undefined"]},
+            {"id":5442, "colors":["undefined"]},
+            {"id":5443, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-03"
+    },
+    {
+        "groupId":5444, "zone":"general", "category":"other", "security":"a56dbceb69cdf721", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flotador",
+        "outfitName":"Summer Saver",
+        "variations":[
+            {"id":5444, "colors":["red"]},
+            {"id":5445, "colors":["undefined"]},
+            {"id":5446, "colors":["undefined"]},
+            {"id":5447, "colors":["undefined"]},
+            {"id":5448, "colors":["undefined"]},
+            {"id":5449, "colors":["undefined"]},
+            {"id":5450, "colors":["undefined"]},
+            {"id":5451, "colors":["undefined"]},
+            {"id":5452, "colors":["undefined"]},
+            {"id":5453, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-03"
+    },
+    {
+        "groupId":5454, "zone":"torso_waistToKnee", "category":"underwear", "security":"e1283f8720210aab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maillot",
+        "outfitName":"Summer Saver",
+        "variations":[
+            {"id":5454, "colors":["red"]},
+            {"id":5455, "colors":["undefined"]},
+            {"id":5456, "colors":["undefined"]},
+            {"id":5457, "colors":["undefined"]},
+            {"id":5458, "colors":["undefined"]},
+            {"id":5459, "colors":["undefined"]},
+            {"id":5460, "colors":["undefined"]},
+            {"id":5461, "colors":["undefined"]},
+            {"id":5462, "colors":["undefined"]},
+            {"id":5463, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-03"
+    },
+    {
+        "groupId":5464, "zone":"torso", "category":"jacket", "security":"61d8374fe962c812", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Summer Saver",
+        "variations":[
+            {"id":5464, "colors":["red","blue"]},
+            {"id":5465, "colors":["undefined"]},
+            {"id":5466, "colors":["undefined"]},
+            {"id":5467, "colors":["undefined"]},
+            {"id":5468, "colors":["undefined"]},
+            {"id":5469, "colors":["undefined"]},
+            {"id":5470, "colors":["undefined"]},
+            {"id":5471, "colors":["undefined"]},
+            {"id":5472, "colors":["undefined"]},
+            {"id":5473, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-03"
+    },
+    {
+        "groupId":5474, "zone":"face", "category":"neckAccessory", "security":"3b8ee290fd61f9d2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Silbato",
+        "outfitName":"Summer Saver",
+        "variations":[
+            {"id":5474, "colors":["golden"]},
+            {"id":5475, "colors":["undefined"]},
+            {"id":5476, "colors":["undefined"]},
+            {"id":5477, "colors":["undefined"]},
+            {"id":5478, "colors":["undefined"]},
+            {"id":5479, "colors":["undefined"]},
+            {"id":5480, "colors":["undefined"]},
+            {"id":5481, "colors":["undefined"]},
+            {"id":5482, "colors":["undefined"]},
+            {"id":5483, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-03"
+    },
+
+
+    {
+        "groupId":5494, "zone":"head", "category":"faceAccessory", "security":"88191feec5bdb9ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Summer Saver",
+        "variations":[
+            {"id":5494, "colors":["black"]},
+            {"id":5495, "colors":["undefined"]},
+            {"id":5496, "colors":["undefined"]},
+            {"id":5497, "colors":["undefined"]},
+            {"id":5498, "colors":["undefined"]},
+            {"id":5499, "colors":["undefined"]},
+            {"id":5500, "colors":["undefined"]},
+            {"id":5501, "colors":["undefined"]},
+            {"id":5502, "colors":["undefined"]},
+            {"id":5503, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-03"
+    },
+    {
+        "groupId":5504, "zone":"feet", "category":"legAccessory", "security":"79355530f3674300", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera de tobillo",
+        "outfitName":"Summer Saver",
+        "variations":[
+            {"id":5504, "colors":["golden"]},
+            {"id":5505, "colors":["undefined"]},
+            {"id":5506, "colors":["undefined"]},
+            {"id":5507, "colors":["undefined"]},
+            {"id":5508, "colors":["undefined"]},
+            {"id":5509, "colors":["undefined"]},
+            {"id":5510, "colors":["undefined"]},
+            {"id":5511, "colors":["undefined"]},
+            {"id":5512, "colors":["undefined"]},
+            {"id":5513, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-03"
+    },
+    {
+        "groupId":5514, "zone":"arms", "category":"bag", "security":"6a9294f43ce3952f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Prismáticos",
+        "outfitName":"Summer Saver",
+        "variations":[
+            {"id":5514, "colors":["red"]},
+            {"id":5515, "colors":["undefined"]},
+            {"id":5516, "colors":["undefined"]},
+            {"id":5517, "colors":["undefined"]},
+            {"id":5518, "colors":["undefined"]},
+            {"id":5519, "colors":["undefined"]},
+            {"id":5520, "colors":["undefined"]},
+            {"id":5521, "colors":["undefined"]},
+            {"id":5522, "colors":["undefined"]},
+            {"id":5523, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-03"
+    },
+
+
     {
         "groupId":5524, "zone":"general", "category":"tattoo", "security":"23aa8f889ef7eb09", "multiLayered":false, "layerBehavior":"normal",
         "name":"Tatuaje",
@@ -15764,6 +15914,277 @@
         ], "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"},
         "releaseDate":"2025-05-30"
     },
+    {
+        "groupId":9477, "zone":"general", "category":"tattoo", "security":"7c27c72c0d9c2250", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuajes en el muslo",
+        "outfitName":"Rock 'n' Flare",
+        "variations":[
+            {"id":9477, "colors":["black"]},
+            {"id":9478, "colors":["black","red"]},
+            {"id":9479, "colors":["black","white"]},
+            {"id":9480, "colors":["black","blue"]},
+            {"id":9481, "colors":["black","green"]},
+            {"id":9482, "colors":["black","yellow"]},
+            {"id":9483, "colors":["black","grey"]},
+            {"id":9484, "colors":["black","purple"]},
+            {"id":9485, "colors":["black","pink"]},
+            {"id":9486, "colors":["black","orange"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9487, "zone":"general", "category":"tattoo", "security":"21cf3e24ac01a628", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuajes en el brazo",
+        "outfitName":"Rock 'n' Flare",
+        "variations":[
+            {"id":9487, "colors":["black"]},
+            {"id":9488, "colors":["black","red"]},
+            {"id":9489, "colors":["black","white"]},
+            {"id":9490, "colors":["black","blue"]},
+            {"id":9491, "colors":["black","green"]},
+            {"id":9492, "colors":["black","yellow"]},
+            {"id":9493, "colors":["black","grey"]},
+            {"id":9494, "colors":["black","purple"]},
+            {"id":9495, "colors":["black","pink"]},
+            {"id":9496, "colors":["black","orange"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9497, "zone":"general", "category":"tattoo", "security":"6afdbb47be5fa7ac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuajes Underboobs",
+        "outfitName":"Rock 'n' Flare",
+        "variations":[
+            {"id":9497, "colors":["black"]},
+            {"id":9498, "colors":["black","red"]},
+            {"id":9499, "colors":["black","white"]},
+            {"id":9500, "colors":["black","blue"]},
+            {"id":9501, "colors":["black","green"]},
+            {"id":9502, "colors":["black","yellow"]},
+            {"id":9503, "colors":["black","grey"]},
+            {"id":9504, "colors":["black","purple"]},
+            {"id":9505, "colors":["black","pink"]},
+            {"id":9506, "colors":["black","orange"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9507, "zone":"torso_waistToKnee", "category":"underwear", "security":"4ac5558685ec3c3d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Rock 'n' Flare",
+        "variations":[
+            {"id":9507, "colors":["black","red"]},
+            {"id":9508, "colors":["black"]},
+            {"id":9509, "colors":["white"]},
+            {"id":9510, "colors":["black","blue"]},
+            {"id":9511, "colors":["black","green"]},
+            {"id":9512, "colors":["black","yellow"]},
+            {"id":9513, "colors":["black","green"]},
+            {"id":9514, "colors":["black","purple"]},
+            {"id":9515, "colors":["black","pink"]},
+            {"id":9516, "colors":["black","brown"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9517, "zone":"feet", "category":"shoes", "security":"9bb88e6e8e265b6b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Rock 'n' Flare",
+        "variations":[
+            {"id":9517, "colors":["black"]},
+            {"id":9518, "colors":["red"]},
+            {"id":9519, "colors":["white"]},
+            {"id":9520, "colors":["blue"]},
+            {"id":9521, "colors":["green"]},
+            {"id":9522, "colors":["yellow"]},
+            {"id":9523, "colors":["grey"]},
+            {"id":9524, "colors":["purple"]},
+            {"id":9525, "colors":["pink"]},
+            {"id":9526, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9527, "zone":"waistToKnee", "category":"pants", "security":"bf4bcce81bbbec02", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Short",
+        "outfitName":"Rock 'n' Flare",
+        "variations":[
+            {"id":9527, "colors":["black","silver"]},
+            {"id":9528, "colors":["red","silver"]},
+            {"id":9529, "colors":["silver","white"]},
+            {"id":9530, "colors":["blue","silver"]},
+            {"id":9531, "colors":["green","silver"]},
+            {"id":9532, "colors":["brown","silver"]},
+            {"id":9533, "colors":["blue","silver"]},
+            {"id":9534, "colors":["purple","silver"]},
+            {"id":9535, "colors":["pink","silver"]},
+            {"id":9536, "colors":["brown","silver"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9537, "zone":"torso_waistToKnee", "category":"waist", "security":"6b020451b96ea0fe", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Arnés",
+        "outfitName":"Rock 'n' Flare",
+        "variations":[
+            {"id":9537, "colors":["black","silver"]},
+            {"id":9538, "colors":["red","silver"]},
+            {"id":9539, "colors":["silver","white"]},
+            {"id":9540, "colors":["blue","silver"]},
+            {"id":9541, "colors":["green","silver"]},
+            {"id":9542, "colors":["silver","yellow"]},
+            {"id":9543, "colors":["grey","silver"]},
+            {"id":9544, "colors":["purple","silver"]},
+            {"id":9545, "colors":["pink","silver"]},
+            {"id":9546, "colors":["brown","silver"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9547, "zone":"head", "category":"earring", "security":"076e239d22a4b4b6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Rock 'n' Flare",
+        "variations":[
+            {"id":9547, "colors":["red","silver"]},
+            {"id":9548, "colors":["black","silver"]},
+            {"id":9549, "colors":["silver","white"]},
+            {"id":9550, "colors":["blue","silver"]},
+            {"id":9551, "colors":["green","silver"]},
+            {"id":9552, "colors":["silver","yellow"]},
+            {"id":9553, "colors":["white","black"]},
+            {"id":9554, "colors":["purple","silver"]},
+            {"id":9555, "colors":["pink","silver"]},
+            {"id":9556, "colors":["brown","silver"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9557, "zone":"feet", "category":"socks", "security":"94e6b5eb1fb74f0f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cintas",
+        "outfitName":"Rock 'n' Vixen",
+        "variations":[
+            {"id":9557, "colors":["black"]},
+            {"id":9558, "colors":["red"]},
+            {"id":9559, "colors":["white"]},
+            {"id":9560, "colors":["pink"]},
+            {"id":9561, "colors":["green"]},
+            {"id":9562, "colors":["blue"]},
+            {"id":9563, "colors":["purple"]},
+            {"id":9564, "colors":["brown"]},
+            {"id":9565, "colors":["grey"]},
+            {"id":9566, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9567, "zone":"arms", "category":"armAccessory", "security":"5a2ebb419bcf9224", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulseras",
+        "outfitName":"Rock 'n' Vixen",
+        "variations":[
+            {"id":9567, "colors":["black","silver"]},
+            {"id":9568, "colors":["red","silver"]},
+            {"id":9569, "colors":["silver","white"]},
+            {"id":9570, "colors":["pink","silver"]},
+            {"id":9571, "colors":["green","silver"]},
+            {"id":9572, "colors":["blue","silver"]},
+            {"id":9573, "colors":["purple","silver"]},
+            {"id":9574, "colors":["brown","silver"]},
+            {"id":9575, "colors":["grey","silver"]},
+            {"id":9576, "colors":["silver","yellow"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9577, "zone":"feet", "category":"shoes", "security":"d9daa77f8a3a4d21", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Rock 'n' Vixen",
+        "variations":[
+            {"id":9577, "colors":["black"]},
+            {"id":9578, "colors":["red"]},
+            {"id":9579, "colors":["white"]},
+            {"id":9580, "colors":["pink"]},
+            {"id":9581, "colors":["green"]},
+            {"id":9582, "colors":["blue"]},
+            {"id":9583, "colors":["purple"]},
+            {"id":9584, "colors":["brown"]},
+            {"id":9585, "colors":["grey"]},
+            {"id":9586, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9587, "zone":"torso_waistToKnee", "category":"dress", "security":"06b9796dbe55d38b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Rock 'n' Vixen",
+        "variations":[
+            {"id":9587, "colors":["white"]},
+            {"id":9588, "colors":["black"]},
+            {"id":9589, "colors":["red"]},
+            {"id":9590, "colors":["purple"]},
+            {"id":9591, "colors":["brown"]},
+            {"id":9592, "colors":["pink"]},
+            {"id":9593, "colors":["blue"]},
+            {"id":9594, "colors":["yellow"]},
+            {"id":9595, "colors":["blue"]},
+            {"id":9596, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9597, "zone":"face", "category":"neckAccessory", "security":"74755ff72fd6554f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Rock 'n' Vixen",
+        "variations":[
+            {"id":9597, "colors":["black"]},
+            {"id":9598, "colors":["red"]},
+            {"id":9599, "colors":["white"]},
+            {"id":9600, "colors":["pink"]},
+            {"id":9601, "colors":["green"]},
+            {"id":9602, "colors":["blue"]},
+            {"id":9603, "colors":["purple"]},
+            {"id":9604, "colors":["brown","orange"]},
+            {"id":9605, "colors":["grey"]},
+            {"id":9606, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9607, "zone":"torso_waistToKnee", "category":"waist", "security":"2c14c4b542cbcbfe", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corsé",
+        "outfitName":"Rock 'n' Vixen",
+        "variations":[
+            {"id":9607, "colors":["black"]},
+            {"id":9608, "colors":["red"]},
+            {"id":9609, "colors":["white"]},
+            {"id":9610, "colors":["pink"]},
+            {"id":9611, "colors":["green"]},
+            {"id":9612, "colors":["blue"]},
+            {"id":9613, "colors":["purple"]},
+            {"id":9614, "colors":["brown"]},
+            {"id":9615, "colors":["grey"]},
+            {"id":9616, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":9617, "zone":"head", "category":"faceAccessory", "security":"04006455e7e4eef6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piercing",
+        "outfitName":"Rock 'n' Vixen",
+        "variations":[
+            {"id":9617, "colors":["silver"]},
+            {"id":9618, "colors":["golden"]},
+            {"id":9619, "colors":["white"]},
+            {"id":9620, "colors":["black"]},
+            {"id":9621, "colors":["green"]},
+            {"id":9622, "colors":["pink"]},
+            {"id":9623, "colors":["blue"]},
+            {"id":9624, "colors":["brown"]},
+            {"id":9625, "colors":["purple"]},
+            {"id":9626, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+
 
     {
         "groupId":9747, "zone":"feet", "category":"shoes", "security":"0ce3eccf3fde39b3", "multiLayered":false, "layerBehavior":"normal",
@@ -16143,5 +16564,34 @@
             {"id":9958, "colors":["blue","green"]}
         ], "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
         "releaseDate":"2025-06-15"
+    },
+
+
+    {
+        "groupId":10219, "zone":"arms", "category":"bag", "security":"8959a6fa84418ec4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Taki a ganchillo",
+        "outfitName":null,
+        "variations":[
+            {"id":10219, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"     
+    },
+    {
+        "groupId":10220, "zone":"arms", "category":"bag", "security":"dd24233bbaa8e05d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zorro a ganchillo",
+        "outfitName":null,
+        "variations":[
+            {"id":10220, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":10221, "zone":"arms", "category":"bag", "security":"b1379e284d1f7569", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flor a ganchillo",
+        "outfitName":null,
+        "variations":[
+            {"id":10221, "colors":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-06-27"
     }
 ]

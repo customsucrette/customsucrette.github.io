@@ -112,6 +112,10 @@
         "criteria":{"type":"episode", "info":"12", "text":"Desbloqueado en el episodio 12"}
     },
     {
+        "id":30, "security":"749d2eb553b333b7", "releaseDate":"2025-07-03", "name":"Chomp Chomp",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"}
+    },
+    {
         "id":31, "security":"2084937288975e20", "releaseDate":"2024-08-19", "name":"Belt of Venus",   
         "criteria":null
     },
@@ -236,7 +240,10 @@
         "id":62, "security":"a1d98dfde628e346", "releaseDate":"2025-05-30", "name":"Honk & Loop",
         "criteria":{"type":"episode", "info":"16", "text":"Desbloqueado en el episodio 16"}
     },
-
+    {
+        "id":63, "security":"c1d1298e21ea7469", "releaseDate":"2025-06-27", "name":"Goostorm",
+        "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"}
+    },
     {
         "id":64, "security":"98c75d63291c5309", "releaseDate":"2025-05-28", "name":"Goosevanni",
         "criteria":{"type":"gauge", "info":"Allegro Ensemble", "text":"Desbloqueado en el evento de medidor\nAllegro Ensemble"}
