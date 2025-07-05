@@ -8928,15 +8928,15 @@
         "outfitName":"Summer Saver",
         "variations":[
             {"id":5434, "colors":["multi","pink","blue"]},
-            {"id":5435, "colors":["undefined"]},
-            {"id":5436, "colors":["undefined"]},
-            {"id":5437, "colors":["undefined"]},
-            {"id":5438, "colors":["undefined"]},
-            {"id":5439, "colors":["undefined"]},
-            {"id":5440, "colors":["undefined"]},
-            {"id":5441, "colors":["undefined"]},
-            {"id":5442, "colors":["undefined"]},
-            {"id":5443, "colors":["undefined"]}
+            {"id":5435, "colors":["blue", "brown", "multi"]},
+            {"id":5436, "colors":["multi", "pink", "purple"]},
+            {"id":5437, "colors":["blue", "yellow", "multi"]},
+            {"id":5438, "colors":["black", "multi", "red"]},
+            {"id":5439, "colors":["yellow", "purple", "multi"]},
+            {"id":5440, "colors":["green", "black", "multi"]},
+            {"id":5441, "colors":["yellow", "orange", "multi"]},
+            {"id":5442, "colors":["pink", "blue", "multi"]},
+            {"id":5443, "colors":["green", "blue", "multi"]}
         ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
         "releaseDate":"2025-07-03"
     },
@@ -8946,15 +8946,15 @@
         "outfitName":"Summer Saver",
         "variations":[
             {"id":5444, "colors":["red"]},
-            {"id":5445, "colors":["undefined"]},
-            {"id":5446, "colors":["undefined"]},
-            {"id":5447, "colors":["undefined"]},
-            {"id":5448, "colors":["undefined"]},
-            {"id":5449, "colors":["undefined"]},
-            {"id":5450, "colors":["undefined"]},
-            {"id":5451, "colors":["undefined"]},
-            {"id":5452, "colors":["undefined"]},
-            {"id":5453, "colors":["undefined"]}
+            {"id":5445, "colors":["blue"]},
+            {"id":5446, "colors":["pink"]},
+            {"id":5447, "colors":["yellow"]},
+            {"id":5448, "colors":["black"]},
+            {"id":5449, "colors":["orange"]},
+            {"id":5450, "colors":["white", "blue"]},
+            {"id":5451, "colors":["green"]},
+            {"id":5452, "colors":["purple"]},
+            {"id":5453, "colors":["blue"]}
         ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
         "releaseDate":"2025-07-03"
     },
@@ -8964,15 +8964,15 @@
         "outfitName":"Summer Saver",
         "variations":[
             {"id":5454, "colors":["red"]},
-            {"id":5455, "colors":["undefined"]},
-            {"id":5456, "colors":["undefined"]},
-            {"id":5457, "colors":["undefined"]},
-            {"id":5458, "colors":["undefined"]},
-            {"id":5459, "colors":["undefined"]},
-            {"id":5460, "colors":["undefined"]},
-            {"id":5461, "colors":["undefined"]},
-            {"id":5462, "colors":["undefined"]},
-            {"id":5463, "colors":["undefined"]}
+            {"id":5455, "colors":["blue"]},
+            {"id":5456, "colors":["pink"]},
+            {"id":5457, "colors":["yellow"]},
+            {"id":5458, "colors":["black"]},
+            {"id":5459, "colors":["orange"]},
+            {"id":5460, "colors":["white"]},
+            {"id":5461, "colors":["green"]},
+            {"id":5462, "colors":["purple"]},
+            {"id":5463, "colors":["blue"]}
         ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
         "releaseDate":"2025-07-03"
     },
@@ -8982,15 +8982,15 @@
         "outfitName":"Summer Saver",
         "variations":[
             {"id":5464, "colors":["red","blue"]},
-            {"id":5465, "colors":["undefined"]},
-            {"id":5466, "colors":["undefined"]},
-            {"id":5467, "colors":["undefined"]},
-            {"id":5468, "colors":["undefined"]},
-            {"id":5469, "colors":["undefined"]},
-            {"id":5470, "colors":["undefined"]},
-            {"id":5471, "colors":["undefined"]},
-            {"id":5472, "colors":["undefined"]},
-            {"id":5473, "colors":["undefined"]}
+            {"id":5465, "colors":["black", "blue"]},
+            {"id":5466, "colors":["pink", "purple"]},
+            {"id":5467, "colors":["yellow", "blue"]},
+            {"id":5468, "colors":["red", "black"]},
+            {"id":5469, "colors":["yellow", "orange"]},
+            {"id":5470, "colors":["green", "white"]},
+            {"id":5471, "colors":["white", "green"]},
+            {"id":5472, "colors":["purple", "pink"]},
+            {"id":5473, "colors":["green", "blue"]}
         ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
         "releaseDate":"2025-07-03"
     },
@@ -9000,15 +9000,15 @@
         "outfitName":"Summer Saver",
         "variations":[
             {"id":5474, "colors":["golden"]},
-            {"id":5475, "colors":["undefined"]},
-            {"id":5476, "colors":["undefined"]},
-            {"id":5477, "colors":["undefined"]},
-            {"id":5478, "colors":["undefined"]},
-            {"id":5479, "colors":["undefined"]},
-            {"id":5480, "colors":["undefined"]},
-            {"id":5481, "colors":["undefined"]},
-            {"id":5482, "colors":["undefined"]},
-            {"id":5483, "colors":["undefined"]}
+            {"id":5475, "colors":["pink"]},
+            {"id":5476, "colors":["blue"]},
+            {"id":5477, "colors":["silver"]},
+            {"id":5478, "colors":["white"]},
+            {"id":5479, "colors":["black"]},
+            {"id":5480, "colors":["green"]},
+            {"id":5481, "colors":["red"]},
+            {"id":5482, "colors":["orange"]},
+            {"id":5483, "colors":["pink", "purple"]}
         ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
         "releaseDate":"2025-07-03"
     },
@@ -9020,15 +9020,15 @@
         "outfitName":"Summer Saver",
         "variations":[
             {"id":5494, "colors":["black"]},
-            {"id":5495, "colors":["undefined"]},
-            {"id":5496, "colors":["undefined"]},
-            {"id":5497, "colors":["undefined"]},
-            {"id":5498, "colors":["undefined"]},
-            {"id":5499, "colors":["undefined"]},
-            {"id":5500, "colors":["undefined"]},
-            {"id":5501, "colors":["undefined"]},
-            {"id":5502, "colors":["undefined"]},
-            {"id":5503, "colors":["undefined"]}
+            {"id":5495, "colors":["white", "black"]},
+            {"id":5496, "colors":["brown", "black"]},
+            {"id":5497, "colors":["orange", "black"]},
+            {"id":5498, "colors":["red", "black"]},
+            {"id":5499, "colors":["pink", "black"]},
+            {"id":5500, "colors":["yellow", "black"]},
+            {"id":5501, "colors":["grey", "black"]},
+            {"id":5502, "colors":["green", "black"]},
+            {"id":5503, "colors":["blue", "black"]}
         ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
         "releaseDate":"2025-07-03"
     },
@@ -9038,15 +9038,15 @@
         "outfitName":"Summer Saver",
         "variations":[
             {"id":5504, "colors":["golden"]},
-            {"id":5505, "colors":["undefined"]},
-            {"id":5506, "colors":["undefined"]},
-            {"id":5507, "colors":["undefined"]},
-            {"id":5508, "colors":["undefined"]},
-            {"id":5509, "colors":["undefined"]},
-            {"id":5510, "colors":["undefined"]},
-            {"id":5511, "colors":["undefined"]},
-            {"id":5512, "colors":["undefined"]},
-            {"id":5513, "colors":["undefined"]}
+            {"id":5505, "colors":["pink"]},
+            {"id":5506, "colors":["blue"]},
+            {"id":5507, "colors":["silver"]},
+            {"id":5508, "colors":["white"]},
+            {"id":5509, "colors":["black"]},
+            {"id":5510, "colors":["green"]},
+            {"id":5511, "colors":["red"]},
+            {"id":5512, "colors":["orange"]},
+            {"id":5513, "colors":["pink", "purple"]}
         ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
         "releaseDate":"2025-07-03"
     },
@@ -9056,15 +9056,15 @@
         "outfitName":"Summer Saver",
         "variations":[
             {"id":5514, "colors":["red"]},
-            {"id":5515, "colors":["undefined"]},
-            {"id":5516, "colors":["undefined"]},
-            {"id":5517, "colors":["undefined"]},
-            {"id":5518, "colors":["undefined"]},
-            {"id":5519, "colors":["undefined"]},
-            {"id":5520, "colors":["undefined"]},
-            {"id":5521, "colors":["undefined"]},
-            {"id":5522, "colors":["undefined"]},
-            {"id":5523, "colors":["undefined"]}
+            {"id":5515, "colors":["blue"]},
+            {"id":5516, "colors":["pink"]},
+            {"id":5517, "colors":["yellow"]},
+            {"id":5518, "colors":["black"]},
+            {"id":5519, "colors":["orange"]},
+            {"id":5520, "colors":["white"]},
+            {"id":5521, "colors":["green"]},
+            {"id":5522, "colors":["purple"]},
+            {"id":5523, "colors":["blue"]}
         ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
         "releaseDate":"2025-07-03"
     },
@@ -16569,7 +16569,7 @@
 
     {
         "groupId":10219, "zone":"arms", "category":"bag", "security":"8959a6fa84418ec4", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Taki a ganchillo",
+        "name":"Taki de Crochet",
         "outfitName":null,
         "variations":[
             {"id":10219, "colors":["undefined"]}
@@ -16578,7 +16578,7 @@
     },
     {
         "groupId":10220, "zone":"arms", "category":"bag", "security":"dd24233bbaa8e05d", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Zorro a ganchillo",
+        "name":"Zorro de Crochet",
         "outfitName":null,
         "variations":[
             {"id":10220, "colors":["undefined"]}
@@ -16587,7 +16587,7 @@
     },
     {
         "groupId":10221, "zone":"arms", "category":"bag", "security":"b1379e284d1f7569", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Flor a ganchillo",
+        "name":"Flor de Crochet",
         "outfitName":null,
         "variations":[
             {"id":10221, "colors":["undefined"]}

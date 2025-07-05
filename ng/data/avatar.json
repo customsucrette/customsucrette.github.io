@@ -409,6 +409,24 @@
                     {"id":176, "colors":["black"]}
                 ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
                 "releaseDate":"2025-05-02"
+            },
+            {
+                "groupId":177, "zone":"face", "category":"eyes", "security":"b9eb34be209ce032",
+                "name":"Maquillaje",
+                "outfitName":"Rock 'n' Vixen",
+                "variations":[
+                    {"id":177, "colors":["black"]},
+                    {"id":178, "colors":["red"]},
+                    {"id":179, "colors":["white"]},
+                    {"id":180, "colors":["pink"]},
+                    {"id":181, "colors":["green"]},
+                    {"id":182, "colors":["blue"]},
+                    {"id":183, "colors":["purple"]},
+                    {"id":184, "colors":["brown"]},
+                    {"id":185, "colors":["grey"]},
+                    {"id":186, "colors":["yellow"]}
+                ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
+                "releaseDate":"2025-06-27"
             }
         ],
         "mouth":[
