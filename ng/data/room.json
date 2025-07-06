@@ -2411,5 +2411,45 @@
         "roomName":"Devon's Touch",
         "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
         "backgroundColors":null
+    },
+    {
+        "id":408, "roomId":87, "slot":"background", "releaseDate":"2025-07-05", "light":true, "security":"9b6e3e08a6e3e2a8",
+        "name":"Cabina",
+        "roomName":"Seabreeze Suite",
+        "criteria":{"type":"calendar", "info":"2025-16", "text":"Desbloqueado en el calendario\nN°16 - 2025"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"DACBBF","colorLight":"56452D"},
+            "night":{"color1":"5E95E9","color2":"B8B1C4","colorLight":"4E4E4E"}
+        }
+    },
+    {
+        "id":409, "roomId":87, "slot":"slot1", "releaseDate":"2025-07-05", "light":true, "security":"18335a5eaced1406",
+        "name":"Hidromasaje",
+        "roomName":"Seabreeze Suite",
+        "criteria":{"type":"calendar", "info":"2025-16", "text":"Desbloqueado en el calendario\nN°16 - 2025"}
+    },
+    {
+        "id":410, "roomId":87, "slot":"slot2", "releaseDate":"2025-07-05", "light":true, "security":"1ded23ea084caae9",
+        "name":"Cama",
+        "roomName":"Seabreeze Suite",
+        "criteria":{"type":"calendar", "info":"2025-16", "text":"Desbloqueado en el calendario\nN°16 - 2025"}
+    },
+    {
+        "id":411, "roomId":87, "slot":"slot3", "releaseDate":"2025-07-05", "light":true, "security":"ea0298192e0434ed",
+        "name":"Peluquera",
+        "roomName":"Seabreeze Suite",
+        "criteria":{"type":"calendar", "info":"2025-16", "text":"Desbloqueado en el calendario\nN°16 - 2025"}
+    },
+    {
+        "id":412, "roomId":87, "slot":"slot4", "releaseDate":"2025-07-05", "light":false, "security":"f6126e99ca2e7ef6",
+        "name":"Planta",
+        "roomName":"Seabreeze Suite",
+        "criteria":{"type":"calendar", "info":"2025-16", "text":"Desbloqueado en el calendario\nN°16 - 2025"}
+    },
+    {
+        "id":413, "roomId":87, "slot":"slot5", "releaseDate":"2025-07-05", "light":false, "security":"170b505effa2d174",
+        "name":"Sillón",
+        "roomName":"Seabreeze Suite",
+        "criteria":{"type":"calendar", "info":"2025-16", "text":"Desbloqueado en el calendario\nN°16 - 2025"}
     }
 ]
