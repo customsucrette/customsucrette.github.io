@@ -1163,8 +1163,9 @@ async function drawCrush(save = false) {
     let item = sucrette.crush.outfit;
     let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
     let w = 1200, h = 1550;
+    if (save) w = document.getElementById("save-canvas").getAttribute("width");
 
-    if (item != null) {
+    if (item != null && w != 1920) {
         // Dibujar canvas
         let img = !save ? composeCrushUrl(item.split("-")[0], item.split("-")[1]) : composeCrushUrl(item.split("-")[0], item.split("-")[1], "full", "hd");
         ready = await preloadIMG(img);
