@@ -8920,6 +8920,258 @@
         ], "criteria":{"type":"calendar", "info":"2024-5", "text":"Desbloqueado en el calendario\nN°05 - 2024"},
         "releaseDate":"2024-08-13"
     },
+    {
+        "groupId":5279, "zone":"torso_waistToKnee", "category":"underwear", "security":"e5d1ce1d3463b781", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bañador",
+        "outfitName":"Sandy Stroll",
+        "variations":[
+            {"id":5279, "colors":["orange"]},
+            {"id":5280, "colors":["blue"]},
+            {"id":5281, "colors":["yellow"]},
+            {"id":5282, "colors":["red"]},
+            {"id":5283, "colors":["purple"]},
+            {"id":5284, "colors":["black"]},
+            {"id":5285, "colors":["white"]},
+            {"id":5286, "colors":["blue"]},
+            {"id":5287, "colors":["pink"]},
+            {"id":5288, "colors":["green"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5289, "zone":"waistToKnee", "category":"pants", "security":"1a2a9ebff13a71ad", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shorts",
+        "outfitName":"Sandy Stroll",
+        "variations":[
+            {"id":5289, "colors":["blue"]},
+            {"id":5290, "colors":["white"]},
+            {"id":5291, "colors":["brown"]},
+            {"id":5292, "colors":["blue"]},
+            {"id":5293, "colors":["grey"]},
+            {"id":5294, "colors":["red"]},
+            {"id":5295, "colors":["pink"]},
+            {"id":5296, "colors":["green"]},
+            {"id":5297, "colors":["black"]},
+            {"id":5298, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5299, "zone":"feet", "category":"shoes", "security":"9f07da937e5bb234", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Sandy Stroll",
+        "variations":[
+            {"id":5299, "colors":["orange"]},
+            {"id":5300, "colors":["blue"]},
+            {"id":5301, "colors":["yellow"]},
+            {"id":5302, "colors":["red"]},
+            {"id":5303, "colors":["purple"]},
+            {"id":5304, "colors":["black"]},
+            {"id":5305, "colors":["white"]},
+            {"id":5306, "colors":["blue"]},
+            {"id":5307, "colors":["pink"]},
+            {"id":5308, "colors":["green"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5309, "zone":"torso", "category":"jacket", "security":"fe11da2c84fbaa44", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Sandy Stroll",
+        "variations":[
+            {"id":5309, "colors":["multi","white","green"]},
+            {"id":5310, "colors":["multi","blue","green"]},
+            {"id":5311, "colors":["multi","pink","yellow"]},
+            {"id":5312, "colors":["multi","blue","purple"]},
+            {"id":5313, "colors":["multi","black","purple"]},
+            {"id":5314, "colors":["multi","yellow","orange"]},
+            {"id":5315, "colors":["multi","purple","pink"]},
+            {"id":5316, "colors":["multi","green","white"]},
+            {"id":5317, "colors":["multi","red","blue"]},
+            {"id":5318, "colors":["multi","white","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5319, "zone":"arms", "category":"bag", "security":"905174526ac9f0cf", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Polaroid",
+        "outfitName":"Sandy Stroll",
+        "variations":[
+            {"id":5319, "colors":["pink","orange"]},
+            {"id":5320, "colors":["pink","blue"]},
+            {"id":5321, "colors":["orange","red"]},
+            {"id":5322, "colors":["pink","blue"]},
+            {"id":5323, "colors":["black","purple"]},
+            {"id":5324, "colors":["yellow","orange"]},
+            {"id":5325, "colors":["green","blue"]},
+            {"id":5326, "colors":["white","grey"]},
+            {"id":5327, "colors":["black","blue"]},
+            {"id":5328, "colors":["blue","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5329, "zone":"head", "category":"wig", "security":"749a408f5447c974", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Sandy Stroll",
+        "variations":[
+            {"id":5329, "colors":["brown"]},
+            {"id":5330, "colors":["white"]},
+            {"id":5331, "colors":["black"]},
+            {"id":5332, "colors":["blue"]},
+            {"id":5333, "colors":["blue"]},
+            {"id":5334, "colors":["purple"]},
+            {"id":5335, "colors":["red"]},
+            {"id":5336, "colors":["yellow"]},
+            {"id":5337, "colors":["orange"]},
+            {"id":5338, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5339, "zone":"torso_waistToKnee", "category":"underwear", "security":"b556302658289bae", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bañador",
+        "outfitName":"Sunny Sun",
+        "variations":[
+            {"id":5339, "colors":["orange","yellow"]},
+            {"id":5340, "colors":["red","orange"]},
+            {"id":5341, "colors":["black","blue"]},
+            {"id":5342, "colors":["pink","yellow"]},
+            {"id":5343, "colors":["blue","yellow"]},
+            {"id":5344, "colors":["yellow","pink"]},
+            {"id":5345, "colors":["white","yellow"]},
+            {"id":5346, "colors":["blue","pink"]},
+            {"id":5347, "colors":["green","yellow"]},
+            {"id":5348, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5349, "zone":"feet", "category":"shoes", "security":"b1864911a856e298", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Sunny Sun",
+        "variations":[
+            {"id":5349, "colors":["brown","yellow"]},
+            {"id":5350, "colors":["white","yellow"]},
+            {"id":5351, "colors":["red","yellow"]},
+            {"id":5352, "colors":["pink","yellow"]},
+            {"id":5353, "colors":["brown"]},
+            {"id":5354, "colors":["blue"]},
+            {"id":5355, "colors":["yellow"]},
+            {"id":5356, "colors":["black","yellow"]},
+            {"id":5357, "colors":["blue","brown"]},
+            {"id":5358, "colors":["green","brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5359, "zone":"face", "category":"neckAccessory", "security":"f16aadfc08c94cd8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collares",
+        "outfitName":"Sunny Sun",
+        "variations":[
+            {"id":5359, "colors":["blue","golden"]},
+            {"id":5360, "colors":["golden","pink"]},
+            {"id":5361, "colors":["golden","white"]},
+            {"id":5362, "colors":["golden","yellow"]},
+            {"id":5363, "colors":["purple","silver"]},
+            {"id":5364, "colors":["black","silver"]},
+            {"id":5365, "colors":["red","silver"]},
+            {"id":5366, "colors":["golden","orange"]},
+            {"id":5367, "colors":["green","silver"]},
+            {"id":5368, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5369, "zone":"arms", "category":"armAccessory", "security":"bff6ed4476420793", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Joyas",
+        "outfitName":"Sunny Sun",
+        "variations":[
+            {"id":5369, "colors":["blue","silver"]},
+            {"id":5370, "colors":["pink","silver"]},
+            {"id":5371, "colors":["silver","white"]},
+            {"id":5372, "colors":["silver","yellow"]},
+            {"id":5373, "colors":["golden","purple"]},
+            {"id":5374, "colors":["black","golden"]},
+            {"id":5375, "colors":["golden","red"]},
+            {"id":5376, "colors":["orange","silver"]},
+            {"id":5377, "colors":["golden","green"]},
+            {"id":5378, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5379, "zone":"arms", "category":"bag", "security":"cc2d2b0ba40d107c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolsa de playa",
+        "outfitName":"Sunny Sun",
+        "variations":[
+            {"id":5379, "colors":["blue","brown","multi"]},
+            {"id":5380, "colors":["pink","brown","multi"]},
+            {"id":5381, "colors":["white","brown","multi"]},
+            {"id":5382, "colors":["yellow","brown","multi"]},
+            {"id":5383, "colors":["purple","brown","multi"]},
+            {"id":5384, "colors":["black","brown","multi"]},
+            {"id":5385, "colors":["red","brown","multi"]},
+            {"id":5386, "colors":["orange","brown","multi"]},
+            {"id":5387, "colors":["green","brown","multi"]},
+            {"id":5388, "colors":["brown","pink","multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5389, "zone":"torso_waistToKnee", "category":"dress", "security":"04fe0668ce06062e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Sunny Sun",
+        "variations":[
+            {"id":5389, "colors":["brown","white"]},
+            {"id":5390, "colors":["yellow"]},
+            {"id":5391, "colors":["purple"]},
+            {"id":5392, "colors":["green"]},
+            {"id":5393, "colors":["pink"]},
+            {"id":5394, "colors":["blue"]},
+            {"id":5395, "colors":["black"]},
+            {"id":5396, "colors":["red"]},
+            {"id":5397, "colors":["blue"]},
+            {"id":5398, "colors":["green"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5399, "zone":"head", "category":"wig", "security":"6100a20ff3f419be", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Sunny Sun",
+        "variations":[
+            {"id":5399, "colors":["brown"]},
+            {"id":5400, "colors":["white"]},
+            {"id":5401, "colors":["black"]},
+            {"id":5402, "colors":["blue"]},
+            {"id":5403, "colors":["blue"]},
+            {"id":5404, "colors":["purple"]},
+            {"id":5405, "colors":["red"]},
+            {"id":5406, "colors":["yellow"]},
+            {"id":5407, "colors":["orange"]},
+            {"id":5408, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":5409, "zone":"head", "category":"hat", "security":"abec525be24098be", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Sunny Sun",
+        "variations":[
+            {"id":5409, "colors":["brown"]},
+            {"id":5410, "colors":["white","blue"]},
+            {"id":5411, "colors":["red"]},
+            {"id":5412, "colors":["pink"]},
+            {"id":5413, "colors":["brown"]},
+            {"id":5414, "colors":["blue"]},
+            {"id":5415, "colors":["yellow"]},
+            {"id":5416, "colors":["black"]},
+            {"id":5417, "colors":["blue"]},
+            {"id":5418, "colors":["green"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "releaseDate":"2025-07-10"
+    },
 
 
     {
@@ -16184,8 +16436,222 @@
         ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
         "releaseDate":"2025-06-27"
     },
-
-
+    {
+        "groupId":9627, "zone":"waistToKnee", "category":"pants", "security":"3ce837089ed1e70b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9627, "colors":["undefined"]},
+            {"id":9628, "colors":["undefined"]},
+            {"id":9629, "colors":["undefined"]},
+            {"id":9630, "colors":["undefined"]},
+            {"id":9631, "colors":["undefined"]},
+            {"id":9632, "colors":["undefined"]},
+            {"id":9633, "colors":["undefined"]},
+            {"id":9634, "colors":["undefined"]},
+            {"id":9635, "colors":["undefined"]},
+            {"id":9636, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9637, "zone":"feet", "category":"shoes", "security":"56fc385d338bb552", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas altas",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9637, "colors":["undefined"]},
+            {"id":9638, "colors":["undefined"]},
+            {"id":9639, "colors":["undefined"]},
+            {"id":9640, "colors":["undefined"]},
+            {"id":9641, "colors":["undefined"]},
+            {"id":9642, "colors":["undefined"]},
+            {"id":9643, "colors":["undefined"]},
+            {"id":9644, "colors":["undefined"]},
+            {"id":9645, "colors":["undefined"]},
+            {"id":9646, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9647, "zone":"arms", "category":"bag", "security":"4ad5e8951cac73fb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Catalejo y mapa",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9647, "colors":["undefined"]},
+            {"id":9648, "colors":["undefined"]},
+            {"id":9649, "colors":["undefined"]},
+            {"id":9650, "colors":["undefined"]},
+            {"id":9651, "colors":["undefined"]},
+            {"id":9652, "colors":["undefined"]},
+            {"id":9653, "colors":["undefined"]},
+            {"id":9654, "colors":["undefined"]},
+            {"id":9655, "colors":["undefined"]},
+            {"id":9656, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9657, "zone":"torso", "category":"top", "security":"97d014f8626c0b23", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blusa",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9657, "colors":["undefined"]},
+            {"id":9658, "colors":["undefined"]},
+            {"id":9659, "colors":["undefined"]},
+            {"id":9660, "colors":["undefined"]},
+            {"id":9661, "colors":["undefined"]},
+            {"id":9662, "colors":["undefined"]},
+            {"id":9663, "colors":["undefined"]},
+            {"id":9664, "colors":["undefined"]},
+            {"id":9665, "colors":["undefined"]},
+            {"id":9666, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9667, "zone":"waistToKnee", "category":"skirt", "security":"ba3c4077027faf3f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9667, "colors":["undefined"]},
+            {"id":9668, "colors":["undefined"]},
+            {"id":9669, "colors":["undefined"]},
+            {"id":9670, "colors":["undefined"]},
+            {"id":9671, "colors":["undefined"]},
+            {"id":9672, "colors":["undefined"]},
+            {"id":9673, "colors":["undefined"]},
+            {"id":9674, "colors":["undefined"]},
+            {"id":9675, "colors":["undefined"]},
+            {"id":9676, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9677, "zone":"torso", "category":"jacket", "security":"694a84a39e9230a6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corsé",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9677, "colors":["undefined"]},
+            {"id":9678, "colors":["undefined"]},
+            {"id":9679, "colors":["undefined"]},
+            {"id":9680, "colors":["undefined"]},
+            {"id":9681, "colors":["undefined"]},
+            {"id":9682, "colors":["undefined"]},
+            {"id":9683, "colors":["undefined"]},
+            {"id":9684, "colors":["undefined"]},
+            {"id":9685, "colors":["undefined"]},
+            {"id":9686, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9687, "zone":"torso", "category":"jacket", "security":"528a791465b3efd8", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Abrigo",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9687, "colors":["undefined"]},
+            {"id":9688, "colors":["undefined"]},
+            {"id":9689, "colors":["undefined"]},
+            {"id":9690, "colors":["undefined"]},
+            {"id":9691, "colors":["undefined"]},
+            {"id":9692, "colors":["undefined"]},
+            {"id":9693, "colors":["undefined"]},
+            {"id":9694, "colors":["undefined"]},
+            {"id":9695, "colors":["undefined"]},
+            {"id":9696, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9697, "zone":"torso_waistToKnee", "category":"waist", "security":"868598cf7c0e4c98", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9697, "colors":["undefined"]},
+            {"id":9698, "colors":["undefined"]},
+            {"id":9699, "colors":["undefined"]},
+            {"id":9700, "colors":["undefined"]},
+            {"id":9701, "colors":["undefined"]},
+            {"id":9702, "colors":["undefined"]},
+            {"id":9703, "colors":["undefined"]},
+            {"id":9704, "colors":["undefined"]},
+            {"id":9705, "colors":["undefined"]},
+            {"id":9706, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9707, "zone":"head", "category":"faceAccessory", "security":"a34c64e7f9b61c0a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Parche del ojo",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9707, "colors":["undefined"]},
+            {"id":9708, "colors":["undefined"]},
+            {"id":9709, "colors":["undefined"]},
+            {"id":9710, "colors":["undefined"]},
+            {"id":9711, "colors":["undefined"]},
+            {"id":9712, "colors":["undefined"]},
+            {"id":9713, "colors":["undefined"]},
+            {"id":9714, "colors":["undefined"]},
+            {"id":9715, "colors":["undefined"]},
+            {"id":9716, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9717, "zone":"head", "category":"wig", "security":"ffd36f3cedf901bc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9717, "colors":["undefined"]},
+            {"id":9718, "colors":["undefined"]},
+            {"id":9719, "colors":["undefined"]},
+            {"id":9720, "colors":["undefined"]},
+            {"id":9721, "colors":["undefined"]},
+            {"id":9722, "colors":["undefined"]},
+            {"id":9723, "colors":["undefined"]},
+            {"id":9724, "colors":["undefined"]},
+            {"id":9725, "colors":["undefined"]},
+            {"id":9726, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9727, "zone":"head", "category":"hat", "security":"ed252d1964726227", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Diadema",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9727, "colors":["undefined"]},
+            {"id":9728, "colors":["undefined"]},
+            {"id":9729, "colors":["undefined"]},
+            {"id":9730, "colors":["undefined"]},
+            {"id":9731, "colors":["undefined"]},
+            {"id":9732, "colors":["undefined"]},
+            {"id":9733, "colors":["undefined"]},
+            {"id":9734, "colors":["undefined"]},
+            {"id":9735, "colors":["undefined"]},
+            {"id":9736, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
+    {
+        "groupId":9737, "zone":"head", "category":"hat", "security":"080cdc4a8c43de42", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Corsair of the Seven Routes",
+        "variations":[
+            {"id":9737, "colors":["undefined"]},
+            {"id":9738, "colors":["undefined"]},
+            {"id":9739, "colors":["undefined"]},
+            {"id":9740, "colors":["undefined"]},
+            {"id":9741, "colors":["undefined"]},
+            {"id":9742, "colors":["undefined"]},
+            {"id":9743, "colors":["undefined"]},
+            {"id":9744, "colors":["undefined"]},
+            {"id":9745, "colors":["undefined"]},
+            {"id":9746, "colors":["undefined"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "releaseDate":"2025-07-10"
+    },
     {
         "groupId":9747, "zone":"feet", "category":"shoes", "security":"0ce3eccf3fde39b3", "multiLayered":false, "layerBehavior":"normal",
         "name":"Bailarinas",

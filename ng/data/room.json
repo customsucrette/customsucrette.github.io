@@ -1427,6 +1427,47 @@
         "criteria":{"type":"gauge", "info":"E-girl", "text":"Desbloqueado en el evento de medidor\nE-girl"}
     },
     {
+        "id":237, "roomId":56, "slot":"background", "releaseDate":"2025-07-10", "light":true, "security":"73295bcc94c81e7e",
+        "name":"Entorno",
+        "roomName":"Sun 'n' Snack",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"},
+        "backgroundColors":{
+            "day":{"color1":"FFFCF3","color2":"D9DEC6","colorLight":"025274"},
+            "night":{"color1":"7597F5","color2":"8896DA","colorLight":"025274"}
+        }
+    },
+    {
+        "id":238, "roomId":56, "slot":"slot1", "releaseDate":"2025-07-10", "light":true, "security":"a14f39414a52f85d",
+        "name":"Bar",
+        "roomName":"Sun 'n' Snack",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"}
+    },
+    {
+        "id":239, "roomId":56, "slot":"slot2", "releaseDate":"2025-07-10", "light":false, "security":"4fe7ddd09bc32ed9",
+        "name":"Tumbonas",
+        "roomName":"Sun 'n' Snack",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"}
+    },
+    {
+        "id":240, "roomId":56, "slot":"slot3", "releaseDate":"2025-07-10", "light":false, "security":"8e44e936a93f1f63",
+        "name":"Flotador",
+        "roomName":"Sun 'n' Snack",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"}
+    },
+    {
+        "id":241, "roomId":56, "slot":"slot4", "releaseDate":"2025-07-10", "light":true, "security":"ea6f18f82f405c71",
+        "name":"Antorcha",
+        "roomName":"Sun 'n' Snack",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"}
+    },
+    {
+        "id":242, "roomId":56, "slot":"slot5", "releaseDate":"2025-07-10", "light":false, "security":"a668f93982d43df4",
+        "name":"Mesa tonel",
+        "roomName":"Sun 'n' Snack",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"}
+    },
+
+    {
         "id":249, "roomId":58, "slot":"background", "releaseDate":"2024-08-19", "light":true, "security":"3dee509c09d3daa8",
         "name":"Pérgola",
         "roomName":"Belt of Venus",

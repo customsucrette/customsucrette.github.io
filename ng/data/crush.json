@@ -30,14 +30,16 @@
     
     {"id":52, "crushName":"Amanda", "security":"719c9c628f81e636"},
 
+    {"id":59, "crushName":"Devon", "security":"d829f9f164c59695"},
     {"id":60, "crushName":"Devon", "security":"679ca18672bc8d26"},
     {"id":61, "crushName":"Devon", "security":"e3f4654c8e75b0b6"},
-    
+    {"id":62, "crushName":"Roy", "security":"8f57bd01f34c7c9c"},
+    {"id":63, "crushName":"Amanda", "security":"195a97fe4d8ba000"},
     {"id":64, "crushName":"Amanda", "security":"ab4fd4e92328d48f"},
     {"id":65, "crushName":"Amanda", "security":"bfbeab31df70b73e"},
     {"id":66, "crushName":"Jason", "security":"1112e7573bddf7b4"},
     {"id":67, "crushName":"Amanda", "security":"6160984c20965589"},
-
+    {"id":68, "crushName":"Thomas", "security":"f91c06a3b9152df3"},
     {"id":69, "crushName":"Thomas", "security":"c570b3cacd04edd1"},
 
     {"id":92, "crushName":"Roy", "security":"a7de13f5385454aa"},
@@ -53,6 +55,7 @@
     {"id":107, "crushName":"Jason", "security":"463cca5711772615"},
 
     {"id":116, "crushName":"Devon", "security":"5ee3840706e61806"},
+    {"id":117, "crushName":"Jason", "security":"9f84174238bd60ca"},
 
     {"id":120, "crushName":"Roy", "security":"cf4187327781e4d8"},
     
