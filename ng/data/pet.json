@@ -230,7 +230,7 @@
     },
     {
         "id":60, "security":"e81ddf3c3b6e355b", "releaseDate":"2025-04-15", "name":"BAAAaaa... Honk!",
-        "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Desbloqueado en el Pack exclusivo \n Caring Shepherdess (Pascua 2025)"}
+        "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Desbloqueado en el Pack exclusivo\nCaring Shepherdess (Pascua 2025)"}
     },
     {
         "id":61, "security":"8561e7c7860068b6", "releaseDate":"2025-04-29", "name":"Flaparazzi",
@@ -251,5 +251,10 @@
     {
         "id":65, "security":"d2b102ae04626434", "releaseDate":"2025-06-15", "name":"Devon's Influence",
         "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
+    },
+
+    {
+        "id":67, "security":"b137f691a9f174d5", "releaseDate":"2025-07-10", "name":"Definitely a Parrot",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"}
     }
 ]

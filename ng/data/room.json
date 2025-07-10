@@ -2366,7 +2366,46 @@
         "roomName":"Willow & Whisk",
         "criteria":{"type":"calendar", "info":"2025-14", "text":"Desbloqueado en el calendario\nN°14 - 2025"}
     },
-
+    {
+        "id":390, "roomId":84, "slot":"background", "releaseDate":"2025-07-10", "light":true, "security":"5ccd79c1bb0183d6",
+        "name":"Cabina",
+        "roomName":"The Captain's Quarters",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"},
+        "backgroundColors":{
+            "day":{"color1":"BDAE9A","color2":"B4A19B","colorLight":"0D3656"},
+            "night":{"color1":"6181B4","color2":"AD9F92","colorLight":"1B374B"}
+        }
+    },
+    {
+        "id":391, "roomId":84, "slot":"slot1", "releaseDate":"2025-07-10", "light":true, "security":"875348868bca0fb7",
+        "name":"Biblioteca",
+        "roomName":"The Captain's Quarters",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"}
+    },
+    {
+        "id":392, "roomId":84, "slot":"slot2", "releaseDate":"2025-07-10", "light":false, "security":"b34f9064bf6cf44e",
+        "name":"Escritorio",
+        "roomName":"The Captain's Quarters",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"}
+    },
+    {
+        "id":393, "roomId":84, "slot":"slot3", "releaseDate":"2025-07-10", "light":false, "security":"8022c161a6ebd59b",
+        "name":"Maqueta",
+        "roomName":"The Captain's Quarters",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"}
+    },
+    {
+        "id":394, "roomId":84, "slot":"slot4", "releaseDate":"2025-07-10", "light":false, "security":"2867b73553e0368d",
+        "name":"Mono",
+        "roomName":"The Captain's Quarters",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"}
+    },
+    {
+        "id":395, "roomId":84, "slot":"slot5", "releaseDate":"2025-07-10", "light":false, "security":"6ec249898116e46a",
+        "name":"Cofre del tesoro",
+        "roomName":"The Captain's Quarters",
+        "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"}
+    },
     {
         "id":396, "roomId":85, "slot":"background", "releaseDate":"2025-05-28", "light":true, "security":"3b78feb34e7242b3",
         "name":"Paredes",
