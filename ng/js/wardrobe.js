@@ -902,10 +902,15 @@ function resetSucrette() {
 function drawSavePopUp(w, h) {
     let type = (w == 1200) ? "fullbody" : (h == 1080) ? "face" : "background";
     if ($("#save-canvas").length == 0) {
-        $("body").append(`<div id="overlay-popup"><div id="canvas-container"><canvas width="${w}" height="${h}" id="save-canvas"></canvas></div></div>`);
+        $("body").append(`<div id="overlay-popup"><div id="canvas-container"><canvas width="${w}" height="${h}" id="save-canvas" style="background-color:${colorPicker};"></canvas></div></div>`);
         $("#canvas-container").append(`<div class="button close"><span class="material-symbols-outlined">close</span></div>`);
         $("#canvas-container").append(`<div class="button reload"><span class="material-symbols-outlined">refresh</span></div>`);
         if (type != "background") {
+            $("#canvas-container").append(`
+                <div class="button bg-settings" style="background-color:${colorPicker};">
+                    <input type="color" value="${colorPicker}" id="color-picker">
+                    <label for="color-picker"><span class="material-symbols-outlined">palette</span></label>
+                </div>`);
             $("#canvas-container").append(`<div class="button portrait"><span class="material-symbols-outlined">person</span></div>`);
             $("#canvas-container").append(`<div class="button fullbody"><span class="material-symbols-outlined">boy</span></div>`);
             $("#canvas-container").append(`<div class="button code"><span class="material-symbols-outlined">code</span></div>`);
@@ -1687,6 +1692,14 @@ $(function () {
         }
     });
 
+    
+    $("body").on("change", "#color-picker", function() {
+        colorPicker = $(this).val();
+        $("#save-canvas").css("background-color", colorPicker);
+        $("#canvas-container .button.bg-settings").css("background-color", colorPicker);
+    });
+
+
     $('body').on("click", "#canvas-container .portrait", function() {
         $(this).hide();
         $("#canvas-container .fullbody").css("display", "flex");
@@ -1706,7 +1719,7 @@ $(function () {
             $(this).parent().addClass("open");
 
             if (inp.length == 0) {
-                $(this).parent().css("width", "calc(100% - 290px)");
+                $(this).parent().css("width", "calc(100% - 390px)");
     
                 $(this).parent().append('<textarea class="code-container" type="text" readonly></textarea><div id="generated-code-info">¡Código copiado!</div>');
                 $("textarea").delay(100).fadeIn(200);
@@ -1989,3 +2002,4 @@ window.onbeforeunload = function () {
 
 // global variables
 var cloth = [], avatar = [], room = [], pet = [], crush = [];
+let colorPicker = "#000000";

@@ -2808,8 +2808,32 @@ body.personality-fiery #asng-z-index .item .remove {
     right: 90px;
 }
 
-#canvas-container .button.portrait, #canvas-container .button.fullbody {
+#canvas-container .button.bg-settings {
     right: 190px;
+    cursor: default;
+}
+#canvas-container .button.bg-settings span {
+    text-shadow: 0px 0px 20px #666;
+}
+
+.button.bg-settings input {
+        font-size: 0;
+        width: 0;
+        height: 0;
+        border: 0;
+        margin: 0;
+        padding: 0;
+}
+
+.button.bg-settings label {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+#canvas-container .button.portrait, #canvas-container .button.fullbody {
+    right: 290px;
 }
 
 #canvas-container .button.fullbody {
@@ -2817,7 +2841,7 @@ body.personality-fiery #asng-z-index .item .remove {
 }
 
 #canvas-container .button.code {
-    right: 290px;
+    right: 390px;
     transition: all 500ms;
 }
 
