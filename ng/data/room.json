@@ -2531,5 +2531,45 @@
         "name":"Sillón",
         "roomName":"Seabreeze Suite",
         "criteria":{"type":"calendar", "info":"2025-16", "text":"Desbloqueado en el calendario\nN°16 - 2025"}
+    },
+    {
+        "id":414, "roomId":88, "slot":"background", "releaseDate":"2025-07-30", "light":true, "security":"a45560b1ae0a07cc",
+        "name":"Paredes",
+        "roomName":"Plush Dreams",
+        "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+        "backgroundColors":{
+            "day":{"color1":"E9B9A0","color2":"C1B2CB","colorLight":"5D3408"},
+            "night":{"color1":"5E677B","color2":"416596","colorLight":"4284B1"}
+        }
+    },
+    {
+        "id":415, "roomId":88, "slot":"slot1", "releaseDate":"2025-07-30", "light":true, "security":"212fe0a771dda045",
+        "name":"Pantalla",
+        "roomName":"Plush Dreams",
+        "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"}
+    },
+    {
+        "id":416, "roomId":88, "slot":"slot2", "releaseDate":"2025-07-30", "light":true, "security":"ca9873d6089d8c82",
+        "name":"Cama",
+        "roomName":"Plush Dreams",
+        "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"}
+    },
+    {
+        "id":417, "roomId":88, "slot":"slot3", "releaseDate":"2025-07-30", "light":false, "security":"fdbfc0e0feaf933b",
+        "name":"Mesa baja",
+        "roomName":"Plush Dreams",
+        "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"}
+    },
+    {
+        "id":418, "roomId":88, "slot":"slot4", "releaseDate":"2025-07-30", "light":false, "security":"be6ea18993a61999",
+        "name":"Armario",
+        "roomName":"Plush Dreams",
+        "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"}
+    },
+    {
+        "id":419, "roomId":88, "slot":"slot5", "releaseDate":"2025-07-30", "light":false, "security":"7a0b505c223d9081",
+        "name":"Cojines",
+        "roomName":"Plush Dreams",
+        "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"}
     }
 ]

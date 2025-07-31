@@ -256,5 +256,9 @@
     {
         "id":67, "security":"b137f691a9f174d5", "releaseDate":"2025-07-10", "name":"Definitely a Parrot",
         "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado en el Pack exclusivo\nCorsair of the Seven Routes (Summer 2025)"}
+    },
+    {
+        "id":68, "security":"8074931790955a1f", "releaseDate":"2025-07-30", "name":"Kigoosumi",
+        "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"}
     }
 ]

@@ -17059,5 +17059,167 @@
             {"id":10221, "colors":["undefined"]}
         ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
         "releaseDate":"2025-06-27"
+    },
+    {
+        "groupId":10222, "zone":"face", "category":"makeup", "security":"6aac3e4fdde46321", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maquillaje",
+        "outfitName":"Set kigurumi",
+        "variations":[
+            {"id":10222, "colors":["multi"]},
+            {"id":10223, "colors":["multi","pink"]},
+            {"id":10224, "colors":["orange","multi"]},
+            {"id":10225, "colors":["black","multi"]},
+            {"id":10226, "colors":["white","multi"]},
+            {"id":10227, "colors":["multi","orange"]},
+            {"id":10228, "colors":["multi","pink"]},
+            {"id":10229, "colors":["blue","multi"]},
+            {"id":10230, "colors":["purple","multi"]},
+            {"id":10231, "colors":["pink","multi"]}
+        ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+        "releaseDate":"2025-07-30"
+    },
+    {
+        "groupId":10232, "zone":"head", "category":"faceAccessory", "security":"78463de7d3ca8452", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tirita",
+        "outfitName":"Set kigurumi",
+        "variations":[
+            {"id":10232, "colors":["blue"]},
+            {"id":10233, "colors":["orange"]},
+            {"id":10234, "colors":["brown"]},
+            {"id":10235, "colors":["black"]},
+            {"id":10236, "colors":["white"]},
+            {"id":10237, "colors":["yellow"]},
+            {"id":10238, "colors":["red"]},
+            {"id":10239, "colors":["blue"]},
+            {"id":10240, "colors":["purple"]},
+            {"id":10241, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+        "releaseDate":"2025-07-30"
+    },
+    {
+        "groupId":10242, "zone":"feet", "category":"socks", "security":"8a21d521b7ca0dac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Set kigurumi",
+        "variations":[
+            {"id":10242, "colors":["brown"]},
+            {"id":10243, "colors":["brown"]},
+            {"id":10244, "colors":["orange","black"]},
+            {"id":10245, "colors":["black"]},
+            {"id":10246, "colors":["white"]},
+            {"id":10247, "colors":["yellow"]},
+            {"id":10248, "colors":["red"]},
+            {"id":10249, "colors":["blue"]},
+            {"id":10250, "colors":["purple","yellow"]},
+            {"id":10251, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+        "releaseDate":"2025-07-30"
+    },
+    {
+        "groupId":10252, "zone":"feet", "category":"shoes", "security":"0010889e6e27febf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatillas",
+        "outfitName":"Set kigurumi",
+        "variations":[
+            {"id":10252, "colors":["brown"]},
+            {"id":10253, "colors":["brown"]},
+            {"id":10254, "colors":["brown"]},
+            {"id":10255, "colors":["black"]},
+            {"id":10256, "colors":["white"]},
+            {"id":10257, "colors":["yellow"]},
+            {"id":10258, "colors":["red"]},
+            {"id":10259, "colors":["blue"]},
+            {"id":10260, "colors":["purple"]},
+            {"id":10261, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+        "releaseDate":"2025-07-30"
+    },
+    {
+        "groupId":10262, "zone":"head", "category":"wig", "security":"41838ab79ca3126f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Set kigurumi",
+        "variations":[
+            {"id":10262, "colors":["brown"]},
+            {"id":10263, "colors":["white"]},
+            {"id":10264, "colors":["black"]},
+            {"id":10265, "colors":["blue"]},
+            {"id":10266, "colors":["blue"]},
+            {"id":10267, "colors":["purple"]},
+            {"id":10268, "colors":["red"]},
+            {"id":10269, "colors":["yellow"]},
+            {"id":10270, "colors":["orange"]},
+            {"id":10271, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+        "releaseDate":"2025-07-30"
+    },
+    {
+        "groupId":10272, "zone":"head", "category":"hat", "security":"eadb4be4a7a1e55a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Prendedores",
+        "outfitName":"Set kigurumi",
+        "variations":[
+            {"id":10272, "colors":["multi"]},
+            {"id":10273, "colors":["multi","red"]},
+            {"id":10274, "colors":["brown","multi"]},
+            {"id":10275, "colors":["black","purple"]},
+            {"id":10276, "colors":["white","multi"]},
+            {"id":10277, "colors":["yellow","multi"]},
+            {"id":10278, "colors":["red","multi"]},
+            {"id":10279, "colors":["blue","multi"]},
+            {"id":10280, "colors":["multi","pink","purple"]},
+            {"id":10281, "colors":["pink","multi"]}
+        ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+        "releaseDate":"2025-07-30"
+    },
+    {
+        "groupId":10282, "zone":"torso_waistToKnee", "category":"dress", "security":"bf8998f4b47bf5d2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Kigurumi",
+        "outfitName":"Set kigurumi",
+        "variations":[
+            {"id":10282, "colors":["brown"]},
+            {"id":10283, "colors":["brown"]},
+            {"id":10284, "colors":["black","brown","orange"]},
+            {"id":10285, "colors":["black","brown"]},
+            {"id":10286, "colors":["white"]},
+            {"id":10287, "colors":["yellow"]},
+            {"id":10288, "colors":["brown","red"]},
+            {"id":10289, "colors":["blue"]},
+            {"id":10290, "colors":["purple","yellow"]},
+            {"id":10291, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+        "releaseDate":"2025-07-30"
+    },
+    {
+        "groupId":10292, "zone":"arms", "category":"bag", "security":"98811ac00ca22e5a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluche",
+        "outfitName":"Set kigurumi",
+        "variations":[
+            {"id":10292, "colors":["brown"]},
+            {"id":10293, "colors":["brown"]},
+            {"id":10294, "colors":["black","brown","orange"]},
+            {"id":10295, "colors":["black"]},
+            {"id":10296, "colors":["white"]},
+            {"id":10297, "colors":["yellow"]},
+            {"id":10298, "colors":["red","white"]},
+            {"id":10299, "colors":["blue","white"]},
+            {"id":10300, "colors":["purple"]},
+            {"id":10301, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+        "releaseDate":"2025-07-30"
+    },
+    {
+        "groupId":10302, "zone":"general", "category":"other", "security":"37d3bf2c27653d9d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Plumas",
+        "outfitName":"Set kigurumi",
+        "variations":[
+            {"id":10302, "colors":["white"]},
+            {"id":10303, "colors":["brown"]},
+            {"id":10304, "colors":["orange"]},
+            {"id":10305, "colors":["black"]},
+            {"id":10306, "colors":["purple"]},
+            {"id":10307, "colors":["yellow"]},
+            {"id":10308, "colors":["red"]},
+            {"id":10309, "colors":["blue"]},
+            {"id":10310, "colors":["purple"]},
+            {"id":10311, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+        "releaseDate":"2025-07-30"
     }
 ]

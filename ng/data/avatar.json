@@ -427,6 +427,24 @@
                     {"id":186, "colors":["yellow"]}
                 ], "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 17"},
                 "releaseDate":"2025-06-27"
+            },
+            {
+                "groupId":187, "zone":"face", "category":"eyes", "security":"9fc097c5cc6b7380",
+                "name":"Ojos",
+                "outfitName":"Set kigurumi",
+                "variations":[
+                    {"id":187, "colors":["pink"]},
+                    {"id":188, "colors":["black"]},
+                    {"id":189, "colors":["white"]},
+                    {"id":190, "colors":["yellow"]},
+                    {"id":191, "colors":["red"]},
+                    {"id":192, "colors":["blue"]},
+                    {"id":193, "colors":["purple"]},
+                    {"id":194, "colors":["green"]},
+                    {"id":195, "colors":["blue"]},
+                    {"id":196, "colors":["pink"]}
+                ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
+                "releaseDate":"2025-07-30"
             }
         ],
         "mouth":[
