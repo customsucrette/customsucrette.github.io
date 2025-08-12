@@ -92,5 +92,7 @@
     {"id":219, "crushName":"Amanda", "security":"77e6e27449b770e5"},
     {"id":220, "crushName":"Devon", "security":"7194dff461bd8ebc"},
     {"id":221, "crushName":"Thomas", "security":"07389cb9b890a92a"},
-    {"id":222, "crushName":"Jason", "security":"5f81363ad89b2ea9"}
+    {"id":222, "crushName":"Jason", "security":"5f81363ad89b2ea9"},
+
+    {"id":236, "crushName":"Amanda", "security":"6f3fca2c2ff62c6a"}
 ]

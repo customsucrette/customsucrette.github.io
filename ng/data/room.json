@@ -756,10 +756,15 @@
         "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
     {
-        "id":123,
+        "id":118, "roomId":36, "slot":"slot5", "releaseDate":"2025-08-01", "light":false, "security":"bf92a8e3f79663aa",
+        "name":"Escultura y mesa baja",
+        "roomName":"What the F***?",
+        "criteria":{"type":"jobTask", "info":"Casco", "text":"Desbloqueado en la Misión del día\nCasco"}
+    },
+    {
+        "id":123, "roomId":37, "slot":"background", "releaseDate":"2025-05-30", "light":true, "security":"7089d75b0651ca70",
         "name":"Paredes",
         "roomName":"Quirky Pastels",
-        "roomId":37, "slot":"background", "releaseDate":"2025-05-30", "light":true, "security":"7089d75b0651ca70",
         "criteria":{"type":"jobTask", "info":"Grapadora", "text":"Desbloqueado en la Misión del día\nGrapadora"},
         "backgroundColors":{
             "day":{"color1":"FFFFFF","color2":"F8CFEE","colorLight":"522801"},
@@ -830,14 +835,31 @@
         "roomName":"Space Capsule",
         "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"}
     },
+    {
+        "id":140, "roomId":39, "slot":"slot1", "releaseDate":"2025-08-01", "light":true, "security":"fd275e950716fd77",
+        "name":"Cama",
+        "roomName":"Space Capsule",
+        "criteria":{"type":"jobTask", "info":"Casco", "text":"Desbloqueado en la Misión del día\nCasco"}
+    },
 
+    {
+        "id":142, "roomId":40, "slot":"slot5", "releaseDate":"2025-08-01", "light":false, "security":"1b7327d349d626fd",
+        "name":"Caja",
+        "roomName":"Dirty Garage",
+        "criteria":{"type":"jobTask", "info":"Casco", "text":"Desbloqueado en la Misión del día\nCasco"}
+    },
     {
         "id":143, "roomId":40, "slot":"slot4", "releaseDate":"2025-05-30", "light":false, "security":"57c06d83f2b6e33c",
         "name":"Carro de servicio",
         "roomName":"Dirty Garage",
         "criteria":{"type":"jobTask", "info":"Grapadora", "text":"Desbloqueado en la Misión del día\nGrapadora"}
     },
-
+    {
+        "id":144, "roomId":40, "slot":"slot3", "releaseDate":"2025-08-01", "light":false, "security":"90c3a7d4220cb879",
+        "name":"Moto",
+        "roomName":"Dirty Garage",
+        "criteria":{"type":"jobTask", "info":"Casco", "text":"Desbloqueado en la Misión del día\nCasco"}
+    },
     {
         "id":145, "roomId":40, "slot":"slot2", "releaseDate":"2025-02-05", "light":true, "security":"8f4c9a885b455c6a",
         "name":"Sillón",
