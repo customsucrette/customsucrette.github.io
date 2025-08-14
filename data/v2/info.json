@@ -1635,5 +1635,6 @@
 	{"groupId":36357, "category":"accessory", "name":"Pendientes Exploding Star"},
 	{"groupId":36377, "category":"Dress", "name":"Vestido Exploding Star"},
 	{"groupId":36387, "category":"shoes", "name":"Zapatos Exploding Star"},
-	{"groupId":36397, "category":"hairAccessory", "name":"Prendedores Exploding Star"}
+	{"groupId":36397, "category":"hairAccessory", "name":"Prendedores Exploding Star"},
+	{"groupId":36486, "category":"accessory", "name":"Castiel from NewGen"}
 ]
