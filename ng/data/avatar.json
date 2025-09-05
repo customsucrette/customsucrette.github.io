@@ -445,6 +445,24 @@
                     {"id":196, "colors":["pink"]}
                 ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
                 "releaseDate":"2025-07-30"
+            },
+            {
+                "groupId":197, "zone":"face", "category":"eyes", "security":"cc1037fa3b21eab0",
+                "name":"Ojos",
+                "outfitName":"Money Flows",
+                "variations":[
+                    {"id":197, "colors":["blue"]},
+                    {"id":198, "colors":["black"]},
+                    {"id":199, "colors":["white"]},
+                    {"id":200, "colors":["pink"]},
+                    {"id":201, "colors":["green"]},
+                    {"id":202, "colors":["golden","yellow"]},
+                    {"id":203, "colors":["purple"]},
+                    {"id":204, "colors":["brown"]},
+                    {"id":205, "colors":["grey"]},
+                    {"id":206, "colors":["red"]}
+                ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+                "releaseDate":"2025-09-03"
             }
         ],
         "mouth":[

@@ -18296,7 +18296,7 @@
         "releaseDate":"2025-09-03"
     },
     {
-        "groupId":10737, "zone":"torso", "category":"jacket", "security":"82bc4d6ff985d937", "multiLayered":true, "layerBehavior":"backInFront",
+        "groupId":10737, "zone":"torso", "category":"jacket", "security":"82bc4d6ff985d937", "multiLayered":true, "layerBehavior":"normal",
         "name":"Boa",
         "outfitName":"Money Flows",
         "variations":[
