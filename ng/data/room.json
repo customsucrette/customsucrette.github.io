@@ -2049,7 +2049,46 @@
         "roomName":"Twenty Thousand Leagues Under The Sea",
         "criteria":null
     },
-
+    {
+        "id":333, "roomId":72, "slot":"background", "releaseDate":"2025-09-03", "light":true, "security":"73a02ed88aff1ab5",
+        "name":"Entorno",
+        "roomName":"Pixel Camp",
+        "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "backgroundColors":{
+            "day":{"color1":"FFBEFF","color2":"A5C4B3","colorLight":"550174"},
+            "night":{"color1":"C388CB","color2":"889DCB","colorLight":"550174"}
+        }
+    },
+    {
+        "id":334, "roomId":72, "slot":"slot1", "releaseDate":"2025-09-03", "light":true, "security":"5c79d571b4863ff2",
+        "name":"Portal",
+        "roomName":"Pixel Camp",
+        "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"}
+    },
+    {
+        "id":335, "roomId":72, "slot":"slot2", "releaseDate":"2025-09-03", "light":false, "security":"f5725e8e21127a78",
+        "name":"Carpa",
+        "roomName":"Pixel Camp",
+        "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"}
+    },
+    {
+        "id":336, "roomId":72, "slot":"slot3", "releaseDate":"2025-09-03", "light":true, "security":"49b02962edc783a7",
+        "name":"Hoguera",
+        "roomName":"Pixel Camp",
+        "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"}
+    },
+    {
+        "id":337, "roomId":72, "slot":"slot4", "releaseDate":"2025-09-03", "light":true, "security":"c1c735136946eca3",
+        "name":"Ánfora mágica",
+        "roomName":"Pixel Camp",
+        "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"}
+    },
+    {
+        "id":338, "roomId":72, "slot":"slot5", "releaseDate":"2025-09-03", "light":false, "security":"9ed1b8e9c8215f47",
+        "name":"Ambiente de píxeles",
+        "roomName":"Pixel Camp",
+        "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"}
+    },
     {
         "id":339, "roomId":73, "slot":"background", "releaseDate":"2025-02-10", "light":true, "security":"6c4b0341d772019a",
         "name":"Paredes",
@@ -2593,5 +2632,125 @@
         "name":"Cojines",
         "roomName":"Plush Dreams",
         "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"}
+    },
+    {
+        "id":420, "roomId":89, "slot":"background", "releaseDate":"2025-09-03", "light":true, "security":"2aa5363411b25f22",
+        "name":"Paredes",
+        "roomName":"Blue Pond",
+        "criteria":{"type":"calendar", "info":"2025-18", "text":"Desbloqueado en el calendario\nN°18 - 2025"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"CDAEE2","colorLight":"874E11"},
+            "night":{"color1":"47A5ED","color2":"739CBC","colorLight":"1A599B"}
+        }
+    },
+    {
+        "id":421, "roomId":89, "slot":"slot1", "releaseDate":"2025-09-03", "light":false, "security":"9763d9a3d6b8b622",
+        "name":"Biblioteca",
+        "roomName":"Blue Pond",
+        "criteria":{"type":"calendar", "info":"2025-18", "text":"Desbloqueado en el calendario\nN°18 - 2025"}
+    },
+    {
+        "id":422, "roomId":89, "slot":"slot2", "releaseDate":"2025-09-03", "light":true, "security":"b2873eb6275faea2",
+        "name":"Mesa",
+        "roomName":"Blue Pond",
+        "criteria":{"type":"calendar", "info":"2025-18", "text":"Desbloqueado en el calendario\nN°18 - 2025"}
+    },
+    {
+        "id":423, "roomId":89, "slot":"slot3", "releaseDate":"2025-09-03", "light":false, "security":"9e1e3c1ead9118e2",
+        "name":"Aparador",
+        "roomName":"Blue Pond",
+        "criteria":{"type":"calendar", "info":"2025-18", "text":"Desbloqueado en el calendario\nN°18 - 2025"}
+    },
+    {
+        "id":424, "roomId":89, "slot":"slot4", "releaseDate":"2025-09-03", "light":false, "security":"3b61ef26d916f5cb",
+        "name":"Velador",
+        "roomName":"Blue Pond",
+        "criteria":{"type":"calendar", "info":"2025-18", "text":"Desbloqueado en el calendario\nN°18 - 2025"}
+    },
+    {
+        "id":425, "roomId":89, "slot":"slot5", "releaseDate":"2025-09-03", "light":true, "security":"e0e822d2498c463e",
+        "name":"Mesa baja",
+        "roomName":"Blue Pond",
+        "criteria":{"type":"calendar", "info":"2025-18", "text":"Desbloqueado en el calendario\nN°18 - 2025"}
+    },
+    {
+        "id":426, "roomId":90, "slot":"background", "releaseDate":"2025-09-03", "light":true, "security":"85dbdb4094c524ff",
+        "name":"Paredes",
+        "roomName":"Furball Funhouse",
+        "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"F1DED3","colorLight":"2C0F0B"},
+            "night":{"color1":"8E9EBC","color2":"9CACD6","colorLight":"874E11"}
+        }
+    },
+    {
+        "id":427, "roomId":90, "slot":"slot1", "releaseDate":"2025-09-03", "light":false, "security":"2b8b2c30338603f9",
+        "name":"Cocina",
+        "roomName":"Furball Funhouse",
+        "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"}
+    },
+    {
+        "id":428, "roomId":90, "slot":"slot2", "releaseDate":"2025-09-03", "light":false, "security":"aca8888494730a9e",
+        "name":"Sofá",
+        "roomName":"Furball Funhouse",
+        "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"}
+    },
+    {
+        "id":429, "roomId":90, "slot":"slot3", "releaseDate":"2025-09-03", "light":false, "security":"005e9160a5cc1ee7",
+        "name":"Perros",
+        "roomName":"Furball Funhouse",
+        "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"}
+    },
+    {
+        "id":430, "roomId":90, "slot":"slot4", "releaseDate":"2025-09-03", "light":false, "security":"c8dc305f54aeeead",
+        "name":"Pájaros",
+        "roomName":"Furball Funhouse",
+        "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"}
+    },
+    {
+        "id":431, "roomId":90, "slot":"slot5", "releaseDate":"2025-09-03", "light":false, "security":"e95a2661e866d011",
+        "name":"Sillón",
+        "roomName":"Furball Funhouse",
+        "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"}
+    },
+    {
+        "id":432, "roomId":91, "slot":"background", "releaseDate":"2025-09-03", "light":true, "security":"003e3809e9128e01",
+        "name":"Paredes",
+        "roomName":"Jackpot Hall",
+        "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "backgroundColors":{
+            "day":{"color1":"F5D0AB","color2":"C7B1A3","colorLight":"613000"},
+            "night":{"color1":"AECDE6","color2":"B89FA2","colorLight":"004083"}
+        }
+    },
+    {
+        "id":433, "roomId":91, "slot":"slot1", "releaseDate":"2025-09-03", "light":true, "security":"7f04398085b04570",
+        "name":"Bar",
+        "roomName":"Jackpot Hall",
+        "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"}
+    },
+    {
+        "id":434, "roomId":91, "slot":"slot2", "releaseDate":"2025-09-03", "light":false, "security":"0eb90753584a2164",
+        "name":"Mesa de póquer",
+        "roomName":"Jackpot Hall",
+        "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"}
+    },
+    {
+        "id":435, "roomId":91, "slot":"slot3", "releaseDate":"2025-09-03", "light":false, "security":"c67fb6063d7a1f7c",
+        "name":"Sillón",
+        "roomName":"Jackpot Hall",
+        "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"}
+    },
+    {
+        "id":436, "roomId":91, "slot":"slot4", "releaseDate":"2025-09-03", "light":true, "security":"bd927a0bb74eed88",
+        "name":"Máquina tragaperras",
+        "roomName":"Jackpot Hall",
+        "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"}
+    },
+    {
+        "id":437, "roomId":91, "slot":"slot5", "releaseDate":"2025-09-03", "light":true, "security":"54435e3d0a18f03d",
+        "name":"Mesa",
+        "roomName":"Jackpot Hall",
+        "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"}
     }
 ]
