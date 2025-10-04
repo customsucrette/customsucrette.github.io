@@ -2283,7 +2283,24 @@
         ], "criteria":{"type":"jobTask", "info":"Grapadora (Episodio 16)", "text":"Desbloqueado en la Misión del día\nGrapadora"},
         "releaseDate":"2025-05-30"
     },
-
+    {
+        "groupId":1277, "zone":"head", "category":"wig", "security":"2f016728ab4a0a22", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1277, "colors":["pink","multi"]},
+            {"id":1278, "colors":["white","multi"]},
+            {"id":1279, "colors":["black","multi"]},
+            {"id":1280, "colors":["blue","multi"]},
+            {"id":1281, "colors":["blue","multi"]},
+            {"id":1282, "colors":["purple","multi"]},
+            {"id":1283, "colors":["red","multi"]},
+            {"id":1284, "colors":["yellow","multi"]},
+            {"id":1285, "colors":["orange","multi"]},
+            {"id":1286, "colors":["pink","multi"]}
+        ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
+        "releaseDate": "2025-09-26"
+    },
     {
         "groupId":1287, "zone":"torso_waistToKnee", "category":"dress", "security":"aa1a2f7a264eea3c", "multiLayered":false, "layerBehavior":"normal",
         "name":"Vestido",
@@ -2680,7 +2697,24 @@
         ], "criteria":{"type":"jobTask", "info":"Bebida", "text":"Desbloqueado en la Misión del día\nBebida"},
         "releaseDate":"2024-08-07"
     },
-
+    {
+        "groupId":1499, "zone":"torso", "category":"top", "security":"9d08bd488b9d1251", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"What the F***?",
+        "variations":[
+            {"id":1499, "colors":["white","green"]},
+            {"id":1500, "colors":["white","pink"]},
+            {"id":1501, "colors":["white"]},
+            {"id":1502, "colors":["yellow","white"]},
+            {"id":1503, "colors":["white","purple"]},
+            {"id":1504, "colors":["white","red"]},
+            {"id":1505, "colors":["white","black"]},
+            {"id":1506, "colors":["white","pink"]},
+            {"id":1507, "colors":["white","green"]},
+            {"id":1508, "colors":["white","yellow"]}
+        ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
+        "releaseDate": "2025-09-26"
+    },
     {
         "groupId":1509, "zone":"torso", "category":"jacket", "security":"468baa3750615e2e", "multiLayered":false, "layerBehavior":"normal",
         "name":"Abrigo",
@@ -2791,8 +2825,43 @@
         ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"},
         "releaseDate":"2024-12-04"
     },
+    {
+        "groupId":1599, "zone":"feet", "category":"shoes", "security":"18b924ea3ab283ec", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1599, "colors":["pink","multi"]},
+            {"id":1600, "colors":["purple","multi"]},
+            {"id":1601, "colors":["blue","multi"]},
+            {"id":1602, "colors":["white","multi"]},
+            {"id":1603, "colors":["yellow","multi"]},
+            {"id":1604, "colors":["blue","multi"]},
+            {"id":1605, "colors":["black","multi"]},
+            {"id":1606, "colors":["purple","multi"]},
+            {"id":1607, "colors":["grey","multi"]},
+            {"id":1608, "colors":["red","multi"]}
+        ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
+        "releaseDate": "2025-09-26"
+    },
 
-
+    {
+        "groupId":1639, "zone":"torso_waistToKnee", "category":"underwear", "security":"7a9f111f06d56936", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1639, "colors":["orange","purple","multi"]},
+            {"id":1640, "colors":["blue","green","multi"]},
+            {"id":1641, "colors":["purple","black","multi"]},
+            {"id":1642, "colors":["pink","yellow","multi"]},
+            {"id":1643, "colors":["red","grey","multi"]},
+            {"id":1644, "colors":["purple","yellow","multi"]},
+            {"id":1645, "colors":["yellow","purple","multi"]},
+            {"id":1646, "colors":["grey","multi"]},
+            {"id":1647, "colors":["blue","brown","multi"]},
+            {"id":1648, "colors":["white","blue","multi"]}
+        ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
+        "releaseDate": "2025-09-26"
+    },
     {
         "groupId":1649, "zone":"head", "category":"faceAccessory", "security":"a6c525f5d293415f", "multiLayered":false, "layerBehavior":"normal",
         "name":"Gafas",
@@ -2950,7 +3019,24 @@
         ], "criteria":{"type":"jobTask", "info":"Casco (Episodio 18)", "text":"Desbloqueado en la Misión del día\nCasco"},
         "releaseDate":"2025-08-01"
     },
-
+    {
+        "groupId":1790, "zone":"head", "category":"hat", "security":"590f1f1662a433ff", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1790, "colors":["golden","pink"]},
+            {"id":1791, "colors":["purple"]},
+            {"id":1792, "colors":["blue"]},
+            {"id":1793, "colors":["blue","silver"]},
+            {"id":1794, "colors":["white"]},
+            {"id":1795, "colors":["black"]},
+            {"id":1796, "colors":["brown"]},
+            {"id":1797, "colors":["green"]},
+            {"id":1798, "colors":["yellow"]},
+            {"id":1799, "colors":["golden","red"]}
+        ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
+        "releaseDate": "2025-09-26"
+    },
     {
         "groupId":1800, "zone":"feet", "category":"shoes", "security":"54551a0957b0dfff", "multiLayered":false, "layerBehavior":"normal",
         "name":"Botas",
@@ -3095,6 +3181,25 @@
             {"id":1899, "colors":["red","multi"]}
         ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"},
         "releaseDate":"2024-12-04"
+    },
+
+    {
+        "groupId":1920, "zone":"torso", "category":"jacket", "security":"f97d6b35857e0a95", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1920, "colors":["pink","blue"]},
+            {"id":1921, "colors":["orange","purple"]},
+            {"id":1922, "colors":["yellow","purple"]},
+            {"id":1923, "colors":["blue","yellow"]},
+            {"id":1924, "colors":["purple","orange"]},
+            {"id":1925, "colors":["green","pink"]},
+            {"id":1926, "colors":["red"]},
+            {"id":1927, "colors":["black","orange"]},
+            {"id":1928, "colors":["white"]},
+            {"id":1929, "colors":["grey","brown"]}
+        ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
+        "releaseDate": "2025-09-26"
     },
 
     {
@@ -4423,7 +4528,24 @@
         ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"},
         "releaseDate":"2025-02-05"
     },
-
+    {
+        "groupId":2693, "zone":"torso", "category":"top", "security":"93db83571c31d42f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corpiño",
+        "outfitName":"Neo-Victorian",
+        "variations":[
+            {"id":2693, "colors":["brown"]},
+            {"id":2694, "colors":["grey"]},
+            {"id":2695, "colors":["pink"]},
+            {"id":2696, "colors":["black"]},
+            {"id":2697, "colors":["brown"]},
+            {"id":2698, "colors":["red"]},
+            {"id":2699, "colors":["purple"]},
+            {"id":2700, "colors":["green"]},
+            {"id":2701, "colors":["white"]},
+            {"id":2702, "colors":["blue"]}
+        ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
+        "releaseDate": "2025-09-26"
+    },
     {
         "groupId":2703, "zone":"arms", "category":"gloves", "security":"0676c44f21e0afee", "multiLayered":false, "layerBehavior":"normal",
         "name":"Manoplas",
@@ -17706,8 +17828,114 @@
         ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Desbloqueado en el calendario\nN°17 - 2025"},
         "releaseDate":"2025-08-04"
     },
-
-
+    {
+        "groupId":10159, "zone":"general", "category":"tattoo", "security":"be0df2f89c2ee64c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10159, "colors":["black"]},
+            {"id":10160, "colors":["brown"]},
+            {"id":10161, "colors":["pink"]},
+            {"id":10162, "colors":["red"]},
+            {"id":10163, "colors":["white"]},
+            {"id":10164, "colors":["green"]},
+            {"id":10165, "colors":["purple"]},
+            {"id":10166, "colors":["yellow"]},
+            {"id":10167, "colors":["blue"]},
+            {"id":10168, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2025-19", "text":"Desbloqueado en el calendario\nN°19 - 2025"},
+        "releaseDate":"2025-10-03"
+    },
+    {
+        "groupId":10169, "zone":"general", "category":"other", "security":"e4233df258ed1a9b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Criatura",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10169, "colors":["green"]},
+            {"id":10170, "colors":["blue"]},
+            {"id":10171, "colors":["pink","green"]},
+            {"id":10172, "colors":["black","grey"]},
+            {"id":10173, "colors":["white"]},
+            {"id":10174, "colors":["brown","green"]},
+            {"id":10175, "colors":["yellow","purple"]},
+            {"id":10176, "colors":["yellow"]},
+            {"id":10177, "colors":["green","pink"]},
+            {"id":10178, "colors":["red","green"]}
+        ], "criteria":{"type":"calendar", "info":"2025-19", "text":"Desbloqueado en el calendario\nN°19 - 2025"},
+        "releaseDate":"2025-10-03"
+    },
+    {
+        "groupId":10179, "zone":"feet", "category":"shoes", "security":"ca39e965860745c0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10179, "colors":["brown"]},
+            {"id":10180, "colors":["brown"]},
+            {"id":10181, "colors":["brown"]},
+            {"id":10182, "colors":["black"]},
+            {"id":10183, "colors":["white"]},
+            {"id":10184, "colors":["red"]},
+            {"id":10185, "colors":["blue"]},
+            {"id":10186, "colors":["grey"]},
+            {"id":10187, "colors":["green"]},
+            {"id":10188, "colors":["purple"]}
+        ], "criteria":{"type":"calendar", "info":"2025-19", "text":"Desbloqueado en el calendario\nN°19 - 2025"},
+        "releaseDate":"2025-10-03"
+    },
+    {
+        "groupId":10189, "zone":"torso_waistToKnee", "category":"dress", "security":"fff4151858dc3bc2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10189, "colors":["green","multi"]},
+            {"id":10190, "colors":["blue","multi"]},
+            {"id":10191, "colors":["pink","multi"]},
+            {"id":10192, "colors":["black","multi"]},
+            {"id":10193, "colors":["white","multi"]},
+            {"id":10194, "colors":["brown","multi"]},
+            {"id":10195, "colors":["purple","multi"]},
+            {"id":10196, "colors":["yellow","multi"]},
+            {"id":10197, "colors":["blue","green","multi"]},
+            {"id":10198, "colors":["red","multi"]}
+        ], "criteria":{"type":"calendar", "info":"2025-19", "text":"Desbloqueado en el calendario\nN°19 - 2025"},
+        "releaseDate":"2025-10-03"
+    },
+    {
+        "groupId":10199, "zone":"head", "category":"faceAccessory", "security":"e0957f18245149d5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Fular",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10199, "colors":["green"]},
+            {"id":10200, "colors":["blue"]},
+            {"id":10201, "colors":["pink"]},
+            {"id":10202, "colors":["black"]},
+            {"id":10203, "colors":["white"]},
+            {"id":10204, "colors":["brown"]},
+            {"id":10205, "colors":["purple"]},
+            {"id":10206, "colors":["yellow"]},
+            {"id":10207, "colors":["blue"]},
+            {"id":10208, "colors":["red"]}
+        ], "criteria":{"type":"calendar", "info":"2025-19", "text":"Desbloqueado en el calendario\nN°19 - 2025"},
+        "releaseDate":"2025-10-03"
+    },
+    {
+        "groupId":10209, "zone":"torso", "category":"jacket", "security":"d509102542f5c360", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Capa",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10209, "colors":["red","green"]},
+            {"id":10210, "colors":["brown","blue"]},
+            {"id":10211, "colors":["green","pink"]},
+            {"id":10212, "colors":["black"]},
+            {"id":10213, "colors":["white"]},
+            {"id":10214, "colors":["green","brown"]},
+            {"id":10215, "colors":["blue","purple"]},
+            {"id":10216, "colors":["brown","yellow"]},
+            {"id":10217, "colors":["pink","blue"]},
+            {"id":10218, "colors":["grey","red"]}
+        ], "criteria":{"type":"calendar", "info":"2025-19", "text":"Desbloqueado en el calendario\nN°19 - 2025"},
+        "releaseDate":"2025-10-03"
+    },
     {
         "groupId":10219, "zone":"arms", "category":"bag", "security":"8959a6fa84418ec4", "multiLayered":false, "layerBehavior":"normal",
         "name":"Taki de Crochet",
@@ -18113,22 +18341,237 @@
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
     },
-
+    {
+        "groupId":10432, "zone":"feet", "category":"shoes", "security":"b2113be159206405", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Alpargatas",
+        "outfitName":"Cerámica de Moustiers",
+        "variations":[
+            {"id":10432, "colors":["brown"]},
+            {"id":10433, "colors":["black"]},
+            {"id":10434, "colors":["white"]},
+            {"id":10435, "colors":["orange"]},
+            {"id":10436, "colors":["yellow"]},
+            {"id":10437, "colors":["blue"]},
+            {"id":10438, "colors":["red"]},
+            {"id":10439, "colors":["green"]},
+            {"id":10440, "colors":["purple"]},
+            {"id":10441, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10442, "zone":"arms", "category":"armAccessory", "security":"dbff2a4d659447ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Cerámica de Moustiers",
+        "variations":[
+            {"id":10442, "colors":["golden"]},
+            {"id":10443, "colors":["black"]},
+            {"id":10444, "colors":["brown"]},
+            {"id":10445, "colors":["orange"]},
+            {"id":10446, "colors":["silver"]},
+            {"id":10447, "colors":["blue"]},
+            {"id":10448, "colors":["red"]},
+            {"id":10449, "colors":["green"]},
+            {"id":10450, "colors":["purple"]},
+            {"id":10451, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10452, "zone":"waistToKnee", "category":"skirt", "security":"def4ae4d000fe5e4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Cerámica de Moustiers",
+        "variations":[
+            {"id":10452, "colors":["white","blue"]},
+            {"id":10453, "colors":["white","black"]},
+            {"id":10454, "colors":["white","brown"]},
+            {"id":10455, "colors":["white","orange"]},
+            {"id":10456, "colors":["white","yellow"]},
+            {"id":10457, "colors":["white","blue"]},
+            {"id":10458, "colors":["white","red"]},
+            {"id":10459, "colors":["white","green"]},
+            {"id":10460, "colors":["white","purple"]},
+            {"id":10461, "colors":["white","pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10462, "zone":"torso", "category":"top", "security":"b96e6655c49a740a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Cerámica de Moustiers",
+        "variations":[
+            {"id":10462, "colors":["white"]},
+            {"id":10463, "colors":["black"]},
+            {"id":10464, "colors":["brown"]},
+            {"id":10465, "colors":["orange"]},
+            {"id":10466, "colors":["yellow"]},
+            {"id":10467, "colors":["blue"]},
+            {"id":10468, "colors":["red"]},
+            {"id":10469, "colors":["green"]},
+            {"id":10470, "colors":["purple"]},
+            {"id":10471, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10472, "zone":"arms", "category":"bag", "security":"71f9065d8b4dd920", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Cerámica de Moustiers",
+        "variations":[
+            {"id":10472, "colors":["white","blue","golden"]},
+            {"id":10473, "colors":["black","red","silver"]},
+            {"id":10474, "colors":["brown","green","silver"]},
+            {"id":10475, "colors":["orange","yellow","silver"]},
+            {"id":10476, "colors":["yellow","orange","golden"]},
+            {"id":10477, "colors":["blue","white","silver"]},
+            {"id":10478, "colors":["red","black","golden"]},
+            {"id":10479, "colors":["green","brown","golden"]},
+            {"id":10480, "colors":["purple","pink","silver"]},
+            {"id":10481, "colors":["pink","purple","golden"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10482, "zone":"head", "category":"earring", "security":"2faadf7b1974f9c7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Cerámica de Moustiers",
+        "variations":[
+            {"id":10482, "colors":["golden"]},
+            {"id":10483, "colors":["black"]},
+            {"id":10484, "colors":["brown"]},
+            {"id":10485, "colors":["orange"]},
+            {"id":10486, "colors":["silver"]},
+            {"id":10487, "colors":["blue"]},
+            {"id":10488, "colors":["red"]},
+            {"id":10489, "colors":["green"]},
+            {"id":10490, "colors":["purple"]},
+            {"id":10491, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10492, "zone":"feet", "category":"shoes", "security":"9043f9a7046519e2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Porcelana del Sur",
+        "variations":[
+            {"id":10492, "colors":["white","blue"]},
+            {"id":10493, "colors":["black","white"]},
+            {"id":10494, "colors":["brown"]},
+            {"id":10495, "colors":["orange"]},
+            {"id":10496, "colors":["yellow"]},
+            {"id":10497, "colors":["green"]},
+            {"id":10498, "colors":["blue"]},
+            {"id":10499, "colors":["purple"]},
+            {"id":10500, "colors":["red"]},
+            {"id":10501, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10502, "zone":"arms", "category":"bag", "security":"84cb021b7357400a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Porcelana del Sur",
+        "variations":[
+            {"id":10502, "colors":["white"]},
+            {"id":10503, "colors":["black"]},
+            {"id":10504, "colors":["brown"]},
+            {"id":10505, "colors":["orange"]},
+            {"id":10506, "colors":["yellow"]},
+            {"id":10507, "colors":["green"]},
+            {"id":10508, "colors":["blue"]},
+            {"id":10509, "colors":["purple"]},
+            {"id":10510, "colors":["red"]},
+            {"id":10511, "colors":["pink","red"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10512, "zone":"waistToKnee", "category":"pants", "security":"cf4c18617980cc42", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Porcelana del Sur",
+        "variations":[
+            {"id":10512, "colors":["white"]},
+            {"id":10513, "colors":["black"]},
+            {"id":10514, "colors":["brown"]},
+            {"id":10515, "colors":["orange"]},
+            {"id":10516, "colors":["yellow"]},
+            {"id":10517, "colors":["green"]},
+            {"id":10518, "colors":["blue"]},
+            {"id":10519, "colors":["purple"]},
+            {"id":10520, "colors":["red"]},
+            {"id":10521, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10522, "zone":"torso", "category":"top", "security":"945ce60afc00bc6c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blusa",
+        "outfitName":"Porcelana del Sur",
+        "variations":[
+            {"id":10522, "colors":["white"]},
+            {"id":10523, "colors":["black"]},
+            {"id":10524, "colors":["brown"]},
+            {"id":10525, "colors":["orange"]},
+            {"id":10526, "colors":["yellow"]},
+            {"id":10527, "colors":["green"]},
+            {"id":10528, "colors":["blue"]},
+            {"id":10529, "colors":["purple"]},
+            {"id":10530, "colors":["red"]},
+            {"id":10531, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10532, "zone":"head", "category":"earring", "security":"fc49a16c24d93063", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Porcelana del Sur",
+        "variations":[
+            {"id":10532, "colors":["white","golden"]},
+            {"id":10533, "colors":["black"]},
+            {"id":10534, "colors":["brown"]},
+            {"id":10535, "colors":["orange"]},
+            {"id":10536, "colors":["yellow","silver"]},
+            {"id":10537, "colors":["green"]},
+            {"id":10538, "colors":["blue"]},
+            {"id":10539, "colors":["purple"]},
+            {"id":10540, "colors":["red"]},
+            {"id":10541, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10542, "zone":"head", "category":"faceAccessory", "security":"aaab3fc70a2c2bb8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Porcelana del Sur",
+        "variations":[
+            {"id":10542, "colors":["black","golden"]},
+            {"id":10543, "colors":["white","silver"]},
+            {"id":10544, "colors":["brown","silver"]},
+            {"id":10545, "colors":["orange","silver"]},
+            {"id":10546, "colors":["yellow","golden"]},
+            {"id":10547, "colors":["green","golden"]},
+            {"id":10548, "colors":["blue","silver"]},
+            {"id":10549, "colors":["purple","golden"]},
+            {"id":10550, "colors":["red","golden"]},
+            {"id":10551, "colors":["pink","silver"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
     {
         "groupId":10552, "zone":"arms", "category":"bag", "security":"54afa3542636b8b3", "multiLayered":false, "layerBehavior":"normal",
         "name":"Quick Travel",
         "outfitName":null,
         "variations":[
             {"id":10552, "colors":["green","white"]},
-            {"id":10553, "colors":["undefined"]},
-            {"id":10554, "colors":["undefined"]},
-            {"id":10555, "colors":["undefined"]},
-            {"id":10556, "colors":["undefined"]},
-            {"id":10557, "colors":["undefined"]},
-            {"id":10558, "colors":["undefined"]},
-            {"id":10559, "colors":["undefined"]},
-            {"id":10560, "colors":["undefined"]},
-            {"id":10561, "colors":["undefined"]}
+            {"id":10553, "colors":["blue","purple"]},
+            {"id":10554, "colors":["pink","red"]},
+            {"id":10555, "colors":["brown","yellow"]},
+            {"id":10556, "colors":["green"]},
+            {"id":10557, "colors":["black","blue"]},
+            {"id":10558, "colors":["purple","white"]},
+            {"id":10559, "colors":["brown"]},
+            {"id":10560, "colors":["multi","white"]},
+            {"id":10561, "colors":["black","red"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
     },

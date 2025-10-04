@@ -267,7 +267,10 @@
         "id":68, "security":"8074931790955a1f", "releaseDate":"2025-07-30", "name":"Kigoosumi",
         "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"}
     },
-
+    {
+        "id":69, "security":"95037d490bb0e6f2", "releaseDate":"2025-09-26", "name":"Beegoose",
+        "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"}
+    },
     {
         "id":70, "security":"96f54d7ebbcb973c", "releaseDate":"2025-08-29", "name":"SandGoose",
         "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"}

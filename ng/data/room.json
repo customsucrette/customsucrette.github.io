@@ -756,6 +756,16 @@
         "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
     {
+        "id":117, "roomId":36, "slot":"background", "releaseDate":"2025-09-26", "light":true, "security":"15889ced75d94795",
+        "name":"Paredes",
+        "roomName":"What the F***?",
+        "criteria":{"type":"jobTask", "info":"Lámpara", "text":"Desbloqueado en la Misión del día\nLámpara"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"A5B1D8","colorLight":"16BAD3"},
+            "night":{"color1":"8AD2FF","color2":"9AA1FE","colorLight":"0191FD"}
+        }
+    },
+    {
         "id":118, "roomId":36, "slot":"slot5", "releaseDate":"2025-08-01", "light":false, "security":"bf92a8e3f79663aa",
         "name":"Escultura y mesa baja",
         "roomName":"What the F***?",
@@ -776,6 +786,12 @@
         "name":"Sofá",
         "roomName":"Quirky Pastels",
         "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"}
+    },
+    {
+        "id":128, "roomId":37, "slot":"slot1", "releaseDate":"2025-09-26", "light":true, "security":"0e08f289c4193b85",
+        "name":"Cocina",
+        "roomName":"Quirky Pastels",
+        "criteria":{"type":"jobTask", "info":"Lámpara", "text":"Desbloqueado en la Misión del día\nLámpara"}
     },
     {
         "id":129, "roomId":38, "slot":"background", "releaseDate":"2025-02-05", "light":true, "security":"69ac0e599fab0a71",
@@ -816,6 +832,13 @@
         "name":"Futón",
         "roomName":"Zen Vibes",
         "criteria":{"type":"jobTask", "info":"Grapadora", "text":"Desbloqueado en la Misión del día\nGrapadora"}
+    },
+
+    {
+        "id":136, "roomId":39, "slot":"slot5", "releaseDate":"2025-09-26", "light":true, "security":"120202b5fb5fcb91",
+        "name":"Sillón largo",
+        "roomName":"Space Capsule",
+        "criteria":{"type":"jobTask", "info":"Lámpara", "text":"Desbloqueado en la Misión del día\nLámpara"}
     },
     {
         "id":137, "roomId":39, "slot":"slot4", "releaseDate":"2025-03-28", "light":true, "security":"dc58f23a27601c55",
@@ -865,6 +888,12 @@
         "name":"Sillón",
         "roomName":"Dirty Garage",
         "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"}
+    },
+    {
+        "id":146, "roomId":40, "slot":"slot1", "releaseDate":"2025-09-26", "light":true, "security":"1b5205ef6618f342",
+        "name":"Escalera y banco",
+        "roomName":"Dirty Garage",
+        "criteria":{"type":"jobTask", "info":"Lámpara", "text":"Desbloqueado en la Misión del día\nLámpara"}
     },
     {
         "id":147, "roomId":41, "slot":"background", "releaseDate":"2025-03-28", "light":true, "security":"f29c4cecb900420c",
