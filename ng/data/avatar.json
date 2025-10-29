@@ -463,6 +463,24 @@
                     {"id":206, "colors":["red"]}
                 ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
                 "releaseDate":"2025-09-03"
+            },
+            {
+                "groupId":207, "zone":"face", "category":"eyes", "security":"f94c66c2fdb994e0",
+                "name":"Ojos",
+                "outfitName":"The Banished Bride",
+                "variations":[
+                    {"id":207, "colors":["black"]},
+                    {"id":208, "colors":["white"]},
+                    {"id":209, "colors":["purple"]},
+                    {"id":210, "colors":["green"]},
+                    {"id":211, "colors":["orange"]},
+                    {"id":212, "colors":["red"]},
+                    {"id":213, "colors":["blue"]},
+                    {"id":214, "colors":["yellow"]},
+                    {"id":215, "colors":["pink"]},
+                    {"id":216, "colors":["brown"]}
+                ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+                "releaseDate":"2025-10-28"
             }
         ],
         "mouth":[
@@ -716,6 +734,24 @@
                     {"id":170, "colors":["yellow"]}
                 ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
                 "releaseDate":"2025-05-02"
+            },
+            {
+                "groupId":171, "zone":"face", "category":"mouth", "security":"8c0cf9a82eb8f005",
+                "name":"Boca",
+                "outfitName":"The Banished Bride",
+                "variations":[
+                    {"id":171, "colors":["black"]},
+                    {"id":172, "colors":["white"]},
+                    {"id":173, "colors":["purple"]},
+                    {"id":174, "colors":["green"]},
+                    {"id":175, "colors":["orange"]},
+                    {"id":176, "colors":["red"]},
+                    {"id":177, "colors":["blue"]},
+                    {"id":178, "colors":["yellow"]},
+                    {"id":179, "colors":["pink"]},
+                    {"id":180, "colors":["brown"]}
+                ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+                "releaseDate":"2025-10-28"
             }
         ]
     },

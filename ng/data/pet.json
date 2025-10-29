@@ -282,5 +282,14 @@
     {
         "id":72, "security":"dd1db122e71eca32", "releaseDate":"2025-09-03", "name":"Goose of Fortune",
         "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"}
+    },
+
+    {
+        "id":74, "security":"1194f0c259b02424", "releaseDate":"2025-10-21", "name":"Raven't",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"}
+    },
+    {
+        "id":75, "security":"f95253cc39859377", "releaseDate":"2025-10-28", "name":"Ghoostly",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"}
     }
 ]

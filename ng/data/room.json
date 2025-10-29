@@ -2781,5 +2781,85 @@
         "name":"Mesa",
         "roomName":"Jackpot Hall",
         "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"}
+    },
+    {
+        "id":438, "roomId":92, "slot":"background", "releaseDate":"2025-10-28", "light":true, "security":"7d286520d0adce5a",
+        "name":"Paredes",
+        "roomName":"The Arcana Parlor",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "backgroundColors":{
+            "day":{"color1":"BDA592","color2":"9E92A9","colorLight":"DAA268"},
+            "night":{"color1":"DA7772","color2":"99A3A9","colorLight":"CF0423"}
+        }
+    },
+    {
+        "id":439, "roomId":92, "slot":"slot1", "releaseDate":"2025-10-28", "light":true, "security":"94204a06bb64fd13",
+        "name":"Banqueta",
+        "roomName":"The Arcana Parlor",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"}
+    },
+    {
+        "id":440, "roomId":92, "slot":"slot2", "releaseDate":"2025-10-28", "light":true, "security":"d645a0b16679e55d",
+        "name":"Mesa",
+        "roomName":"The Arcana Parlor",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"}
+    },
+    {
+        "id":441, "roomId":92, "slot":"slot3", "releaseDate":"2025-10-28", "light":true, "security":"6f3ff3203c2acfe1",
+        "name":"Mesa baja",
+        "roomName":"The Arcana Parlor",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"}
+    },
+    {
+        "id":442, "roomId":92, "slot":"slot4", "releaseDate":"2025-10-28", "light":false, "security":"b0f1e3c8227feb3f",
+        "name":"Armario",
+        "roomName":"The Arcana Parlor",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"}
+    },
+    {
+        "id":443, "roomId":92, "slot":"slot5", "releaseDate":"2025-10-28", "light":true, "security":"04214aeaeffab277",
+        "name":"Letrero",
+        "roomName":"The Arcana Parlor",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"}
+    },
+    {
+        "id":444, "roomId":93, "slot":"background", "releaseDate":"2025-10-28", "light":true, "security":"ac0e92ea983e8294",
+        "name":"Paredes",
+        "roomName":"The Mourning Wing",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "backgroundColors":{
+            "day":{"color1":"727D87","color2":"88949E","colorLight":"1C262B"},
+            "night":{"color1":"669286","color2":"596F78","colorLight":"19353C"}
+        }
+    },
+    {
+        "id":445, "roomId":93, "slot":"slot1", "releaseDate":"2025-10-28", "light":false, "security":"3a90bb19ee9aee79",
+        "name":"Marcos",
+        "roomName":"The Mourning Wing",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"}
+    },
+    {
+        "id":446, "roomId":93, "slot":"slot2", "releaseDate":"2025-10-28", "light":true, "security":"38accbe4f8735dc5",
+        "name":"Cama",
+        "roomName":"The Mourning Wing",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"}
+    },
+    {
+        "id":447, "roomId":93, "slot":"slot3", "releaseDate":"2025-10-28", "light":true, "security":"90af291bbc9acc5e",
+        "name":"Sillón",
+        "roomName":"The Mourning Wing",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"}
+    },
+    {
+        "id":448, "roomId":93, "slot":"slot4", "releaseDate":"2025-10-28", "light":false, "security":"0302130195f2a611",
+        "name":"Espejo",
+        "roomName":"The Mourning Wing",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"}
+    },
+    {
+        "id":449, "roomId":93, "slot":"slot5", "releaseDate":"2025-10-28", "light":true, "security":"ab7026d211dfb1ad",
+        "name":"Lámpara de araña",
+        "roomName":"The Mourning Wing",
+        "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"}
     }
 ]

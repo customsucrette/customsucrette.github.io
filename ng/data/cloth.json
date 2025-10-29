@@ -18963,5 +18963,592 @@
             {"id":10865, "colors":["brown"], "variationNumber":10}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+
+    {
+        "groupId":10987, "zone":"arms", "category":"gloves", "security":"bb278389920de1b9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":10987, "colors":["white"]},
+            {"id":10988, "colors":["brown","golden"]},
+            {"id":10989, "colors":["silver"]},
+            {"id":10990, "colors":["orange"]},
+            {"id":10991, "colors":["green"]},
+            {"id":10992, "colors":["black"]},
+            {"id":10993, "colors":["blue"]},
+            {"id":10994, "colors":["pink"]},
+            {"id":10995, "colors":["red"]},
+            {"id":10996, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-21"
+    },
+    {
+        "groupId":10997, "zone":"arms", "category":"bag", "security":"1ee9f7791e65ddef", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guadana",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":10997, "colors":["black","golden"]},
+            {"id":10998, "colors":["silver","white"]},
+            {"id":10999, "colors":["green","brown"]},
+            {"id":11000, "colors":["brown"]},
+            {"id":11001, "colors":["black","grey"]},
+            {"id":11002, "colors":["golden","orange"]},
+            {"id":11003, "colors":["silver","black"]},
+            {"id":11004, "colors":["blue","grey"]},
+            {"id":11005, "colors":["white","grey"]},
+            {"id":11006, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-21"
+    },
+    {
+        "groupId":11007, "zone":"waistToKnee", "category":"pants", "security":"f225ce75b0a20bcb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11007, "colors":["black"]},
+            {"id":11008, "colors":["white"]},
+            {"id":11009, "colors":["green"]},
+            {"id":11010, "colors":["brown"]},
+            {"id":11011, "colors":["red"]},
+            {"id":11012, "colors":["orange"]},
+            {"id":11013, "colors":["purple"]},
+            {"id":11014, "colors":["blue"]},
+            {"id":11015, "colors":["grey"]},
+            {"id":11016, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-21"
+    },
+    {
+        "groupId":11017, "zone":"feet", "category":"shoes", "security":"5d12f4b2742be538", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11017, "colors":["black","brown"]},
+            {"id":11018, "colors":["white","grey"]},
+            {"id":11019, "colors":["green","brown"]},
+            {"id":11020, "colors":["brown"]},
+            {"id":11021, "colors":["red","brown"]},
+            {"id":11022, "colors":["red"]},
+            {"id":11023, "colors":["purple"]},
+            {"id":11024, "colors":["blue"]},
+            {"id":11025, "colors":["black","grey"]},
+            {"id":11026, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-21"
+    },
+    {
+        "groupId":11027, "zone":"torso", "category":"top", "security":"5ad50eaef7b6fca5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11027, "colors":["black"]},
+            {"id":11028, "colors":["white"]},
+            {"id":11029, "colors":["green"]},
+            {"id":11030, "colors":["brown"]},
+            {"id":11031, "colors":["red"]},
+            {"id":11032, "colors":["orange"]},
+            {"id":11033, "colors":["purple"]},
+            {"id":11034, "colors":["blue"]},
+            {"id":11035, "colors":["grey"]},
+            {"id":11036, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-21"
+    },
+    {
+        "groupId":11037, "zone":"torso", "category":"jacket", "security":"621324d00ce10627", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Capa",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11037, "colors":["black"]},
+            {"id":11038, "colors":["white"]},
+            {"id":11039, "colors":["green"]},
+            {"id":11040, "colors":["brown"]},
+            {"id":11041, "colors":["red"]},
+            {"id":11042, "colors":["orange"]},
+            {"id":11043, "colors":["purple"]},
+            {"id":11044, "colors":["blue"]},
+            {"id":11045, "colors":["grey"]},
+            {"id":11046, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-21"
+    },
+    {
+        "groupId":11047, "zone":"head", "category":"hat", "security":"4468d7607d36aca1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Capucha",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11047, "colors":["black","blue"]},
+            {"id":11048, "colors":["white","red"]},
+            {"id":11049, "colors":["green","yellow"]},
+            {"id":11050, "colors":["brown","green"]},
+            {"id":11051, "colors":["red","white"]},
+            {"id":11052, "colors":["orange","pink"]},
+            {"id":11053, "colors":["purple","blue"]},
+            {"id":11054, "colors":["blue","orange"]},
+            {"id":11055, "colors":["grey","pink"]},
+            {"id":11056, "colors":["pink","purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-21"
+    },
+    {
+        "groupId":11057, "zone":"general", "category":"other", "security":"51ff6e152b1573d9", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cuervo",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11057, "colors":["black"]},
+            {"id":11058, "colors":["white"]},
+            {"id":11059, "colors":["white","black"]},
+            {"id":11060, "colors":["black","brown"]},
+            {"id":11061, "colors":["white","black"]},
+            {"id":11062, "colors":["black"]},
+            {"id":11063, "colors":["black"]},
+            {"id":11064, "colors":["black","grey"]},
+            {"id":11065, "colors":["black"]},
+            {"id":11066, "colors":["black"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-21"
+    },
+    {
+        "groupId":11067, "zone":"general", "category":"skin", "security":"204b24e896b59fd2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piel",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11067, "colors":["blue"]},
+            {"id":11068, "colors":["pink"]},
+            {"id":11069, "colors":["red"]},
+            {"id":11070, "colors":["yellow"]},
+            {"id":11071, "colors":["white"]},
+            {"id":11072, "colors":["orange"]},
+            {"id":11073, "colors":["green"]},
+            {"id":11074, "colors":["grey","purple"]},
+            {"id":11075, "colors":["blue"]},
+            {"id":11076, "colors":["black"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11077, "zone":"general", "category":"other", "security":"7817c9d858606712", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sangre",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11077, "colors":["red"]},
+            {"id":11078, "colors":["yellow"]},
+            {"id":11079, "colors":["pink"]},
+            {"id":11080, "colors":["black"]},
+            {"id":11081, "colors":["white"]},
+            {"id":11082, "colors":["blue"]},
+            {"id":11083, "colors":["green"]},
+            {"id":11084, "colors":["green"]},
+            {"id":11085, "colors":["orange"]},
+            {"id":11086, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11087, "zone":"general", "category":"tattoo", "security":"a53219195ef3965d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sangre",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11087, "colors":["red"]},
+            {"id":11088, "colors":["yellow"]},
+            {"id":11089, "colors":["pink"]},
+            {"id":11090, "colors":["black"]},
+            {"id":11091, "colors":["white"]},
+            {"id":11092, "colors":["blue"]},
+            {"id":11093, "colors":["green"]},
+            {"id":11094, "colors":["green"]},
+            {"id":11095, "colors":["orange"]},
+            {"id":11096, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11097, "zone":"general", "category":"tattoo", "security":"cd50c81ab6d0be41", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sangre",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11097, "colors":["red"]},
+            {"id":11098, "colors":["yellow"]},
+            {"id":11099, "colors":["pink"]},
+            {"id":11100, "colors":["black"]},
+            {"id":11101, "colors":["white"]},
+            {"id":11102, "colors":["blue"]},
+            {"id":11103, "colors":["green"]},
+            {"id":11104, "colors":["green"]},
+            {"id":11105, "colors":["orange"]},
+            {"id":11106, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11107, "zone":"torso", "category":"top", "security":"12249629a8dec8ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11107, "colors":["brown"]},
+            {"id":11108, "colors":["green"]},
+            {"id":11109, "colors":["blue"]},
+            {"id":11110, "colors":["white"]},
+            {"id":11111, "colors":["black"]},
+            {"id":11112, "colors":["red"]},
+            {"id":11113, "colors":["pink"]},
+            {"id":11114, "colors":["orange"]},
+            {"id":11115, "colors":["purple"]},
+            {"id":11116, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11117, "zone":"waistToKnee", "category":"skirt", "security":"83cd00c986606da1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11117, "colors":["brown"]},
+            {"id":11118, "colors":["green"]},
+            {"id":11119, "colors":["blue"]},
+            {"id":11120, "colors":["white"]},
+            {"id":11121, "colors":["black"]},
+            {"id":11122, "colors":["red"]},
+            {"id":11123, "colors":["pink"]},
+            {"id":11124, "colors":["orange"]},
+            {"id":11125, "colors":["purple"]},
+            {"id":11126, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11127, "zone":"face", "category":"neckAccessory", "security":"4cb2cd329121cda2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cuello",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11127, "colors":["brown"]},
+            {"id":11128, "colors":["green"]},
+            {"id":11129, "colors":["blue"]},
+            {"id":11130, "colors":["white"]},
+            {"id":11131, "colors":["black"]},
+            {"id":11132, "colors":["red"]},
+            {"id":11133, "colors":["pink"]},
+            {"id":11134, "colors":["orange"]},
+            {"id":11135, "colors":["purple"]},
+            {"id":11136, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11137, "zone":"head", "category":"wig", "security":"b26631b946a10366", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11137, "colors":["brown"]},
+            {"id":11138, "colors":["white"]},
+            {"id":11139, "colors":["black"]},
+            {"id":11140, "colors":["blue"]},
+            {"id":11141, "colors":["blue"]},
+            {"id":11142, "colors":["purple"]},
+            {"id":11143, "colors":["red"]},
+            {"id":11144, "colors":["yellow"]},
+            {"id":11145, "colors":["orange"]},
+            {"id":11146, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11147, "zone":"head", "category":"hat", "security":"cc5f1bb06e6b1201", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Velo",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11147, "colors":["brown"]},
+            {"id":11148, "colors":["green"]},
+            {"id":11149, "colors":["blue"]},
+            {"id":11150, "colors":["white"]},
+            {"id":11151, "colors":["black"]},
+            {"id":11152, "colors":["red"]},
+            {"id":11153, "colors":["pink"]},
+            {"id":11154, "colors":["orange"]},
+            {"id":11155, "colors":["purple"]},
+            {"id":11156, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11157, "zone":"general", "category":"other", "security":"f3c80b1db2ccdffd", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bruma",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11157, "colors":["brown"]},
+            {"id":11158, "colors":["green"]},
+            {"id":11159, "colors":["blue"]},
+            {"id":11160, "colors":["white"]},
+            {"id":11161, "colors":["black"]},
+            {"id":11162, "colors":["red"]},
+            {"id":11163, "colors":["pink"]},
+            {"id":11164, "colors":["orange"]},
+            {"id":11165, "colors":["purple"]},
+            {"id":11166, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11167, "zone":"torso", "category":"top", "security":"da8ee6c5b9a5d08a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11167, "colors":["brown","golden"]},
+            {"id":11168, "colors":["black","brown","golden"]},
+            {"id":11169, "colors":["white","brown","silver"]},
+            {"id":11170, "colors":["red","brown","golden"]},
+            {"id":11171, "colors":["green","brown","golden"]},
+            {"id":11172, "colors":["blue","brown","silver"]},
+            {"id":11173, "colors":["purple","brown","silver"]},
+            {"id":11174, "colors":["yellow","brown","silver"]},
+            {"id":11175, "colors":["brown","black","silver"]},
+            {"id":11176, "colors":["pink","brown","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11177, "zone":"waistToKnee", "category":"skirt", "security":"478f6bea4f097b0a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11177, "colors":["pink","blue","golden"]},
+            {"id":11178, "colors":["purple","black","golden"]},
+            {"id":11179, "colors":["white","purple","silver"]},
+            {"id":11180, "colors":["black","red","golden"]},
+            {"id":11181, "colors":["golden","green","brown"]},
+            {"id":11182, "colors":["blue","purple","silver"]},
+            {"id":11183, "colors":["purple","blue","silver"]},
+            {"id":11184, "colors":["silver","yellow","orange"]},
+            {"id":11185, "colors":["brown","silver","red"]},
+            {"id":11186, "colors":["pink","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11187, "zone":"head", "category":"earring", "security":"3bb6d97115c30908", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Pendientes",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11187, "colors":["golden","pink","blue"]},
+            {"id":11188, "colors":["golden","purple","black"]},
+            {"id":11189, "colors":["silver","purple","white"]},
+            {"id":11190, "colors":["golden","pink","red"]},
+            {"id":11191, "colors":["golden","green","brown"]},
+            {"id":11192, "colors":["silver","pink","blue"]},
+            {"id":11193, "colors":["silver","purple","blue"]},
+            {"id":11194, "colors":["silver","orange","yellow"]},
+            {"id":11195, "colors":["brown","black"]},
+            {"id":11196, "colors":["golden","pink","red"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11197, "zone":"head", "category":"wig", "security":"d91cb3a73551ecad", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11197, "colors":["brown","golden"]},
+            {"id":11198, "colors":["white","golden"]},
+            {"id":11199, "colors":["black","golden"]},
+            {"id":11200, "colors":["blue","golden"]},
+            {"id":11201, "colors":["blue","golden"]},
+            {"id":11202, "colors":["purple","golden"]},
+            {"id":11203, "colors":["red","golden"]},
+            {"id":11204, "colors":["golden","yellow"]},
+            {"id":11205, "colors":["orange","golden"]},
+            {"id":11206, "colors":["pink","golden"]},
+            {"id":11207, "colors":["brown","silver"]},
+            {"id":11208, "colors":["white","silver"]},
+            {"id":11209, "colors":["black","silver"]},
+            {"id":11210, "colors":["blue","silver"]},
+            {"id":11211, "colors":["blue","silver"]},
+            {"id":11212, "colors":["purple","silver"]},
+            {"id":11213, "colors":["red","silver"]},
+            {"id":11214, "colors":["yellow","silver"]},
+            {"id":11215, "colors":["orange","silver"]},
+            {"id":11216, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11217, "zone":"head", "category":"hat", "security":"d82a3d9fcab00808", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Fular",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11217, "colors":["golden","blue"]},
+            {"id":11218, "colors":["golden","purple"]},
+            {"id":11219, "colors":["silver","white"]},
+            {"id":11220, "colors":["black","golden"]},
+            {"id":11221, "colors":["green","golden"]},
+            {"id":11222, "colors":["blue","silver"]},
+            {"id":11223, "colors":["purple","silver"]},
+            {"id":11224, "colors":["silver","yellow"]},
+            {"id":11225, "colors":["silver","brown"]},
+            {"id":11226, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11227, "zone":"general", "category":"other", "security":"c7440e6bdc71359f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cartas",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11227, "colors":["golden","purple"]},
+            {"id":11228, "colors":["golden","red"]},
+            {"id":11229, "colors":["silver","white","purple"]},
+            {"id":11230, "colors":["golden","black"]},
+            {"id":11231, "colors":["green","brown"]},
+            {"id":11232, "colors":["blue","silver"]},
+            {"id":11233, "colors":["pink","white","silver"]},
+            {"id":11234, "colors":["silver","yellow"]},
+            {"id":11235, "colors":["black","brown"]},
+            {"id":11236, "colors":["golden","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11237, "zone":"feet", "category":"shoes", "security":"d4a5645aa106eabd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Maiden of Steel and Silk",
+        "variations":[
+            {"id":11237, "colors":["red","brown"]},
+            {"id":11238, "colors":["blue","brown"]},
+            {"id":11239, "colors":["purple","brown"]},
+            {"id":11240, "colors":["yellow","brown"]},
+            {"id":11241, "colors":["white","brown"]},
+            {"id":11242, "colors":["black","brown"]},
+            {"id":11243, "colors":["green","brown"]},
+            {"id":11244, "colors":["brown"]},
+            {"id":11245, "colors":["pink","brown"]},
+            {"id":11246, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11247, "zone":"torso_waistToKnee", "category":"dress", "security":"e90102c9d171eaca", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Maiden of Steel and Silk",
+        "variations":[
+            {"id":11247, "colors":["brown"]},
+            {"id":11248, "colors":["blue"]},
+            {"id":11249, "colors":["purple"]},
+            {"id":11250, "colors":["yellow"]},
+            {"id":11251, "colors":["white"]},
+            {"id":11252, "colors":["black"]},
+            {"id":11253, "colors":["green"]},
+            {"id":11254, "colors":["grey"]},
+            {"id":11255, "colors":["purple"]},
+            {"id":11256, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11257, "zone":"torso_waistToKnee", "category":"dress", "security":"34b74c5ef1f66fa0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Maiden of Steel and Silk",
+        "variations":[
+            {"id":11257, "colors":["red","blue","golden"]},
+            {"id":11258, "colors":["red","blue","golden"]},
+            {"id":11259, "colors":["purple","yellow","golden"]},
+            {"id":11260, "colors":["brown","purple","yellow"]},
+            {"id":11261, "colors":["white","blue","silver"]},
+            {"id":11262, "colors":["black","silver","green"]},
+            {"id":11263, "colors":["green","brown","golden"]},
+            {"id":11264, "colors":["green","brown","golden"]},
+            {"id":11265, "colors":["pink","purple","golden"]},
+            {"id":11266, "colors":["brown","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11267, "zone":"torso", "category":"jacket", "security":"480e8b4ce2e7d8c3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Armure",
+        "outfitName":"Maiden of Steel and Silk",
+        "variations":[
+            {"id":11267, "colors":["silver","golden"]},
+            {"id":11268, "colors":["red"]},
+            {"id":11269, "colors":["orange","golden"]},
+            {"id":11270, "colors":["brown","golden"]},
+            {"id":11271, "colors":["white"]},
+            {"id":11272, "colors":["black"]},
+            {"id":11273, "colors":["green","brown"]},
+            {"id":11274, "colors":["silver","golden"]},
+            {"id":11275, "colors":["pink","purple"]},
+            {"id":11276, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11277, "zone":"arms", "category":"armAccessory", "security":"fea51ba7025dba63", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hombrera",
+        "outfitName":"Maiden of Steel and Silk",
+        "variations":[
+            {"id":11277, "colors":["silver","golden"]},
+            {"id":11278, "colors":["red"]},
+            {"id":11279, "colors":["orange","golden"]},
+            {"id":11280, "colors":["brown","golden"]},
+            {"id":11281, "colors":["white"]},
+            {"id":11282, "colors":["black"]},
+            {"id":11283, "colors":["green","brown"]},
+            {"id":11284, "colors":["silver","golden"]},
+            {"id":11285, "colors":["pink","purple"]},
+            {"id":11286, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11287, "zone":"head", "category":"wig", "security":"886dfaa2faa69cbd", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Maiden of Steel and Silk",
+        "variations":[
+            {"id":11287, "colors":["brown"]},
+            {"id":11288, "colors":["white"]},
+            {"id":11289, "colors":["black"]},
+            {"id":11290, "colors":["blue"]},
+            {"id":11291, "colors":["blue"]},
+            {"id":11292, "colors":["purple"]},
+            {"id":11293, "colors":["red"]},
+            {"id":11294, "colors":["yellow"]},
+            {"id":11295, "colors":["orange"]},
+            {"id":11296, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11297, "zone":"head", "category":"hat", "security":"ec3ba1505f283d3c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Diadema",
+        "outfitName":"Maiden of Steel and Silk",
+        "variations":[
+            {"id":11297, "colors":["golden","blue"]},
+            {"id":11298, "colors":["red","brown"]},
+            {"id":11299, "colors":["purple","brown"]},
+            {"id":11300, "colors":["yellow","brown"]},
+            {"id":11301, "colors":["white"]},
+            {"id":11302, "colors":["black"]},
+            {"id":11303, "colors":["green"]},
+            {"id":11304, "colors":["silver","brown"]},
+            {"id":11305, "colors":["pink","purple"]},
+            {"id":11306, "colors":["pink","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11307, "zone":"arms", "category":"bag", "security":"bf12fb5591fa027b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lance",
+        "outfitName":"Maiden of Steel and Silk",
+        "variations":[
+            {"id":11307, "colors":["silver","golden","brown"]},
+            {"id":11308, "colors":["red","brown"]},
+            {"id":11309, "colors":["golden","brown"]},
+            {"id":11310, "colors":["golden","brown"]},
+            {"id":11311, "colors":["white","brown"]},
+            {"id":11312, "colors":["black"]},
+            {"id":11313, "colors":["green","brown"]},
+            {"id":11314, "colors":["silver","golden","brown"]},
+            {"id":11315, "colors":["pink","purple","brown"]},
+            {"id":11316, "colors":["pink","red","brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"},
+        "releaseDate":"2025-10-28"
     }
 ]
