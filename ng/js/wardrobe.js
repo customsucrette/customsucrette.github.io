@@ -1194,7 +1194,7 @@ function drawItemIcons (criteria, elmnt) {
 
     let macaroon = "assets/game-event/";
     if (criteria.type == "gameEvent") {
-        macaroon += `gacha/${(criteria.info).split("-")[0]}/event-icon-${(criteria.info).split("-")[1]}.png`;
+        macaroon += `gacha/${(criteria.info).split("-")[0]}-icon.png`;
     } else if ((criteria.type == "gauge")) {
         macaroon += "gauge/icon.png";
     };
