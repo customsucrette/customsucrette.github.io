@@ -283,7 +283,10 @@
         "id":72, "security":"dd1db122e71eca32", "releaseDate":"2025-09-03", "name":"Goose of Fortune",
         "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"}
     },
-
+    {
+        "id":73, "security":"9f904fc130120838", "releaseDate":"2025-11-07", "name":"Garden Gnoose",
+        "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"}
+    },
     {
         "id":74, "security":"1194f0c259b02424", "releaseDate":"2025-10-21", "name":"Raven't",
         "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado durante el evento\nHalloween 2025"}
@@ -291,5 +294,14 @@
     {
         "id":75, "security":"f95253cc39859377", "releaseDate":"2025-10-28", "name":"Ghoostly",
         "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"}
+    },
+    {
+        "id":76, "security":"523523e06c14d2d9", "releaseDate":"2025-11-06", "name":"Leaf Me Alone",
+        "criteria":{"type":"gauge", "info":"Autumn Spiced Outfit", "text":"Desbloqueado en el evento de medidor\nAutumn Spiced Outfit"}
+    },
+
+    {
+        "id":78, "security":"6a630b5b90513315", "releaseDate":"2025-11-07", "name":"Takipencer",
+        "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"}
     }
 ]

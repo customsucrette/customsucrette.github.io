@@ -2861,5 +2861,127 @@
         "name":"Lámpara de araña",
         "roomName":"The Mourning Wing",
         "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"}
+    },
+    {
+        "id":450, "roomId":94, "slot":"background", "releaseDate":"2025-11-02", "light":true, "security":"53afe6ff5b890cb1",
+        "name":"Paredes",
+        "roomName":"Fae Reverie",
+        "criteria":{"type":"calendar", "info":"2025-20", "text":"Desbloqueado en el calendario\nN°20 - 2025"},
+        "backgroundColors":{
+            "day":{"color1":"DED5B2","color2":"B89FAE","colorLight":"B16019"},
+            "night":{"color1":"6FABC4","color2":"B89FAE","colorLight":"3291B8"}
+        }
+    },
+    {
+        "id":451, "roomId":94, "slot":"slot1", "releaseDate":"2025-11-02", "light":false, "security":"4cb643ac843eef81",
+        "name":"Balancín",
+        "roomName":"Fae Reverie",
+        "criteria":{"type":"calendar", "info":"2025-20", "text":"Desbloqueado en el calendario\nN°20 - 2025"}
+    },
+    {
+        "id":452, "roomId":94, "slot":"slot2", "releaseDate":"2025-11-02", "light":true, "security":"df2d388ee287a6bf",
+        "name":"Cama",
+        "roomName":"Fae Reverie",
+        "criteria":{"type":"calendar", "info":"2025-20", "text":"Desbloqueado en el calendario\nN°20 - 2025"}
+    },
+    {
+        "id":453, "roomId":94, "slot":"slot3", "releaseDate":"2025-11-02", "light":false, "security":"9da6678dfb8edeea",
+        "name":"Sillón",
+        "roomName":"Fae Reverie",
+        "criteria":{"type":"calendar", "info":"2025-20", "text":"Desbloqueado en el calendario\nN°20 - 2025"}
+    },
+    {
+        "id":454, "roomId":94, "slot":"slot4", "releaseDate":"2025-11-02", "light":true, "security":"95e9d84d75811f60",
+        "name":"Caballete",
+        "roomName":"Fae Reverie",
+        "criteria":{"type":"calendar", "info":"2025-20", "text":"Desbloqueado en el calendario\nN°20 - 2025"}
+    },
+    {
+        "id":455, "roomId":94, "slot":"slot5", "releaseDate":"2025-11-02", "light":true, "security":"eb8de9da25a91f55",
+        "name":"Mariposas",
+        "roomName":"Fae Reverie",
+        "criteria":{"type":"calendar", "info":"2025-20", "text":"Desbloqueado en el calendario\nN°20 - 2025"}
+    },
+    {
+        "id":456, "roomId":95, "slot":"background", "releaseDate":"2025-11-06", "light":true, "security":"1413e643cb66d33f",
+        "name":"Paredes",
+        "roomName":"Amberwood Café",
+        "criteria":{"type":"gauge", "info":"Autumn Spiced Outfit", "text":"Desbloqueado en el evento de medidor\nAutumn Spiced Outfit"},
+        "backgroundColors":{
+            "day":{"color1":"EDD6BB","color2":"BCA59F","colorLight":"4E2708"},
+            "night":{"color1":"C4AA8B","color2":"8595AD","colorLight":"56390E"}
+        }
+    },
+    {
+        "id":457, "roomId":95, "slot":"slot1", "releaseDate":"2025-11-06", "light":true, "security":"45ed3d332afb0d04",
+        "name":"Vitrina",
+        "roomName":"Amberwood Café",
+        "criteria":{"type":"gauge", "info":"Autumn Spiced Outfit", "text":"Desbloqueado en el evento de medidor\nAutumn Spiced Outfit"}
+    },
+    {
+        "id":458, "roomId":95, "slot":"slot2", "releaseDate":"2025-11-06", "light":true, "security":"606aa5b45f076daf",
+        "name":"Sofá",
+        "roomName":"Amberwood Café",
+        "criteria":{"type":"gauge", "info":"Autumn Spiced Outfit", "text":"Desbloqueado en el evento de medidor\nAutumn Spiced Outfit"}
+    },
+    {
+        "id":459, "roomId":95, "slot":"slot3", "releaseDate":"2025-11-06", "light":true, "security":"c1b307cc3f566a12",
+        "name":"Mampara",
+        "roomName":"Amberwood Café",
+        "criteria":{"type":"gauge", "info":"Autumn Spiced Outfit", "text":"Desbloqueado en el evento de medidor\nAutumn Spiced Outfit"}
+    },
+    {
+        "id":460, "roomId":95, "slot":"slot4", "releaseDate":"2025-11-06", "light":true, "security":"84e5ba46c1514480",
+        "name":"Sillón",
+        "roomName":"Amberwood Café",
+        "criteria":{"type":"gauge", "info":"Autumn Spiced Outfit", "text":"Desbloqueado en el evento de medidor\nAutumn Spiced Outfit"}
+    },
+    {
+        "id":461, "roomId":95, "slot":"slot5", "releaseDate":"2025-11-06", "light":false, "security":"99f59f62f55ec688",
+        "name":"Mesas y sillas",
+        "roomName":"Amberwood Café",
+        "criteria":{"type":"gauge", "info":"Autumn Spiced Outfit", "text":"Desbloqueado en el evento de medidor\nAutumn Spiced Outfit"}
+    },
+
+    {
+        "id":468, "roomId":97, "slot":"background", "releaseDate":"2025-11-07", "light":true, "security":"5a18a79d68fba516",
+        "name":"Paredes",
+        "roomName":"Jason's Touch",
+        "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"DAD1C6","colorLight":"5A504C"},
+            "night":{"color1":"5A88BC","color2":"758FBC","colorLight":"4467B1"}
+        }
+    },
+    {
+        "id":469, "roomId":97, "slot":"slot1", "releaseDate":"2025-11-07", "light":false, "security":"8b57902c1f114602",
+        "name":"Comedor",
+        "roomName":"Jason's Touch",
+        "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"}
+    },
+    {
+        "id":470, "roomId":97, "slot":"slot2", "releaseDate":"2025-11-07", "light":true, "security":"5dd186c733e9ab6f",
+        "name":"Sofá",
+        "roomName":"Jason's Touch",
+        "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"}
+    },
+    {
+        "id":471, "roomId":97, "slot":"slot3", "releaseDate":"2025-11-07", "light":false, "security":"4d285801d0a0cbfb",
+        "name":"Aparador",
+        "roomName":"Jason's Touch",
+        "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"}
+    },
+    {
+        "id":472, "roomId":97, "slot":"slot4", "releaseDate":"2025-11-07", "light":true, "security":"2f0d4d00d873326d",
+        "name":"Puf",
+        "roomName":"Jason's Touch",
+        "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"}
+    },
+    {
+        "id":473, "roomId":97, "slot":"slot5", "releaseDate":"2025-11-07", "light":false, "security":"52ed05456028af06",
+        "name":"Escalera",
+        "roomName":"Jason's Touch",
+        "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"}
     }
+
 ]
