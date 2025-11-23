@@ -154,7 +154,7 @@
                     {"id":41, "colors":["brown"]},
                     {"id":42, "colors":["green"]},
                     {"id":43, "colors":["grey"]}
-                ], "criteria":null,
+                ], "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"},
                 "releaseDate":"2024-11-06"
             },
             {
@@ -551,7 +551,7 @@
                     {"id":68, "colors":["orange"]},
                     {"id":69, "colors":["green"]},
                     {"id":70, "colors":["white"]}
-                ], "criteria":null,
+                ], "criteria":{"type":"gauge", "info":"Colorful Calavera", "text":"Desbloqueado en el evento de medidor\nColorful Calavera"},
                 "releaseDate":"2024-11-06"
             },
             {

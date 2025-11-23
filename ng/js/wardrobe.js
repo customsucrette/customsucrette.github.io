@@ -77,10 +77,16 @@ async function drawCategory(c = "top", declination = null) {
 
     let lista = [], type = "cloth";
     if (search != "") {
-        c = "auto";
+        // c = "auto";
         search = normalize(search).toLowerCase();
         // so sloooooooow
-        lista = cloth.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+        let avF1 = avatar.collections.eyebrows.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+        let avF2 = avatar.collections.eyes.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+        let avF3 = avatar.collections.mouth.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+        let avF4 = cloth.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+        lista = avF1.concat(avF2,avF3,avF4);
+
+        // lista = cloth.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
     } else {
         lista = cloth.filter(v => {return v.category == c});
     }
@@ -111,7 +117,16 @@ async function drawCategory(c = "top", declination = null) {
     
             for (i = 0; i < lista.length; i++) {
                 if (lista[i].variations.length > 1) {
-                    $("#asng-avatar-item-list-panel .items-container").append(`<div class="asng-cloth grouped" data-item="${lista[i].groupId}-${lista[i].variations[0].id}"></div>`);
+
+                    // check type(c) != "auto"
+                    c = lista[i].category;
+                    if (lista[i].category == "eyebrows" || lista[i].category == "eyes" || lista[i].category == "mouth") {
+                        type = lista[i].category;
+                    } else {
+                        type = "cloth";
+                    };
+
+                    $("#asng-avatar-item-list-panel .items-container").append(`<div class="asng-cloth grouped" data-category="${lista[i].category}" data-item="${lista[i].groupId}-${lista[i].variations[0].id}"></div>`);
                     $(".asng-cloth").eq(i)
                     .append('<img src="assets/personalization/hanger.png" class="hanger" />')
                     .append('<div class="group" tooltipplacement="bottom" tooltippanelclass="asng-dressing-item-tooltip"></div>');
@@ -147,7 +162,7 @@ async function drawCategory(c = "top", declination = null) {
     
         } else {
             // Grouped list with open declinations
-
+            
             var d = cloth.filter(v => {return v.groupId == declination});
 
             if (c == "eyebrows" || c == "eyes" || c == "mouth") {
@@ -1325,7 +1340,7 @@ $(function () {
             $(".asng-cloth").not(".selected").addClass("not-selected");
             var item = $(this).attr("data-item");
             drawDeclinationPanel($(".asng-cloth").index(this))
-            drawCategory($(".category-list-item.current").attr("data-category"), parseInt(item.split("-")[0]))
+            drawCategory($(this).attr("data-category"), parseInt(item.split("-")[0]))
 
         } else {
             removeDeclinationPanel();
