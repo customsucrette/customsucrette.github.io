@@ -299,9 +299,17 @@
         "id":76, "security":"523523e06c14d2d9", "releaseDate":"2025-11-06", "name":"Leaf Me Alone",
         "criteria":{"type":"gauge", "info":"Autumn Spiced Outfit", "text":"Desbloqueado en el evento de medidor\nAutumn Spiced Outfit"}
     },
-
+    {
+        "id":77, "security":"9f097ba44a0e323b", "releaseDate":"2025-11-15", "name":"TakiToPlay",
+        "criteria":null
+    },
     {
         "id":78, "security":"6a630b5b90513315", "releaseDate":"2025-11-07", "name":"Takipencer",
         "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"}
+    },
+    
+    {
+        "id":80, "security":"a22cf095eca8f411", "releaseDate":"2025-11-28", "name":"Derpy Goosie",
+        "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo \n Black Friday 2025"}
     }
 ]

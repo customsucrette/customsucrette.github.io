@@ -481,6 +481,24 @@
                     {"id":216, "colors":["brown"]}
                 ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
                 "releaseDate":"2025-10-28"
+            },
+            {
+                "groupId":217, "zone":"face", "category":"eyes", "security":"0be79bbcc487e432",
+                "name":"Ojos",
+                "outfitName":"DemonBeat Idol",
+                "variations":[
+                    {"id":217, "colors":["orange"]},
+                    {"id":218, "colors":["white"]},
+                    {"id":219, "colors":["red"]},
+                    {"id":220, "colors":["blue"]},
+                    {"id":221, "colors":["green"]},
+                    {"id":222, "colors":["pink"]},
+                    {"id":223, "colors":["purple"]},
+                    {"id":224, "colors":["blue"]},
+                    {"id":225, "colors":["black"]},
+                    {"id":226, "colors":["blue"]}
+                ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
+                "releaseDate":"2025-11-28"
             }
         ],
         "mouth":[

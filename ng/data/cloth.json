@@ -10303,7 +10303,7 @@
             {"id":5921, "colors":["black","grey","purple"]},
             {"id":5922, "colors":["black","blue","orange"]},
             {"id":5923, "colors":["black","grey","red"]}
-        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        ], "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "releaseDate":"2024-11-29"
     },
     {
@@ -10321,7 +10321,7 @@
             {"id":5931, "colors":["black","purple"]},
             {"id":5932, "colors":["black","blue"]},
             {"id":5933, "colors":["black","red"]}
-        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        ], "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "releaseDate":"2024-11-29"
     },
     {
@@ -10339,7 +10339,7 @@
             {"id":5941, "colors":["black","white"]},
             {"id":5942, "colors":["black","orange"]},
             {"id":5943, "colors":["black","grey"]}
-        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        ], "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "releaseDate":"2024-11-29"
     },
     {
@@ -10357,7 +10357,7 @@
             {"id":5951, "colors":["black","white"]},
             {"id":5952, "colors":["black","orange"]},
             {"id":5953, "colors":["black","grey"]}
-        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        ], "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "releaseDate":"2024-11-29"
     },
     {
@@ -10375,7 +10375,7 @@
             {"id":5961, "colors":["black","white"]},
             {"id":5962, "colors":["black","orange"]},
             {"id":5963, "colors":["black","grey"]}
-        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        ], "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "releaseDate":"2024-11-29"
     },
     {
@@ -10393,7 +10393,7 @@
             {"id":5971, "colors":["black","white"]},
             {"id":5972, "colors":["black","orange"]},
             {"id":5973, "colors":["black","grey"]}
-        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        ], "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "releaseDate":"2024-11-29"
     },
     {
@@ -10411,7 +10411,7 @@
             {"id":5981, "colors":["black","white"]},
             {"id":5982, "colors":["black","orange"]},
             {"id":5983, "colors":["black","grey"]}
-        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        ], "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "releaseDate":"2024-11-29"
     },
     {
@@ -10429,7 +10429,7 @@
             {"id":5991, "colors":["black","white"]},
             {"id":5992, "colors":["black","brown","orange"]},
             {"id":5993, "colors":["black","grey"]}
-        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        ], "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "releaseDate":"2024-11-29"
     },
     {
@@ -10447,7 +10447,7 @@
             {"id":6001, "colors":["black","white"]},
             {"id":6002, "colors":["black","orange"]},
             {"id":6003, "colors":["black","grey"]}
-        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        ], "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "releaseDate":"2024-11-29"
     },
     {
@@ -10465,7 +10465,7 @@
             {"id":6011, "colors":["white","pink"]},
             {"id":6012, "colors":["red","purple"]},
             {"id":6013, "colors":["black","blue"]}
-        ], "criteria":{"type":"pack", "name":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
+        ], "criteria":{"type":"pack", "info":"Black Friday 2024", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2024"},
         "releaseDate":"2024-11-29"
     },
     {
@@ -11883,7 +11883,7 @@
             {"id":6789, "colors":["grey"]},
             {"id":6790, "colors":["brown"]},
             {"id":6791, "colors":["yellow"]}
-        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        ], "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -11901,7 +11901,7 @@
             {"id":6799, "colors":["white"]},
             {"id":6800, "colors":["blue"]},
             {"id":6801, "colors":["green"]}
-        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        ], "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -11919,7 +11919,7 @@
             {"id":6809, "colors":["grey"]},
             {"id":6810, "colors":["brown"]},
             {"id":6811, "colors":["yellow"]}
-        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        ], "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -11937,7 +11937,7 @@
             {"id":6819, "colors":["red"]},
             {"id":6820, "colors":["blue"]},
             {"id":6821, "colors":["white"]}
-        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        ], "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -11955,7 +11955,7 @@
             {"id":6829, "colors":["white"]},
             {"id":6830, "colors":["blue"]},
             {"id":6831, "colors":["green"]}
-        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        ], "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -11973,7 +11973,7 @@
             {"id":6839, "colors":["grey"]},
             {"id":6840, "colors":["brown"]},
             {"id":6841, "colors":["yellow"]}
-        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        ], "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -11991,7 +11991,7 @@
             {"id":6849, "colors":["red"]},
             {"id":6850, "colors":["blue"]},
             {"id":6851, "colors":["white"]}
-        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        ], "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12009,7 +12009,7 @@
             {"id":6859, "colors":["red"]},
             {"id":6860, "colors":["blue"]},
             {"id":6861, "colors":["white"]}
-        ],"criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        ],"criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12027,7 +12027,7 @@
             {"id":6869, "colors":["yellow"]},
             {"id":6870, "colors":["orange"]},
             {"id":6871, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        ], "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12045,7 +12045,7 @@
             {"id":6879, "colors":["grey"]},
             {"id":6880, "colors":["brown"]},
             {"id":6881, "colors":["yellow"]}
-        ], "criteria":{"type":"pack", "name":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
+        ], "criteria":{"type":"pack", "info":"Divine Blessing", "text":"Desbloqueado en el Pack exclusivo\nDivine Blessing"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12063,7 +12063,7 @@
             {"id":6889, "colors":["yellow"]},
             {"id":6890, "colors":["blue"]},
             {"id":6891, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        ], "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12081,7 +12081,7 @@
             {"id":6899, "colors":["yellow"]},
             {"id":6900, "colors":["blue"]},
             {"id":6901, "colors":["pink"]}
-        ],"criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        ],"criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12099,7 +12099,7 @@
             {"id":6909, "colors":["yellow"]},
             {"id":6910, "colors":["orange"]},
             {"id":6911, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        ], "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12117,7 +12117,7 @@
             {"id":6919, "colors":["grey","black"]},
             {"id":6920, "colors":["white","yellow"]},
             {"id":6921, "colors":["grey","orange"]}
-        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        ], "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12135,7 +12135,7 @@
             {"id":6929, "colors":["grey","black"]},
             {"id":6930, "colors":["white","yellow"]},
             {"id":6931, "colors":["grey","yellow"]}
-        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        ], "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12153,7 +12153,7 @@
             {"id":6939, "colors":["brown","orange"]},
             {"id":6940, "colors":["blue"]},
             {"id":6941, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        ], "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12171,7 +12171,7 @@
             {"id":6949, "colors":["yellow"]},
             {"id":6950, "colors":["blue"]},
             {"id":6951, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        ], "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12189,7 +12189,7 @@
             {"id":6959, "colors":["orange","yellow"]},
             {"id":6960, "colors":["blue"]},
             {"id":6961, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        ], "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12207,7 +12207,7 @@
             {"id":6969, "colors":["orange","yellow"]},
             {"id":6970, "colors":["blue"]},
             {"id":6971, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "name":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
+        ], "criteria":{"type":"pack", "info":"Infernal Embrace", "text":"Desbloqueado en el Pack exclusivo\nInfernal Embrace"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12225,7 +12225,7 @@
             {"id":6979, "colors":["grey"]},
             {"id":6980, "colors":["blue"]},
             {"id":6981, "colors":["red"]}
-        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+        ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12243,7 +12243,7 @@
             {"id":6989, "colors":["black","multi"]},
             {"id":6990, "colors":["yellow"]},
             {"id":6991, "colors":["grey"]}
-        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+        ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12261,7 +12261,7 @@
             {"id":6999, "colors":["black","multi"]},
             {"id":7000, "colors":["yellow"]},
             {"id":7001, "colors":["grey"]}
-        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+        ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12279,7 +12279,7 @@
             {"id":7009, "colors":["black","multi"]},
             {"id":7010, "colors":["yellow"]},
             {"id":7011, "colors":["grey","multi"]}
-        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+        ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12297,7 +12297,7 @@
             {"id":7019, "colors":["black"]},
             {"id":7020, "colors":["brown"]},
             {"id":7021, "colors":["grey"]}
-        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+        ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12315,7 +12315,7 @@
             {"id":7029, "colors":["blue","multi"]},
             {"id":7030, "colors":["yellow","multi"]},
             {"id":7031, "colors":["brown","multi"]}
-        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+        ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12333,7 +12333,7 @@
             {"id":7039, "colors":["grey"]},
             {"id":7040, "colors":["blue"]},
             {"id":7041, "colors":["red"]}
-        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+        ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12351,7 +12351,7 @@
             {"id":7049, "colors":["grey"]},
             {"id":7050, "colors":["blue"]},
             {"id":7051, "colors":["red"]}
-        ], "criteria":{"type":"pack", "name":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
+        ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
         "releaseDate":"2024-11-14"
     },
     {
@@ -12513,7 +12513,7 @@
             {"id":7139, "colors":["purple"]},
             {"id":7140, "colors":["green"]},
             {"id":7141, "colors":["pink","blue"]}
-        ], "criteria":{"type":"pack", "name":"Blooming", "text":"Desbloqueado en el Pack exclusivo\nBlooming"},
+        ], "criteria":{"type":"pack", "info":"Blooming", "text":"Desbloqueado en el Pack exclusivo\nBlooming"},
         "releaseDate":"2024-11-20"
     },
     {
@@ -12531,7 +12531,7 @@
             {"id":7149, "colors":["green"]},
             {"id":7150, "colors":["purple"]},
             {"id":7151, "colors":["grey"]}
-        ], "criteria":{"type":"pack", "name":"Starry", "text":"Desbloqueado en el Pack exclusivo\nStarry"},
+        ], "criteria":{"type":"pack", "info":"Starry", "text":"Desbloqueado en el Pack exclusivo\nStarry"},
         "releaseDate":"2024-11-20"
     },
     {
@@ -12549,7 +12549,7 @@
             {"id":7159, "colors":["white"]},
             {"id":7160, "colors":["black"]},
             {"id":7161, "colors":["brown"]}
-        ], "criteria":{"type":"pack", "name":"Graphic", "text":"Desbloqueado en el Pack exclusivo\nGraphic"},
+        ], "criteria":{"type":"pack", "info":"Graphic", "text":"Desbloqueado en el Pack exclusivo\nGraphic"},
         "releaseDate":"2024-11-20"
     },
     {
@@ -12567,7 +12567,7 @@
             {"id":7169, "colors":["white","yellow"]},
             {"id":7170, "colors":["white","pink"]},
             {"id":7171, "colors":["blue"]}
-        ], "criteria":{"type":"pack", "name":"Artsy", "text":"Desbloqueado en el Pack exclusivo\nArtsy"},
+        ], "criteria":{"type":"pack", "info":"Artsy", "text":"Desbloqueado en el Pack exclusivo\nArtsy"},
         "releaseDate":"2024-11-20"
     },
     {
@@ -12585,7 +12585,7 @@
             {"id":7179, "colors":["brown"]},
             {"id":7180, "colors":["red"]},
             {"id":7181, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "name":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"},
+        ], "criteria":{"type":"pack", "info":"K-Glow", "text":"Desbloqueado en el Pack exclusivo\nK-Glow"},
         "releaseDate":"2024-11-20"
     },
     {
@@ -12603,7 +12603,7 @@
             {"id":7189, "colors":["blue"]},
             {"id":7190, "colors":["white"]},
             {"id":7191, "colors":["black"]}
-        ], "criteria":{"type":"pack", "name":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"}    ,
+        ], "criteria":{"type":"pack", "info":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"}    ,
         "releaseDate":"2024-11-20"
     },
     {
@@ -19973,7 +19973,7 @@
             {"id":11494, "colors":["pink"]},
             {"id":11495, "colors":["brown"]},
             {"id":11496, "colors":["yellow"]}
-        ], "criteria":{"type":"pack", "name":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
     },
     {
@@ -19991,7 +19991,7 @@
             {"id":11504, "colors":["golden","brown"]},
             {"id":11505, "colors":["golden","silver","green"]},
             {"id":11506, "colors":["silver","blue"]}
-        ], "criteria":{"type":"pack", "name":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
     },
     {
@@ -20009,7 +20009,7 @@
             {"id":11514, "colors":["pink"]},
             {"id":11515, "colors":["brown"]},
             {"id":11516, "colors":["grey"]}
-        ], "criteria":{"type":"pack", "name":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
     },
     {
@@ -20027,7 +20027,7 @@
             {"id":11524, "colors":["pink"]},
             {"id":11525, "colors":["brown"]},
             {"id":11526, "colors":["grey"]}
-        ], "criteria":{"type":"pack", "name":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
     },
     {
@@ -20045,7 +20045,7 @@
             {"id":11534, "colors":["pink"]},
             {"id":11535, "colors":["brown"]},
             {"id":11536, "colors":["grey"]}
-        ], "criteria":{"type":"pack", "name":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
     },
     {
@@ -20063,7 +20063,7 @@
             {"id":11544, "colors":["brown"]},
             {"id":11545, "colors":["green"]},
             {"id":11546, "colors":["blue","green"]}
-        ], "criteria":{"type":"pack", "name":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
     },
     {
@@ -20081,7 +20081,7 @@
             {"id":11554, "colors":["pink"]},
             {"id":11555, "colors":["brown"]},
             {"id":11556, "colors":["grey"]}
-        ], "criteria":{"type":"pack", "name":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
     },
     {
@@ -20099,7 +20099,7 @@
             {"id":11564, "colors":["pink"]},
             {"id":11565, "colors":["brown"]},
             {"id":11566, "colors":["grey"]}
-        ], "criteria":{"type":"pack", "name":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
     },
     {
@@ -20118,7 +20118,7 @@
             {"id":11575, "colors":["yellow"]},
             {"id":11576, "colors":["orange"]},
             {"id":11577, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "name":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
     },
     {
@@ -20136,7 +20136,171 @@
             {"id":11585, "colors":["black"]},
             {"id":11586, "colors":["red"]},
             {"id":11587, "colors":["white"]}
-        ], "criteria":{"type":"pack", "name":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
+        ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
+    },
+
+
+    {
+        "groupId":11768, "zone":"general", "category":"other", "security":"fb2a51c4ee3cee51", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ambiente",
+        "outfitName":"DemonBeat Idol",
+        "variations":[
+            {"id":11768, "colors":["multi","pink","yellow"]},
+            {"id":11769, "colors":["multi","blue","purple"]},
+            {"id":11770, "colors":["yellow","orange"]},
+            {"id":11771, "colors":["black","grey"]},
+            {"id":11772, "colors":["green","yellow"]},
+            {"id":11773, "colors":["pink","orange"]},
+            {"id":11774, "colors":["purple","blue"]},
+            {"id":11775, "colors":["white"]},
+            {"id":11776, "colors":["red","orange"]},
+            {"id":11777, "colors":["multi"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
+        "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11778, "zone":"general", "category":"tattoo", "security":"145c013d4990e956", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"DemonBeat Idol",
+        "variations":[
+            {"id":11778, "colors":["blue","purple"]},
+            {"id":11779, "colors":["blue","green"]},
+            {"id":11780, "colors":["yellow","orange"]},
+            {"id":11781, "colors":["black"]},
+            {"id":11782, "colors":["green"]},
+            {"id":11783, "colors":["pink"]},
+            {"id":11784, "colors":["purple"]},
+            {"id":11785, "colors":["white"]},
+            {"id":11786, "colors":["red"]},
+            {"id":11787, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
+        "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11788, "zone":"head", "category":"faceAccessory", "security":"b193b76b6093c4cb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Micro",
+        "outfitName":"DemonBeat Idol",
+        "variations":[
+            {"id":11788, "colors":["golden","yellow"]},
+            {"id":11789, "colors":["silver","grey"]},
+            {"id":11790, "colors":["red"]},
+            {"id":11791, "colors":["blue"]},
+            {"id":11792, "colors":["green"]},
+            {"id":11793, "colors":["pink"]},
+            {"id":11794, "colors":["purple"]},
+            {"id":11795, "colors":["green"]},
+            {"id":11796, "colors":["black"]},
+            {"id":11797, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
+        "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11798, "zone":"feet", "category":"shoes", "security":"efbb876e34b1b509", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"DemonBeat Idol",
+        "variations":[
+            {"id":11798, "colors":["black","golden","pink"]},
+            {"id":11799, "colors":["white","silver","blue"]},
+            {"id":11800, "colors":["red","golden","black"]},
+            {"id":11801, "colors":["blue","golden","purple"]},
+            {"id":11802, "colors":["green","silver","white"]},
+            {"id":11803, "colors":["pink","golden"]},
+            {"id":11804, "colors":["purple","silver","blue"]},
+            {"id":11805, "colors":["silver","green","blue"]},
+            {"id":11806, "colors":["yellow","golden","pink"]},
+            {"id":11807, "colors":["blue","silver","green"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
+        "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11808, "zone":"waistToKnee", "category":"skirt", "security":"f55296dea3b1289a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"DemonBeat Idol",
+        "variations":[
+            {"id":11808, "colors":["black","golden"]},
+            {"id":11809, "colors":["white","silver"]},
+            {"id":11810, "colors":["red","golden"]},
+            {"id":11811, "colors":["blue","golden"]},
+            {"id":11812, "colors":["green","silver"]},
+            {"id":11813, "colors":["pink","golden"]},
+            {"id":11814, "colors":["purple","silver"]},
+            {"id":11815, "colors":["green","silver"]},
+            {"id":11816, "colors":["yellow","golden"]},
+            {"id":11817, "colors":["blue","silver"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
+        "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11818, "zone":"torso", "category":"top", "security":"6276d595bb9ee4de", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"DemonBeat Idol",
+        "variations":[
+            {"id":11818, "colors":["black","blue","purple"]},
+            {"id":11819, "colors":["black","white"]},
+            {"id":11820, "colors":["black","red"]},
+            {"id":11821, "colors":["black","grey"]},
+            {"id":11822, "colors":["black","green"]},
+            {"id":11823, "colors":["pink","black"]},
+            {"id":11824, "colors":["black","purple"]},
+            {"id":11825, "colors":["green","black"]},
+            {"id":11826, "colors":["black","yellow"]},
+            {"id":11827, "colors":["black","blue"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
+        "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11828, "zone":"torso", "category":"jacket", "security":"73612b47cc4ae97b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"DemonBeat Idol",
+        "variations":[
+            {"id":11828, "colors":["white","golden"]},
+            {"id":11829, "colors":["silver","black"]},
+            {"id":11830, "colors":["red","golden"]},
+            {"id":11831, "colors":["blue","golden"]},
+            {"id":11832, "colors":["green","silver"]},
+            {"id":11833, "colors":["golden","pink"]},
+            {"id":11834, "colors":["purple","silver"]},
+            {"id":11835, "colors":["silver","green"]},
+            {"id":11836, "colors":["yellow","golden"]},
+            {"id":11837, "colors":["blue","silver"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
+        "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11838, "zone":"head", "category":"wig", "security":"8450f4de9291220e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"DemonBeat Idol",
+        "variations":[
+            {"id":11838, "colors":["brown"]},
+            {"id":11839, "colors":["white"]},
+            {"id":11840, "colors":["black"]},
+            {"id":11841, "colors":["blue"]},
+            {"id":11842, "colors":["blue"]},
+            {"id":11843, "colors":["purple"]},
+            {"id":11844, "colors":["red"]},
+            {"id":11845, "colors":["yellow"]},
+            {"id":11846, "colors":["orange"]},
+            {"id":11847, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
+        "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11848, "zone":"general", "category":"other", "security":"dede658c5fefda4b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piano",
+        "outfitName":"DemonBeat Idol",
+        "variations":[
+            {"id":11848, "colors":["pink"]},
+            {"id":11849, "colors":["blue"]},
+            {"id":11850, "colors":["purple"]},
+            {"id":11851, "colors":["grey","black"]},
+            {"id":11852, "colors":["green"]},
+            {"id":11853, "colors":["yellow"]},
+            {"id":11854, "colors":["blue"]},
+            {"id":11855, "colors":["white"]},
+            {"id":11856, "colors":["red"]},
+            {"id":11857, "colors":["multi"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
+        "releaseDate":"2025-11-28"
     }
 ]

@@ -2982,6 +2982,45 @@
         "name":"Escalera",
         "roomName":"Jason's Touch",
         "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"}
+    },
+    {
+        "id":474, "roomId":98, "slot":"background", "releaseDate":"2025-11-28", "light":true, "security":"152a73079fd913a0",
+        "name":"Paredes",
+        "roomName":"Honmoon Resonance",
+        "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo \n Black Friday 2025"},
+        "backgroundColors":{
+            "day":{"color1":"FFE0BE","color2":"DEA177","colorLight":"874E11"},
+            "night":{"color1":"DE77B6","color2":"94AFCF","colorLight":"8B045C"}
+        }
+    },
+    {
+        "id":475, "roomId":98, "slot":"slot1", "releaseDate":"2025-11-28", "light":true, "security":"b7dec456da77d2df",
+        "name":"Escaleras y sofá",
+        "roomName":"Honmoon Resonance",
+        "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo \n Black Friday 2025"}
+    },
+    {
+        "id":476, "roomId":98, "slot":"slot2", "releaseDate":"2025-11-28", "light":true, "security":"0fbfb7c53ffb5426",
+        "name":"Sofá",
+        "roomName":"Honmoon Resonance",
+        "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo \n Black Friday 2025"}
+    },
+    {
+        "id":477, "roomId":98, "slot":"slot3", "releaseDate":"2025-11-28", "light":false, "security":"8e31025d37ea440d",
+        "name":"Banqueta",
+        "roomName":"Honmoon Resonance",
+        "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo \n Black Friday 2025"}
+    },
+    {
+        "id":478, "roomId":98, "slot":"slot4", "releaseDate":"2025-11-28", "light":false, "security":"b376a447d4ca2507",
+        "name":"Biblioteca",
+        "roomName":"Honmoon Resonance",
+        "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo \n Black Friday 2025"}
+    },
+    {
+        "id":479, "roomId":98, "slot":"slot5", "releaseDate":"2025-11-28", "light":false, "security":"4284843bc0426b5f",
+        "name":"Sillón",
+        "roomName":"Honmoon Resonance",
+        "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo \n Black Friday 2025"}
     }
-
 ]
