@@ -18970,16 +18970,16 @@
         "name":"Salones",
         "outfitName":"Quiet Promise",
         "variations":[
-            {"id":10867, "colors":["undefined"]},
-            {"id":10868, "colors":["undefined"]},
-            {"id":10869, "colors":["undefined"]},
-            {"id":10870, "colors":["undefined"]},
-            {"id":10871, "colors":["undefined"]},
-            {"id":10872, "colors":["undefined"]},
-            {"id":10873, "colors":["undefined"]},
-            {"id":10874, "colors":["undefined"]},
-            {"id":10875, "colors":["undefined"]},
-            {"id":10876, "colors":["undefined"]}
+            {"id":10867, "colors":["green"]},
+            {"id":10868, "colors":["blue"]},
+            {"id":10869, "colors":["yellow"]},
+            {"id":10870, "colors":["pink"]},
+            {"id":10871, "colors":["red"]},
+            {"id":10872, "colors":["black"]},
+            {"id":10873, "colors":["purple"]},
+            {"id":10874, "colors":["blue"]},
+            {"id":10875, "colors":["white"]},
+            {"id":10876, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -18988,16 +18988,16 @@
         "name":"Top",
         "outfitName":"Quiet Promise",
         "variations":[
-            {"id":10877, "colors":["undefined"]},
-            {"id":10878, "colors":["undefined"]},
-            {"id":10879, "colors":["undefined"]},
-            {"id":10880, "colors":["undefined"]},
-            {"id":10881, "colors":["undefined"]},
-            {"id":10882, "colors":["undefined"]},
-            {"id":10883, "colors":["undefined"]},
-            {"id":10884, "colors":["undefined"]},
-            {"id":10885, "colors":["undefined"]},
-            {"id":10886, "colors":["undefined"]}
+            {"id":10877, "colors":["green"]},
+            {"id":10878, "colors":["green"]},
+            {"id":10879, "colors":["yellow"]},
+            {"id":10880, "colors":["pink"]},
+            {"id":10881, "colors":["red"]},
+            {"id":10882, "colors":["black"]},
+            {"id":10883, "colors":["purple"]},
+            {"id":10884, "colors":["blue"]},
+            {"id":10885, "colors":["white"]},
+            {"id":10886, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -19006,16 +19006,16 @@
         "name":"Pantalones",
         "outfitName":"Quiet Promise",
         "variations":[
-            {"id":10887, "colors":["undefined"]},
-            {"id":10888, "colors":["undefined"]},
-            {"id":10889, "colors":["undefined"]},
-            {"id":10890, "colors":["undefined"]},
-            {"id":10891, "colors":["undefined"]},
-            {"id":10892, "colors":["undefined"]},
-            {"id":10893, "colors":["undefined"]},
-            {"id":10894, "colors":["undefined"]},
-            {"id":10895, "colors":["undefined"]},
-            {"id":10896, "colors":["undefined"]}
+            {"id":10887, "colors":["black"]},
+            {"id":10888, "colors":["purple"]},
+            {"id":10889, "colors":["red"]},
+            {"id":10890, "colors":["white"]},
+            {"id":10891, "colors":["brown"]},
+            {"id":10892, "colors":["green"]},
+            {"id":10893, "colors":["blue"]},
+            {"id":10894, "colors":["yellow"]},
+            {"id":10895, "colors":["pink"]},
+            {"id":10896, "colors":["blue", "green"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -19024,16 +19024,16 @@
         "name":"Chaqueta",
         "outfitName":"Quiet Promise",
         "variations":[
-            {"id":10897, "colors":["undefined"]},
-            {"id":10898, "colors":["undefined"]},
-            {"id":10899, "colors":["undefined"]},
-            {"id":10900, "colors":["undefined"]},
-            {"id":10901, "colors":["undefined"]},
-            {"id":10902, "colors":["undefined"]},
-            {"id":10903, "colors":["undefined"]},
-            {"id":10904, "colors":["undefined"]},
-            {"id":10905, "colors":["undefined"]},
-            {"id":10906, "colors":["undefined"]}
+            {"id":10897, "colors":["green"]},
+            {"id":10898, "colors":["blue"]},
+            {"id":10899, "colors":["yellow"]},
+            {"id":10900, "colors":["pink"]},
+            {"id":10901, "colors":["red"]},
+            {"id":10902, "colors":["black"]},
+            {"id":10903, "colors":["purple"]},
+            {"id":10904, "colors":["blue"]},
+            {"id":10905, "colors":["white"]},
+            {"id":10906, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -19042,16 +19042,16 @@
         "name":"Bolso",
         "outfitName":"Quiet Promise",
         "variations":[
-            {"id":10907, "colors":["undefined"]},
-            {"id":10908, "colors":["undefined"]},
-            {"id":10909, "colors":["undefined"]},
-            {"id":10910, "colors":["undefined"]},
-            {"id":10911, "colors":["undefined"]},
-            {"id":10912, "colors":["undefined"]},
-            {"id":10913, "colors":["undefined"]},
-            {"id":10914, "colors":["undefined"]},
-            {"id":10915, "colors":["undefined"]},
-            {"id":10916, "colors":["undefined"]}
+            {"id":10907, "colors":["golden", "black"]},
+            {"id":10908, "colors":["silver", "purple"]},
+            {"id":10909, "colors":["golden", "red"]},
+            {"id":10910, "colors":["silver", "white"]},
+            {"id":10911, "colors":["silver", "brown"]},
+            {"id":10912, "colors":["golden", "green"]},
+            {"id":10913, "colors":["silver", "blue"]},
+            {"id":10914, "colors":["golden", "yellow"]},
+            {"id":10915, "colors":["golden", "pink"]},
+            {"id":10916, "colors":["green", "silver"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -19060,34 +19060,34 @@
         "name":"Pendientes",
         "outfitName":"Quiet Promise",
         "variations":[
-            {"id":10917, "colors":["undefined"]},
-            {"id":10918, "colors":["undefined"]},
-            {"id":10919, "colors":["undefined"]},
-            {"id":10920, "colors":["undefined"]},
-            {"id":10921, "colors":["undefined"]},
-            {"id":10922, "colors":["undefined"]},
-            {"id":10923, "colors":["undefined"]},
-            {"id":10924, "colors":["undefined"]},
-            {"id":10925, "colors":["undefined"]},
-            {"id":10926, "colors":["undefined"]}
+            {"id":10917, "colors":["golden"]},
+            {"id":10918, "colors":["pink"]},
+            {"id":10919, "colors":["orange"]},
+            {"id":10920, "colors":["blue"]},
+            {"id":10921, "colors":["black"]},
+            {"id":10922, "colors":["silver"]},
+            {"id":10923, "colors":["purple"]},
+            {"id":10924, "colors":["red"]},
+            {"id":10925, "colors":["green"]},
+            {"id":10926, "colors":["white"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
     {
         "groupId":10927, "zone":"feet", "category":"socks", "security":"9ce76971ffcc2fd4", "multiLayered":false, "layerBehavior":"normal",
-        "name":"-",
+        "name":"Pantys",
         "outfitName":"Cheerful Hope",
         "variations":[
-            {"id":10927, "colors":["undefined"]},
-            {"id":10928, "colors":["undefined"]},
-            {"id":10929, "colors":["undefined"]},
-            {"id":10930, "colors":["undefined"]},
-            {"id":10931, "colors":["undefined"]},
-            {"id":10932, "colors":["undefined"]},
-            {"id":10933, "colors":["undefined"]},
-            {"id":10934, "colors":["undefined"]},
-            {"id":10935, "colors":["undefined"]},
-            {"id":10936, "colors":["undefined"]}
+            {"id":10927, "colors":["white"]},
+            {"id":10928, "colors":["black"]},
+            {"id":10929, "colors":["yellow"]},
+            {"id":10930, "colors":["blue"]},
+            {"id":10931, "colors":["brown"]},
+            {"id":10932, "colors":["orange"]},
+            {"id":10933, "colors":["red"]},
+            {"id":10934, "colors":["pink"]},
+            {"id":10935, "colors":["purple"]},
+            {"id":10936, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -19096,16 +19096,16 @@
         "name":"Top",
         "outfitName":"Cheerful Hope",
         "variations":[
-            {"id":10937, "colors":["undefined"]},
-            {"id":10938, "colors":["undefined"]},
-            {"id":10939, "colors":["undefined"]},
-            {"id":10940, "colors":["undefined"]},
-            {"id":10941, "colors":["undefined"]},
-            {"id":10942, "colors":["undefined"]},
-            {"id":10943, "colors":["undefined"]},
-            {"id":10944, "colors":["undefined"]},
-            {"id":10945, "colors":["undefined"]},
-            {"id":10946, "colors":["undefined"]}
+            {"id":10937, "colors":["white"]},
+            {"id":10938, "colors":["black"]},
+            {"id":10939, "colors":["yellow"]},
+            {"id":10940, "colors":["blue"]},
+            {"id":10941, "colors":["brown"]},
+            {"id":10942, "colors":["orange"]},
+            {"id":10943, "colors":["red"]},
+            {"id":10944, "colors":["pink"]},
+            {"id":10945, "colors":["purple"]},
+            {"id":10946, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -19114,16 +19114,16 @@
         "name":"Vestido",
         "outfitName":"Cheerful Hope",
         "variations":[
-            {"id":10947, "colors":["undefined"]},
-            {"id":10948, "colors":["undefined"]},
-            {"id":10949, "colors":["undefined"]},
-            {"id":10950, "colors":["undefined"]},
-            {"id":10951, "colors":["undefined"]},
-            {"id":10952, "colors":["undefined"]},
-            {"id":10953, "colors":["undefined"]},
-            {"id":10954, "colors":["undefined"]},
-            {"id":10955, "colors":["undefined"]},
-            {"id":10956, "colors":["undefined"]}
+            {"id":10947, "colors":["orange"]},
+            {"id":10948, "colors":["red"]},
+            {"id":10949, "colors":["pink"]},
+            {"id":10950, "colors":["purple"]},
+            {"id":10951, "colors":["green"]},
+            {"id":10952, "colors":["white"]},
+            {"id":10953, "colors":["black"]},
+            {"id":10954, "colors":["yellow"]},
+            {"id":10955, "colors":["blue"]},
+            {"id":10956, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -19132,16 +19132,16 @@
         "name":"Zapatos",
         "outfitName":"Cheerful Hope",
         "variations":[
-            {"id":10957, "colors":["undefined"]},
-            {"id":10958, "colors":["undefined"]},
-            {"id":10959, "colors":["undefined"]},
-            {"id":10960, "colors":["undefined"]},
-            {"id":10961, "colors":["undefined"]},
-            {"id":10962, "colors":["undefined"]},
-            {"id":10963, "colors":["undefined"]},
-            {"id":10964, "colors":["undefined"]},
-            {"id":10965, "colors":["undefined"]},
-            {"id":10966, "colors":["undefined"]}
+            {"id":10957, "colors":["white"]},
+            {"id":10958, "colors":["black"]},
+            {"id":10959, "colors":["yellow"]},
+            {"id":10960, "colors":["blue"]},
+            {"id":10961, "colors":["brown"]},
+            {"id":10962, "colors":["orange"]},
+            {"id":10963, "colors":["red"]},
+            {"id":10964, "colors":["pink"]},
+            {"id":10965, "colors":["purple"]},
+            {"id":10966, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -19150,16 +19150,16 @@
         "name":"Bolso",
         "outfitName":"Cheerful Hope",
         "variations":[
-            {"id":10967, "colors":["undefined"]},
-            {"id":10968, "colors":["undefined"]},
-            {"id":10969, "colors":["undefined"]},
-            {"id":10970, "colors":["undefined"]},
-            {"id":10971, "colors":["undefined"]},
-            {"id":10972, "colors":["undefined"]},
-            {"id":10973, "colors":["undefined"]},
-            {"id":10974, "colors":["undefined"]},
-            {"id":10975, "colors":["undefined"]},
-            {"id":10976, "colors":["undefined"]}
+            {"id":10967, "colors":["orange"]},
+            {"id":10968, "colors":["red"]},
+            {"id":10969, "colors":["pink"]},
+            {"id":10970, "colors":["purple"]},
+            {"id":10971, "colors":["green"]},
+            {"id":10972, "colors":["white"]},
+            {"id":10973, "colors":["black"]},
+            {"id":10974, "colors":["yellow"]},
+            {"id":10975, "colors":["blue"]},
+            {"id":10976, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -19168,16 +19168,16 @@
         "name":"Lazo",
         "outfitName":"Cheerful Hope",
         "variations":[
-            {"id":10977, "colors":["undefined"]},
-            {"id":10978, "colors":["undefined"]},
-            {"id":10979, "colors":["undefined"]},
-            {"id":10980, "colors":["undefined"]},
-            {"id":10981, "colors":["undefined"]},
-            {"id":10982, "colors":["undefined"]},
-            {"id":10983, "colors":["undefined"]},
-            {"id":10984, "colors":["undefined"]},
-            {"id":10985, "colors":["undefined"]},
-            {"id":10986, "colors":["undefined"]}
+            {"id":10977, "colors":["white"]},
+            {"id":10978, "colors":["black"]},
+            {"id":10979, "colors":["yellow"]},
+            {"id":10980, "colors":["blue"]},
+            {"id":10981, "colors":["brown"]},
+            {"id":10982, "colors":["orange"]},
+            {"id":10983, "colors":["red"]},
+            {"id":10984, "colors":["pink"]},
+            {"id":10985, "colors":["purple"]},
+            {"id":10986, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"21", "text":"Desbloqueado en el episodio 21"},
         "releaseDate":"2025-11-07"
     },
@@ -19957,7 +19957,114 @@
         ], "criteria":{"type":"gauge", "info":"Autumn Spiced Outfit", "text":"Desbloqueado en el evento de medidor\nAutumn Spiced Outfit"},
         "releaseDate":"2025-11-06"
     },
-
+    {
+        "groupId":11427, "zone":"feet", "category":"socks", "security":"57532c00ab366673", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Last-Minute Rush",
+        "variations":[
+            {"id":11427, "colors":["black"]},
+            {"id":11428, "colors":["yellow"]},
+            {"id":11429, "colors":["blue"]},
+            {"id":11430, "colors":["pink"]},
+            {"id":11431, "colors":["green"]},
+            {"id":11432, "colors":["grey"]},
+            {"id":11433, "colors":["purple"]},
+            {"id":11434, "colors":["white"]},
+            {"id":11435, "colors":["blue"]},
+            {"id":11436, "colors":["red"]}
+        ], "criteria":{"type":"calendar", "info":"2025-21", "text":"Desbloqueado en el calendario\nN°21 - 2025"},
+        "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11437, "zone":"feet", "category":"shoes", "security":"cfd5c30734d46541", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Last-Minute Rush",
+        "variations":[
+            {"id":11437, "colors":["black"]},
+            {"id":11438, "colors":["yellow"]},
+            {"id":11439, "colors":["blue"]},
+            {"id":11440, "colors":["pink"]},
+            {"id":11441, "colors":["green"]},
+            {"id":11442, "colors":["grey"]},
+            {"id":11443, "colors":["purple"]},
+            {"id":11444, "colors":["white"]},
+            {"id":11445, "colors":["blue"]},
+            {"id":11446, "colors":["red"]}
+        ], "criteria":{"type":"calendar", "info":"2025-21", "text":"Desbloqueado en el calendario\nN°21 - 2025"},
+        "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11447, "zone":"waistToKnee", "category":"skirt", "security":"f985287072d1a394", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Last-Minute Rush",
+        "variations":[
+            {"id":11447, "colors":["green"]},
+            {"id":11448, "colors":["grey"]},
+            {"id":11449, "colors":["blue"]},
+            {"id":11450, "colors":["brown"]},
+            {"id":11451, "colors":["red"]},
+            {"id":11452, "colors":["purple"]},
+            {"id":11453, "colors":["blue"]},
+            {"id":11454, "colors":["brown"]},
+            {"id":11455, "colors":["white"]},
+            {"id":11456, "colors":["black"]}
+        ], "criteria":{"type":"calendar", "info":"2025-21", "text":"Desbloqueado en el calendario\nN°21 - 2025"},
+        "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11457, "zone":"arms", "category":"bag", "security":"f4a355ad2fe9aa2d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolsas de compras",
+        "outfitName":"Last-Minute Rush",
+        "variations":[
+            {"id":11457, "colors":["red","multi"]},
+            {"id":11458, "colors":["blue","multi"]},
+            {"id":11459, "colors":["purple","multi"]},
+            {"id":11460, "colors":["brown","multi"]},
+            {"id":11461, "colors":["multi","yellow"]},
+            {"id":11462, "colors":["green","multi"]},
+            {"id":11463, "colors":["green","multi"]},
+            {"id":11464, "colors":["blue","multi"]},
+            {"id":11465, "colors":["multi","white"]},
+            {"id":11466, "colors":["black","multi"]}
+        ], "criteria":{"type":"calendar", "info":"2025-21", "text":"Desbloqueado en el calendario\nN°21 - 2025"},
+        "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11467, "zone":"torso", "category":"jacket", "security":"b1ebbf5755f8cf5f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jersey",
+        "outfitName":"Last-Minute Rush",
+        "variations":[
+            {"id":11467, "colors":["red","green"]},
+            {"id":11468, "colors":["blue","yellow"]},
+            {"id":11469, "colors":["green","purple"]},
+            {"id":11470, "colors":["yellow","brown"]},
+            {"id":11471, "colors":["brown","red"]},
+            {"id":11472, "colors":["blue","purple"]},
+            {"id":11473, "colors":["green","blue"]},
+            {"id":11474, "colors":["brown","blue"]},
+            {"id":11475, "colors":["white"]},
+            {"id":11476, "colors":["black"]}
+        ], "criteria":{"type":"calendar", "info":"2025-21", "text":"Desbloqueado en el calendario\nN°21 - 2025"},
+        "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11477, "zone":"head", "category":"hat", "security":"99bfa48b51d45252", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Gorra",
+        "outfitName":"Last-Minute Rush",
+        "variations":[
+            {"id":11477, "colors":["red","black"]},
+            {"id":11478, "colors":["blue","black"]},
+            {"id":11479, "colors":["purple","black"]},
+            {"id":11480, "colors":["yellow","brown"]},
+            {"id":11481, "colors":["black","brown"]},
+            {"id":11482, "colors":["blue","black"]},
+            {"id":11483, "colors":["green","black"]},
+            {"id":11484, "colors":["blue","grey"]},
+            {"id":11485, "colors":["white","grey"]},
+            {"id":11486, "colors":["black"]}
+        ], "criteria":{"type":"calendar", "info":"2025-21", "text":"Desbloqueado en el calendario\nN°21 - 2025"},
+        "releaseDate":"2025-12-02"
+    },
     {
         "groupId":11487, "zone":"general", "category":"tattoo", "security":"2d4116e759b26086", "multiLayered":false, "layerBehavior":"normal",
         "name":"Tatuaje",
