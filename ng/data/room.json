@@ -772,6 +772,13 @@
         "criteria":{"type":"jobTask", "info":"Casco", "text":"Desbloqueado en la Misión del día\nCasco"}
     },
     {
+        "id":119, "roomId":36, "slot":"slot4", "releaseDate":"2025-12-05", "light":false, "security":"cc16d910063eccee",
+        "name":"Estantería",
+        "roomName":"What the F***?",
+        "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"}
+    },
+
+    {
         "id":123, "roomId":37, "slot":"background", "releaseDate":"2025-05-30", "light":true, "security":"7089d75b0651ca70",
         "name":"Paredes",
         "roomName":"Quirky Pastels",
@@ -780,6 +787,19 @@
             "day":{"color1":"FFFFFF","color2":"F8CFEE","colorLight":"522801"},
             "night":{"color1":"8CD3EA","color2":"CFC3E2","colorLight":"07757B"}
         }
+    },
+    {
+        "id":124, "roomId":37, "slot":"slot5", "releaseDate":"2025-12-05", "light":false, "security":"59e84e2187479719",
+        "name":"Mesa",
+        "roomName":"Quirky Pastels",
+        "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"}
+    },
+
+    {
+        "id":126, "roomId":37, "slot":"slot3", "releaseDate":"2025-12-05", "light":false, "security":"8093326867666f51",
+        "name":"Sillón",
+        "roomName":"Quirky Pastels",
+        "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"}
     },
     {
         "id":127, "roomId":37, "slot":"slot2", "releaseDate":"2024-12-04", "light":true, "security":"b9057d50c6878173",
@@ -833,7 +853,16 @@
         "roomName":"Zen Vibes",
         "criteria":{"type":"jobTask", "info":"Grapadora", "text":"Desbloqueado en la Misión del día\nGrapadora"}
     },
-
+    {
+        "id":135, "roomId":39, "slot":"background", "releaseDate":"2025-12-05", "light":true, "security":"bf05f8e8483ecf82",
+        "name":"Paredes",
+        "roomName":"Space Capsule",
+        "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
+        "backgroundColors":{
+            "day":{"color1":"C0FBFE","color2":"C48EB1","colorLight":"043D82"},
+            "night":{"color1":"FFE2AB","color2":"88719E","colorLight":"7B2800"}
+        }
+    },
     {
         "id":136, "roomId":39, "slot":"slot5", "releaseDate":"2025-09-26", "light":true, "security":"120202b5fb5fcb91",
         "name":"Sillón largo",
@@ -3022,5 +3051,85 @@
         "name":"Sillón",
         "roomName":"Honmoon Resonance",
         "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo \n Black Friday 2025"}
+    },
+    {
+        "id":480, "roomId":99, "slot":"background", "releaseDate":"2025-12-08", "light":true, "security":"d0431f8c1e1d01d8",
+        "name":"Paredes",
+        "roomName":"Boudoir Rouge",
+        "criteria":{"type":"loyaltyPack", "info":"Boudoir Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "backgroundColors":{
+            "day":{"color1":"FFCEAB","color2":"DEB5B7","colorLight":"4E2807"},
+            "night":{"color1":"F5CA9C","color2":"989BA1","colorLight":"0A3352"}
+        }
+    },
+    {
+        "id":481, "roomId":99, "slot":"slot1", "releaseDate":"2025-12-08", "light":false, "security":"71176d18f9e0ee30",
+        "name":"Meridiana",
+        "roomName":"Boudoir Rouge",
+        "criteria":{"type":"loyaltyPack", "info":"Boudoir Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"}
+    },
+    {
+        "id":482, "roomId":99, "slot":"slot2", "releaseDate":"2025-12-08", "light":false, "security":"098c710b5eb48e10",
+        "name":"Cama",
+        "roomName":"Boudoir Rouge",
+        "criteria":{"type":"loyaltyPack", "info":"Boudoir Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"}
+    },
+    {
+        "id":483, "roomId":99, "slot":"slot3", "releaseDate":"2025-12-08", "light":false, "security":"49e103d754859cc2",
+        "name":"Maniquí",
+        "roomName":"Boudoir Rouge",
+        "criteria":{"type":"loyaltyPack", "info":"Boudoir Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"}
+    },
+    {
+        "id":484, "roomId":99, "slot":"slot4", "releaseDate":"2025-12-08", "light":true, "security":"d9b589cf4812b227",
+        "name":"Lámpara",
+        "roomName":"Boudoir Rouge",
+        "criteria":{"type":"loyaltyPack", "info":"Boudoir Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"}
+    },
+    {
+        "id":485, "roomId":99, "slot":"slot5", "releaseDate":"2025-12-08", "light":true, "security":"61d4fdd5ffd38a2f",
+        "name":"Cojines",
+        "roomName":"Boudoir Rouge",
+        "criteria":{"type":"loyaltyPack", "info":"Boudoir Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"}
+    },
+    {
+        "id":486, "roomId":100, "slot":"background", "releaseDate":"2025-12-08", "light":true, "security":"9f4af2733ff20b9a",
+        "name":"Paredes",
+        "roomName":"Chambers of the Scarab",
+        "criteria":{"type":"loyaltyPack", "info":"Chambers of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"BCB8BA","colorLight":"4E2807"},
+            "night":{"color1":"E9A687","color2":"A69DB1","colorLight":"562C18"}
+        }
+    },
+    {
+        "id":487, "roomId":100, "slot":"slot1", "releaseDate":"2025-12-08", "light":false, "security":"17120ee69b577c10",
+        "name":"Trono",
+        "roomName":"Chambers of the Scarab",
+        "criteria":{"type":"loyaltyPack", "info":"Chambers of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"}
+    },
+    {
+        "id":488, "roomId":100, "slot":"slot2", "releaseDate":"2025-12-08", "light":false, "security":"3b64e7596910e83d",
+        "name":"Banqueta",
+        "roomName":"Chambers of the Scarab",
+        "criteria":{"type":"loyaltyPack", "info":"Chambers of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"}
+    },
+    {
+        "id":489, "roomId":100, "slot":"slot3", "releaseDate":"2025-12-08", "light":false, "security":"b390eb60dc1a5678",
+        "name":"Gatos",
+        "roomName":"Chambers of the Scarab",
+        "criteria":{"type":"loyaltyPack", "info":"Chambers of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"}
+    },
+    {
+        "id":490, "roomId":100, "slot":"slot4", "releaseDate":"2025-12-08", "light":false, "security":"29c10e7f4cf767aa",
+        "name":"Cofre",
+        "roomName":"Chambers of the Scarab",
+        "criteria":{"type":"loyaltyPack", "info":"Chambers of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"}
+    },
+    {
+        "id":491, "roomId":100, "slot":"slot5", "releaseDate":"2025-12-08", "light":true, "security":"06712160e9715c95",
+        "name":"Estatua",
+        "roomName":"Chambers of the Scarab",
+        "criteria":{"type":"loyaltyPack", "info":"Chambers of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"}
     }
 ]

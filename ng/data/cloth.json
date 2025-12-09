@@ -42,7 +42,7 @@
             {"id": 9, "colors":["purple"]},
             {"id": 10, "colors":["green"]},
             {"id": 11, "colors":["black"]}
-        ], "criteria":{"type":"episode", "info":"01", "text": "Desbloqueado en el episodio 01"},
+        ], "criteria":{"type":"episode", "info":"01", "text":"Desbloqueado en el episodio 01"},
         "releaseDate":"2024-04-17"
     },
     {
@@ -2246,7 +2246,24 @@
         ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"},
         "releaseDate":"2025-03-28"
     },
-
+    {
+        "groupId":1247, "zone":"torso", "category":"top", "security":"4664b5c258b6a18f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sujetador deportivo",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1247, "colors":["undefined"]},
+            {"id":1248, "colors":["undefined"]},
+            {"id":1249, "colors":["undefined"]},
+            {"id":1250, "colors":["undefined"]},
+            {"id":1251, "colors":["undefined"]},
+            {"id":1252, "colors":["undefined"]},
+            {"id":1253, "colors":["undefined"]},
+            {"id":1254, "colors":["undefined"]},
+            {"id":1255, "colors":["undefined"]},
+            {"id":1256, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
+        "releaseDate":"2025-12-05"
+    },
     {
         "groupId":1257, "zone":"torso_waistToKnee", "category":"dress", "security":"f6e94e12267ff8ab", "multiLayered":false, "layerBehavior":"normal",
         "name":"Top",
@@ -2299,7 +2316,7 @@
             {"id":1285, "colors":["orange","multi"]},
             {"id":1286, "colors":["pink","multi"]}
         ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
-        "releaseDate": "2025-09-26"
+        "releaseDate":"2025-09-26"
     },
     {
         "groupId":1287, "zone":"torso_waistToKnee", "category":"dress", "security":"aa1a2f7a264eea3c", "multiLayered":false, "layerBehavior":"normal",
@@ -2713,7 +2730,7 @@
             {"id":1507, "colors":["white","green"]},
             {"id":1508, "colors":["white","yellow"]}
         ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
-        "releaseDate": "2025-09-26"
+        "releaseDate":"2025-09-26"
     },
     {
         "groupId":1509, "zone":"torso", "category":"jacket", "security":"468baa3750615e2e", "multiLayered":false, "layerBehavior":"normal",
@@ -2734,6 +2751,24 @@
         "releaseDate":"2025-08-01"
     },
 
+    {
+        "groupId":1529, "zone":"waistToKnee", "category":"pants", "security":"af3fcc2ca5373585", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Leggings",
+        "outfitName":"What the F***?",
+        "variations":[
+            {"id":1529, "colors":["undefined"]},
+            {"id":1530, "colors":["undefined"]},
+            {"id":1531, "colors":["undefined"]},
+            {"id":1532, "colors":["undefined"]},
+            {"id":1533, "colors":["undefined"]},
+            {"id":1534, "colors":["undefined"]},
+            {"id":1535, "colors":["undefined"]},
+            {"id":1536, "colors":["undefined"]},
+            {"id":1537, "colors":["undefined"]},
+            {"id":1538, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
+        "releaseDate":"2025-12-05"
+    },
     {
         "groupId":1539, "zone":"waistToKnee", "category":"pants", "security":"8959f31ef1eb963f", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pantalones",
@@ -2806,7 +2841,24 @@
         ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"},
         "releaseDate":"2025-03-28"
     },
-
+    {
+        "groupId":1579, "zone":"waistToKnee", "category":"skirt", "security":"872bdb998f90ac55", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Tatuajes",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1579, "colors":["undefined"]},
+            {"id":1580, "colors":["undefined"]},
+            {"id":1581, "colors":["undefined"]},
+            {"id":1582, "colors":["undefined"]},
+            {"id":1583, "colors":["undefined"]},
+            {"id":1584, "colors":["undefined"]},
+            {"id":1585, "colors":["undefined"]},
+            {"id":1586, "colors":["undefined"]},
+            {"id":1587, "colors":["undefined"]},
+            {"id":1588, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
+        "releaseDate":"2025-12-05"
+    },
     {
         "groupId":1589, "zone":"arms", "category":"bag", "security":"8f23311e7f2c5c28", "multiLayered":false, "layerBehavior":"normal",
         "name":"Cetro",
@@ -2841,7 +2893,25 @@
             {"id":1607, "colors":["grey","multi"]},
             {"id":1608, "colors":["red","multi"]}
         ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
-        "releaseDate": "2025-09-26"
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":1609, "zone":"general", "category":"tattoo", "security":"2d1ff8a94b3e0a7d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piel Cyborg",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1609, "colors":["undefined"]},
+            {"id":1610, "colors":["undefined"]},
+            {"id":1611, "colors":["undefined"]},
+            {"id":1612, "colors":["undefined"]},
+            {"id":1613, "colors":["undefined"]},
+            {"id":1614, "colors":["undefined"]},
+            {"id":1615, "colors":["undefined"]},
+            {"id":1616, "colors":["undefined"]},
+            {"id":1617, "colors":["undefined"]},
+            {"id":1618, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
+        "releaseDate":"2025-12-05"
     },
 
     {
@@ -2860,7 +2930,7 @@
             {"id":1647, "colors":["blue","brown","multi"]},
             {"id":1648, "colors":["white","blue","multi"]}
         ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
-        "releaseDate": "2025-09-26"
+        "releaseDate":"2025-09-26"
     },
     {
         "groupId":1649, "zone":"head", "category":"faceAccessory", "security":"a6c525f5d293415f", "multiLayered":false, "layerBehavior":"normal",
@@ -2954,6 +3024,24 @@
         ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"},
         "releaseDate":"2024-12-04"
     },
+    {
+        "groupId":1719, "zone":"arms", "category":"bag", "security":"6263d936d69d8bb1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Paraguas",
+        "outfitName":"Playing In The Rain",
+        "variations":[
+            {"id":1719, "colors":["undefined"]},
+            {"id":1720, "colors":["undefined"]},
+            {"id":1721, "colors":["undefined"]},
+            {"id":1722, "colors":["undefined"]},
+            {"id":1723, "colors":["undefined"]},
+            {"id":1724, "colors":["undefined"]},
+            {"id":1725, "colors":["undefined"]},
+            {"id":1726, "colors":["undefined"]},
+            {"id":1727, "colors":["undefined"]},
+            {"id":1728, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
+        "releaseDate":"2025-12-05"
+    },
 
     {
         "groupId":1729, "zone":"general", "category":"other", "security":"18172fa2daeb5b4b", "multiLayered":true, "layerBehavior":"normal",
@@ -3002,6 +3090,25 @@
     },
 
     {
+        "groupId":1760, "zone":"general", "category":"other", "security":"5565b2b0db77bcec", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Parterre de flores",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1760, "colors":["undefined"]},
+            {"id":1761, "colors":["undefined"]},
+            {"id":1762, "colors":["undefined"]},
+            {"id":1763, "colors":["undefined"]},
+            {"id":1764, "colors":["undefined"]},
+            {"id":1765, "colors":["undefined"]},
+            {"id":1766, "colors":["undefined"]},
+            {"id":1767, "colors":["undefined"]},
+            {"id":1768, "colors":["undefined"]},
+            {"id":1769, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
+        "releaseDate":"2025-12-05"
+    },
+
+    {
         "groupId":1780, "zone":"head", "category":"wig", "security":"d1bc61b2a833de5a", "multiLayered":true, "layerBehavior":"normal",
         "name":"Peluca",
         "outfitName":"Flowerly",
@@ -3035,7 +3142,7 @@
             {"id":1798, "colors":["yellow"]},
             {"id":1799, "colors":["golden","red"]}
         ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
-        "releaseDate": "2025-09-26"
+        "releaseDate":"2025-09-26"
     },
     {
         "groupId":1800, "zone":"feet", "category":"shoes", "security":"54551a0957b0dfff", "multiLayered":false, "layerBehavior":"normal",
@@ -3199,9 +3306,26 @@
             {"id":1928, "colors":["white"]},
             {"id":1929, "colors":["grey","brown"]}
         ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
-        "releaseDate": "2025-09-26"
+        "releaseDate":"2025-09-26"
     },
-
+    {
+        "groupId":1930, "zone":"arms", "category":"bag", "security":"e08c10437b969c1f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Brik de leche",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1930, "colors":["undefined"]},
+            {"id":1931, "colors":["undefined"]},
+            {"id":1932, "colors":["undefined"]},
+            {"id":1933, "colors":["undefined"]},
+            {"id":1934, "colors":["undefined"]},
+            {"id":1935, "colors":["undefined"]},
+            {"id":1936, "colors":["undefined"]},
+            {"id":1937, "colors":["undefined"]},
+            {"id":1938, "colors":["undefined"]},
+            {"id":1939, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
+        "releaseDate":"2025-12-05"
+    },
     {
         "groupId":1940, "zone":"head", "category":"hat", "security":"7b9512ee4abd6f2f", "multiLayered":true, "layerBehavior":"normal",
         "name":"Orejas de gato",
@@ -4544,7 +4668,7 @@
             {"id":2701, "colors":["white"]},
             {"id":2702, "colors":["blue"]}
         ], "criteria":{"type":"jobTask", "info":"Lámpara (Episodio 20)", "text":"Desbloqueado en la Misión del día\nLámpara"},
-        "releaseDate": "2025-09-26"
+        "releaseDate":"2025-09-26"
     },
     {
         "groupId":2703, "zone":"arms", "category":"gloves", "security":"0676c44f21e0afee", "multiLayered":false, "layerBehavior":"normal",
@@ -5088,7 +5212,7 @@
     },
     {
         "groupId":3003, "zone":"torso_waistToKnee", "category":"underwear", "security":"294bb916777a8ad5", "multiLayered":false, "layerBehavior":"normal",
-        "name": "Body",
+        "name":"Body",
         "outfitName":"Comfortable Warmth",
         "variations":[
             {"id":3003, "colors":["blue"]},
@@ -5101,12 +5225,12 @@
             {"id":3010, "colors":["brown"]},
             {"id":3011, "colors":["pink"]},
             {"id":3012, "colors":["red"]}
-        ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"},
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"},
         "releaseDate":"2024-05-08"
     },
     {
         "groupId":3013, "zone":"waistToKnee", "category":"pants", "security":"f23b5c9a056f1b69", "multiLayered":false, "layerBehavior":"normal",
-        "name": "Leggings",
+        "name":"Leggings",
         "outfitName":"Comfortable Warmth",
         "variations":[
             {"id":3013, "colors":["black"]},
@@ -5119,12 +5243,12 @@
             {"id":3020, "colors":["pink"]},
             {"id":3021, "colors":["blue"]},
             {"id":3022, "colors":["grey"]}
-        ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"},
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"},
         "releaseDate":"2024-05-08"
     },
     {
         "groupId":3023, "zone":"torso", "category":"jacket", "security":"7a3ea928efc9f34b", "multiLayered":false, "layerBehavior":"normal",
-        "name": "Jersey",
+        "name":"Jersey",
         "outfitName":"Comfortable Warmth",
         "variations":[
             {"id":3023, "colors":["yellow"]},
@@ -5137,12 +5261,12 @@
             {"id":3030, "colors":["purple"]},
             {"id":3031, "colors":["blue"]},
             {"id":3032, "colors":["green"]}
-        ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"},
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"},
         "releaseDate":"2024-05-08"
     },
     {
         "groupId":3033, "zone":"feet", "category":"shoes", "security":"3c93107151389dfd", "multiLayered":false, "layerBehavior":"normal",
-        "name": "Bailarinas",
+        "name":"Bailarinas",
         "outfitName":"Comfortable Warmth",
         "variations":[
             {"id":3033, "colors":["black"]},
@@ -5155,12 +5279,12 @@
             {"id":3040, "colors":["pink"]},
             {"id":3041, "colors":["blue"]},
             {"id":3042, "colors":["grey"]}
-        ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"},
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"},
         "releaseDate":"2024-05-08"
     },
     {
         "groupId":3043, "zone":"head", "category":"earring", "security":"2cac1c2eb9293239", "multiLayered":false, "layerBehavior":"normal",
-        "name": "Pendientes",
+        "name":"Pendientes",
         "outfitName":"Comfortable Warmth",
         "variations":[
             {"id":3043, "colors":["yellow", "blue"]},
@@ -5173,12 +5297,12 @@
             {"id":3050, "colors":["brown", "yellow"]},
             {"id":3051, "colors":["grey", "pink"]},
             {"id":3052, "colors":["red", "grey"]}
-        ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"},
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"},
         "releaseDate":"2024-05-08"
     },
     {
         "groupId":3053, "zone":"arms", "category":"armAccessory", "security":"1c1449d657d3bf29", "multiLayered":false, "layerBehavior":"normal",
-        "name": "Anillos",
+        "name":"Anillos",
         "outfitName":"Comfortable Warmth",
         "variations":[
             {"id":3053, "colors":["yellow", "blue"]},
@@ -5191,7 +5315,7 @@
             {"id":3060, "colors":["yellow", "brown"]},
             {"id":3061, "colors":["grey", "pink"]},
             {"id":3062, "colors":["grey", "red"]}
-        ], "criteria":{"type":"episode", "info":"03", "text": "Desbloqueado en el episodio 03"},
+        ], "criteria":{"type":"episode", "info":"03", "text":"Desbloqueado en el episodio 03"},
         "releaseDate":"2024-05-08"
     },
     {
@@ -5425,7 +5549,7 @@
             {"id":3190, "colors":["blue", "purple"]},
             {"id":3191, "colors":["brown", "pink"]},
             {"id":3192, "colors":["green", "grey"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5443,7 +5567,7 @@
             {"id":3200, "colors":["white"]},
             {"id":3201, "colors":["yellow"]},
             {"id":3202, "colors":["green"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5461,7 +5585,7 @@
             {"id":3210, "colors":["purple"]},
             {"id":3211, "colors":["pink"]},
             {"id":3212, "colors":["grey"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5479,7 +5603,7 @@
             {"id":3220, "colors":["yellow"]},
             {"id":3221, "colors":["blue"]},
             {"id":3222, "colors":["green"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5497,7 +5621,7 @@
             {"id":3230, "colors":["purple"]},
             {"id":3231, "colors":["pink"]},
             {"id":3232, "colors":["grey"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5515,7 +5639,7 @@
             {"id":3240, "colors":["purple"]},
             {"id":3241, "colors":["pink"]},
             {"id":3242, "colors":["grey"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5533,7 +5657,7 @@
             {"id":3250, "colors":["green"]},
             {"id":3251, "colors":["brown"]},
             {"id":3252, "colors":["red"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5551,7 +5675,7 @@
             {"id":3260, "colors":["green"]},
             {"id":3261, "colors":["pink"]},
             {"id":3262, "colors":["orange"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5569,7 +5693,7 @@
             {"id":3270, "colors":["brown"]},
             {"id":3271, "colors":["green"]},
             {"id":3272, "colors":["orange"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5587,7 +5711,7 @@
             {"id":3280, "colors":["grey"]},
             {"id":3281, "colors":["yellow"]},
             {"id":3282, "colors":["red"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5605,7 +5729,7 @@
             {"id":3290, "colors":["green"]},
             {"id":3291, "colors":["brown"]},
             {"id":3292, "colors":["brown"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5623,7 +5747,7 @@
             {"id":3300, "colors":["yellow", "green"]},
             {"id":3301, "colors":["grey", "yellow"]},
             {"id":3302, "colors":["grey", "blue"]}
-        ], "criteria":{"type":"episode", "info":"05", "text": "Desbloqueado en el episodio 05"},
+        ], "criteria":{"type":"episode", "info":"05", "text":"Desbloqueado en el episodio 05"},
         "releaseDate":"2024-07-03"
     },
     {
@@ -5641,7 +5765,7 @@
             {"id":3310, "colors":["purple", "multi"]},
             {"id":3311, "colors":["orange", "multi"]},
             {"id":3312, "colors":["yellow", "multi"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5659,7 +5783,7 @@
             {"id":3320, "colors":["purple"]},
             {"id":3321, "colors":["red"]},
             {"id":3322, "colors":["brown"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5677,7 +5801,7 @@
             {"id":3330, "colors":["green"]},
             {"id":3331, "colors":["yellow"]},
             {"id":3332, "colors":["blue"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5695,7 +5819,7 @@
             {"id":3340, "colors":["white", "green"]},
             {"id":3341, "colors":["white", "purple"]},
             {"id":3342, "colors":["white", "orange"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5713,7 +5837,7 @@
             {"id":3350, "colors":["purple"]},
             {"id":3351, "colors":["blue"]},
             {"id":3352, "colors":["brown"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5731,7 +5855,7 @@
             {"id":3360, "colors":["green"]},
             {"id":3361, "colors":["orange"]},
             {"id":3362, "colors":["red"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5749,7 +5873,7 @@
             {"id":3370, "colors":["black"]},
             {"id":3371, "colors":["white"]},
             {"id":3372, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5767,7 +5891,7 @@
             {"id":3380, "colors":["black", "red"]},
             {"id":3381, "colors":["white", "blue"]},
             {"id":3382, "colors":["orange", "purple"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5785,7 +5909,7 @@
             {"id":3390, "colors":["yellow", "black"]},
             {"id":3391, "colors":["white"]},
             {"id":3392, "colors":["yellow", "blue"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5803,7 +5927,7 @@
             {"id":3400, "colors":["black"]},
             {"id":3401, "colors":["white"]},
             {"id":3402, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5821,7 +5945,7 @@
             {"id":3410, "colors":["purple"]},
             {"id":3411, "colors":["white"]},
             {"id":3412, "colors":["green"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5839,7 +5963,7 @@
             {"id":3420, "colors":["black"]},
             {"id":3421, "colors":["white"]},
             {"id":3422, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
     {
@@ -5857,10 +5981,18 @@
             {"id":3430, "colors":["black"]},
             {"id":3431, "colors":["white"]},
             {"id":3432, "colors":["pink", "multi"]}
-        ], "criteria":{"type":"episode", "info":"06", "text": "Desbloqueado en el episodio 06"},
+        ], "criteria":{"type":"episode", "info":"06", "text":"Desbloqueado en el episodio 06"},
         "releaseDate":"2024-08-07"
     },
-
+    {
+        "groupId":3433, "zone":"general", "category":"other", "security":"8049558759d47422", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lluvia",
+        "outfitName":"Playing In The Rain",
+        "variations":[
+            {"id":3433, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
+        "releaseDate":"2025-12-05"
+    },
 
     {
         "groupId":3444, "zone":"feet", "category":"socks", "security":"be1bf4a5c3aef65f", "multiLayered":false, "layerBehavior":"normal",
@@ -6719,7 +6851,7 @@
             {"id":3918, "colors":["purple", "multi"]},
             {"id":3919, "colors":["red", "multi"]},
             {"id":3920, "colors":["brown", "multi"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6737,7 +6869,7 @@
             {"id":3928, "colors":["green", "blue"]},
             {"id":3929, "colors":["red", "orange"]},
             {"id":3930, "colors":["brown", "red"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6755,7 +6887,7 @@
             {"id":3938, "colors":["pink"]},
             {"id":3939, "colors":["red"]},
             {"id":3940, "colors":["green"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6773,7 +6905,7 @@
             {"id":3948, "colors":["green", "multi"]},
             {"id":3949, "colors":["red"]},
             {"id":3950, "colors":["brown", "multi"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6791,7 +6923,7 @@
             {"id":3958, "colors":["green", "multi"]},
             {"id":3959, "colors":["red", "multi"]},
             {"id":3960, "colors":["brown", "multi"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6809,7 +6941,7 @@
             {"id":3968, "colors":["blue"]},
             {"id":3969, "colors":["red", "orange"]},
             {"id":3970, "colors":["green", "brown"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6827,7 +6959,7 @@
             {"id":3978, "colors":["white"]},
             {"id":3979, "colors":["red"]},
             {"id":3980, "colors":["green"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6845,7 +6977,7 @@
             {"id":3988, "colors":["purple"]},
             {"id":3989, "colors":["brown"]},
             {"id":3990, "colors":["brown"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6863,7 +6995,7 @@
             {"id":3998, "colors":["purple"]},
             {"id":3999, "colors":["brown"]},
             {"id":4000, "colors":["brown"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6881,7 +7013,7 @@
             {"id":4008, "colors":["purple"]},
             {"id":4009, "colors":["brown", "yellow"]},
             {"id":4010, "colors":["brown"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6899,7 +7031,7 @@
             {"id":4018, "colors":["purple"]},
             {"id":4019, "colors":["brown"]},
             {"id":4020, "colors":["brown"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6917,7 +7049,7 @@
             {"id":4028, "colors":["white"]},
             {"id":4029, "colors":["yellow"]},
             {"id":4030, "colors":["purple"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6935,7 +7067,7 @@
             {"id":4038, "colors":["purple"]},
             {"id":4039, "colors":["brown"]},
             {"id":4040, "colors":["brown"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6953,7 +7085,7 @@
             {"id":4048, "colors":["black", "purple"]},
             {"id":4049, "colors":["brown"]},
             {"id":4050, "colors":["black", "brown"]}
-        ], "criteria":{"type":"episode", "info":"07", "text": "Desbloqueado en el episodio 07"},
+        ], "criteria":{"type":"episode", "info":"07", "text":"Desbloqueado en el episodio 07"},
         "releaseDate":"2024-09-04"
     },
     {
@@ -6971,7 +7103,7 @@
             {"id":4058, "colors":["yellow"]},
             {"id":4059, "colors":["purple"]},
             {"id":4060, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -6989,7 +7121,7 @@
             {"id":4068, "colors":["white"]},
             {"id":4069, "colors":["green"]},
             {"id":4070, "colors":["blue"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -7007,7 +7139,7 @@
             {"id":4078, "colors":["pink"]},
             {"id":4079, "colors":["green"]},
             {"id":4080, "colors":["white"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -7025,7 +7157,7 @@
             {"id":4088, "colors":["white"]},
             {"id":4089, "colors":["green"]},
             {"id":4090, "colors":["blue"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -7043,7 +7175,7 @@
             {"id":4098, "colors":["red"]},
             {"id":4099, "colors":["purple"]},
             {"id":4100, "colors":["blue"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -7061,7 +7193,7 @@
             {"id":4108, "colors":["white"]},
             {"id":4109, "colors":["green"]},
             {"id":4110, "colors":["blue"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -7079,7 +7211,7 @@
             {"id":4118, "colors":["blue"]},
             {"id":4119, "colors":["yellow"]},
             {"id":4120, "colors":["blue"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -7097,7 +7229,7 @@
             {"id":4128, "colors":["purple"]},
             {"id":4129, "colors":["yellow"]},
             {"id":4130, "colors":["blue"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -7115,7 +7247,7 @@
             {"id":4138, "colors":["purple"]},
             {"id":4139, "colors":["green"]},
             {"id":4140, "colors":["blue"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -7133,7 +7265,7 @@
             {"id":4148, "colors":["red"]},
             {"id":4149, "colors":["yellow"]},
             {"id":4150, "colors":["purple"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -7151,7 +7283,7 @@
             {"id":4158, "colors":["purple"]},
             {"id":4159, "colors":["orange"]},
             {"id":4160, "colors":["blue"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -7169,7 +7301,7 @@
             {"id":4168, "colors":["purple"]},
             {"id":4169, "colors":["orange"]},
             {"id":4170, "colors":["blue", "grey"]}
-        ], "criteria":{"type":"episode", "info":"08", "text": "Desbloqueado en el episodio 08"},
+        ], "criteria":{"type":"episode", "info":"08", "text":"Desbloqueado en el episodio 08"},
         "releaseDate":"2024-10-02"
     },
     {
@@ -9063,7 +9195,7 @@
     {
         "groupId":5219, "zone":"face", "category":"makeup", "security":"29c6cde092712f8f", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pajitas",
-        "outfitName": "Butterfly in Festival",
+        "outfitName":"Butterfly in Festival",
         "variations":[
             {"id":5219, "colors":["purple"]},
             {"id":5220, "colors":["blue"]},
@@ -9081,7 +9213,7 @@
     {
         "groupId":5229, "zone":"feet", "category":"shoes", "security":"152877b88b1dc60c", "multiLayered":false, "layerBehavior":"normal",
         "name":"Sandalias",
-        "outfitName": "Butterfly in Festival",
+        "outfitName":"Butterfly in Festival",
         "variations":[
             {"id":5229, "colors":["pink"]},
             {"id":5230, "colors":["purple"]},
@@ -9099,7 +9231,7 @@
     {
         "groupId":5239, "zone":"feet", "category":"legAccessory", "security":"1202770ec26c0efe", "multiLayered":false, "layerBehavior":"normal",
         "name":"Joyas",
-        "outfitName": "Butterfly in Festival",
+        "outfitName":"Butterfly in Festival",
         "variations":[
             {"id":5239, "colors":["pink"]},
             {"id":5240, "colors":["purple"]},
@@ -9117,7 +9249,7 @@
     {
         "groupId":5249, "zone":"arms", "category":"armAccessory", "security":"4ecb6c7eb67c0161", "multiLayered":true, "layerBehavior":"normal",
         "name":"Mangas",
-        "outfitName": "Butterfly in Festival",
+        "outfitName":"Butterfly in Festival",
         "variations":[
             {"id":5249, "colors":["pink"]},
             {"id":5250, "colors":["pink"]},
@@ -9135,7 +9267,7 @@
     {
         "groupId":5259, "zone":"waistToKnee", "category":"skirt", "security":"cf2414e98f335e79", "multiLayered":true, "layerBehavior":"normal",
         "name":"Falda",
-        "outfitName": "Butterfly in Festival",
+        "outfitName":"Butterfly in Festival",
         "variations":[
             {"id":5259, "colors":["pink", "purple"]},
             {"id":5260, "colors":["blue", "purple"]},
@@ -9153,7 +9285,7 @@
     {
         "groupId":5269, "zone":"torso", "category":"top", "security":"ad52e647e44d90c7", "multiLayered":false, "layerBehavior":"normal",
         "name":"Top",
-        "outfitName": "Butterfly in Festival",
+        "outfitName":"Butterfly in Festival",
         "variations":[
             {"id":5269, "colors":["pink", "purple"]},
             {"id":5270, "colors":["blue", "purple"]},
@@ -20249,6 +20381,224 @@
 
 
     {
+        "groupId":11648, "zone":"torso_waistToKnee", "category":"underwear", "security":"c1e83fcf77167fa3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Biquini",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11648, "color":["undefined"]},
+            {"id":11649, "color":["undefined"]},
+            {"id":11650, "color":["undefined"]},
+            {"id":11651, "color":["undefined"]},
+            {"id":11652, "color":["undefined"]},
+            {"id":11653, "color":["undefined"]},
+            {"id":11654, "color":["undefined"]},
+            {"id":11655, "color":["undefined"]},
+            {"id":11656, "color":["undefined"]},
+            {"id":11657, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11658, "zone":"feet", "category":"shoes", "security":"b211fac3db881fac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11658, "color":["undefined"]},
+            {"id":11659, "color":["undefined"]},
+            {"id":11660, "color":["undefined"]},
+            {"id":11661, "color":["undefined"]},
+            {"id":11662, "color":["undefined"]},
+            {"id":11663, "color":["undefined"]},
+            {"id":11664, "color":["undefined"]},
+            {"id":11665, "color":["undefined"]},
+            {"id":11666, "color":["undefined"]},
+            {"id":11667, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11668, "zone":"waistToKnee", "category":"skirt", "security":"763e6868db8bc052", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11668, "color":["undefined"]},
+            {"id":11669, "color":["undefined"]},
+            {"id":11670, "color":["undefined"]},
+            {"id":11671, "color":["undefined"]},
+            {"id":11672, "color":["undefined"]},
+            {"id":11673, "color":["undefined"]},
+            {"id":11674, "color":["undefined"]},
+            {"id":11675, "color":["undefined"]},
+            {"id":11676, "color":["undefined"]},
+            {"id":11677, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11678, "zone":"arms", "category":"armAccessory", "security":"08b90abfe100011a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11678, "color":["undefined"]},
+            {"id":11679, "color":["undefined"]},
+            {"id":11680, "color":["undefined"]},
+            {"id":11681, "color":["undefined"]},
+            {"id":11682, "color":["undefined"]},
+            {"id":11683, "color":["undefined"]},
+            {"id":11684, "color":["undefined"]},
+            {"id":11685, "color":["undefined"]},
+            {"id":11686, "color":["undefined"]},
+            {"id":11687, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11688, "zone":"face", "category":"neckAccessory", "security":"c417c9c30df072b2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11688, "color":["undefined"]},
+            {"id":11689, "color":["undefined"]},
+            {"id":11690, "color":["undefined"]},
+            {"id":11691, "color":["undefined"]},
+            {"id":11692, "color":["undefined"]},
+            {"id":11693, "color":["undefined"]},
+            {"id":11694, "color":["undefined"]},
+            {"id":11695, "color":["undefined"]},
+            {"id":11696, "color":["undefined"]},
+            {"id":11697, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11698, "zone":"arms", "category":"bag", "security":"5d6519f6aaf0557c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11698, "color":["undefined"]},
+            {"id":11699, "color":["undefined"]},
+            {"id":11700, "color":["undefined"]},
+            {"id":11701, "color":["undefined"]},
+            {"id":11702, "color":["undefined"]},
+            {"id":11703, "color":["undefined"]},
+            {"id":11704, "color":["undefined"]},
+            {"id":11705, "color":["undefined"]},
+            {"id":11706, "color":["undefined"]},
+            {"id":11707, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11708, "zone":"torso_waistToKnee", "category":"underwear", "security":"298b63bfe9b7ae3f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Biquini",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11708, "color":["undefined"]},
+            {"id":11709, "color":["undefined"]},
+            {"id":11710, "color":["undefined"]},
+            {"id":11711, "color":["undefined"]},
+            {"id":11712, "color":["undefined"]},
+            {"id":11713, "color":["undefined"]},
+            {"id":11714, "color":["undefined"]},
+            {"id":11715, "color":["undefined"]},
+            {"id":11716, "color":["undefined"]},
+            {"id":11717, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11718, "zone":"waistToKnee", "category":"pants", "security":"d4e203da62904c0a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Short",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11718, "color":["undefined"]},
+            {"id":11719, "color":["undefined"]},
+            {"id":11720, "color":["undefined"]},
+            {"id":11721, "color":["undefined"]},
+            {"id":11722, "color":["undefined"]},
+            {"id":11723, "color":["undefined"]},
+            {"id":11724, "color":["undefined"]},
+            {"id":11725, "color":["undefined"]},
+            {"id":11726, "color":["undefined"]},
+            {"id":11727, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11728, "zone":"arms", "category":"handNailPolish", "security":"5ae2af07195d0058", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Esmalte uñas",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11728, "color":["undefined"]},
+            {"id":11729, "color":["undefined"]},
+            {"id":11730, "color":["undefined"]},
+            {"id":11731, "color":["undefined"]},
+            {"id":11732, "color":["undefined"]},
+            {"id":11733, "color":["undefined"]},
+            {"id":11734, "color":["undefined"]},
+            {"id":11735, "color":["undefined"]},
+            {"id":11736, "color":["undefined"]},
+            {"id":11737, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11738, "zone":"head", "category":"earring", "security":"aa77f43215144009", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Pendientes",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11738, "color":["undefined"]},
+            {"id":11739, "color":["undefined"]},
+            {"id":11740, "color":["undefined"]},
+            {"id":11741, "color":["undefined"]},
+            {"id":11742, "color":["undefined"]},
+            {"id":11743, "color":["undefined"]},
+            {"id":11744, "color":["undefined"]},
+            {"id":11745, "color":["undefined"]},
+            {"id":11746, "color":["undefined"]},
+            {"id":11747, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11748, "zone":"feet", "category":"shoes", "security":"1d857e33ae5d361a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11748, "color":["undefined"]},
+            {"id":11749, "color":["undefined"]},
+            {"id":11750, "color":["undefined"]},
+            {"id":11751, "color":["undefined"]},
+            {"id":11752, "color":["undefined"]},
+            {"id":11753, "color":["undefined"]},
+            {"id":11754, "color":["undefined"]},
+            {"id":11755, "color":["undefined"]},
+            {"id":11756, "color":["undefined"]},
+            {"id":11757, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11758, "zone":"torso", "category":"jacket", "security":"c06b8c00105082d1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Kimono",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11758, "color":["undefined"]},
+            {"id":11759, "color":["undefined"]},
+            {"id":11760, "color":["undefined"]},
+            {"id":11761, "color":["undefined"]},
+            {"id":11762, "color":["undefined"]},
+            {"id":11763, "color":["undefined"]},
+            {"id":11764, "color":["undefined"]},
+            {"id":11765, "color":["undefined"]},
+            {"id":11766, "color":["undefined"]},
+            {"id":11767, "color":["undefined"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Desbloqueado en el episodio 22"},
+        "releaseDate":"2025-12-05"
+    },
+
+
+    {
         "groupId":11768, "zone":"general", "category":"other", "security":"fb2a51c4ee3cee51", "multiLayered":false, "layerBehavior":"normal",
         "name":"Ambiente",
         "outfitName":"DemonBeat Idol",
@@ -20409,5 +20759,365 @@
             {"id":11857, "colors":["multi"]}
         ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
         "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11858, "zone":"feet", "category":"socks", "security":"d49e990005b1f0b4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Medias rejilla",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11858, "colors":["red"]},
+            {"id":11859, "colors":["blue"]},
+            {"id":11860, "colors":["green"]},
+            {"id":11861, "colors":["purple"]},
+            {"id":11862, "colors":["blue"]},
+            {"id":11863, "colors":["pink"]},
+            {"id":11864, "colors":["brown"]},
+            {"id":11865, "colors":["black"]},
+            {"id":11866, "colors":["white"]},
+            {"id":11867, "colors":["yellow"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11868, "zone":"torso_waistToKnee", "category":"underwear", "security":"47fe5803df455394", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11868, "colors":["golden","red"]},
+            {"id":11869, "colors":["silver","blue"]},
+            {"id":11870, "colors":["golden","green"]},
+            {"id":11871, "colors":["silver","purple"]},
+            {"id":11872, "colors":["golden","blue"]},
+            {"id":11873, "colors":["golden","pink"]},
+            {"id":11874, "colors":["golden","brown"]},
+            {"id":11875, "colors":["golden","black"]},
+            {"id":11876, "colors":["silver","white"]},
+            {"id":11877, "colors":["silver","yellow"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11878, "zone":"feet", "category":"shoes", "security":"9c49b7a746a29b21", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11878, "colors":["golden","red"]},
+            {"id":11879, "colors":["silver","blue"]},
+            {"id":11880, "colors":["golden","green"]},
+            {"id":11881, "colors":["silver","purple"]},
+            {"id":11882, "colors":["golden","blue"]},
+            {"id":11883, "colors":["golden","pink"]},
+            {"id":11884, "colors":["golden","brown"]},
+            {"id":11885, "colors":["golden","black"]},
+            {"id":11886, "colors":["silver","white"]},
+            {"id":11887, "colors":["silver","yellow"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11888, "zone":"arms", "category":"gloves", "security":"68d01721cee5f3e3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11888, "colors":["golden","red"]},
+            {"id":11889, "colors":["silver","blue"]},
+            {"id":11890, "colors":["golden","green"]},
+            {"id":11891, "colors":["silver","purple"]},
+            {"id":11892, "colors":["golden","blue"]},
+            {"id":11893, "colors":["golden","pink"]},
+            {"id":11894, "colors":["golden","brown"]},
+            {"id":11895, "colors":["golden","black"]},
+            {"id":11896, "colors":["silver","white"]},
+            {"id":11897, "colors":["silver","yellow"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11898, "zone":"torso", "category":"top", "security":"b93c3b7367aa9b3b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corsé",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11898, "colors":["golden","red"]},
+            {"id":11899, "colors":["silver","blue"]},
+            {"id":11900, "colors":["golden","green"]},
+            {"id":11901, "colors":["silver","purple"]},
+            {"id":11902, "colors":["golden","blue"]},
+            {"id":11903, "colors":["golden","pink"]},
+            {"id":11904, "colors":["golden","brown"]},
+            {"id":11905, "colors":["golden","black"]},
+            {"id":11906, "colors":["silver","white"]},
+            {"id":11907, "colors":["silver","yellow"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11908, "zone":"torso_waistToKnee", "category":"waist", "security":"7283daa787138cb0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cola",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11908, "colors":["red"]},
+            {"id":11909, "colors":["blue"]},
+            {"id":11910, "colors":["green"]},
+            {"id":11911, "colors":["purple"]},
+            {"id":11912, "colors":["blue"]},
+            {"id":11913, "colors":["pink"]},
+            {"id":11914, "colors":["brown"]},
+            {"id":11915, "colors":["black"]},
+            {"id":11916, "colors":["white"]},
+            {"id":11917, "colors":["yellow"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11918, "zone":"face", "category":"neckAccessory", "security":"c78a8875796ba623", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11918, "colors":["golden","red"]},
+            {"id":11919, "colors":["silver","blue"]},
+            {"id":11920, "colors":["golden","green"]},
+            {"id":11921, "colors":["silver","purple"]},
+            {"id":11922, "colors":["golden","blue"]},
+            {"id":11923, "colors":["golden","pink"]},
+            {"id":11924, "colors":["golden","brown"]},
+            {"id":11925, "colors":["golden","black"]},
+            {"id":11926, "colors":["silver","white"]},
+            {"id":11927, "colors":["silver","yellow"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11928, "zone":"head", "category":"wig", "security":"ed2a90035886fa49", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11928, "colors":["brown"]},
+            {"id":11929, "colors":["white"]},
+            {"id":11930, "colors":["black"]},
+            {"id":11931, "colors":["blue"]},
+            {"id":11932, "colors":["blue"]},
+            {"id":11933, "colors":["purple"]},
+            {"id":11934, "colors":["red"]},
+            {"id":11935, "colors":["yellow"]},
+            {"id":11936, "colors":["orange"]},
+            {"id":11937, "colors":["pink"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11938, "zone":"torso", "category":"jacket", "security":"80c716c5a58c0a05", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Plumas",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11938, "colors":["red"]},
+            {"id":11939, "colors":["blue"]},
+            {"id":11940, "colors":["green"]},
+            {"id":11941, "colors":["purple"]},
+            {"id":11942, "colors":["blue"]},
+            {"id":11943, "colors":["pink"]},
+            {"id":11944, "colors":["brown"]},
+            {"id":11945, "colors":["black"]},
+            {"id":11946, "colors":["white"]},
+            {"id":11947, "colors":["yellow"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11948, "zone":"head", "category":"hat", "security":"a1081db8693c39da", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tocado",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11948, "colors":["golden","red"]},
+            {"id":11949, "colors":["silver","blue"]},
+            {"id":11950, "colors":["golden","green"]},
+            {"id":11951, "colors":["silver","purple"]},
+            {"id":11952, "colors":["golden","blue"]},
+            {"id":11953, "colors":["golden","pink"]},
+            {"id":11954, "colors":["golden","brown"]},
+            {"id":11955, "colors":["golden","black"]},
+            {"id":11956, "colors":["white","silver"]},
+            {"id":11957, "colors":["yellow","silver"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11958, "zone":"feet", "category":"shoes", "security":"280faa9964ce573c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11958, "colors":["brown","golden"]},
+            {"id":11959, "colors":["black","grey"]},
+            {"id":11960, "colors":["blue","yellow"]},
+            {"id":11961, "colors":["white","blue"]},
+            {"id":11962, "colors":["brown","green"]},
+            {"id":11963, "colors":["green"]},
+            {"id":11964, "colors":["red","black"]},
+            {"id":11965, "colors":["pink"]},
+            {"id":11966, "colors":["purple","pink"]},
+            {"id":11967, "colors":["brown","green"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11968, "zone":"waistToKnee", "category":"skirt", "security":"8fe03443caad8094", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11968, "colors":["white"]},
+            {"id":11969, "colors":["black"]},
+            {"id":11970, "colors":["yellow"]},
+            {"id":11971, "colors":["pink"]},
+            {"id":11972, "colors":["green"]},
+            {"id":11973, "colors":["blue"]},
+            {"id":11974, "colors":["red"]},
+            {"id":11975, "colors":["blue"]},
+            {"id":11976, "colors":["purple"]},
+            {"id":11977, "colors":["brown"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11978, "zone":"arms", "category":"armAccessory", "security":"f1126a2a16d69c8b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulseras",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11978, "colors":["golden","blue"]},
+            {"id":11979, "colors":["silver","red"]},
+            {"id":11980, "colors":["blue","golden"]},
+            {"id":11981, "colors":["white","purple"]},
+            {"id":11982, "colors":["black","orange"]},
+            {"id":11983, "colors":["green","white"]},
+            {"id":11984, "colors":["brown","black"]},
+            {"id":11985, "colors":["pink","yellow"]},
+            {"id":11986, "colors":["purple","pink"]},
+            {"id":11987, "colors":["orange","green"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11988, "zone":"torso", "category":"top", "security":"e5fef9d653465441", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11988, "colors":["white"]},
+            {"id":11989, "colors":["black"]},
+            {"id":11990, "colors":["yellow"]},
+            {"id":11991, "colors":["pink"]},
+            {"id":11992, "colors":["green"]},
+            {"id":11993, "colors":["blue"]},
+            {"id":11994, "colors":["red"]},
+            {"id":11995, "colors":["blue"]},
+            {"id":11996, "colors":["purple"]},
+            {"id":11997, "colors":["brown"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11998, "zone":"torso", "category":"jacket", "security":"c730448403571972", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Velo",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11998, "colors":["blue"]},
+            {"id":11999, "colors":["red"]},
+            {"id":12000, "colors":["blue"]},
+            {"id":12001, "colors":["purple"]},
+            {"id":12002, "colors":["brown"]},
+            {"id":12003, "colors":["white"]},
+            {"id":12004, "colors":["black"]},
+            {"id":12005, "colors":["yellow"]},
+            {"id":12006, "colors":["pink"]},
+            {"id":12007, "colors":["green"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12008, "zone":"torso_waistToKnee", "category":"waist", "security":"e05dd3454a6f9b20", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12008, "colors":["golden","blue"]},
+            {"id":12009, "colors":["silver","red"]},
+            {"id":12010, "colors":["blue","golden"]},
+            {"id":12011, "colors":["white","purple"]},
+            {"id":12012, "colors":["black","orange"]},
+            {"id":12013, "colors":["green","white"]},
+            {"id":12014, "colors":["brown","black"]},
+            {"id":12015, "colors":["pink","yellow"]},
+            {"id":12016, "colors":["purple","pink"]},
+            {"id":12017, "colors":["orange","green"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12018, "zone":"face", "category":"neckAccessory", "security":"d0f110e8c7fe874c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12018, "colors":["golden","blue"]},
+            {"id":12019, "colors":["silver","red"]},
+            {"id":12020, "colors":["blue","golden"]},
+            {"id":12021, "colors":["white","purple"]},
+            {"id":12022, "colors":["black","orange"]},
+            {"id":12023, "colors":["green","white"]},
+            {"id":12024, "colors":["brown","black"]},
+            {"id":12025, "colors":["pink","yellow"]},
+            {"id":12026, "colors":["purple","pink"]},
+            {"id":12027, "colors":["orange","green"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12028, "zone":"head", "category":"earring", "security":"e6eb096e53ded3be", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12028, "colors":["golden","blue"]},
+            {"id":12029, "colors":["silver","black"]},
+            {"id":12030, "colors":["golden","orange"]},
+            {"id":12031, "colors":["white","pink"]},
+            {"id":12032, "colors":["black","green"]},
+            {"id":12033, "colors":["green","blue"]},
+            {"id":12034, "colors":["brown","red"]},
+            {"id":12035, "colors":["blue","pink"]},
+            {"id":12036, "colors":["purple","pink"]},
+            {"id":12037, "colors":["orange","brown"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12038, "zone":"head", "category":"wig", "security":"381548a82deafbfb", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12038, "colors":["brown"]},
+            {"id":12039, "colors":["white"]},
+            {"id":12040, "colors":["black"]},
+            {"id":12041, "colors":["blue"]},
+            {"id":12042, "colors":["blue"]},
+            {"id":12043, "colors":["purple"]},
+            {"id":12044, "colors":["red"]},
+            {"id":12045, "colors":["yellow"]},
+            {"id":12046, "colors":["orange"]},
+            {"id":12047, "colors":["pink"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12048, "zone":"head", "category":"hat", "security":"bcddcacc720d70b1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tocado",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12048, "colors":["golden","blue"]},
+            {"id":12049, "colors":["silver","red"]},
+            {"id":12050, "colors":["blue","golden"]},
+            {"id":12051, "colors":["white","purple"]},
+            {"id":12052, "colors":["black","orange"]},
+            {"id":12053, "colors":["green","white"]},
+            {"id":12054, "colors":["brown","black"]},
+            {"id":12055, "colors":["pink","yellow"]},
+            {"id":12056, "colors":["purple","pink"]},
+            {"id":12057, "colors":["orange","green"]}
+        ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
+        "releaseDate":"2025-12-08"
     }
 ]

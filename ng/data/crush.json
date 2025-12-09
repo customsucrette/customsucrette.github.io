@@ -80,6 +80,8 @@
 
     {"id":167, "crushName":"Jason", "security":"979f61a914168129"},
 
+    {"id":175, "crushName":"Jason", "security":"e42017098f5f33ea", "info":"Jason_SickWhiteShirt"},
+
     {"id":177, "crushName":"Jason", "security":"baed41c1aa466e8f"},
     {"id":178, "crushName":"Jason", "security":"e2c0e2fa59dc6612"},
 
@@ -114,5 +116,16 @@
     {"id":262, "crushName":"Amanda", "security":"061db86d1a132faf"},
     {"id":263, "crushName":"Devon", "security":"c3c2687ccae16373"},
     {"id":264, "crushName":"Thomas", "security":"09d1547afedc55f6"},
-    {"id":265, "crushName":"Jason", "security":"c876953a6c41c909"}
+    {"id":265, "crushName":"Jason", "security":"c876953a6c41c909"},
+    
+    {"id":313, "crushName":"Roy", "security":"36a77b655d487b82", "info":"Roy_Festival"},
+
+    {"id":315, "crushName":"Amanda", "security":"c9520c01240974fe", "info":"Amanda_Festival"},
+
+    {"id":318, "crushName":"Devon", "security":"50af81bf0de6059c", "info":"Devon_Festival"},
+
+    {"id":321, "crushName":"Thomas", "security":"791027df47e352fb", "info":"Thomas_Festival"},
+
+    {"id":325, "crushName":"Jason", "security":"ca05207bd941e636", "info":"Jason_Festival"},
+    {"id":326, "crushName":"Jason", "security":"8025efc21978ac5e", "info":"Jason_FestivalWet"}
 ]

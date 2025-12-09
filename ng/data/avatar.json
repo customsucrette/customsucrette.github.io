@@ -499,6 +499,24 @@
                     {"id":226, "colors":["blue"]}
                 ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
                 "releaseDate":"2025-11-28"
+            },
+            {
+                "groupId":227, "zone":"face", "category":"eyes", "security":"cf8a41b6bcd5128f",
+                "name":"Ojos",
+                "outfitName":"Muse du Moulin Rouge",
+                "variations":[
+                    {"id":227, "colors":["red"]},
+                    {"id":228, "colors":["blue"]},
+                    {"id":229, "colors":["green"]},
+                    {"id":230, "colors":["purple"]},
+                    {"id":231, "colors":["blue"]},
+                    {"id":232, "colors":["pink"]},
+                    {"id":233, "colors":["brown"]},
+                    {"id":234, "colors":["black"]},
+                    {"id":235, "colors":["white"]},
+                    {"id":236, "colors":["yellow"]}
+                ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
+                "releaseDate":"2025-12-08"
             }
         ],
         "mouth":[
