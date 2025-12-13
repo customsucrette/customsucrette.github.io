@@ -21119,5 +21119,149 @@
             {"id":12057, "colors":["orange","green"]}
         ], "criteria":{"type":"loyaltyPack", "info":"Veil of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"},
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12058, "zone":"arms", "category":"bag", "security":"abc0508eaecb3bd4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hoverboard",
+        "outfitName":"X-MASv.025 TechSuit",
+        "variations":[
+            {"id":12058, "colors":["red"]},
+            {"id":12059, "colors":["pink"]},
+            {"id":12060, "colors":["blue"]},
+            {"id":12061, "colors":["yellow"]},
+            {"id":12062, "colors":["purple"]},
+            {"id":12063, "colors":["green"]},
+            {"id":12064, "colors":["black"]},
+            {"id":12065, "colors":["white"]},
+            {"id":12066, "colors":["brown"]},
+            {"id":12067, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-12"
+    },
+    {
+        "groupId":12068, "zone":"face", "category":"makeup", "security":"5f2d102aac318684", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Colorete",
+        "outfitName":"X-MASv.025 TechSuit",
+        "variations":[
+            {"id":12068, "colors":["red"]},
+            {"id":12069, "colors":["pink"]},
+            {"id":12070, "colors":["blue"]},
+            {"id":12071, "colors":["yellow"]},
+            {"id":12072, "colors":["purple"]},
+            {"id":12073, "colors":["green"]},
+            {"id":12074, "colors":["black"]},
+            {"id":12075, "colors":["white"]},
+            {"id":12076, "colors":["brown"]},
+            {"id":12077, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-12"
+    },
+    {
+        "groupId":12078, "zone":"torso_waistToKnee", "category":"dress", "security":"d5a93fe19d89b819", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mono",
+        "outfitName":"X-MASv.025 TechSuit",
+        "variations":[
+            {"id":12078, "colors":["red"]},
+            {"id":12079, "colors":["pink"]},
+            {"id":12080, "colors":["blue"]},
+            {"id":12081, "colors":["yellow"]},
+            {"id":12082, "colors":["purple"]},
+            {"id":12083, "colors":["green"]},
+            {"id":12084, "colors":["black"]},
+            {"id":12085, "colors":["white"]},
+            {"id":12086, "colors":["brown"]},
+            {"id":12087, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-12"
+    },
+    {
+        "groupId":12088, "zone":"feet", "category":"shoes", "security":"d6e9cc401f84d254", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"X-MASv.025 TechSuit",
+        "variations":[
+            {"id":12088, "colors":["red"]},
+            {"id":12089, "colors":["pink"]},
+            {"id":12090, "colors":["blue"]},
+            {"id":12091, "colors":["yellow"]},
+            {"id":12092, "colors":["purple"]},
+            {"id":12093, "colors":["green"]},
+            {"id":12094, "colors":["black"]},
+            {"id":12095, "colors":["white"]},
+            {"id":12096, "colors":["brown"]},
+            {"id":12097, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-12"
+    },
+    {
+        "groupId":12098, "zone":"general", "category":"other", "security":"dbcb6a7e3d0d637c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Robot",
+        "outfitName":"X-MASv.025 TechSuit",
+        "variations":[
+            {"id":12098, "colors":["red","white"]},
+            {"id":12099, "colors":["pink","white"]},
+            {"id":12100, "colors":["blue","red"]},
+            {"id":12101, "colors":["yellow"]},
+            {"id":12102, "colors":["blue","purple"]},
+            {"id":12103, "colors":["blue","green"]},
+            {"id":12104, "colors":["black"]},
+            {"id":12105, "colors":["white"]},
+            {"id":12106, "colors":["brown"]},
+            {"id":12107, "colors":["blue","green"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-12"
+    },
+    {
+        "groupId":12108, "zone":"torso_waistToKnee", "category":"waist", "security":"9fa3d155770c1d95", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Arnés",
+        "outfitName":"X-MASv.025 TechSuit",
+        "variations":[
+            {"id":12108, "colors":["black"]},
+            {"id":12109, "colors":["grey"]},
+            {"id":12110, "colors":["green"]},
+            {"id":12111, "colors":["brown"]},
+            {"id":12112, "colors":["blue"]},
+            {"id":12113, "colors":["yellow"]},
+            {"id":12114, "colors":["red"]},
+            {"id":12115, "colors":["pink"]},
+            {"id":12116, "colors":["purple"]},
+            {"id":12117, "colors":["white"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-12"
+    },
+    {
+        "groupId":12118, "zone":"torso", "category":"jacket", "security":"f3b5d28d2f43bacc", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Chaqueta",
+        "outfitName":"X-MASv.025 TechSuit",
+        "variations":[
+            {"id":12118, "colors":["red"]},
+            {"id":12119, "colors":["pink"]},
+            {"id":12120, "colors":["blue"]},
+            {"id":12121, "colors":["yellow"]},
+            {"id":12122, "colors":["purple"]},
+            {"id":12123, "colors":["green"]},
+            {"id":12124, "colors":["black"]},
+            {"id":12125, "colors":["white"]},
+            {"id":12126, "colors":["brown"]},
+            {"id":12127, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-12"
+    },
+    {
+        "groupId":12128, "zone":"head", "category":"faceAccessory", "security":"fd95d7d69e8875fe", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Casco",
+        "outfitName":"X-MASv.025 TechSuit",
+        "variations":[
+            {"id":12128, "colors":["red"]},
+            {"id":12129, "colors":["pink"]},
+            {"id":12130, "colors":["blue"]},
+            {"id":12131, "colors":["yellow"]},
+            {"id":12132, "colors":["purple"]},
+            {"id":12133, "colors":["green"]},
+            {"id":12134, "colors":["black"]},
+            {"id":12135, "colors":["white"]},
+            {"id":12136, "colors":["brown"]},
+            {"id":12137, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-12"
     }
 ]
