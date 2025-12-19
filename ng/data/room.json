@@ -3131,5 +3131,86 @@
         "name":"Estatua",
         "roomName":"Chambers of the Scarab",
         "criteria":{"type":"loyaltyPack", "info":"Chambers of the Scarab", "text":"Desbloqueado en la tienda exclusiva VIP"}
+    },
+
+    {
+        "id":493, "roomId":102, "slot":"background", "releaseDate":"2025-12-19", "light":true, "security":"48ec4450bc64aa61",
+        "name":"Paredes",
+        "roomName":"Christmas Spirit",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"D6CCC8","colorLight":"69360E"},
+            "night":{"color1":"90BAE2","color2":"7893CF","colorLight":"1B5A8B"}
+        }
+    },
+    {
+        "id":494, "roomId":102, "slot":"slot1", "releaseDate":"2025-12-19", "light":true, "security":"6a3a44b9f17389e3",
+        "name":"Escalera",
+        "roomName":"Christmas Spirit",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"}
+    },
+    {
+        "id":495, "roomId":102, "slot":"slot2", "releaseDate":"2025-12-19", "light":true, "security":"724c4f7ba06b5a77",
+        "name":"Sofá",
+        "roomName":"Christmas Spirit",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"}
+    },
+    {
+        "id":496, "roomId":102, "slot":"slot3", "releaseDate":"2025-12-19", "light":false, "security":"b77f5884e5b1cfc7",
+        "name":"Cachorro y regalos",
+        "roomName":"Christmas Spirit",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"}
+    },
+    {
+        "id":497, "roomId":102, "slot":"slot4", "releaseDate":"2025-12-19", "light":false, "security":"6b0b2f6c4752457a",
+        "name":"Perchero",
+        "roomName":"Christmas Spirit",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"}
+    },
+    {
+        "id":498, "roomId":102, "slot":"slot5", "releaseDate":"2025-12-19", "light":false, "security":"a5a8158a278aeffd",
+        "name":"Mesa",
+        "roomName":"Christmas Spirit",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"}
+    },
+    {
+        "id":499, "roomId":103, "slot":"background", "releaseDate":"2025-12-19", "light":true, "security":"3fb976a234ef8b5d",
+        "name":"Entorno",
+        "roomName":"Frostkissed Woods",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"A6BDCF","colorLight":"12556D"},
+            "night":{"color1":"80C9FC","color2":"74ADDE","colorLight":"2689A9"}
+        }
+    },
+    {
+        "id":500, "roomId":103, "slot":"slot1", "releaseDate":"2025-12-19", "light":false, "security":"659e6a5879dc81ff",
+        "name":"Ardilla",
+        "roomName":"Frostkissed Woods",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"}
+    },
+    {
+        "id":501, "roomId":103, "slot":"slot2", "releaseDate":"2025-12-19", "light":true, "security":"86b91dfcea10a544",
+        "name":"Cama",
+        "roomName":"Frostkissed Woods",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"}
+    },
+    {
+        "id":502, "roomId":103, "slot":"slot3", "releaseDate":"2025-12-19", "light":false, "security":"2731ce88fc99d139",
+        "name":"Petirrojo",
+        "roomName":"Frostkissed Woods",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"}
+    },
+    {
+        "id":503, "roomId":103, "slot":"slot4", "releaseDate":"2025-12-19", "light":false, "security":"430b8fcdd745db9d",
+        "name":"Muñeco de nieve",
+        "roomName":"Frostkissed Woods",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"}
+    },
+    {
+        "id":504, "roomId":103, "slot":"slot5", "releaseDate":"2025-12-19", "light":false, "security":"ed6ead5ef3fd9d7d",
+        "name":"Vegetación congelada",
+        "roomName":"Frostkissed Woods",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"}
     }
 ]

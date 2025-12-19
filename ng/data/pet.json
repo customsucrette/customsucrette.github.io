@@ -318,5 +318,9 @@
     {
         "id":81, "security":"258313b0934c4a10", "releaseDate":"2025-12-12", "name":"X-MASv.025 TechGoose",
         "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"}
+    },
+    {
+        "id":82, "security":"68b40b2ec856c2ae", "releaseDate":"2025-12-19", "name":"Goose-icle",
+        "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"}
     }
 ]

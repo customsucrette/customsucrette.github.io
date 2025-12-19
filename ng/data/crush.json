@@ -127,5 +127,12 @@
     {"id":321, "crushName":"Thomas", "security":"791027df47e352fb", "info":"Thomas_Festival"},
 
     {"id":325, "crushName":"Jason", "security":"ca05207bd941e636", "info":"Jason_Festival"},
-    {"id":326, "crushName":"Jason", "security":"8025efc21978ac5e", "info":"Jason_FestivalWet"}
+    {"id":326, "crushName":"Jason", "security":"8025efc21978ac5e", "info":"Jason_FestivalWet"},
+
+    {"id":336, "crushName":"Amanda", "security":"dcbed7cc49f2e4bf", "info":"Amanda_Christmas2025"},
+    {"id":337, "crushName":"Devon", "security":"486ece3da678a6a7", "info":"Devon_Christmas2025"},
+    {"id":338, "crushName":"Jason", "security":"6c8ead605ab93da9", "info":"Jason_Christmas2025"},
+
+    {"id":340, "crushName":"Thomas", "security":"96b829d9d825f469", "info":"Thomas_Christmas2025"},
+    {"id":341, "crushName":"Roy", "security":"af63c74ebc2cb694", "info":"Roy_Christmas2025"}
 ]

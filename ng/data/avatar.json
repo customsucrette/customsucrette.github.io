@@ -63,8 +63,25 @@
                     {"id":16, "colors":["red"]}
                 ], "criteria":{"type":"pack", "info":"Alien Ambassador", "text":"Desbloqueado en el Pack exclusivo\nAlien Ambassador"},
                 "releaseDate":"2024-11-14"
+            },
+            {
+                "groupId":17, "zone":"head", "category":"eyebrows", "security":"0aab0e77209841ab",
+                "name":"Cejas",
+                "outfitName":"Frost's Harbinger",
+                "variations":[
+                    {"id":17, "colors":["blue","white"]},
+                    {"id":20, "colors":["purple","white"]},
+                    {"id":21, "colors":["purple","white"]},
+                    {"id":22, "colors":["red","white"]},
+                    {"id":23, "colors":["pink","white"]},
+                    {"id":24, "colors":["green","white"]},
+                    {"id":25, "colors":["blue","white"]},
+                    {"id":26, "colors":["blue","white"]},
+                    {"id":27, "colors":["white"]},
+                    {"id":28, "colors":["grey","white"]}
+                ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+                "releaseDate":"2025-12-19"
             }
-        
         ],
         "eyes":[
             {
@@ -91,7 +108,7 @@
                     {"id":9, "colors":["white"]},
                     {"id":10, "colors":["red"]},
                     {"id":11, "colors":["green"]}
-                ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"},
+                ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo\nPlastic Life"},
                 "releaseDate":"2024-04-17"
             },
             {
@@ -517,6 +534,24 @@
                     {"id":236, "colors":["yellow"]}
                 ], "criteria":{"type":"loyaltyPack", "info":"Muse du Moulin Rouge", "text":"Desbloqueado en la tienda exclusiva VIP"},
                 "releaseDate":"2025-12-08"
+            },
+            {
+                "groupId":237, "zone":"face", "category":"eyes", "security":"c63aed5157f7b07d",
+                "name":"Ojos",
+                "outfitName":"Frost's Harbinger",
+                "variations":[
+                    {"id":237, "colors":["blue"]},
+                    {"id":238, "colors":["purple"]},
+                    {"id":239, "colors":["purple"]},
+                    {"id":240, "colors":["brown"]},
+                    {"id":241, "colors":["brown"]},
+                    {"id":242, "colors":["green"]},
+                    {"id":243, "colors":["blue"]},
+                    {"id":244, "colors":["blue"]},
+                    {"id":245, "colors":["white"]},
+                    {"id":246, "colors":["black"]}
+                ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+                "releaseDate":"2025-12-19"
             }
         ],
         "mouth":[
@@ -551,7 +586,7 @@
                     {"id":48, "colors":["white"]},
                     {"id":49, "colors":["red"]},
                     {"id":50, "colors":["green"]}
-                ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo \n Plastic Life"},
+                ], "criteria":{"type":"pack", "info":"Plastic Life", "text":"Desbloqueado en el Pack exclusivo\nPlastic Life"},
                 "releaseDate":"2024-04-17"
             },
             {
@@ -788,6 +823,24 @@
                     {"id":180, "colors":["brown"]}
                 ], "criteria":{"type":"gameEvent", "info":"halloween-2025", "text":"Desbloqueado en el Pack exclusivo\nThe Banished Bride (Halloween 2025)"},
                 "releaseDate":"2025-10-28"
+            },
+            {
+                "groupId":181, "zone":"face", "category":"mouth", "security":"05ac3612d770f595",
+                "name":"Boca",
+                "outfitName":"Frost's Harbinger",
+                "variations":[
+                    {"id":181, "colors":["blue"]},
+                    {"id":182, "colors":["purple"]},
+                    {"id":183, "colors":["brown"]},
+                    {"id":184, "colors":["brown"]},
+                    {"id":185, "colors":["brown"]},
+                    {"id":186, "colors":["green"]},
+                    {"id":187, "colors":["blue","purple"]},
+                    {"id":188, "colors":["blue"]},
+                    {"id":189, "colors":["white"]},
+                    {"id":190, "colors":["black"]}
+                ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+                "releaseDate":"2025-12-19"
             }
         ]
     },

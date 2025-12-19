@@ -21263,5 +21263,464 @@
             {"id":12137, "colors":["blue"]}
         ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
         "releaseDate":"2025-12-12"
+    },
+    {
+        "groupId":12138, "zone":"feet", "category":"shoes", "security":"d2c700b7dc98c424", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Snuggly Celebration",
+        "variations":[
+            {"id":12138, "colors":["red"]},
+            {"id":12139, "colors":["yellow"]},
+            {"id":12140, "colors":["grey"]},
+            {"id":12141, "colors":["black"]},
+            {"id":12142, "colors":["green"]},
+            {"id":12143, "colors":["blue"]},
+            {"id":12144, "colors":["purple"]},
+            {"id":12145, "colors":["white"]},
+            {"id":12146, "colors":["brown"]},
+            {"id":12147, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12148, "zone":"torso", "category":"jacket", "security":"500d665aa4f27986", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rebeca",
+        "outfitName":"Snuggly Celebration",
+        "variations":[
+            {"id":12148, "colors":["white","red"]},
+            {"id":12149, "colors":["blue","red"]},
+            {"id":12150, "colors":["green","red"]},
+            {"id":12151, "colors":["blue","red"]},
+            {"id":12152, "colors":["red"]},
+            {"id":12153, "colors":["brown","red"]},
+            {"id":12154, "colors":["black","red"]},
+            {"id":12155, "colors":["brown","red"]},
+            {"id":12156, "colors":["red","yellow"]},
+            {"id":12157, "colors":["purple","red"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12158, "zone":"waistToKnee", "category":"pants", "security":"3b67f0bd5c247ac1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Snuggly Celebration",
+        "variations":[
+            {"id":12158, "colors":["red"]},
+            {"id":12159, "colors":["yellow"]},
+            {"id":12160, "colors":["grey"]},
+            {"id":12161, "colors":["black"]},
+            {"id":12162, "colors":["green"]},
+            {"id":12163, "colors":["blue"]},
+            {"id":12164, "colors":["purple"]},
+            {"id":12165, "colors":["white","black"]},
+            {"id":12166, "colors":["brown"]},
+            {"id":12167, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12168, "zone":"head", "category":"wig", "security":"4fe4855ef114343c", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Snuggly Celebration",
+        "variations":[
+            {"id":12168, "colors":["brown"]},
+            {"id":12169, "colors":["white"]},
+            {"id":12170, "colors":["black"]},
+            {"id":12171, "colors":["blue"]},
+            {"id":12172, "colors":["blue"]},
+            {"id":12173, "colors":["purple"]},
+            {"id":12174, "colors":["red"]},
+            {"id":12175, "colors":["yellow"]},
+            {"id":12176, "colors":["orange"]},
+            {"id":12177, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12178, "zone":"head", "category":"hat", "security":"78d3d227c58f68a3", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Gorro",
+        "outfitName":"Snuggly Celebration",
+        "variations":[
+            {"id":12178, "colors":["red"]},
+            {"id":12179, "colors":["yellow"]},
+            {"id":12180, "colors":["grey"]},
+            {"id":12181, "colors":["black"]},
+            {"id":12182, "colors":["green"]},
+            {"id":12183, "colors":["blue"]},
+            {"id":12184, "colors":["purple"]},
+            {"id":12185, "colors":["white"]},
+            {"id":12186, "colors":["brown"]},
+            {"id":12187, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12188, "zone":"arms", "category":"bag", "security":"dcb0151eba7249d6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vaso",
+        "outfitName":"Snuggly Celebration",
+        "variations":[
+            {"id":12188, "colors":["red","white"]},
+            {"id":12189, "colors":["yellow","white"]},
+            {"id":12190, "colors":["grey","white"]},
+            {"id":12191, "colors":["black","white"]},
+            {"id":12192, "colors":["green","white"]},
+            {"id":12193, "colors":["blue","white"]},
+            {"id":12194, "colors":["purple","white"]},
+            {"id":12195, "colors":["white"]},
+            {"id":12196, "colors":["brown","white"]},
+            {"id":12197, "colors":["blue","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12198, "zone":"feet", "category":"socks", "security":"654a4b3bf17f2b0a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Gilded Merriment",
+        "variations":[
+            {"id":12198, "colors":["black","silver"]},
+            {"id":12199, "colors":["black","golden","yellow"]},
+            {"id":12200, "colors":["black","green"]},
+            {"id":12201, "colors":["black","white"]},
+            {"id":12202, "colors":["black","blue"]},
+            {"id":12203, "colors":["black","red"]},
+            {"id":12204, "colors":["black","orange"]},
+            {"id":12205, "colors":["black","pink"]},
+            {"id":12206, "colors":["black","purple"]},
+            {"id":12207, "colors":["black","blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12208, "zone":"feet", "category":"shoes", "security":"11d41bbb401ffe84", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Gilded Merriment",
+        "variations":[
+            {"id":12208, "colors":["blue","silver"]},
+            {"id":12209, "colors":["red","golden"]},
+            {"id":12210, "colors":["golden","green"]},
+            {"id":12211, "colors":["white","silver"]},
+            {"id":12212, "colors":["black","silver"]},
+            {"id":12213, "colors":["yellow","silver"]},
+            {"id":12214, "colors":["brown","golden"]},
+            {"id":12215, "colors":["pink","golden"]},
+            {"id":12216, "colors":["purple","golden"]},
+            {"id":12217, "colors":["blue","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12218, "zone":"torso", "category":"top", "security":"012f5243ce363adc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jersey",
+        "outfitName":"Gilded Merriment",
+        "variations":[
+            {"id":12218, "colors":["blue"]},
+            {"id":12219, "colors":["red"]},
+            {"id":12220, "colors":["green"]},
+            {"id":12221, "colors":["white"]},
+            {"id":12222, "colors":["black"]},
+            {"id":12223, "colors":["yellow"]},
+            {"id":12224, "colors":["brown"]},
+            {"id":12225, "colors":["pink"]},
+            {"id":12226, "colors":["purple"]},
+            {"id":12227, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12228, "zone":"waistToKnee", "category":"skirt", "security":"d3160a3ade8d93ac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Gilded Merriment",
+        "variations":[
+            {"id":12228, "colors":["white","purple","golden"]},
+            {"id":12229, "colors":["green","red","golden"]},
+            {"id":12230, "colors":["green","red","brown"]},
+            {"id":12231, "colors":["blue","silver","white"]},
+            {"id":12232, "colors":["grey","black","silver"]},
+            {"id":12233, "colors":["black","yellow"]},
+            {"id":12234, "colors":["red","brown"]},
+            {"id":12235, "colors":["pink","yellow","golden"]},
+            {"id":12236, "colors":["pink","purple"]},
+            {"id":12237, "colors":["purple","blue","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12238, "zone":"head", "category":"wig", "security":"9fd52157e301a871", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Gilded Merriment",
+        "variations":[
+            {"id":12238, "colors":["brown"]},
+            {"id":12239, "colors":["white"]},
+            {"id":12240, "colors":["black"]},
+            {"id":12241, "colors":["blue"]},
+            {"id":12242, "colors":["blue"]},
+            {"id":12243, "colors":["purple"]},
+            {"id":12244, "colors":["red"]},
+            {"id":12245, "colors":["yellow"]},
+            {"id":12246, "colors":["orange"]},
+            {"id":12247, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12248, "zone":"head", "category":"earring", "security":"50ca0a0965ff190f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Gilded Merriment",
+        "variations":[
+            {"id":12248, "colors":["silver","purple"]},
+            {"id":12249, "colors":["red","golden"]},
+            {"id":12250, "colors":["golden","green"]},
+            {"id":12251, "colors":["silver","grey"]},
+            {"id":12252, "colors":["silver","black"]},
+            {"id":12253, "colors":["yellow","silver"]},
+            {"id":12254, "colors":["golden","brown"]},
+            {"id":12255, "colors":["golden","pink"]},
+            {"id":12256, "colors":["golden","blue"]},
+            {"id":12257, "colors":["silver","blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12258, "zone":"head", "category":"hat", "security":"eb618b8998660ae2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Acebo",
+        "outfitName":"Gilded Merriment",
+        "variations":[
+            {"id":12258, "colors":["golden","purple"]},
+            {"id":12259, "colors":["golden","red"]},
+            {"id":12260, "colors":["green","red"]},
+            {"id":12261, "colors":["white","silver"]},
+            {"id":12262, "colors":["black","silver"]},
+            {"id":12263, "colors":["black","yellow"]},
+            {"id":12264, "colors":["red","brown"]},
+            {"id":12265, "colors":["pink","golden"]},
+            {"id":12266, "colors":["blue","purple"]},
+            {"id":12267, "colors":["blue","purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12268, "zone":"arms", "category":"bag", "security":"dc896b6ecac91eb3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetín",
+        "outfitName":"Gilded Merriment",
+        "variations":[
+            {"id":12268, "colors":["white","purple"]},
+            {"id":12269, "colors":["red","green"]},
+            {"id":12270, "colors":["green","brown"]},
+            {"id":12271, "colors":["white","blue"]},
+            {"id":12272, "colors":["black","grey"]},
+            {"id":12273, "colors":["yellow","black"]},
+            {"id":12274, "colors":["brown","red"]},
+            {"id":12275, "colors":["pink","yellow"]},
+            {"id":12276, "colors":["purple","pink"]},
+            {"id":12277, "colors":["purple","blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12278, "zone":"general", "category":"skin", "security":"9d419e5ff7d48eb1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piel",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12279, "colors":["blue","white"]},
+            {"id":12278, "colors":["blue","white"], "va riationNumber":2},
+            {"id":12280, "colors":["blue","white"], "va riationNumber":3},
+            {"id":12281, "colors":["blue","brown"], "va riationNumber":4},
+            {"id":12282, "colors":["blue","brown"], "va riationNumber":5},
+            {"id":12283, "colors":["blue","white","brown"], "va riationNumber":6},
+            {"id":12284, "colors":["blue","brown"], "va riationNumber":7},
+            {"id":12285, "colors":["blue"], "va riationNumber":8},
+            {"id":12286, "colors":["white"], "va riationNumber":9},
+            {"id":12287, "colors":["blue"], "va riationNumber":10}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12288, "zone":"general", "category":"other", "security":"77afce44d4990c5e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Alas",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12288, "colors":["blue"]},
+            {"id":12289, "colors":["green"]},
+            {"id":12290, "colors":["blue","green"]},
+            {"id":12291, "colors":["brown"]},
+            {"id":12292, "colors":["yellow"]},
+            {"id":12293, "colors":["black"]},
+            {"id":12294, "colors":["white"]},
+            {"id":12295, "colors":["red"]},
+            {"id":12296, "colors":["pink"]},
+            {"id":12297, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12298, "zone":"feet", "category":"footNailPolish", "security":"a1ec33268800a8e9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Garras",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12298, "colors":["white"]},
+            {"id":12299, "colors":["green"]},
+            {"id":12300, "colors":["green"]},
+            {"id":12301, "colors":["brown"]},
+            {"id":12302, "colors":["yellow"]},
+            {"id":12303, "colors":["black"]},
+            {"id":12304, "colors":["blue"]},
+            {"id":12305, "colors":["red"]},
+            {"id":12306, "colors":["pink"]},
+            {"id":12307, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12308, "zone":"arms", "category":"handNailPolish", "security":"01b8d290eb863451", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Garras",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12308, "colors":["white"]},
+            {"id":12309, "colors":["green"]},
+            {"id":12310, "colors":["green"]},
+            {"id":12311, "colors":["brown"]},
+            {"id":12312, "colors":["yellow"]},
+            {"id":12313, "colors":["black"]},
+            {"id":12314, "colors":["blue"]},
+            {"id":12315, "colors":["red"]},
+            {"id":12316, "colors":["pink"]},
+            {"id":12317, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12318, "zone":"torso_waistToKnee", "category":"underwear", "security":"afdf29dcaf6b1123", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12318, "colors":["blue"]},
+            {"id":12319, "colors":["green"]},
+            {"id":12320, "colors":["green"]},
+            {"id":12321, "colors":["brown"]},
+            {"id":12322, "colors":["orange","yellow"]},
+            {"id":12323, "colors":["black"]},
+            {"id":12324, "colors":["white"]},
+            {"id":12325, "colors":["red"]},
+            {"id":12326, "colors":["pink"]},
+            {"id":12327, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12328, "zone":"feet", "category":"shoes", "security":"5338cee9e38f3392", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Botas",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12328, "colors":["blue"]},
+            {"id":12329, "colors":["green"]},
+            {"id":12330, "colors":["green"]},
+            {"id":12331, "colors":["brown"]},
+            {"id":12332, "colors":["orange","yellow"]},
+            {"id":12333, "colors":["black"]},
+            {"id":12334, "colors":["white"]},
+            {"id":12335, "colors":["red"]},
+            {"id":12336, "colors":["pink"]},
+            {"id":12337, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12338, "zone":"torso_waistToKnee", "category":"waist", "security":"146a4d5079c065cd", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Cinturón",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12338, "colors":["blue"]},
+            {"id":12339, "colors":["green","pink"]},
+            {"id":12340, "colors":["green","yellow"]},
+            {"id":12341, "colors":["brown"]},
+            {"id":12342, "colors":["yellow","orange"]},
+            {"id":12343, "colors":["black"]},
+            {"id":12344, "colors":["white"]},
+            {"id":12345, "colors":["red"]},
+            {"id":12346, "colors":["pink"]},
+            {"id":12347, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12348, "zone":"torso", "category":"jacket", "security":"6055dd4ff53df9d0", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Cuello",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12348, "colors":["blue"]},
+            {"id":12349, "colors":["green","pink"]},
+            {"id":12350, "colors":["green","yellow"]},
+            {"id":12351, "colors":["brown"]},
+            {"id":12352, "colors":["orange","yellow"]},
+            {"id":12353, "colors":["black"]},
+            {"id":12354, "colors":["white"]},
+            {"id":12355, "colors":["red"]},
+            {"id":12356, "colors":["pink"]},
+            {"id":12357, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12358, "zone":"head", "category":"wig", "security":"a08c3bc66552a370", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12358, "colors":["brown"]},
+            {"id":12359, "colors":["white"]},
+            {"id":12360, "colors":["black"]},
+            {"id":12361, "colors":["blue"]},
+            {"id":12362, "colors":["blue"]},
+            {"id":12363, "colors":["purple"]},
+            {"id":12364, "colors":["red"]},
+            {"id":12365, "colors":["yellow"]},
+            {"id":12366, "colors":["orange"]},
+            {"id":12367, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12368, "zone":"head", "category":"hat", "security":"662705a0b3fcaf22", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12368, "colors":["brown"]},
+            {"id":12369, "colors":["brown","green","pink"]},
+            {"id":12370, "colors":["brown","green"]},
+            {"id":12371, "colors":["brown"]},
+            {"id":12372, "colors":["brown","yellow","red"]},
+            {"id":12373, "colors":["black","white"]},
+            {"id":12374, "colors":["white"]},
+            {"id":12375, "colors":["brown","red"]},
+            {"id":12376, "colors":["brown"]},
+            {"id":12377, "colors":["brown","purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12378, "zone":"general", "category":"other", "security":"ac7ab27887b80fcf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Muérdago",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12378, "colors":["green","brown"]},
+            {"id":12379, "colors":["green","pink"]},
+            {"id":12380, "colors":["green","yellow"]},
+            {"id":12381, "colors":["green","red"]},
+            {"id":12382, "colors":["brown","black"]},
+            {"id":12383, "colors":["blue","black"]},
+            {"id":12384, "colors":["white"]},
+            {"id":12385, "colors":["pink","red"]},
+            {"id":12386, "colors":["pink","brown"]},
+            {"id":12387, "colors":["green","black"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12388, "zone":"arms", "category":"bag", "security":"2d74c759e6374baa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Acorn Bag",
+        "outfitName":null,
+        "variations":[
+            {"id":12388, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-16"
     }
 ]
