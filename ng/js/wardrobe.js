@@ -23,6 +23,7 @@ $(document).ready(function() {
                         checkAndGetTempCode();
                         codeUpdate();
                         currentPage("wardrobe");
+                        fillRoomList();
                         // tempWM("load");
                     });
                 });
@@ -162,7 +163,7 @@ async function drawCategory(c = "top", declination = null) {
     
         } else {
             // Grouped list with open declinations
-            
+
             var d = cloth.filter(v => {return v.groupId == declination});
 
             if (c == "eyebrows" || c == "eyes" || c == "mouth") {
@@ -1775,8 +1776,33 @@ $(function () {
         } else {
             $(".asng-room-item .item-outline").removeClass("equipped");
         }
+
+        $(".room-name.active").removeClass("active");
     });
 
+    $(".room-options-container").on("click", ".room-name", async function() {
+        $(".room-name").removeClass("active");
+        $(this).addClass("active");
+
+        $("#loading-layout").addClass("room");
+
+        let roomId = parseInt($(this).attr("data-roomId"));
+        let roomItems = room.filter(v => {return v.roomId == roomId});
+
+        sucrette.room.slot1 = null;
+        sucrette.room.slot2 = null;
+        sucrette.room.slot3 = null;
+        sucrette.room.slot4 = null;
+        sucrette.room.slot5 = null;
+
+        for (r = 0; r < roomItems.length; r++) {
+            sucrette.room[roomItems[r].slot] =  `${roomItems[r].id}-${roomItems[r].security}`;
+        };
+        await drawRoomCanvas("load", true);
+        $("#loading-layout").removeClass("room");
+    });
+
+// PET
     $(".items-container").on("click", ".pet-option.visibility", function() {
         var s = $(this).attr("class").split(" ")[2];
         if (s == "on") {
@@ -2004,6 +2030,16 @@ function fillCounter() {
     sum = crush.length;
     $(".shortcut.crush p.counter").text(sum);
 }
+
+function fillRoomList() {
+    let bgList = room.filter(v => {return v.slot == "background"});
+    for (i = 0; i < bgList.length; i++) {
+        $(".room-options-container").prepend(`<div class="room-name" data-roomId="${bgList[i].roomId}">${bgList[i].roomName}</div>`);
+    };
+
+    $(".filter-by-room-name").attr("ss-container", true);
+    SimpleScrollbar.initAll();
+};
 
 function updateVWVH() {
     let vw = $(this).width() / 100;

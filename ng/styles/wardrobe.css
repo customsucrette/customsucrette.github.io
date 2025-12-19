@@ -1220,6 +1220,42 @@ asng-category-list, asng-crush-list {
     opacity: 0;
 }
 
+.filter-by-room-name {
+    border: solid 2px var(--asng-personality-color-dark);
+    border-radius: 20px;
+    height: 350px !important;
+    overflow: hidden;
+}
+
+.room-options-container {
+    position: relative;
+    left: 0;
+    width: 96%;
+    background: #fff;
+    border-radius: 20px;
+    padding: 5px;
+    z-index: 1;
+    max-height: 350px;
+}
+
+.filter-by-room-name .ss-scroll {
+    --scrollbar-thumb-color: var(--asng-personality-color-dark);
+    right: -267px !important;
+}
+
+.room-options-container .room-name {
+    padding: 10px 5px;
+    margin-right: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    text-align: left;
+    font-weight: 600;
+}
+.room-options-container .room-name:hover, .room-options-container .room-name.active {
+    background: var(--asng-personality-color-dark);
+    color: #fff;
+}
+
 .ng-scrollbar, .ss-scroll {
     --scrollbar-border-radius: 7px;
     --scrollbar-padding: 4px;
@@ -1895,7 +1931,7 @@ asng-cloth-list-panel .empty p {
 #asng-room-item-list-panel .room-items {
     height: 100%;
     width: 100%;
-    padding: 20px 20px 20px 80px;
+    padding: 60px 20px 20px 80px;
 }
 
 #asng-room-item-list-panel .room-items .item {
@@ -1907,6 +1943,17 @@ asng-cloth-list-panel .empty p {
     padding-left: 5px;
 }
 
+
+.beta:after {
+    content: "Beta";
+    font-size: 13px;
+    background-color: #b30022;
+    color: #fff;
+    padding: 2px 7px;
+    border-radius: 7px;
+    vertical-align: top;
+    margin-left: 2px;
+}
 
 /* PET MENU / CRUSH */
 #asng-pet-outfit-list-panel, #asng-crush-outfit-list-panel {
