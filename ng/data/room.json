@@ -3212,5 +3212,45 @@
         "name":"Vegetación congelada",
         "roomName":"Frostkissed Woods",
         "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"}
+    },
+    {
+        "id":505, "roomId":104, "slot":"background", "releaseDate":"2026-01-01", "light":true, "security":"0c5bd4fcbde25e01",
+        "name":"Paredes",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"},
+        "backgroundColors":{
+            "day":{"color1":"F5EDE5","color2":"E6D4C6","colorLight":"694725"},
+            "night":{"color1":"9983B4","color2":"7B94B4","colorLight":"4F0996"}
+        }
+    },
+    {
+        "id":506, "roomId":104, "slot":"slot1", "releaseDate":"2026-01-01", "light":true, "security":"6da21e6e8f72ca98",
+        "name":"Sillones",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
+    },
+    {
+        "id":507, "roomId":104, "slot":"slot2", "releaseDate":"2026-01-01", "light":true, "security":"5369d30f250f1f68",
+        "name":"Cama",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
+    },
+    {
+        "id":508, "roomId":104, "slot":"slot3", "releaseDate":"2026-01-01", "light":false, "security":"7775bcb383215ddb",
+        "name":"Mueble",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
+    },
+    {
+        "id":509, "roomId":104, "slot":"slot4", "releaseDate":"2026-01-01", "light":true, "security":"d723068765f0f1d8",
+        "name":"Escritorio",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
+    },
+    {
+        "id":510, "roomId":104, "slot":"slot5", "releaseDate":"2026-01-01", "light":false, "security":"9a477a479936517e",
+        "name":"Mesa baja",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
     }
 ]
