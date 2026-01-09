@@ -3252,5 +3252,45 @@
         "name":"Mesa baja",
         "roomName":"Rattan Neutrals",
         "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
+    },
+    {
+        "id":511, "roomId":105, "slot":"background", "releaseDate":"2026-01-07","light":true, "security":"c6d39dfe30c3d31a",
+        "name":"Paredes",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"EDD2BB","colorLight":"A95A17"},
+            "night":{"color1":"CFC0A3","color2":"6395E6","colorLight":"8F4D15"}
+        }
+    },
+    {
+        "id":512, "roomId":105, "slot":"slot1", "releaseDate":"2026-01-07","light":true, "security":"3464e6eb431079a8",
+        "name":"Mesa de dibujo",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
+    },
+    {
+        "id":513, "roomId":105, "slot":"slot2", "releaseDate":"2026-01-07","light":false, "security":"d8248c8bb37e6bc0",
+        "name":"Mesa de corte",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
+    },
+    {
+        "id":514, "roomId":105, "slot":"slot3", "releaseDate":"2026-01-07","light":false, "security":"6fb322a401f75e53",
+        "name":"Maniquí",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
+    },
+    {
+        "id":515, "roomId":105, "slot":"slot4", "releaseDate":"2026-01-07","light":true, "security":"b20da0c5382a8ced",
+        "name":"Peluquera",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
+    },
+    {
+        "id":516, "roomId":105, "slot":"slot5", "releaseDate":"2026-01-07","light":false, "security":"b4b9d440075c1d42",
+        "name":"Perchero",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
     }
 ]

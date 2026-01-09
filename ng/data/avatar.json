@@ -81,6 +81,15 @@
                     {"id":28, "colors":["grey","white"]}
                 ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
                 "releaseDate":"2025-12-19"
+            },
+            {
+                "groupId":29, "zone":"head", "category":"eyebrows", "security":"3abbe2f48c10c63e",
+                "name":"Cejas",
+                "outfitName":"Taki's Treasured Gift",
+                "variations":[
+                    {"id":29, "colors":["black"]}
+                ], "criteria":null,
+                "releaseDate":"2026-01-05"
             }
         ],
         "eyes":[
@@ -552,6 +561,42 @@
                     {"id":246, "colors":["black"]}
                 ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
                 "releaseDate":"2025-12-19"
+            },
+            {
+                "groupId":247, "zone":"face", "category":"eyes", "security":"529335033c662a37",
+                "name":"Ojos",
+                "outfitName":"Taki's Treasured Gift",
+                "variations":[
+                    {"id":247, "colors":["brown"]},
+                    {"id":248, "colors":["grey"]},
+                    {"id":249, "colors":["white"]},
+                    {"id":250, "colors":["black"]},
+                    {"id":251, "colors":["purple"]},
+                    {"id":252, "colors":["blue"]},
+                    {"id":253, "colors":["red"]},
+                    {"id":254, "colors":["pink"]},
+                    {"id":255, "colors":["yellow"]},
+                    {"id":256, "colors":["green"]}
+                ], "criteria":null,
+                "releaseDate":"2026-01-05"
+            },
+            {
+                "groupId":257, "zone":"face", "category":"eyes", "security":"34802d7f57df15f0",
+                "name":"Ojos",
+                "outfitName":"Feathers of Paradise",
+                "variations":[
+                    {"id":257, "colors":["blue","green"]},
+                    {"id":258, "colors":["red","yellow"]},
+                    {"id":259, "colors":["blue","orange"]},
+                    {"id":260, "colors":["white","yellow"]},
+                    {"id":261, "colors":["pink","purple"]},
+                    {"id":262, "colors":["black","blue"]},
+                    {"id":263, "colors":["orange","red"]},
+                    {"id":264, "colors":["blue","purple"]},
+                    {"id":265, "colors":["green","silver"]},
+                    {"id":266, "colors":["green","pink"]}
+                ], "criteria":{"type":"gauge","info":"Feathers of Paradise","text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"},
+                "releaseDate":"2026-01-07"
             }
         ],
         "mouth":[
@@ -841,6 +886,24 @@
                     {"id":190, "colors":["black"]}
                 ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
                 "releaseDate":"2025-12-19"
+            },
+            {
+                "groupId":191, "zone":"face", "category":"mouth", "security":"dc91668d0d0aaaf0",
+                "name":"Boca",
+                "outfitName":"Taki's Treasured Gift",
+                "variations":[
+                    {"id":191, "colors":["brown"]},
+                    {"id":192, "colors":["brown"]},
+                    {"id":193, "colors":["pink"]},
+                    {"id":194, "colors":["brown"]},
+                    {"id":195, "colors":["red"]},
+                    {"id":196, "colors":["purple"]},
+                    {"id":197, "colors":["brown"]},
+                    {"id":198, "colors":["pink"]},
+                    {"id":199, "colors":["red"]},
+                    {"id":200, "colors":["blue","white"]}
+                ], "criteria":null,
+                "releaseDate":"2026-01-05"
             }
         ]
     },
