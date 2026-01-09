@@ -117,8 +117,6 @@ async function drawCategory(c = "top", declination = null) {
             // General grouped list
     
             for (i = 0; i < lista.length; i++) {
-                if (lista[i].variations.length > 1) {
-
                     // check type(c) != "auto"
                     c = lista[i].category;
                     if (lista[i].category == "eyebrows" || lista[i].category == "eyes" || lista[i].category == "mouth") {
@@ -127,6 +125,7 @@ async function drawCategory(c = "top", declination = null) {
                         type = "cloth";
                     };
 
+                if (lista[i].variations.length > 1) {
                     $("#asng-avatar-item-list-panel .items-container").append(`<div class="asng-cloth grouped" data-category="${lista[i].category}" data-item="${lista[i].groupId}-${lista[i].variations[0].id}"></div>`);
                     $(".asng-cloth").eq(i)
                     .append('<img src="assets/personalization/hanger.png" class="hanger" />')
