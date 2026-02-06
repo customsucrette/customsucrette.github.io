@@ -137,7 +137,6 @@
     },
 
 
-
     {
         "groupId":82, "zone":"head", "category":"earring", "security":"eb61e77cd940c463", "multiLayered":false, "layerBehavior":"normal",
         "name":"Aros",
@@ -20378,8 +20377,97 @@
         ], "criteria":{"type":"pack", "info":"Jason's Vibe", "text":"Desbloqueado en el Pack exclusivo\nJason's Vibe"},
         "releaseDate":"2025-11-07"
     },
+    {
+        "groupId":11588, "zone":"general", "category":"tattoo", "security":"64a84c8707a2af38", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Plant Collector",
+        "variations":[
+            {"id":11588, "colors":["green"]},
+            {"id":11589, "colors":["pink"]},
+            {"id":11590, "colors":["purple"]},
+            {"id":11591, "colors":["brown"]},
+            {"id":11592, "colors":["black"]},
+            {"id":11593, "colors":["grey","silver"]},
+            {"id":11594, "colors":["brown","golden"]},
+            {"id":11595, "colors":["blue"]},
+            {"id":11596, "colors":["green"]},
+            {"id":11597, "colors":["white"]}
+        ], "criteria":{"type":"calendar", "info":"2026-23", "text":"Desbloqueado en el calendario\nN°23 - 2026"},
+        "releaseDate":"2026-01-31"
+    },
+    {
+        "groupId":11598, "zone":"feet", "category":"shoes", "security":"0485e9ff2e845cf2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pezuñas",
+        "outfitName":"Plant Collector",
+        "variations":[
+            {"id":11598, "colors":["yellow"]},
+            {"id":11599, "colors":["orange"]},
+            {"id":11600, "colors":["red"]},
+            {"id":11601, "colors":["white"]},
+            {"id":11602, "colors":["purple"]},
+            {"id":11603, "colors":["pink"]},
+            {"id":11604, "colors":["blue"]},
+            {"id":11605, "colors":["green"]},
+            {"id":11606, "colors":["grey"]},
+            {"id":11607, "colors":["black"]}
+        ], "criteria":{"type":"calendar", "info":"2026-23", "text":"Desbloqueado en el calendario\nN°23 - 2026"},
+        "releaseDate":"2026-01-31"
+    },
+    {
+        "groupId":11608, "zone":"torso", "category":"top", "security":"c45c280b600a808d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Plant Collector",
+        "variations":[
+            {"id":11608, "colors":["brown"]},
+            {"id":11609, "colors":["green"]},
+            {"id":11610, "colors":["grey"]},
+            {"id":11611, "colors":["purple"]},
+            {"id":11612, "colors":["pink"]},
+            {"id":11613, "colors":["blue"]},
+            {"id":11614, "colors":["white"]},
+            {"id":11615, "colors":["black"]},
+            {"id":11616, "colors":["red"]},
+            {"id":11617, "colors":["yellow"]}
+        ], "criteria":{"type":"calendar", "info":"2026-23", "text":"Desbloqueado en el calendario\nN°23 - 2026"},
+        "releaseDate":"2026-01-31"
+    },
+    {
+        "groupId":11618, "zone":"waistToKnee", "category":"pants", "security":"43cc5f29594bff48", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Plant Collector",
+        "variations":[
+            {"id":11618, "colors":["blue"]},
+            {"id":11619, "colors":["white"], "variationNumber":2},
+            {"id":11620, "colors":["black"], "variationNumber":3},
+            {"id":11623, "colors":["red"], "variationNumber":4},
+            {"id":11621, "colors":["blue"], "variationNumber":5},
+            {"id":11624, "colors":["purple"], "variationNumber":6},
+            {"id":11625, "colors":["green"], "variationNumber":7},
+            {"id":11626, "colors":["yellow"], "variationNumber":8},
+            {"id":11627, "colors":["pink"], "variationNumber":9},
+            {"id":11622, "colors":["grey"], "variationNumber":10}
+        ], "criteria":{"type":"calendar", "info":"2026-23", "text":"Desbloqueado en el calendario\nN°23 - 2026"},
+        "releaseDate":"2026-01-31"
+    },
 
-
+    {
+        "groupId":11638, "zone":"arms", "category":"bag", "security":"ca6f8797230995e3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Planta",
+        "outfitName":"Plant Collector",
+        "variations":[
+            {"id":11638, "colors":["green","white"]},
+            {"id":11639, "colors":["green","brown"], "variationNumber":2},
+            {"id":11640, "colors":["green","black"], "variationNumber":3},
+            {"id":11644, "colors":["green","red"], "variationNumber":4},
+            {"id":11645, "colors":["green","blue"], "variationNumber":5},
+            {"id":11646, "colors":["green","red","purple"], "variationNumber":6},
+            {"id":11641, "colors":["green"], "variationNumber":7},
+            {"id":11642, "colors":["green","yellow"], "variationNumber":8},
+            {"id":11643, "colors":["purple","pink"], "variationNumber":9},
+            {"id":11647, "colors":["green","orange"], "variationNumber":10}
+        ], "criteria":{"type":"calendar", "info":"2026-23", "text":"Desbloqueado en el calendario\nN°23 - 2026"},
+        "releaseDate":"2026-01-31"
+    },
     {
         "groupId":11648, "zone":"torso_waistToKnee", "category":"underwear", "security":"c1e83fcf77167fa3", "multiLayered":false, "layerBehavior":"normal",
         "name":"Biquini",
@@ -21974,5 +22062,816 @@
             {"id":12528, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"},
         "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12529, "zone":"torso_waistToKnee", "category":"underwear", "security":"f2d7e330806f6664", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"A Dance of Serpents",
+        "variations":[
+            {"id":12529, "colors":["green","golden"]},
+            {"id":12530, "colors":["white"]},
+            {"id":12531, "colors":["yellow","brown"]},
+            {"id":12532, "colors":["pink","silver"]},
+            {"id":12533, "colors":["grey","red"]},
+            {"id":12534, "colors":["purple","red"]},
+            {"id":12535, "colors":["blue","green"]},
+            {"id":12536, "colors":["black"]},
+            {"id":12537, "colors":["brown","yellow"]},
+            {"id":12538, "colors":["purple","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12539, "zone":"feet", "category":"shoes", "security":"57fdc694c5f524e3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias espartanas",
+        "outfitName":"A Dance of Serpents",
+        "variations":[
+            {"id":12539, "colors":["golden"]},
+            {"id":12540, "colors":["white"]},
+            {"id":12541, "colors":["brown"]},
+            {"id":12542, "colors":["silver"]},
+            {"id":12543, "colors":["red"]},
+            {"id":12544, "colors":["purple"]},
+            {"id":12545, "colors":["green"]},
+            {"id":12546, "colors":["black"]},
+            {"id":12547, "colors":["yellow"]},
+            {"id":12548, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12549, "zone":"torso", "category":"top", "security":"46455333ac31e2f0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"A Dance of Serpents",
+        "variations":[
+            {"id":12549, "colors":["green"]},
+            {"id":12550, "colors":["white"]},
+            {"id":12551, "colors":["yellow"]},
+            {"id":12552, "colors":["pink"]},
+            {"id":12553, "colors":["grey"]},
+            {"id":12554, "colors":["red"]},
+            {"id":12555, "colors":["blue"]},
+            {"id":12556, "colors":["black"]},
+            {"id":12557, "colors":["brown"]},
+            {"id":12558, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12559, "zone":"waistToKnee", "category":"skirt", "security":"6b59a7197e25cd26", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"A Dance of Serpents",
+        "variations":[
+            {"id":12559, "colors":["green","yellow"]},
+            {"id":12560, "colors":["white","grey"]},
+            {"id":12561, "colors":["yellow","brown"]},
+            {"id":12562, "colors":["pink","blue"]},
+            {"id":12563, "colors":["grey","red"]},
+            {"id":12564, "colors":["yellow","red"]},
+            {"id":12565, "colors":["blue","orange"]},
+            {"id":12566, "colors":["black","grey"]},
+            {"id":12567, "colors":["brown","pink"]},
+            {"id":12568, "colors":["purple","green"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12569, "zone":"face", "category":"neckAccessory", "security":"82ffe1d9941b3d31", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"A Dance of Serpents",
+        "variations":[
+            {"id":12569, "colors":["golden"]},
+            {"id":12570, "colors":["white"]},
+            {"id":12571, "colors":["brown"]},
+            {"id":12572, "colors":["silver"]},
+            {"id":12573, "colors":["red"]},
+            {"id":12574, "colors":["purple"]},
+            {"id":12575, "colors":["green"]},
+            {"id":12576, "colors":["black"]},
+            {"id":12577, "colors":["yellow"]},
+            {"id":12578, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12579, "zone":"torso_waistToKnee", "category":"waist", "security":"ed0d0784a65b275a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Velo",
+        "outfitName":"A Dance of Serpents",
+        "variations":[
+            {"id":12579, "colors":["green","golden"]},
+            {"id":12580, "colors":["white"]},
+            {"id":12581, "colors":["yellow","brown"]},
+            {"id":12582, "colors":["pink","silver"]},
+            {"id":12583, "colors":["grey","red"]},
+            {"id":12584, "colors":["purple","red"]},
+            {"id":12585, "colors":["blue","green"]},
+            {"id":12586, "colors":["black"]},
+            {"id":12587, "colors":["brown","yellow"]},
+            {"id":12588, "colors":["purple","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12589, "zone":"head", "category":"faceAccessory", "security":"97444ffab46700fe", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Máscara",
+        "outfitName":"A Dance of Serpents",
+        "variations":[
+            {"id":12589, "colors":["green","yellow"]},
+            {"id":12590, "colors":["blue","white"]},
+            {"id":12591, "colors":["yellow","brown"]},
+            {"id":12592, "colors":["pink","silver"]},
+            {"id":12593, "colors":["grey","red"]},
+            {"id":12594, "colors":["purple","red"]},
+            {"id":12595, "colors":["blue","orange"]},
+            {"id":12596, "colors":["black"]},
+            {"id":12597, "colors":["brown","pink"]},
+            {"id":12598, "colors":["purple","green"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12599, "zone":"feet", "category":"shoes", "security":"665ce329a6558c33", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"A Dance of the Sky",
+        "variations":[
+            {"id":12600, "colors":["blue","golden"], "variationNumber":1},
+            {"id":12601, "colors":["white","silver"], "variationNumber":2},
+            {"id":12602, "colors":["red","golden"], "variationNumber":3},
+            {"id":12599, "colors":["purple","silver"], "variationNumber":4},
+            {"id":12603, "colors":["black","golden"], "variationNumber":5},
+            {"id":12604, "colors":["pink","golden"], "variationNumber":6},
+            {"id":12605, "colors":["blue","silver"], "variationNumber":7},
+            {"id":12606, "colors":["green","golden"], "variationNumber":8},
+            {"id":12607, "colors":["yellow","silver"], "variationNumber":9},
+            {"id":12608, "colors":["grey","silver"], "variationNumber":10}
+    
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12609, "zone":"arms", "category":"armAccessory", "security":"96e1d9e22a0fe005", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulseras",
+        "outfitName":"A Dance of the Sky",
+        "variations":[
+            {"id":12609, "colors":["golden"]},
+            {"id":12610, "colors":["silver"]},
+            {"id":12611, "colors":["red"]},
+            {"id":12612, "colors":["purple"]},
+            {"id":12613, "colors":["black"]},
+            {"id":12614, "colors":["white"]},
+            {"id":12615, "colors":["blue"]},
+            {"id":12616, "colors":["green"]},
+            {"id":12617, "colors":["brown"]},
+            {"id":12618, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12619, "zone":"face", "category":"neckAccessory", "security":"d2aaa558ccf10a2c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"A Dance of the Sky",
+        "variations":[
+            {"id":12619, "colors":["blue","golden"]},
+            {"id":12620, "colors":["white","silver"]},
+            {"id":12621, "colors":["red","golden"]},
+            {"id":12622, "colors":["silver","purple"]},
+            {"id":12623, "colors":["black","golden"]},
+            {"id":12624, "colors":["pink","golden"]},
+            {"id":12625, "colors":["silver","blue"]},
+            {"id":12626, "colors":["green","golden"]},
+            {"id":12627, "colors":["yellow","silver"]},
+            {"id":12628, "colors":["silver","grey"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12629, "zone":"torso_waistToKnee", "category":"dress", "security":"da6e1c160284bccd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"A Dance of the Sky",
+        "variations":[
+            {"id":12629, "colors":["white"]},
+            {"id":12630, "colors":["purple"]},
+            {"id":12631, "colors":["black"]},
+            {"id":12632, "colors":["blue"]},
+            {"id":12633, "colors":["yellow"]},
+            {"id":12634, "colors":["blue"]},
+            {"id":12635, "colors":["red"]},
+            {"id":12636, "colors":["green"]},
+            {"id":12637, "colors":["green"]},
+            {"id":12638, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12639, "zone":"torso", "category":"jacket", "security":"7a969eb1b79ceffc", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sobrevestido",
+        "outfitName":"A Dance of the Sky",
+        "variations":[
+            {"id":12639, "colors":["blue","golden"]},
+            {"id":12640, "colors":["white","silver"]},
+            {"id":12641, "colors":["red","golden"]},
+            {"id":12642, "colors":["purple","silver"]},
+            {"id":12643, "colors":["black","golden"]},
+            {"id":12644, "colors":["pink","golden"]},
+            {"id":12645, "colors":["blue","silver"]},
+            {"id":12646, "colors":["green","golden"]},
+            {"id":12647, "colors":["yellow","silver"]},
+            {"id":12648, "colors":["grey","silver"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12649, "zone":"torso", "category":"jacket", "security":"cde6a7a629419cfa", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"A Dance of the Sky",
+        "variations":[
+            {"id":12649, "colors":["blue","golden"]},
+            {"id":12650, "colors":["white","silver"]},
+            {"id":12651, "colors":["red","golden"]},
+            {"id":12652, "colors":["purple","silver"]},
+            {"id":12653, "colors":["black","golden"]},
+            {"id":12654, "colors":["pink","golden"]},
+            {"id":12655, "colors":["blue","silver"]},
+            {"id":12656, "colors":["green","golden"]},
+            {"id":12657, "colors":["yellow","silver"]},
+            {"id":12658, "colors":["grey","silver"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12659, "zone":"head", "category":"faceAccessory", "security":"9318ac48c59ed03a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Máscara",
+        "outfitName":"A Dance of the Sky",
+        "variations":[
+            {"id":12659, "colors":["golden"]},
+            {"id":12660, "colors":["silver"]},
+            {"id":12661, "colors":["red"]},
+            {"id":12662, "colors":["purple"]},
+            {"id":12663, "colors":["black"]},
+            {"id":12664, "colors":["white"]},
+            {"id":12665, "colors":["blue"]},
+            {"id":12666, "colors":["green"]},
+            {"id":12667, "colors":["brown"]},
+            {"id":12668, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12669, "zone":"torso", "category":"jacket", "security":"c7cdba4d4b20ebb6", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Plant Collector",
+        "variations":[
+            {"id":12669, "colors":["green"]},
+            {"id":12670, "colors":["yellow"]},
+            {"id":12671, "colors":["purple"]},
+            {"id":12672, "colors":["brown"]},
+            {"id":12673, "colors":["blue"]},
+            {"id":12674, "colors":["white"]},
+            {"id":12675, "colors":["orange"]},
+            {"id":12676, "colors":["red"]},
+            {"id":12677, "colors":["black"]},
+            {"id":12678, "colors":["pink"]}
+        ], "criteria":{"type":"calendar", "info":"2026-23", "text":"Desbloqueado en el calendario\nN°23 - 2026"},
+        "releaseDate":"2026-01-31"
+    },
+    {
+        "groupId":12679, "zone":"general", "category":"tattoo", "security":"55313197c014199a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuajes",
+        "outfitName":"A Dance of Nightfall",
+        "variations":[
+            {"id":12679, "colors":["black"]},
+            {"id":12680, "colors":["white"]},
+            {"id":12681, "colors":["green"]},
+            {"id":12682, "colors":["blue"]},
+            {"id":12683, "colors":["yellow"]},
+            {"id":12684, "colors":["brown"]},
+            {"id":12685, "colors":["red"]},
+            {"id":12686, "colors":["pink"]},
+            {"id":12687, "colors":["purple"]},
+            {"id":12688, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12689, "zone":"feet", "category":"shoes", "security":"b0ada0d44736d45a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"A Dance of Nightfall",
+        "variations":[
+            {"id":12689, "colors":["black","silver"]},
+            {"id":12690, "colors":["white"]},
+            {"id":12691, "colors":["green"]},
+            {"id":12692, "colors":["blue"]},
+            {"id":12693, "colors":["yellow","golden"]},
+            {"id":12694, "colors":["brown"]},
+            {"id":12695, "colors":["red"]},
+            {"id":12696, "colors":["pink"]},
+            {"id":12697, "colors":["purple"]},
+            {"id":12698, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12699, "zone":"torso_waistToKnee", "category":"dress", "security":"92fa6359b9642b17", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"A Dance of Nightfall",
+        "variations":[
+            {"id":12699, "colors":["black"]},
+            {"id":12700, "colors":["white"]},
+            {"id":12701, "colors":["green"]},
+            {"id":12702, "colors":["blue"]},
+            {"id":12703, "colors":["yellow"]},
+            {"id":12704, "colors":["brown"]},
+            {"id":12705, "colors":["red"]},
+            {"id":12706, "colors":["pink"]},
+            {"id":12707, "colors":["purple"]},
+            {"id":12708, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12709, "zone":"torso", "category":"jacket", "security":"f8044c9a047d467c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Capa",
+        "outfitName":"A Dance of Nightfall",
+        "variations":[
+            {"id":12709, "colors":["black"]},
+            {"id":12710, "colors":["white"]},
+            {"id":12711, "colors":["green"]},
+            {"id":12712, "colors":["blue"]},
+            {"id":12713, "colors":["yellow"]},
+            {"id":12714, "colors":["brown"]},
+            {"id":12715, "colors":["red"]},
+            {"id":12716, "colors":["pink"]},
+            {"id":12717, "colors":["purple"]},
+            {"id":12718, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12719, "zone":"head", "category":"earring", "security":"d40ea90f374c70cb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"A Dance of Nightfall",
+        "variations":[
+            {"id":12719, "colors":["grey","silver"]},
+            {"id":12720, "colors":["white"]},
+            {"id":12721, "colors":["green"]},
+            {"id":12722, "colors":["blue"]},
+            {"id":12723, "colors":["golden","yellow"]},
+            {"id":12724, "colors":["brown"]},
+            {"id":12725, "colors":["red"]},
+            {"id":12726, "colors":["pink"]},
+            {"id":12727, "colors":["purple"]},
+            {"id":12728, "colors":["black"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12729, "zone":"head", "category":"hat", "security":"7ed7c4c42327cebc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Diadema",
+        "outfitName":"A Dance of Nightfall",
+        "variations":[
+            {"id":12729, "colors":["grey","silver"]},
+            {"id":12730, "colors":["white"]},
+            {"id":12731, "colors":["green"]},
+            {"id":12732, "colors":["blue"]},
+            {"id":12733, "colors":["golden","yellow"]},
+            {"id":12734, "colors":["brown"]},
+            {"id":12735, "colors":["red"]},
+            {"id":12736, "colors":["pink"]},
+            {"id":12737, "colors":["purple"]},
+            {"id":12738, "colors":["black"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12739, "zone":"head", "category":"faceAccessory", "security":"2d6622d78cef747a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Máscara",
+        "outfitName":"A Dance of Nightfall",
+        "variations":[
+            {"id":12739, "colors":["black"]},
+            {"id":12740, "colors":["white"]},
+            {"id":12741, "colors":["green"]},
+            {"id":12742, "colors":["blue"]},
+            {"id":12743, "colors":["yellow"]},
+            {"id":12744, "colors":["brown"]},
+            {"id":12745, "colors":["red"]},
+            {"id":12746, "colors":["pink"]},
+            {"id":12747, "colors":["purple"]},
+            {"id":12748, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12749, "zone":"feet", "category":"shoes", "security":"0ae0dbf2159cf981", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"A Dance of Remembrance",
+        "variations":[
+            {"id":12749, "colors":["golden","yellow"]},
+            {"id":12750, "colors":["silver","blue"]},
+            {"id":12751, "colors":["silver","purple"]},
+            {"id":12752, "colors":["golden","pink"]},
+            {"id":12753, "colors":["silver","blue"]},
+            {"id":12754, "colors":["silver","black"]},
+            {"id":12755, "colors":["silver","red"]},
+            {"id":12756, "colors":["golden","brown"]},
+            {"id":12757, "colors":["golden","green"]},
+            {"id":12758, "colors":["golden","blue"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12759, "zone":"arms", "category":"armAccessory", "security":"0ecb835126071f0f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"A Dance of Remembrance",
+        "variations":[
+            {"id":12759, "colors":["golden","yellow","brown"]},
+            {"id":12760, "colors":["silver","blue"]},
+            {"id":12761, "colors":["silver","purple"]},
+            {"id":12762, "colors":["golden","pink"]},
+            {"id":12763, "colors":["silver","white"]},
+            {"id":12764, "colors":["silver","black"]},
+            {"id":12765, "colors":["silver","red"]},
+            {"id":12766, "colors":["golden","brown"]},
+            {"id":12767, "colors":["golden","green"]},
+            {"id":12768, "colors":["golden","blue"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12769, "zone":"torso_waistToKnee", "category":"dress", "security":"f5206e82f661679d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"A Dance of Remembrance",
+        "variations":[
+            {"id":12769, "colors":["golden","pink"]},
+            {"id":12770, "colors":["silver","white"]},
+            {"id":12771, "colors":["silver","blue"]},
+            {"id":12772, "colors":["golden","purple"]},
+            {"id":12773, "colors":["silver","yellow"]},
+            {"id":12774, "colors":["silver","brown"]},
+            {"id":12775, "colors":["silver","black"]},
+            {"id":12776, "colors":["golden","green"]},
+            {"id":12777, "colors":["golden","red"]},
+            {"id":12778, "colors":["golden","green"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12779, "zone":"torso_waistToKnee", "category":"dress", "security":"ffecb05d574b44b7", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sobrevestido",
+        "outfitName":"A Dance of Remembrance",
+        "variations":[
+            {"id":12779, "colors":["golden","yellow","orange"]},
+            {"id":12780, "colors":["silver","blue","white"]},
+            {"id":12781, "colors":["silver","purple","white"]},
+            {"id":12782, "colors":["golden","pink"]},
+            {"id":12783, "colors":["silver","blue","white"]},
+            {"id":12784, "colors":["silver","black","white"]},
+            {"id":12785, "colors":["silver","red","white"]},
+            {"id":12786, "colors":["golden","brown"]},
+            {"id":12787, "colors":["golden","green","white"]},
+            {"id":12788, "colors":["golden","blue","white"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12789, "zone":"torso_waistToKnee", "category":"waist", "security":"be51e122fa84e5b6", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"A Dance of Remembrance",
+        "variations":[
+            {"id":12789, "colors":["blue"]},
+            {"id":12790, "colors":["purple"]},
+            {"id":12791, "colors":["white"]},
+            {"id":12792, "colors":["brown"]},
+            {"id":12793, "colors":["red"]},
+            {"id":12794, "colors":["green"]},
+            {"id":12795, "colors":["grey"]},
+            {"id":12796, "colors":["pink"]},
+            {"id":12797, "colors":["yellow"]},
+            {"id":12798, "colors":["black"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12799, "zone":"face", "category":"neckAccessory", "security":"7be5dae6bf6aa03c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"A Dance of Remembrance",
+        "variations":[
+            {"id":12799, "colors":["golden","red","green"]},
+            {"id":12800, "colors":["silver","blue"]},
+            {"id":12801, "colors":["silver","blue","purple"]},
+            {"id":12802, "colors":["golden","pink"]},
+            {"id":12803, "colors":["silver","white","yellow"]},
+            {"id":12804, "colors":["silver","black","brown"]},
+            {"id":12805, "colors":["silver","black","red"]},
+            {"id":12806, "colors":["golden","brown","green"]},
+            {"id":12807, "colors":["golden","yellow","pink"]},
+            {"id":12808, "colors":["golden","blue","green"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12809, "zone":"head", "category":"faceAccessory", "security":"c934a74914d645b3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Máscara",
+        "outfitName":"A Dance of Remembrance",
+        "variations":[
+            {"id":12809, "colors":["golden","yellow"]},
+            {"id":12810, "colors":["silver","blue"]},
+            {"id":12811, "colors":["silver","purple"]},
+            {"id":12812, "colors":["golden","pink"]},
+            {"id":12813, "colors":["silver","white"]},
+            {"id":12814, "colors":["silver","black"]},
+            {"id":12815, "colors":["silver","red"]},
+            {"id":12816, "colors":["golden","brown"]},
+            {"id":12817, "colors":["golden","green"]},
+            {"id":12818, "colors":["golden","blue"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12819, "zone":"torso_waistToKnee", "category":"underwear", "security":"bc0806e0f41dfe58", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"A Dance of Fire",
+        "variations":[
+            {"id":12819, "colors":["red"]},
+            {"id":12820, "colors":["black"]},
+            {"id":12821, "colors":["silver","grey"]},
+            {"id":12822, "colors":["yellow","golden"]},
+            {"id":12823, "colors":["orange","brown"]},
+            {"id":12824, "colors":["white"]},
+            {"id":12825, "colors":["blue"]},
+            {"id":12826, "colors":["green"]},
+            {"id":12827, "colors":["pink"]},
+            {"id":12828, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12829, "zone":"feet", "category":"shoes", "security":"e2d37ab6ca8cec02", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"A Dance of Fire",
+        "variations":[
+            {"id":12829, "colors":["red"]},
+            {"id":12830, "colors":["black"]},
+            {"id":12831, "colors":["silver","grey"]},
+            {"id":12832, "colors":["yellow","golden"]},
+            {"id":12833, "colors":["orange","brown"]},
+            {"id":12834, "colors":["white"]},
+            {"id":12835, "colors":["blue"]},
+            {"id":12836, "colors":["green"]},
+            {"id":12837, "colors":["pink"]},
+            {"id":12838, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12839, "zone":"torso_waistToKnee", "category":"dress", "security":"4bbc742a095f0eb5", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"A Dance of Fire",
+        "variations":[
+            {"id":12839, "colors":["red"]},
+            {"id":12840, "colors":["black"]},
+            {"id":12841, "colors":["silver","grey"]},
+            {"id":12842, "colors":["yellow","golden"]},
+            {"id":12843, "colors":["orange","brown"]},
+            {"id":12844, "colors":["white"]},
+            {"id":12845, "colors":["blue"]},
+            {"id":12846, "colors":["green"]},
+            {"id":12847, "colors":["pink"]},
+            {"id":12848, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12849, "zone":"face", "category":"neckAccessory", "security":"217c9b43e59b951d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"A Dance of Fire",
+        "variations":[
+            {"id":12849, "colors":["golden","red"]},
+            {"id":12850, "colors":["silver","grey","black"]},
+            {"id":12851, "colors":["golden","grey"]},
+            {"id":12852, "colors":["silver","yellow"]},
+            {"id":12853, "colors":["yellow","brown","orange"]},
+            {"id":12854, "colors":["white"]},
+            {"id":12855, "colors":["silver","blue"]},
+            {"id":12856, "colors":["golden","green"]},
+            {"id":12857, "colors":["golden","pink"]},
+            {"id":12858, "colors":["silver","purple"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12859, "zone":"arms", "category":"armAccessory", "security":"cc3624508f8372a2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"A Dance of Fire",
+        "variations":[
+            {"id":12859, "colors":["golden","red"]},
+            {"id":12860, "colors":["silver","grey","black"]},
+            {"id":12861, "colors":["golden","grey"]},
+            {"id":12862, "colors":["golden","yellow"]},
+            {"id":12863, "colors":["yellow","brown","orange"]},
+            {"id":12864, "colors":["white"]},
+            {"id":12865, "colors":["silver","grey","blue"]},
+            {"id":12866, "colors":["golden","green"]},
+            {"id":12867, "colors":["golden","pink"]},
+            {"id":12868, "colors":["silver","purple"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12869, "zone":"head", "category":"faceAccessory", "security":"89cc13c5ef21884b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Máscara",
+        "outfitName":"A Dance of Fire",
+        "variations":[
+            {"id":12869, "colors":["golden","red"]},
+            {"id":12870, "colors":["silver","black"]},
+            {"id":12871, "colors":["golden","grey","silver"]},
+            {"id":12872, "colors":["silver","yellow","golden"]},
+            {"id":12873, "colors":["brown","golden","orange"]},
+            {"id":12874, "colors":["white"]},
+            {"id":12875, "colors":["silver","blue"]},
+            {"id":12876, "colors":["golden","green"]},
+            {"id":12877, "colors":["pink","golden"]},
+            {"id":12878, "colors":["silver","purple"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12879, "zone":"torso_waistToKnee", "category":"underwear", "security":"f885781e54fd4929", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lencería",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12879, "colors":["red"]},
+            {"id":12880, "colors":["white"]},
+            {"id":12881, "colors":["black"]},
+            {"id":12882, "colors":["purple"]},
+            {"id":12883, "colors":["orange"]},
+            {"id":12884, "colors":["blue"]},
+            {"id":12885, "colors":["green"]},
+            {"id":12886, "colors":["pink"]},
+            {"id":12887, "colors":["brown"]},
+            {"id":12888, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12889, "zone":"feet", "category":"shoes", "security":"7300d1d2cd69a70c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salones",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12889, "colors":["red"]},
+            {"id":12890, "colors":["white"]},
+            {"id":12891, "colors":["black"]},
+            {"id":12892, "colors":["purple"]},
+            {"id":12893, "colors":["orange"]},
+            {"id":12894, "colors":["blue"]},
+            {"id":12895, "colors":["green"]},
+            {"id":12896, "colors":["pink"]},
+            {"id":12897, "colors":["brown"]},
+            {"id":12898, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12899, "zone":"torso", "category":"top", "security":"9be69831975e8d7f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bustier",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12899, "colors":["brown","red"]},
+            {"id":12900, "colors":["white"]},
+            {"id":12901, "colors":["black","grey"]},
+            {"id":12902, "colors":["pink","purple"]},
+            {"id":12903, "colors":["brown","orange"]},
+            {"id":12904, "colors":["grey","blue"]},
+            {"id":12905, "colors":["brown","green"]},
+            {"id":12906, "colors":["brown","pink"]},
+            {"id":12907, "colors":["brown"]},
+            {"id":12908, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12909, "zone":"waistToKnee", "category":"skirt", "security":"cf039770405c5caf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12909, "colors":["red"]},
+            {"id":12910, "colors":["white"]},
+            {"id":12911, "colors":["black"]},
+            {"id":12912, "colors":["purple"]},
+            {"id":12913, "colors":["orange"]},
+            {"id":12914, "colors":["blue"]},
+            {"id":12915, "colors":["green"]},
+            {"id":12916, "colors":["pink"]},
+            {"id":12917, "colors":["brown"]},
+            {"id":12918, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12919, "zone":"head", "category":"earring", "security":"2df40fd9c2183ad8", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12919, "colors":["golden","red"]},
+            {"id":12920, "colors":["silver","white"]},
+            {"id":12921, "colors":["golden","black"]},
+            {"id":12922, "colors":["golden","purple"]},
+            {"id":12923, "colors":["golden","orange"]},
+            {"id":12924, "colors":["silver","blue"]},
+            {"id":12925, "colors":["silver","green"]},
+            {"id":12926, "colors":["silver","pink"]},
+            {"id":12927, "colors":["silver","brown"]},
+            {"id":12928, "colors":["golden","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12929, "zone":"arms", "category":"armAccessory", "security":"031874c639ad8a73", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillos",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12929, "colors":["golden","pink"]},
+            {"id":12930, "colors":["silver","white"]},
+            {"id":12931, "colors":["golden","black"]},
+            {"id":12932, "colors":["golden","purple"]},
+            {"id":12933, "colors":["golden","orange"]},
+            {"id":12934, "colors":["silver","blue"]},
+            {"id":12935, "colors":["silver","green"]},
+            {"id":12936, "colors":["silver","red"]},
+            {"id":12937, "colors":["silver","brown"]},
+            {"id":12938, "colors":["golden","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12939, "zone":"face", "category":"neckAccessory", "security":"3cf6c68b6a440696", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12939, "colors":["golden"]},
+            {"id":12940, "colors":["silver"]},
+            {"id":12941, "colors":["red"]},
+            {"id":12942, "colors":["pink"]},
+            {"id":12943, "colors":["white"]},
+            {"id":12944, "colors":["black"]},
+            {"id":12945, "colors":["blue"]},
+            {"id":12946, "colors":["purple"]},
+            {"id":12947, "colors":["green"]},
+            {"id":12948, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12949, "zone":"arms", "category":"bag", "security":"77f65ef09b0fa6d5", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12949, "colors":["white","red"]},
+            {"id":12950, "colors":["white","purple"]},
+            {"id":12951, "colors":["black","red"]},
+            {"id":12952, "colors":["pink","purple"]},
+            {"id":12953, "colors":["yellow","orange"]},
+            {"id":12954, "colors":["white","blue"]},
+            {"id":12955, "colors":["brown","green"]},
+            {"id":12956, "colors":["brown","pink"]},
+            {"id":12957, "colors":["brown"]},
+            {"id":12958, "colors":["white","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12959, "zone":"torso", "category":"jacket", "security":"de6f7305eb2ca871", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12959, "colors":["brown"]},
+            {"id":12960, "colors":["white"]},
+            {"id":12961, "colors":["black"]},
+            {"id":12962, "colors":["brown"]},
+            {"id":12963, "colors":["pink"]},
+            {"id":12964, "colors":["purple"]},
+            {"id":12965, "colors":["yellow"]},
+            {"id":12966, "colors":["grey"]},
+            {"id":12967, "colors":["green"]},
+            {"id":12968, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12969, "zone":"general", "category":"other", "security":"e83ba88e49d96d2b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cartas",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12969, "colors":["pink","multi"]},
+            {"id":12970, "colors":["white","multi"]},
+            {"id":12971, "colors":["black","multi"]},
+            {"id":12972, "colors":["purple","multi"]},
+            {"id":12973, "colors":["orange","multi"]},
+            {"id":12974, "colors":["blue","multi"]},
+            {"id":12975, "colors":["green","multi"]},
+            {"id":12976, "colors":["red","multi"]},
+            {"id":12977, "colors":["brown","multi"]},
+            {"id":12978, "colors":["yellow","multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-03"
     }
 ]

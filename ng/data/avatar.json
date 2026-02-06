@@ -904,6 +904,24 @@
                     {"id":200, "colors":["blue","white"]}
                 ], "criteria":null,
                 "releaseDate":"2026-01-05"
+            },
+            {
+                "groupId":201, "zone":"face", "category":"mouth", "security":"97768d4e59752c9a",
+                "name":"Boca",
+                "outfitName":"A Dance of Fire",
+                "variations":[
+                    {"id":201, "colors":["red"]},
+                    {"id":202, "colors":["black"]},
+                    {"id":203, "colors":["grey"]},
+                    {"id":204, "colors":["yellow"]},
+                    {"id":205, "colors":["brown","orange"]},
+                    {"id":206, "colors":["white"]},
+                    {"id":207, "colors":["blue"]},
+                    {"id":208, "colors":["green"]},
+                    {"id":209, "colors":["pink"]},
+                    {"id":210, "colors":["purple"]}
+                ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
+                "releaseDate":"2026-01-30"
             }
         ]
     },
