@@ -22873,5 +22873,425 @@
             {"id":12978, "colors":["yellow","multi"]}
         ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
         "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12979, "zone":"feet", "category":"shoes", "security":"31e0474399b88b8c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Love Divine",
+        "variations":[
+            {"id":12979, "colors":["golden","white"]},
+            {"id":12980, "colors":["silver","black"]},
+            {"id":12981, "colors":["pink","golden"]},
+            {"id":12982, "colors":["brown","golden","yellow"]},
+            {"id":12983, "colors":["silver","blue"]},
+            {"id":12984, "colors":["purple","silver"]},
+            {"id":12985, "colors":["blue","golden"]},
+            {"id":12986, "colors":["green","golden"]},
+            {"id":12987, "colors":["green","silver"]},
+            {"id":12988, "colors":["red","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":12989, "zone":"torso_waistToKnee", "category":"dress", "security":"d645d12bb696641f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Love Divine",
+        "variations":[
+            {"id":12989, "colors":["white"]},
+            {"id":12990, "colors":["black"]},
+            {"id":12991, "colors":["pink"]},
+            {"id":12992, "colors":["yellow"]},
+            {"id":12993, "colors":["blue"]},
+            {"id":12994, "colors":["purple"]},
+            {"id":12995, "colors":["blue"]},
+            {"id":12996, "colors":["green"]},
+            {"id":12997, "colors":["green"]},
+            {"id":12998, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":12999, "zone":"torso_waistToKnee", "category":"waist", "security":"a89a39eb9860bffc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Love Divine",
+        "variations":[
+            {"id":12999, "colors":["white","golden"]},
+            {"id":13000, "colors":["black","silver"]},
+            {"id":13001, "colors":["pink","golden"]},
+            {"id":13002, "colors":["yellow","golden"]},
+            {"id":13003, "colors":["blue","silver"]},
+            {"id":13004, "colors":["purple","silver"]},
+            {"id":13005, "colors":["blue","golden"]},
+            {"id":13006, "colors":["green","golden"]},
+            {"id":13007, "colors":["green","silver"]},
+            {"id":13008, "colors":["red","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13009, "zone":"face", "category":"neckAccessory", "security":"697c70a4a459cc89", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Love Divine",
+        "variations":[
+            {"id":13009, "colors":["white","golden"]},
+            {"id":13010, "colors":["silver","black"]},
+            {"id":13011, "colors":["pink","golden"]},
+            {"id":13012, "colors":["brown","golden","yellow"]},
+            {"id":13013, "colors":["blue","silver"]},
+            {"id":13014, "colors":["purple","silver"]},
+            {"id":13015, "colors":["blue","golden"]},
+            {"id":13016, "colors":["green","golden"]},
+            {"id":13017, "colors":["silver","green"]},
+            {"id":13018, "colors":["red","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13019, "zone":"head", "category":"wig", "security":"b6432b623a196f1c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Love Divine",
+        "variations":[
+            {"id":13019, "colors":["brown","golden"]},
+            {"id":13020, "colors":["white","golden"]},
+            {"id":13021, "colors":["black","golden"]},
+            {"id":13022, "colors":["blue","golden"]},
+            {"id":13023, "colors":["blue","golden"]},
+            {"id":13024, "colors":["purple","golden"]},
+            {"id":13025, "colors":["red","golden"]},
+            {"id":13026, "colors":["yellow","golden"]},
+            {"id":13027, "colors":["orange","golden"]},
+            {"id":13028, "colors":["pink","golden"]},
+            {"id":13029, "colors":["brown","silver"]},
+            {"id":13030, "colors":["white","silver"]},
+            {"id":13031, "colors":["black","silver"]},
+            {"id":13032, "colors":["blue","silver"]},
+            {"id":13033, "colors":["blue","silver"]},
+            {"id":13034, "colors":["purple","silver"]},
+            {"id":13035, "colors":["red","silver"]},
+            {"id":13036, "colors":["yellow","silver"]},
+            {"id":13037, "colors":["orange","silver"]},
+            {"id":13038, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13039, "zone":"head", "category":"hat", "security":"73de08d7ad7e64c7", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Tocado",
+        "outfitName":"Love Divine",
+        "variations":[
+            {"id":13039, "colors":["white","golden"]},
+            {"id":13040, "colors":["black","silver"]},
+            {"id":13041, "colors":["pink","golden"]},
+            {"id":13042, "colors":["brown","golden","yellow"]},
+            {"id":13043, "colors":["blue","silver"]},
+            {"id":13044, "colors":["purple","silver"]},
+            {"id":13045, "colors":["blue","golden"]},
+            {"id":13046, "colors":["green","golden"]},
+            {"id":13047, "colors":["green","silver"]},
+            {"id":13048, "colors":["red","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13049, "zone":"general", "category":"other", "security":"356d990890aed59e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Alas",
+        "outfitName":"Love Whisperer",
+        "variations":[
+            {"id":13049, "colors":["white"]},
+            {"id":13050, "colors":["black"]},
+            {"id":13051, "colors":["yellow"]},
+            {"id":13052, "colors":["blue"]},
+            {"id":13053, "colors":["pink"]},
+            {"id":13054, "colors":["green"]},
+            {"id":13055, "colors":["red"]},
+            {"id":13056, "colors":["purple"]},
+            {"id":13057, "colors":["brown"]},
+            {"id":13058, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13059, "zone":"feet", "category":"shoes", "security":"240ec04370b50f9a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias espartanas",
+        "outfitName":"Love Whisperer",
+        "variations":[
+            {"id":13059, "colors":["golden","pink"]},
+            {"id":13060, "colors":["silver","black"]},
+            {"id":13061, "colors":["white","blue"]},
+            {"id":13062, "colors":["white","purple"]},
+            {"id":13063, "colors":["red","yellow"]},
+            {"id":13064, "colors":["green","yellow"]},
+            {"id":13065, "colors":["black","purple"]},
+            {"id":13066, "colors":["pink","purple"]},
+            {"id":13067, "colors":["green","brown"]},
+            {"id":13068, "colors":["brown","red"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13069, "zone":"torso_waistToKnee", "category":"dress", "security":"6d2a574fdcf33f9c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Love Whisperer",
+        "variations":[
+            {"id":13069, "colors":["white","yellow"]},
+            {"id":13070, "colors":["black","grey"]},
+            {"id":13071, "colors":["yellow","orange"]},
+            {"id":13072, "colors":["blue","purple"]},
+            {"id":13073, "colors":["pink"]},
+            {"id":13074, "colors":["green","black"]},
+            {"id":13075, "colors":["red","blue"]},
+            {"id":13076, "colors":["purple","grey"]},
+            {"id":13077, "colors":["brown","green"]},
+            {"id":13078, "colors":["pink","red"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13079, "zone":"torso_waistToKnee", "category":"waist", "security":"8437533ac7c54191", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Carcaj",
+        "outfitName":"Love Whisperer",
+        "variations":[
+            {"id":13079, "colors":["brown","pink"]},
+            {"id":13080, "colors":["grey"]},
+            {"id":13081, "colors":["blue"]},
+            {"id":13082, "colors":["pink","white"]},
+            {"id":13083, "colors":["yellow"]},
+            {"id":13084, "colors":["black","brown"]},
+            {"id":13085, "colors":["green","purple"]},
+            {"id":13086, "colors":["brown","black"]},
+            {"id":13087, "colors":["white","red"]},
+            {"id":13088, "colors":["red","green"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13089, "zone":"torso", "category":"jacket", "security":"6b0adc299408825e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Toga",
+        "outfitName":"Love Whisperer",
+        "variations":[
+            {"id":13089, "colors":["pink"]},
+            {"id":13090, "colors":["grey"]},
+            {"id":13091, "colors":["blue"]},
+            {"id":13092, "colors":["white"]},
+            {"id":13093, "colors":["yellow"]},
+            {"id":13094, "colors":["brown"]},
+            {"id":13095, "colors":["purple"]},
+            {"id":13096, "colors":["black"]},
+            {"id":13097, "colors":["red"]},
+            {"id":13098, "colors":["green"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13099, "zone":"arms", "category":"bag", "security":"42914a587ef4016a", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Arco",
+        "outfitName":"Love Whisperer",
+        "variations":[
+            {"id":13099, "colors":["golden"]},
+            {"id":13100, "colors":["silver"]},
+            {"id":13101, "colors":["white"]},
+            {"id":13102, "colors":["purple"]},
+            {"id":13103, "colors":["red"]},
+            {"id":13104, "colors":["yellow"]},
+            {"id":13105, "colors":["black"]},
+            {"id":13106, "colors":["pink"]},
+            {"id":13107, "colors":["green"]},
+            {"id":13108, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13109, "zone":"head", "category":"wig", "security":"dfe04a46a31e8239", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Love Whisperer",
+        "variations":[
+            {"id":13109, "colors":["brown","white"]},
+            {"id":13110, "colors":["white"]},
+            {"id":13111, "colors":["black","white"]},
+            {"id":13112, "colors":["blue","white"]},
+            {"id":13113, "colors":["blue","white"]},
+            {"id":13114, "colors":["purple","white"]},
+            {"id":13115, "colors":["red","white"]},
+            {"id":13116, "colors":["yellow","white"]},
+            {"id":13117, "colors":["orange","white"]},
+            {"id":13118, "colors":["pink","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13119, "zone":"head", "category":"hat", "security":"9c1073d71fb587b6", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Laureles",
+        "outfitName":"Love Whisperer",
+        "variations":[
+            {"id":13119, "colors":["golden"]},
+            {"id":13120, "colors":["silver"]},
+            {"id":13121, "colors":["white"]},
+            {"id":13122, "colors":["purple"]},
+            {"id":13123, "colors":["red"]},
+            {"id":13124, "colors":["yellow"]},
+            {"id":13125, "colors":["black"]},
+            {"id":13126, "colors":["pink"]},
+            {"id":13127, "colors":["green"]},
+            {"id":13128, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13129, "zone":"general", "category":"other", "security":"14b1959321f007d5", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Corazones",
+        "outfitName":"Love Whisperer",
+        "variations":[
+            {"id":13129, "colors":["pink"]},
+            {"id":13130, "colors":["grey"]},
+            {"id":13131, "colors":["blue"]},
+            {"id":13132, "colors":["white"]},
+            {"id":13133, "colors":["yellow"]},
+            {"id":13134, "colors":["orange"]},
+            {"id":13135, "colors":["purple"]},
+            {"id":13136, "colors":["black"]},
+            {"id":13137, "colors":["red"]},
+            {"id":13138, "colors":["green"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+        "releaseDate":"2026-02-10"
+    },
+
+
+    
+    {
+        "groupId":13146, "zone":"feet", "category":"shoes", "security":"0d9fd3e19155a642", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Tough Love",
+        "variations":[
+            {"id":13146, "colors":["black","silver"]},
+            {"id":13147, "colors":["brown","silver","black"]},
+            {"id":13148, "colors":["brown","silver","black"]},
+            {"id":13149, "colors":["grey","silver","black"]},
+            {"id":13150, "colors":["white","golden","black"]},
+            {"id":13151, "colors":["orange","red","black"]},
+            {"id":13152, "colors":["golden","black","purple"]},
+            {"id":13153, "colors":["black","golden","pink"]},
+            {"id":13154, "colors":["silver","black","blue"]},
+            {"id":13155, "colors":["green","black","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13156, "zone":"torso_waistToKnee", "category":"dress", "security":"8dc4103a54ac9b66", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Tough Love",
+        "variations":[
+            {"id":13156, "colors":["green","golden"]},
+            {"id":13157, "colors":["yellow","silver"]},
+            {"id":13158, "colors":["brown","silver"]},
+            {"id":13159, "colors":["black","silver"]},
+            {"id":13160, "colors":["golden","white"]},
+            {"id":13161, "colors":["red","silver"]},
+            {"id":13162, "colors":["purple","golden"]},
+            {"id":13163, "colors":["pink","golden"]},
+            {"id":13164, "colors":["blue","silver"]},
+            {"id":13165, "colors":["grey","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13166, "zone":"arms", "category":"armAccessory", "security":"4d82aabdfd732abb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Joyas",
+        "outfitName":"Tough Love",
+        "variations":[
+            {"id":13166, "colors":["golden"]},
+            {"id":13167, "colors":["silver"]},
+            {"id":13168, "colors":["black"]},
+            {"id":13169, "colors":["brown","orange"]},
+            {"id":13170, "colors":["white"]},
+            {"id":13171, "colors":["red"]},
+            {"id":13172, "colors":["purple"]},
+            {"id":13173, "colors":["pink"]},
+            {"id":13174, "colors":["blue"]},
+            {"id":13175, "colors":["green"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13176, "zone":"arms", "category":"gloves", "security":"73699fa5f92c24eb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Tough Love",
+        "variations":[
+            {"id":13176, "colors":["brown","silver"]},
+            {"id":13177, "colors":["brown","silver"]},
+            {"id":13178, "colors":["silver","black","grey"]},
+            {"id":13179, "colors":["grey","black"]},
+            {"id":13180, "colors":["white","golden","brown"]},
+            {"id":13181, "colors":["red","brown"]},
+            {"id":13182, "colors":["purple","golden","brown"]},
+            {"id":13183, "colors":["pink","golden","brown"]},
+            {"id":13184, "colors":["blue","brown","silver"]},
+            {"id":13185, "colors":["green","silver","brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13186, "zone":"torso_waistToKnee", "category":"waist", "security":"a15740bc9547f540", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Arnés",
+        "outfitName":"Tough Love",
+        "variations":[
+            {"id":13186, "colors":["silver","brown"]},
+            {"id":13187, "colors":["silver","brown"]},
+            {"id":13188, "colors":["silver","black"]},
+            {"id":13189, "colors":["grey","orange"]},
+            {"id":13190, "colors":["golden","white"]},
+            {"id":13191, "colors":["red","orange"]},
+            {"id":13192, "colors":["golden","purple"]},
+            {"id":13193, "colors":["golden","pink"]},
+            {"id":13194, "colors":["silver","blue"]},
+            {"id":13195, "colors":["green","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13196, "zone":"head", "category":"wig", "security":"a70c336420551cc4", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Tough Love",
+        "variations":[
+            {"id":13196, "colors":["brown"]},
+            {"id":13197, "colors":["white"]},
+            {"id":13198, "colors":["black"]},
+            {"id":13199, "colors":["blue"]},
+            {"id":13200, "colors":["blue"]},
+            {"id":13201, "colors":["purple"]},
+            {"id":13202, "colors":["red"]},
+            {"id":13203, "colors":["yellow"]},
+            {"id":13204, "colors":["orange"]},
+            {"id":13205, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13206, "zone":"head", "category":"hat", "security":"9b789d813ff23b7a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona",
+        "outfitName":"Tough Love",
+        "variations":[
+            {"id":13206, "colors":["silver","golden","green"]},
+            {"id":13207, "colors":["silver","yellow","golden"]},
+            {"id":13208, "colors":["silver","brown"]},
+            {"id":13209, "colors":["black","silver"]},
+            {"id":13210, "colors":["white","golden"]},
+            {"id":13211, "colors":["red","silver"]},
+            {"id":13212, "colors":["golden","purple"]},
+            {"id":13213, "colors":["pink","golden"]},
+            {"id":13214, "colors":["silver","blue"]},
+            {"id":13215, "colors":["green","grey","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "releaseDate":"2026-02-10"
     }
+
+
+
+
+
+
+
+
+
+
+
 ]

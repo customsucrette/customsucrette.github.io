@@ -597,6 +597,42 @@
                     {"id":266, "colors":["green","pink"]}
                 ], "criteria":{"type":"gauge","info":"Feathers of Paradise","text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"},
                 "releaseDate":"2026-01-07"
+            },
+            {
+                "groupId":267, "zone":"face", "category":"eyes", "security":"55686385d2296045",
+                "name":"Ojos",
+                "outfitName":"Love Whisperer",
+                "variations":[
+                    {"id":267, "colors":["pink","red"]},
+                    {"id":268, "colors":["pink","purple"]},
+                    {"id":269, "colors":["white"]},
+                    {"id":270, "colors":["pink","purple"]},
+                    {"id":271, "colors":["blue","pink"]},
+                    {"id":272, "colors":["orange","yellow"]},
+                    {"id":273, "colors":["black","red"]},
+                    {"id":274, "colors":["blue"]},
+                    {"id":275, "colors":["pink","yellow"]},
+                    {"id":276, "colors":["green","yellow"]}
+                ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+                "releaseDate":"2026-02-10"
+            },
+            {
+                "groupId":277, "zone":"face", "category":"eyes", "security":"80750ad22c62f33f",
+                "name":"Ojos",
+                "outfitName":"Tough Love",
+                "variations":[
+                    {"id":277, "colors":["black"]},
+                    {"id":278, "colors":["brown"]},
+                    {"id":279, "colors":["brown"]},
+                    {"id":280, "colors":["grey"]},
+                    {"id":281, "colors":["white"]},
+                    {"id":282, "colors":["red"]},
+                    {"id":283, "colors":["purple"]},
+                    {"id":284, "colors":["pink"]},
+                    {"id":285, "colors":["blue"]},
+                    {"id":286, "colors":["green"]}
+                ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+                "releaseDate":"2026-02-10"
             }
         ],
         "mouth":[
@@ -922,6 +958,34 @@
                     {"id":210, "colors":["purple"]}
                 ], "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"},
                 "releaseDate":"2026-01-30"
+            },
+            {
+                "groupId":211, "zone":"face", "category":"mouth", "security":"11d2748a0722ade1",
+                "name":"Boca",
+                "outfitName":"Love Whisperer",
+                "variations":[
+                    {"id":211, "colors":["pink","red"]},
+                    {"id":212, "colors":["pink","purple"]},
+                    {"id":213, "colors":["pink","white"]},
+                    {"id":214, "colors":["pink"]},
+                    {"id":215, "colors":["blue","pink"]},
+                    {"id":216, "colors":["orange","pink"]},
+                    {"id":217, "colors":["black","pink"]},
+                    {"id":218, "colors":["blue","pink"]},
+                    {"id":219, "colors":["pink","yellow"]},
+                    {"id":220, "colors":["green","pink"]},
+                    {"id":221, "colors":["brown","red"]},
+                    {"id":222, "colors":["brown","purple"]},
+                    {"id":223, "colors":["brown","white"]},
+                    {"id":224, "colors":["brown","pink"]},
+                    {"id":225, "colors":["blue","brown"]},
+                    {"id":226, "colors":["brown","orange"]},
+                    {"id":227, "colors":["black","brown"]},
+                    {"id":228, "colors":["blue","brown"]},
+                    {"id":229, "colors":["brown","yellow"]},
+                    {"id":230, "colors":["brown","green"]}
+                ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
+                "releaseDate":"2026-02-10"
             }
         ]
     },

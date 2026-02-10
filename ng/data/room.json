@@ -3292,5 +3292,91 @@
         "name":"Perchero",
         "roomName":"Paradise in the Making",
         "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
+    },
+    {
+        "id":535, "roomId":109, "slot":"background", "releaseDate":"2026-02-10", "light":true, "security":"463ffb35db95c644",
+        "name":"Paredes",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"E9D7C5","colorLight":"651B13"},
+            "night":{"color1":"4A84C7","color2":"8596A9","colorLight":"00499E"}
+        }
+    },
+    {
+        "id":536, "roomId":109, "slot":"slot1", "releaseDate":"2026-02-10", "light":false, "security":"1339a7b4ca7f8bf7",
+        "name":"Habitación",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":537, "roomId":109, "slot":"slot2", "releaseDate":"2026-02-10", "light":true, "security":"1df424e5d33bb3ad",
+        "name":"Sofá",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":538, "roomId":109, "slot":"slot3", "releaseDate":"2026-02-10", "light":true, "security":"bea1fa198c4e42b2",
+        "name":"Mesas y sillas",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":539, "roomId":109, "slot":"slot4", "releaseDate":"2026-02-10", "light":true, "security":"290b96c38cf90c5e",
+        "name":"Globos",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":540, "roomId":109, "slot":"slot5", "releaseDate":"2026-02-10", "light":true, "security":"402f452265d029f2",
+        "name":"Mesas",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":541, "roomId":110, "slot":"background", "releaseDate":"2026-02-10", "light":true, "security":"93b47cca884c9284",
+        "name":"Paredes",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        },
+        "backgroundColors":{
+            "day":{"color1":"FFECF0","color2":"FFECE7","colorLight":"651D08"},
+            "night":{"color1":"BFF8FC","color2":"C0B9FF","colorLight":"035F6D"}
+        }
+    },
+    {
+        "id":542, "roomId":110, "slot":"slot1", "releaseDate":"2026-02-10", "light":false, "security":"f4d757d7cd1e4c16",
+        "name":"Estanque",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        }
+    },
+    {
+        "id":543, "roomId":110, "slot":"slot2", "releaseDate":"2026-02-10", "light":false, "security":"2555373a08318bc5",
+        "name":"Cama",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        }
+    },
+    {
+        "id":544, "roomId":110, "slot":"slot3", "releaseDate":"2026-02-10", "light":true, "security":"95b0364367b0b79e",
+        "name":"Pociones",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        }
+    },
+    {
+        "id":545, "roomId":110, "slot":"slot4", "releaseDate":"2026-02-10", "light":false, "security":"ae34e05b0a7597a0",
+        "name":"Fuente",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        }
+    },
+    {
+        "id":546, "roomId":110, "slot":"slot5", "releaseDate":"2026-02-10", "light":false, "security":"fe041edb15e74ff4",
+        "name":"Sillón",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        }
     }
 ]

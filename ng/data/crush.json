@@ -146,5 +146,13 @@
     {"id":354, "crushName":"Amanda", "security":"b173938563e1a6e3", "info":"Amanda_Bal"},
     {"id":355, "crushName":"Devon", "security":"5b37b92456f41418", "info":"Devon_Bal"},
     {"id":356, "crushName":"Thomas", "security":"74d6ddceba9179fe", "info":"Thomas_Bal"},
-    {"id":357, "crushName":"Jason", "security":"e1b49357aacf85c2", "info":"Jason_Bal"}
+    {"id":357, "crushName":"Jason", "security":"e1b49357aacf85c2", "info":"Jason_Bal"},
+
+    {"id":365, "crushName":"Thomas", "security":"69829f3e6c7066c5", "info":"Thomas_SV26"},
+
+    {"id":369, "crushName":"Roy", "security":"05a10c0c749029a2", "info":"Roy_SV26"},
+    
+    {"id":371, "crushName":"Amanda", "security":"c339410a0d5e6ad3", "info":"Amanda_SV26"},
+    {"id":372, "crushName":"Devon", "security":"0ab55a3d7164f73d", "info":"Devon_SV26"},
+    {"id":373, "crushName":"Jason", "security":"f48931ebcfc13edb", "info":"Jason_SV26"}
 ]
