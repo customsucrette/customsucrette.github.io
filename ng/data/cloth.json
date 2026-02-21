@@ -23282,16 +23282,197 @@
             {"id":13215, "colors":["green","grey","golden"]}
         ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
         "releaseDate":"2026-02-10"
+    },
+    {
+        "groupId":13216, "zone":"general", "category":"tattoo", "security":"7f7724416c7a7df8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Roy's Vibe",
+        "variations":[
+            {"id":13216, "colors":["black"]},
+            {"id":13217, "colors":["green"]},
+            {"id":13218, "colors":["red"]},
+            {"id":13219, "colors":["purple"]},
+            {"id":13220, "colors":["white"]},
+            {"id":13221, "colors":["blue"]},
+            {"id":13222, "colors":["brown"]},
+            {"id":13223, "colors":["yellow"]},
+            {"id":13224, "colors":["brown"]},
+            {"id":13225, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "releaseDate":"2026-02-18"
+    },
+    {
+        "groupId":13226, "zone":"torso_waistToKnee", "category":"underwear", "security":"ab6f6878cef15cf6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mono",
+        "outfitName":"Roy's Vibe",
+        "variations":[
+            {"id":13226, "colors":["black","blue"]},
+            {"id":13227, "colors":["black","green"]},
+            {"id":13228, "colors":["black","red"]},
+            {"id":13229, "colors":["black","purple"]},
+            {"id":13230, "colors":["black","yellow"]},
+            {"id":13231, "colors":["black","blue"]},
+            {"id":13232, "colors":["black","brown"]},
+            {"id":13233, "colors":["black","white"]},
+            {"id":13234, "colors":["black","brown"]},
+            {"id":13235, "colors":["black","pink"]}
+        ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "releaseDate":"2026-02-18"
+    },
+    {
+        "groupId":13236, "zone":"feet", "category":"socks", "security":"af033de7c83a7919", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Roy's Vibe",
+        "variations":[
+            {"id":13236, "colors":["white","blue","green"]},
+            {"id":13237, "colors":["white","green","brown"]},
+            {"id":13238, "colors":["white","red","grey"]},
+            {"id":13239, "colors":["white","purple"]},
+            {"id":13240, "colors":["white","yellow"]},
+            {"id":13241, "colors":["white","blue"]},
+            {"id":13242, "colors":["white","brown"]},
+            {"id":13243, "colors":["white","pink"]},
+            {"id":13244, "colors":["white","brown"]},
+            {"id":13245, "colors":["white","pink"]}
+        ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "releaseDate":"2026-02-18"
+    },
+    {
+        "groupId":13246, "zone":"face", "category":"neckAccessory", "security":"9b3d7ba88da59e11", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas De Natación",
+        "outfitName":"Roy's Vibe",
+        "variations":[
+            {"id":13246, "colors":["black","blue"]},
+            {"id":13247, "colors":["black","green"]},
+            {"id":13248, "colors":["black","red"]},
+            {"id":13249, "colors":["black","purple"]},
+            {"id":13250, "colors":["black","yellow"]},
+            {"id":13251, "colors":["black","blue"]},
+            {"id":13252, "colors":["black","brown"]},
+            {"id":13253, "colors":["black","white"]},
+            {"id":13254, "colors":["black","orange"]},
+            {"id":13255, "colors":["black","pink"]}
+        ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "releaseDate":"2026-02-18"
+    },
+    {
+        "groupId":13256, "zone":"feet", "category":"shoes", "security":"acc637978e800c9d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Deportivas",
+        "outfitName":"Roy's Vibe",
+        "variations":[
+            {"id":13256, "colors":["white","grey"]},
+            {"id":13257, "colors":["white","green"]},
+            {"id":13258, "colors":["black","red"]},
+            {"id":13259, "colors":["white","purple"]},
+            {"id":13260, "colors":["red","black"]},
+            {"id":13261, "colors":["white","blue"]},
+            {"id":13262, "colors":["black","grey"]},
+            {"id":13263, "colors":["white","yellow"]},
+            {"id":13264, "colors":["black","brown"]},
+            {"id":13265, "colors":["white","pink"]}
+        ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "releaseDate":"2026-02-18"
+    },
+    {
+        "groupId":13266, "zone":"arms", "category":"bag", "security":"e93e576b7008eb1d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolsa de deporte",
+        "outfitName":"Roy's Vibe",
+        "variations":[
+            {"id":13266, "colors":["black","grey","green"]},
+            {"id":13267, "colors":["black","grey","brown"]},
+            {"id":13268, "colors":["black","grey"]},
+            {"id":13269, "colors":["black","grey","white"]},
+            {"id":13270, "colors":["black","grey","red"]},
+            {"id":13271, "colors":["black","grey","blue"]},
+            {"id":13272, "colors":["black","grey","brown"]},
+            {"id":13273, "colors":["black","grey","pink"]},
+            {"id":13274, "colors":["black","grey","purple"]},
+            {"id":13275, "colors":["black","grey","yellow"]}
+        ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "releaseDate":"2026-02-18"
+    },
+    {
+        "groupId":13276, "zone":"waistToKnee", "category":"pants", "security":"688b090374918b46", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jeans",
+        "outfitName":"Roy's Vibe",
+        "variations":[
+            {"id":13276, "colors":["blue"]},
+            {"id":13277, "colors":["grey"]},
+            {"id":13278, "colors":["blue"]},
+            {"id":13279, "colors":["blue"]},
+            {"id":13280, "colors":["black"]},
+            {"id":13281, "colors":["brown"]},
+            {"id":13282, "colors":["green"]},
+            {"id":13283, "colors":["brown"]},
+            {"id":13284, "colors":["pink"]},
+            {"id":13285, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "releaseDate":"2026-02-18"
+    },
+    {
+        "groupId":13286, "zone":"torso", "category":"top", "security":"af6e2a68669c6755", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Roy's Vibe",
+        "variations":[
+            {"id":13286, "colors":["white"]},
+            {"id":13287, "colors":["green"]},
+            {"id":13288, "colors":["red"]},
+            {"id":13289, "colors":["purple"]},
+            {"id":13290, "colors":["orange"]},
+            {"id":13291, "colors":["blue"]},
+            {"id":13292, "colors":["black"]},
+            {"id":13293, "colors":["yellow"]},
+            {"id":13294, "colors":["brown"]},
+            {"id":13295, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "releaseDate":"2026-02-18"
+    },
+    {
+        "groupId":13296, "zone":"torso", "category":"jacket", "security":"4c171017072e7e05", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Roy's Vibe",
+        "variations":[
+            {"id":13296, "colors":["green"]},
+            {"id":13297, "colors":["brown"]},
+            {"id":13298, "colors":["black"]},
+            {"id":13299, "colors":["white"]},
+            {"id":13300, "colors":["red"]},
+            {"id":13301, "colors":["blue"]},
+            {"id":13302, "colors":["brown"]},
+            {"id":13303, "colors":["pink"]},
+            {"id":13304, "colors":["purple"]},
+            {"id":13305, "colors":["yellow"]}
+        ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "releaseDate":"2026-02-18"
+    },
+    {
+        "groupId":13306, "zone":"head", "category":"wig", "security":"eed110f16a88f190", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Roy's Vibe",
+        "variations":[
+            {"id":13306, "colors":["black"]},
+            {"id":13307, "colors":["brown"]},
+            {"id":13308, "colors":["white"]},
+            {"id":13309, "colors":["black"]},
+            {"id":13310, "colors":["blue"]},
+            {"id":13311, "colors":["blue"]},
+            {"id":13312, "colors":["purple"]},
+            {"id":13313, "colors":["red"]},
+            {"id":13314, "colors":["yellow"]},
+            {"id":13315, "colors":["orange"]},
+            {"id":13316, "colors":["pink"]},
+            {"id":13317, "colors":["black"]},
+            {"id":13318, "colors":["brown"]},
+            {"id":13319, "colors":["white"]},
+            {"id":13320, "colors":["black"]},
+            {"id":13321, "colors":["blue"]},
+            {"id":13322, "colors":["blue"]},
+            {"id":13323, "colors":["purple"]},
+            {"id":13324, "colors":["red"]},
+            {"id":13325, "colors":["yellow"]},
+            {"id":13326, "colors":["orange"]},
+            {"id":13327, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "releaseDate":"2026-02-18"
     }
-
-
-
-
-
-
-
-
-
-
-
 ]

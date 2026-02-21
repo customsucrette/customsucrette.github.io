@@ -3294,6 +3294,46 @@
         "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
     },
     {
+        "id":517, "roomId":106, "slot":"background", "releaseDate":"2026-02-18", "light":true, "security":"2cf4e2a0b114d341",
+        "name":"Paredes",
+        "roomName":"Roy's Touch",
+        "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
+        "backgroundColors":{
+            "day":{"color1":"EDEDEC","color2":"9FB1C0","colorLight":"1B5280"},
+            "night":{"color1":"F5AE7F","color2":"94B2CB","colorLight":"78451B"}
+        }
+    },
+    {
+        "id":518, "roomId":106, "slot":"slot1", "releaseDate":"2026-02-18", "light":false, "security":"d4d5a20d836d6cb4",
+        "name":"Baño",
+        "roomName":"Roy's Touch",
+        "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"}
+    },
+    {
+        "id":519, "roomId":106, "slot":"slot2", "releaseDate":"2026-02-18", "light":false, "security":"fbc68cbadb2173fc",
+        "name":"Cama",
+        "roomName":"Roy's Touch",
+        "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"}
+    },
+    {
+        "id":520, "roomId":106, "slot":"slot3", "releaseDate":"2026-02-18", "light":false, "security":"e4ad82cc5b77e0f0",
+        "name":"Accesorios deportivos",
+        "roomName":"Roy's Touch",
+        "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"}
+    },
+    {
+        "id":521, "roomId":106, "slot":"slot4", "releaseDate":"2026-02-18", "light":false, "security":"c2a23a42f12ebbe5",
+        "name":"Aparato de remo",
+        "roomName":"Roy's Touch",
+        "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"}
+    },
+    {
+        "id":522, "roomId":106, "slot":"slot5", "releaseDate":"2026-02-18", "light":false, "security":"d663dbb27601623b",
+        "name":"TV",
+        "roomName":"Roy's Touch",
+        "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"}
+    },
+    {
         "id":535, "roomId":109, "slot":"background", "releaseDate":"2026-02-10", "light":true, "security":"463ffb35db95c644",
         "name":"Paredes",
         "roomName":"Parisian Romance",

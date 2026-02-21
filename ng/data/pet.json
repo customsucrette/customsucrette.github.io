@@ -338,5 +338,9 @@
     {
         "id":86, "security":"6bfe1ed9f4837c36", "releaseDate":"2026-02-10", "name":"La Nascita dell'Oca",
         "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"}
+    },
+    {
+        "id":87, "security":"d0c4b45bba757372", "releaseDate":"2026-02-18", "name":"Roy's Influence",
+        "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"}
     }
 ]
