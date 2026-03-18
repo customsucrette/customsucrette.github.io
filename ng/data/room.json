@@ -2971,7 +2971,46 @@
         "roomName":"Amberwood Café",
         "criteria":{"type":"gauge", "info":"Autumn Spiced Outfit", "text":"Desbloqueado en el evento de medidor\nAutumn Spiced Outfit"}
     },
-
+    {
+        "id":462, "roomId":96, "slot":"background", "releaseDate":"2026-03-02", "light":true, "security":"82e8698bf308d562",
+        "name":"Paredes",
+        "roomName":"Under Neon Lights",
+        "criteria":{"type":"calendar", "info":"2026-24", "text":"Desbloqueado en el calendario\nN°24 - 2026"},
+        "backgroundColors":{
+            "day":{"color1":"8CD4D6","color2":"9692DA","colorLight":"6A3E83"},
+            "night":{"color1":"B967C0","color2":"9692DA","colorLight":"6A3E83"}
+        }
+    },
+    {
+        "id":463, "roomId":96, "slot":"slot1", "releaseDate":"2026-03-02", "light":true, "security":"141b58f1676581ef",
+        "name":"Sofá",
+        "roomName":"Under Neon Lights",
+        "criteria":{"type":"calendar", "info":"2026-24", "text":"Desbloqueado en el calendario\nN°24 - 2026"}
+    },
+    {
+        "id":464, "roomId":96, "slot":"slot2", "releaseDate":"2026-03-02", "light":true, "security":"8d15fff564faed05",
+        "name":"Cama",
+        "roomName":"Under Neon Lights",
+        "criteria":{"type":"calendar", "info":"2026-24", "text":"Desbloqueado en el calendario\nN°24 - 2026"}
+    },
+    {
+        "id":465, "roomId":96, "slot":"slot3", "releaseDate":"2026-03-02", "light":true, "security":"521dae641fbcf4c7",
+        "name":"Mesa de mezclas",
+        "roomName":"Under Neon Lights",
+        "criteria":{"type":"calendar", "info":"2026-24", "text":"Desbloqueado en el calendario\nN°24 - 2026"}
+    },
+    {
+        "id":466, "roomId":96, "slot":"slot4", "releaseDate":"2026-03-02", "light":true, "security":"0401210a70ec5b8d",
+        "name":"Altavoces",
+        "roomName":"Under Neon Lights",
+        "criteria":{"type":"calendar", "info":"2026-24", "text":"Desbloqueado en el calendario\nN°24 - 2026"}
+    },
+    {
+        "id":467, "roomId":96, "slot":"slot5", "releaseDate":"2026-03-02", "light":false, "security":"cd20fa47f6302f72",
+        "name":"Mesa baja",
+        "roomName":"Under Neon Lights",
+        "criteria":{"type":"calendar", "info":"2026-24", "text":"Desbloqueado en el calendario\nN°24 - 2026"}
+    },
     {
         "id":468, "roomId":97, "slot":"background", "releaseDate":"2025-11-07", "light":true, "security":"5a18a79d68fba516",
         "name":"Paredes",
@@ -3332,6 +3371,47 @@
         "name":"TV",
         "roomName":"Roy's Touch",
         "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"}
+    },
+
+    {
+        "id":529, "roomId":108, "slot":"background", "releaseDate":"2026-03-17", "light":true, "security":"dc3e70041edc28ad",
+        "name":"Paredes",
+        "roomName":"1001 Nights",
+        "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "backgroundColors":{
+            "day":{"color1":"D6E6F5","color2":"DAC6DE","colorLight":"5A504C"},
+            "night":{"color1":"AF91C7","color2":"819BB8","colorLight":"8051A5"}
+        }
+    },
+    {
+        "id":530, "roomId":108, "slot":"slot1", "releaseDate":"2026-03-17", "light":true, "security":"e34b9089eb24e033",
+        "name":"Patio",
+        "roomName":"1001 Nights",
+        "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"}
+    },
+    {
+        "id":531, "roomId":108, "slot":"slot2", "releaseDate":"2026-03-17", "light":true, "security":"737bb6bd235c0460",
+        "name":"Sofá",
+        "roomName":"1001 Nights",
+        "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"}
+    },
+    {
+        "id":532, "roomId":108, "slot":"slot3", "releaseDate":"2026-03-17", "light":false, "security":"4154d5792a48ea68",
+        "name":"Tigre",
+        "roomName":"1001 Nights",
+        "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"}
+    },
+    {
+        "id":533, "roomId":108, "slot":"slot4", "releaseDate":"2026-03-17", "light":true, "security":"4a9c8dff1d898f2f",
+        "name":"Linterna",
+        "roomName":"1001 Nights",
+        "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"}
+    },
+    {
+        "id":534, "roomId":108, "slot":"slot5", "releaseDate":"2026-03-17", "light":true, "security":"71f4d779913d2286",
+        "name":"Farolillos y especias",
+        "roomName":"1001 Nights",
+        "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"}
     },
     {
         "id":535, "roomId":109, "slot":"background", "releaseDate":"2026-02-10", "light":true, "security":"463ffb35db95c644",

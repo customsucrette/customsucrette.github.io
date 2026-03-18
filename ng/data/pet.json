@@ -325,7 +325,7 @@
     },
     {
         "id":83, "security":"c1f2aa8d443818b3", "releaseDate":"2026-01-07", "name":"Cockatoose",
-        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor \n Feathers of Paradise"}
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
     },
     {
         "id":84, "security":"80dbab4ce6386502", "releaseDate":"2026-01-30", "name":"Fairy Goosemother",
@@ -342,5 +342,9 @@
     {
         "id":87, "security":"d0c4b45bba757372", "releaseDate":"2026-02-18", "name":"Roy's Influence",
         "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"}
+    },
+    {
+        "id":88, "security":"e3fa88f4c6a0c7a8", "releaseDate":"2026-03-17", "name":"Goose of the Lamp",
+        "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"}
     }
 ]

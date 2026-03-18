@@ -23474,5 +23474,185 @@
             {"id":13327, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
         "releaseDate":"2026-02-18"
+    },
+    {
+        "groupId":13328, "zone":"feet", "category":"shoes", "security":"bafbde675da1438f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13328, "colors":["blue"]},
+            {"id":13329, "colors":["purple"]},
+            {"id":13330, "colors":["red"]},
+            {"id":13331, "colors":["white","brown"]},
+            {"id":13332, "colors":["yellow","brown"]},
+            {"id":13333, "colors":["black","brown"]},
+            {"id":13334, "colors":["green"]},
+            {"id":13335, "colors":["blue","brown"]},
+            {"id":13336, "colors":["brown","pink"]},
+            {"id":13337, "colors":["brown"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
+    },
+    {
+        "groupId":13338, "zone":"head", "category":"hat", "security":"5c782f381352cdb0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Velo",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13338, "colors":["golden","blue"]},
+            {"id":13339, "colors":["golden","purple"]},
+            {"id":13340, "colors":["golden","red"]},
+            {"id":13341, "colors":["silver","white"]},
+            {"id":13342, "colors":["silver","yellow"]},
+            {"id":13343, "colors":["silver","black"]},
+            {"id":13344, "colors":["golden","green"]},
+            {"id":13345, "colors":["silver","blue"]},
+            {"id":13346, "colors":["golden","pink"]},
+            {"id":13347, "colors":["silver","brown"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
+    },
+    {
+        "groupId":13348, "zone":"arms", "category":"armAccessory", "security":"7f3c35af3ef3529e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13348, "colors":["golden","blue"]},
+            {"id":13349, "colors":["golden","purple"]},
+            {"id":13350, "colors":["golden","red"]},
+            {"id":13351, "colors":["silver","white"]},
+            {"id":13352, "colors":["silver","yellow"]},
+            {"id":13353, "colors":["silver","black"]},
+            {"id":13354, "colors":["golden","green"]},
+            {"id":13355, "colors":["silver","blue"]},
+            {"id":13356, "colors":["golden","pink"]},
+            {"id":13357, "colors":["silver","brown"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
+    },
+    {
+        "groupId":13358, "zone":"waistToKnee", "category":"pants", "security":"670f205dc4d1a617", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13358, "colors":["golden","brown"]},
+            {"id":13359, "colors":["golden","red"]},
+            {"id":13360, "colors":["golden","black"]},
+            {"id":13361, "colors":["silver","blue"]},
+            {"id":13362, "colors":["silver","green"]},
+            {"id":13363, "colors":["silver","purple"]},
+            {"id":13364, "colors":["golden","brown"]},
+            {"id":13365, "colors":["silver","yellow"]},
+            {"id":13366, "colors":["golden","white"]},
+            {"id":13367, "colors":["silver","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
+    },
+    {
+        "groupId":13368, "zone":"skirt", "category":"skirt", "security":"3ad6552da43ac66e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13368, "colors":["golden","blue"]},
+            {"id":13369, "colors":["golden","purple"]},
+            {"id":13370, "colors":["golden","red"]},
+            {"id":13371, "colors":["silver","white"]},
+            {"id":13372, "colors":["silver","yellow"]},
+            {"id":13373, "colors":["silver","black"]},
+            {"id":13374, "colors":["golden","green"]},
+            {"id":13375, "colors":["silver","blue"]},
+            {"id":13376, "colors":["golden","pink"]},
+            {"id":13377, "colors":["silver","brown"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
+    },
+    {
+        "groupId":13378, "zone":"torso_waistToKnee", "category":"waist", "security":"d09ab728e3bedde1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13378, "colors":["golden","blue"]},
+            {"id":13379, "colors":["golden","purple"]},
+            {"id":13380, "colors":["golden","red"]},
+            {"id":13381, "colors":["silver","white"]},
+            {"id":13382, "colors":["silver","yellow"]},
+            {"id":13383, "colors":["silver","black"]},
+            {"id":13384, "colors":["golden","green"]},
+            {"id":13385, "colors":["silver","blue"]},
+            {"id":13386, "colors":["golden","pink"]},
+            {"id":13387, "colors":["silver","brown"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
+    },
+    {
+        "groupId":13388, "zone":"torso", "category":"top", "security":"30c0ae845f8a710a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13388, "colors":["blue","brown"]},
+            {"id":13389, "colors":["purple","pink"]},
+            {"id":13390, "colors":["red","pink"]},
+            {"id":13391, "colors":["white","blue"]},
+            {"id":13392, "colors":["yellow"]},
+            {"id":13393, "colors":["black"]},
+            {"id":13394, "colors":["green","yellow"]},
+            {"id":13395, "colors":["blue"]},
+            {"id":13396, "colors":["pink","yellow"]},
+            {"id":13397, "colors":["yellow","brown"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
+    },
+    {
+        "groupId":13398, "zone":"arms", "category":"bag", "security":"9cb1b04d658f90a9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lámpara",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13398, "colors":["golden","blue"]},
+            {"id":13399, "colors":["golden","purple"]},
+            {"id":13400, "colors":["golden","red"]},
+            {"id":13401, "colors":["silver","white"]},
+            {"id":13402, "colors":["silver","yellow"]},
+            {"id":13403, "colors":["silver","black"]},
+            {"id":13404, "colors":["golden","green"]},
+            {"id":13405, "colors":["silver","blue"]},
+            {"id":13406, "colors":["golden","pink"]},
+            {"id":13407, "colors":["silver","brown"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
+    },
+    {
+        "groupId":13408, "zone":"head", "category":"faceAccessory", "security":"f5aff7eaca31de11", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Velo del rostro",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13408, "colors":["golden","blue"]},
+            {"id":13409, "colors":["golden","purple"]},
+            {"id":13410, "colors":["golden","red"]},
+            {"id":13411, "colors":["silver","white"]},
+            {"id":13412, "colors":["silver","yellow"]},
+            {"id":13413, "colors":["silver","black"]},
+            {"id":13414, "colors":["golden","green"]},
+            {"id":13415, "colors":["silver","blue"]},
+            {"id":13416, "colors":["golden","pink"]},
+            {"id":13417, "colors":["silver","brown"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
+    },
+    {
+        "groupId":13418, "zone":"head", "category":"wig", "security":"7f60c8b760d36bce", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13418, "colors":["brown"]},
+            {"id":13419, "colors":["white"]},
+            {"id":13420, "colors":["black"]},
+            {"id":13421, "colors":["blue"]},
+            {"id":13422, "colors":["blue"]},
+            {"id":13423, "colors":["purple"]},
+            {"id":13424, "colors":["red"]},
+            {"id":13425, "colors":["yellow"]},
+            {"id":13426, "colors":["orange"]},
+            {"id":13427, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
     }
 ]
