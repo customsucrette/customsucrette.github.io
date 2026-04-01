@@ -1636,5 +1636,14 @@
 	{"groupId":36377, "category":"Dress", "name":"Vestido Exploding Star"},
 	{"groupId":36387, "category":"shoes", "name":"Zapatos Exploding Star"},
 	{"groupId":36397, "category":"hairAccessory", "name":"Prendedores Exploding Star"},
-	{"groupId":36486, "category":"accessory", "name":"Castiel from NewGen"}
+	{"groupId":36486, "category":"accessory", "name":"Castiel from NewGen"},
+	{"groupId":36487, "category":"underwears", "name":"Lencería Golden Memories"},
+	{"groupId":36488, "category":"socks", "name":"Medias Golden Memories"},
+	{"groupId":36489, "category":"shoes", "name":"Zapatos Golden Memories"},
+	{"groupId":36490, "category":"Dress", "name":"Vestido Golden Memories"},
+	{"groupId":36491, "category":"accessory", "name":"Guantes Golden Memories"},
+	{"groupId":36492, "category":"necklace", "name":"Collar Golden Memories"},
+	{"groupId":36493, "category":"accessory", "name":"Pendientes Golden Memories"},
+	{"groupId":36494, "category":"wig", "name":"Peluca Golden Memories"},
+	{"groupId":36495, "category":"hairAccessory", "name":"Rosas Golden Memories"}
 ]
