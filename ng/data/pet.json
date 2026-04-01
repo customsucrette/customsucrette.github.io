@@ -346,5 +346,18 @@
     {
         "id":88, "security":"e3fa88f4c6a0c7a8", "releaseDate":"2026-03-17", "name":"Goose of the Lamp",
         "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"}
+    },
+    {
+        "id":89, "security":"fafeab0f74e77a28", "releaseDate":"2026-03-28", "name":"Golden Goose",
+        "criteria":null
+    },
+    {
+        "id":92, "security":"9750da9f17e194d0", "releaseDate":"2026-04-01", "name":"Goosing Around",
+        "criteria":null
+    },
+
+    {
+        "id":94, "security":"ab3267e3998ee798", "releaseDate":"2026-03-26", "name":"Eggstravagoose",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"}
     }
 ]

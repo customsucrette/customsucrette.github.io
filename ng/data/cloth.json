@@ -23654,5 +23654,349 @@
             {"id":13427, "colors":["pink"]}
         ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
         "releaseDate":"2026-03-17"
+    },
+
+    {
+        "groupId":13548, "zone":"feet", "category":"shoes", "security":"cae1a8db37c20542", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Goose on the Loose",
+        "variations":[
+            {"id":13548, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-01"
+    },
+    {
+        "groupId":13549, "zone":"torso_waistToKnee", "category":"dress", "security":"ed2b70bc51762814", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Mono corto",
+        "outfitName":"Goose on the Loose",
+        "variations":[
+            {"id":13549, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-01"
+    },
+    {
+        "groupId":13550, "zone":"head", "category":"hat", "security":"10023a9d5ad83f2f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gorra",
+        "outfitName":"Goose on the Loose",
+        "variations":[
+            {"id":13550, "colors":["white","yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-01"
+    },
+    {
+        "groupId":13551, "zone":"arms", "category":"bag", "security":"3978675036662bf9", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Goose on the Loose",
+        "variations":[
+            {"id":13551, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-01"
+    },
+    {
+        "groupId":13552, "zone":"arms", "category":"bag", "security":"07cb6543a9f1c5d8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Póster",
+        "outfitName":"Goose on the Loose",
+        "variations":[
+            {"id":13552, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-01"
+    },
+    {
+        "groupId":13553, "zone":"general", "category":"other", "security":"850e6a873c9ebcc5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pósteres",
+        "outfitName":"Goose on the Loose",
+        "variations":[
+            {"id":13553, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-01"
+    },
+    {
+        "groupId":13554, "zone":"arms", "category":"armAccessory", "security":"683622c6ca6aacd5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Prótesis",
+        "outfitName":"Clockwork Duchess",
+        "variations":[
+            {"id":13554, "colors":["silver","golden"]},
+            {"id":13555, "colors":["white","golden"]},
+            {"id":13556, "colors":["black","silver"]},
+            {"id":13557, "colors":["brown","golden"]},
+            {"id":13558, "colors":["red","golden"]},
+            {"id":13559, "colors":["pink","silver"]},
+            {"id":13560, "colors":["golden"]},
+            {"id":13561, "colors":["purple","silver"]},
+            {"id":13562, "colors":["blue","silver"]},
+            {"id":13563, "colors":["green","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2026-25", "text":"Desbloqueado en el calendario\nN°25 - 2026"},
+        "releaseDate":"2026-03-01"
+    },
+    {
+        "groupId":13564, "zone":"torso", "category":"top", "security":"46757a26fadeb570", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Clockwork Duchess",
+        "variations":[
+            {"id":13564, "colors":["white","brown","silver"]},
+            {"id":13565, "colors":["brown","golden"]},
+            {"id":13566, "colors":["black","brown","silver"]},
+            {"id":13567, "colors":["brown","golden"]},
+            {"id":13568, "colors":["red","brown","golden"]},
+            {"id":13569, "colors":["pink","brown","silver"]},
+            {"id":13570, "colors":["yellow","brown","golden"]},
+            {"id":13571, "colors":["purple","brown","silver"]},
+            {"id":13572, "colors":["blue","brown","silver"]},
+            {"id":13573, "colors":["green","brown","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2026-25", "text":"Desbloqueado en el calendario\nN°25 - 2026"},
+        "releaseDate":"2026-03-01"
+    },
+    {
+        "groupId":13574, "zone":"waistToKnee", "category":"skirt", "security":"1049f394b1b5c6cc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Clockwork Duchess",
+        "variations":[
+            {"id":13574, "colors":["blue","golden"]},
+            {"id":13575, "colors":["white","golden"]},
+            {"id":13576, "colors":["black","silver"]},
+            {"id":13577, "colors":["brown","orange","golden"]},
+            {"id":13578, "colors":["red","golden"]},
+            {"id":13579, "colors":["pink","silver"]},
+            {"id":13580, "colors":["yellow","orange","golden"]},
+            {"id":13581, "colors":["purple","silver"]},
+            {"id":13582, "colors":["grey","silver"]},
+            {"id":13583, "colors":["green","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2026-25", "text":"Desbloqueado en el calendario\nN°25 - 2026"},
+        "releaseDate":"2026-03-01"
+    },
+    {
+        "groupId":13584, "zone":"torso_waistToKnee", "category":"waist", "security":"376ab8c51bafbad1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corsé",
+        "outfitName":"Clockwork Duchess",
+        "variations":[
+            {"id":13584, "colors":["brown","golden","silver"]},
+            {"id":13585, "colors":["white","golden"]},
+            {"id":13586, "colors":["black","silver"]},
+            {"id":13587, "colors":["green","golden"]},
+            {"id":13588, "colors":["purple","golden"]},
+            {"id":13589, "colors":["red","silver"]},
+            {"id":13590, "colors":["grey","golden","silver"]},
+            {"id":13591, "colors":["pink","silver"]},
+            {"id":13592, "colors":["blue","silver"]},
+            {"id":13593, "colors":["yellow","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2026-25", "text":"Desbloqueado en el calendario\nN°25 - 2026"},
+        "releaseDate":"2026-03-01"
+    },
+    {
+        "groupId":13594, "zone":"head", "category":"faceAccessory", "security":"2b3ce1cc221dc0fe", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Monóculo",
+        "outfitName":"Clockwork Duchess",
+        "variations":[
+            {"id":13594, "colors":["orange","golden"]},
+            {"id":13595, "colors":["white","golden"]},
+            {"id":13596, "colors":["black","silver"]},
+            {"id":13597, "colors":["green","golden"]},
+            {"id":13598, "colors":["purple","golden"]},
+            {"id":13599, "colors":["red","silver"]},
+            {"id":13600, "colors":["grey","silver"]},
+            {"id":13601, "colors":["pink","silver"]},
+            {"id":13602, "colors":["blue","silver"]},
+            {"id":13603, "colors":["yellow","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2026-25", "text":"Desbloqueado en el calendario\nN°25 - 2026"},
+        "releaseDate":"2026-03-01"
+    },
+    {
+        "groupId":13604, "zone":"head", "category":"hat", "security":"0c929119add97307", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Clockwork Duchess",
+        "variations":[
+            {"id":13604, "colors":["brown","orange","golden"]},
+            {"id":13605, "colors":["white","golden"]},
+            {"id":13606, "colors":["black","silver"]},
+            {"id":13607, "colors":["green","golden"]},
+            {"id":13608, "colors":["purple","golden"]},
+            {"id":13609, "colors":["red","silver"]},
+            {"id":13610, "colors":["grey","golden"]},
+            {"id":13611, "colors":["pink","silver"]},
+            {"id":13612, "colors":["blue","silver"]},
+            {"id":13613, "colors":["yellow","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2026-25", "text":"Desbloqueado en el calendario\nN°25 - 2026"},
+        "releaseDate":"2026-03-01"
+    },
+
+    {
+        "groupId":13942, "zone":"feet", "category":"shoes", "security":"bcd8e3e6fe6cf9dd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13942, "colors":["green","white"]},
+            {"id":13943, "colors":["blue","brown"]},
+            {"id":13944, "colors":["yellow","green"]},
+            {"id":13945, "colors":["pink","blue"]},
+            {"id":13946, "colors":["purple","black"]},
+            {"id":13947, "colors":["purple","yellow"]},
+            {"id":13948, "colors":["white","pink"]},
+            {"id":13949, "colors":["brown","blue"]},
+            {"id":13950, "colors":["blue","red"]},
+            {"id":13951, "colors":["red","black"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":13952, "zone":"general", "category":"other", "security":"a07b3a823af8dd1f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Huevos de Pascua",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13952, "colors":["green","multi"]},
+            {"id":13953, "colors":["green","multi"]},
+            {"id":13954, "colors":["green","multi"]},
+            {"id":13955, "colors":["green","multi"]},
+            {"id":13956, "colors":["green","multi"]},
+            {"id":13957, "colors":["green","multi"]},
+            {"id":13958, "colors":["green","multi"]},
+            {"id":13959, "colors":["green","multi"]},
+            {"id":13960, "colors":["green","multi"]},
+            {"id":13961, "colors":["green","multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":13962, "zone":"torso", "category":"top", "security":"68d3f220edc6b1fb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13962, "colors":["white"]},
+            {"id":13963, "colors":["brown"]},
+            {"id":13964, "colors":["green"]},
+            {"id":13965, "colors":["blue"]},
+            {"id":13966, "colors":["purple"]},
+            {"id":13967, "colors":["yellow"]},
+            {"id":13968, "colors":["pink"]},
+            {"id":13969, "colors":["blue","green"]},
+            {"id":13970, "colors":["red"]},
+            {"id":13971, "colors":["black"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":13972, "zone":"waistToKnee", "category":"skirt", "security":"62ece5edf3d42b0c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13972, "colors":["white","green"]},
+            {"id":13973, "colors":["white","blue"]},
+            {"id":13974, "colors":["white","yellow"]},
+            {"id":13975, "colors":["white","pink"]},
+            {"id":13976, "colors":["white","black"]},
+            {"id":13977, "colors":["white","purple"]},
+            {"id":13978, "colors":["white"]},
+            {"id":13979, "colors":["white","brown"]},
+            {"id":13980, "colors":["white","blue"]},
+            {"id":13981, "colors":["white","red"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":13982, "zone":"torso", "category":"jacket", "security":"8448a4621eb36b57", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13982, "colors":["white","green"]},
+            {"id":13983, "colors":["white","blue"]},
+            {"id":13984, "colors":["white","yellow"]},
+            {"id":13985, "colors":["white","pink"]},
+            {"id":13986, "colors":["white","black"]},
+            {"id":13987, "colors":["white","purple"]},
+            {"id":13988, "colors":["white"]},
+            {"id":13989, "colors":["white","brown"]},
+            {"id":13990, "colors":["white","blue"]},
+            {"id":13991, "colors":["white","red"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":13992, "zone":"arms", "category":"bag", "security":"0de7f2ebbb00ba68", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13992, "colors":["yellow","green","white"]},
+            {"id":13993, "colors":["yellow","green","brown"]},
+            {"id":13994, "colors":["yellow","green"]},
+            {"id":13995, "colors":["yellow","green","blue"]},
+            {"id":13996, "colors":["yellow","green","purple"]},
+            {"id":13997, "colors":["yellow","green"]},
+            {"id":13998, "colors":["yellow","green","pink"]},
+            {"id":13999, "colors":["yellow","green","blue"]},
+            {"id":14000, "colors":["yellow","green","red"]},
+            {"id":14001, "colors":["yellow","green","black"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":14002, "zone":"arms", "category":"bag", "security":"c4ea2129c68ce57a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Huevo de chocolate",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":14002, "colors":["brown"]},
+            {"id":14003, "colors":["brown"]},
+            {"id":14004, "colors":["white","brown"]},
+            {"id":14005, "colors":["orange","brown"]},
+            {"id":14006, "colors":["brown"]},
+            {"id":14007, "colors":["pink","brown"]},
+            {"id":14008, "colors":["pink","purple"]},
+            {"id":14009, "colors":["red","brown"]},
+            {"id":14010, "colors":["green","brown"]},
+            {"id":14011, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":14012, "zone":"face", "category":"makeup", "security":"a22b0ee4b3a224f7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maquillaje",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":14012, "colors":["yellow","white"]},
+            {"id":14013, "colors":["yellow","brown"]},
+            {"id":14014, "colors":["yellow","green"]},
+            {"id":14015, "colors":["yellow","blue"]},
+            {"id":14016, "colors":["yellow","purple"]},
+            {"id":14017, "colors":["yellow"]},
+            {"id":14018, "colors":["pink","yellow"]},
+            {"id":14019, "colors":["blue","yellow"]},
+            {"id":14020, "colors":["red","yellow"]},
+            {"id":14021, "colors":["black","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":14022, "zone":"head", "category":"hat", "security":"dc5362029c1bb517", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Diadema",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":14022, "colors":["white"]},
+            {"id":14023, "colors":["brown"]},
+            {"id":14024, "colors":["green"]},
+            {"id":14025, "colors":["blue"]},
+            {"id":14026, "colors":["purple"]},
+            {"id":14027, "colors":["yellow"]},
+            {"id":14028, "colors":["pink"]},
+            {"id":14029, "colors":["blue"]},
+            {"id":14030, "colors":["red"]},
+            {"id":14031, "colors":["black"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":14032, "zone":"general", "category":"other", "security":"d76058fc76e40aab", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Margaritas",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":14032, "colors":["white"]},
+            {"id":14033, "colors":["brown"]},
+            {"id":14034, "colors":["green"]},
+            {"id":14035, "colors":["blue"]},
+            {"id":14036, "colors":["purple"]},
+            {"id":14037, "colors":["yellow"]},
+            {"id":14038, "colors":["pink"]},
+            {"id":14039, "colors":["blue"]},
+            {"id":14040, "colors":["red"]},
+            {"id":14041, "colors":["black"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-03-26"
     }
 ]
