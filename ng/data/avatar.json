@@ -633,6 +633,24 @@
                     {"id":286, "colors":["green"]}
                 ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
                 "releaseDate":"2026-02-10"
+            },
+            {
+                "groupId":287, "zone":"face", "category":"eyes", "security":"515a557f098126d5",
+                "name":"Ojos",
+                "outfitName":"Chocolate Royal",
+                "variations":[
+                    {"id":287, "colors":["brown"]},
+                    {"id":288, "colors":["white"]},
+                    {"id":289, "colors":["black"]},
+                    {"id":290, "colors":["blue"]},
+                    {"id":291, "colors":["blue"]},
+                    {"id":292, "colors":["purple"]},
+                    {"id":293, "colors":["red"]},
+                    {"id":294, "colors":["grey","silver"]},
+                    {"id":295, "colors":["golden","yellow"]},
+                    {"id":296, "colors":["pink"]}
+                ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+                "releaseDate":"2026-04-02"
             }
         ],
         "mouth":[

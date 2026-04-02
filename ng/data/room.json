@@ -3498,5 +3498,85 @@
         "roomName":"Roses and Ambrosia",
         "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
         }
+    },
+    {
+        "id":547, "roomId":111, "slot":"background", "releaseDate":"2026-04-02", "light":true, "security":"6652880038d23e2d",
+        "name":"Paredes",
+        "roomName":"The Chocolate Factory",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "backgroundColors":{
+            "day":{"color1":"E9F8FF","color2":"BB8A7E","colorLight":"09AFF3"},
+            "night":{"color1":"6A97FF","color2":"C792AD","colorLight":"09AFF3"}
+        }
+    },
+    {
+        "id":548, "roomId":111, "slot":"slot1", "releaseDate":"2026-04-02", "light":false, "security":"2642865c519a43e6",
+        "name":"Estantes",
+        "roomName":"The Chocolate Factory",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"}
+    },
+    {
+        "id":549, "roomId":111, "slot":"slot2", "releaseDate":"2026-04-02", "light":true, "security":"e202cccd07aa2b42",
+        "name":"Alambique",
+        "roomName":"The Chocolate Factory",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"}
+    },
+    {
+        "id":550, "roomId":111, "slot":"slot3", "releaseDate":"2026-04-02", "light":false, "security":"601c5a0102caf91e",
+        "name":"Jaulas y pollos",
+        "roomName":"The Chocolate Factory",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"}
+    },
+    {
+        "id":551, "roomId":111, "slot":"slot4", "releaseDate":"2026-04-02", "light":false, "security":"9cc08d770fee1133",
+        "name":"Fuente de chocolate",
+        "roomName":"The Chocolate Factory",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"}
+    },
+    {
+        "id":552, "roomId":111, "slot":"slot5", "releaseDate":"2026-04-02", "light":false, "security":"c7b13a72449ea466",
+        "name":"Huevos",
+        "roomName":"The Chocolate Factory",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"}
+    },
+    {
+        "id":553, "roomId":112, "slot":"background", "releaseDate":"2026-04-02", "light":false, "security":"0d8177b8ded1309b",
+        "name":"Paredes",
+        "roomName":"Easter Garden",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "backgroundColors":{
+            "day":{"color1":"DCFFF9","color2":"F6FFB9","colorLight":null},
+            "night":{"color1":"ACC5FF","color2":"80BFD1","colorLight":null}
+        }
+    },
+    {
+        "id":554, "roomId":112, "slot":"slot1", "releaseDate":"2026-04-02", "light":false, "security":"c01a45ad9a409032",
+        "name":"Arca",
+        "roomName":"Easter Garden",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"}
+    },
+    {
+        "id":555, "roomId":112, "slot":"slot2", "releaseDate":"2026-04-02", "light":false, "security":"c3e0a766efb03a41",
+        "name":"Mesa",
+        "roomName":"Easter Garden",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"}
+    },
+    {
+        "id":556, "roomId":112, "slot":"slot3", "releaseDate":"2026-04-02", "light":false, "security":"9084e15086e9a9e9",
+        "name":"Sillón",
+        "roomName":"Easter Garden",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"}
+    },
+    {
+        "id":557, "roomId":112, "slot":"slot4", "releaseDate":"2026-04-02", "light":false, "security":"306305cb414bd9db",
+        "name":"Paneles",
+        "roomName":"Easter Garden",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"}
+    },
+    {
+        "id":558, "roomId":112, "slot":"slot5", "releaseDate":"2026-04-02", "light":false, "security":"e979ccc75a0e1505",
+        "name":"Carretilla",
+        "roomName":"Easter Garden",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"}
     }
 ]

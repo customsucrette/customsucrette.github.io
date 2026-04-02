@@ -355,7 +355,10 @@
         "id":92, "security":"9750da9f17e194d0", "releaseDate":"2026-04-01", "name":"Goosing Around",
         "criteria":null
     },
-
+    {
+        "id":93, "security":"e2f74fa363d84ecb", "releaseDate":"2026-04-02", "name":"Harle-Honk",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"}
+    },
     {
         "id":94, "security":"ab3267e3998ee798", "releaseDate":"2026-03-26", "name":"Eggstravagoose",
         "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"}

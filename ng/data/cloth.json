@@ -23998,5 +23998,437 @@
             {"id":14041, "colors":["black"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
         "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":14042, "zone":"feet", "category":"shoes", "security":"3e4a1709d6c75d20", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"BunnyChoc Girl",
+        "variations":[
+            {"id":14042, "colors":["black","red","white"]},
+            {"id":14043, "colors":["blue","white"]},
+            {"id":14044, "colors":["black","white","red"]},
+            {"id":14045, "colors":["yellow","white","green"]},
+            {"id":14046, "colors":["blue","white","purple"]},
+            {"id":14047, "colors":["green","white","blue"]},
+            {"id":14048, "colors":["pink","white","yellow"]},
+            {"id":14049, "colors":["pink","white","purple"]},
+            {"id":14050, "colors":["brown","white","orange"]},
+            {"id":14051, "colors":["blue","white","orange"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14052, "zone":"torso_waistToKnee", "category":"underwear", "security":"a41b07712967b736", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"BunnyChoc Girl",
+        "variations":[
+            {"id":14052, "colors":["black"]},
+            {"id":14053, "colors":["white"]},
+            {"id":14054, "colors":["red"]},
+            {"id":14055, "colors":["yellow"]},
+            {"id":14056, "colors":["blue"]},
+            {"id":14057, "colors":["green"]},
+            {"id":14058, "colors":["pink"]},
+            {"id":14059, "colors":["purple"]},
+            {"id":14060, "colors":["brown"]},
+            {"id":14061, "colors":["orange"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14062, "zone":"waistToKnee", "category":"skirt", "security":"41ad13ef753cc517", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Enaguas",
+        "outfitName":"BunnyChoc Girl",
+        "variations":[
+            {"id":14062, "colors":["black","white"]},
+            {"id":14063, "colors":["blue","white"]},
+            {"id":14064, "colors":["red","white"]},
+            {"id":14065, "colors":["white","yellow"]},
+            {"id":14066, "colors":["blue","white"]},
+            {"id":14067, "colors":["green","white"]},
+            {"id":14068, "colors":["pink","white"]},
+            {"id":14069, "colors":["purple","white"]},
+            {"id":14070, "colors":["brown","white"]},
+            {"id":14071, "colors":["white","orange"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14072, "zone":"torso", "category":"jacket", "security":"3ed74e1735e9a995", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Chaqueta",
+        "outfitName":"BunnyChoc Girl",
+        "variations":[
+            {"id":14072, "colors":["black","white"]},
+            {"id":14073, "colors":["blue","white"]},
+            {"id":14074, "colors":["red","black","white"]},
+            {"id":14075, "colors":["yellow","green","white"]},
+            {"id":14076, "colors":["blue","purple","white"]},
+            {"id":14077, "colors":["blue","green","white"]},
+            {"id":14078, "colors":["pink","yellow","white"]},
+            {"id":14079, "colors":["pink","purple","white"]},
+            {"id":14080, "colors":["brown","orange","white"]},
+            {"id":14081, "colors":["orange","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14082, "zone":"head", "category":"wig", "security":"9a5f7f4388bdf503", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"BunnyChoc Girl",
+        "variations":[
+            {"id":14082, "colors":["brown","yellow"]},
+            {"id":14083, "colors":["black","white"]},
+            {"id":14084, "colors":["black","red"]},
+            {"id":14085, "colors":["blue","purple"]},
+            {"id":14086, "colors":["blue"]},
+            {"id":14087, "colors":["blue","purple"]},
+            {"id":14088, "colors":["pink","red"]},
+            {"id":14089, "colors":["pink","yellow"]},
+            {"id":14090, "colors":["orange","brown"]},
+            {"id":14091, "colors":["pink","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14092, "zone":"arms", "category":"bag", "security":"10b03269475a1036", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chocochampán",
+        "outfitName":"BunnyChoc Girl",
+        "variations":[
+            {"id":14092, "colors":["golden"]},
+            {"id":14093, "colors":["silver"]},
+            {"id":14094, "colors":["white"]},
+            {"id":14095, "colors":["blue"]},
+            {"id":14096, "colors":["green"]},
+            {"id":14097, "colors":["black"]},
+            {"id":14098, "colors":["purple"]},
+            {"id":14099, "colors":["red"]},
+            {"id":14100, "colors":["pink"]},
+            {"id":14101, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14102, "zone":"arms", "category":"bag", "security":"957434be9a6f2363", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bandeja",
+        "outfitName":"BunnyChoc Girl",
+        "variations":[
+            {"id":14102, "colors":["black","red","brown"]},
+            {"id":14103, "colors":["black","blue","brown"]},
+            {"id":14104, "colors":["black","brown"]},
+            {"id":14105, "colors":["black","brown","green"]},
+            {"id":14106, "colors":["black","brown","purple"]},
+            {"id":14107, "colors":["black","brown","blue"]},
+            {"id":14108, "colors":["black","brown","yellow"]},
+            {"id":14109, "colors":["black","brown","pink"]},
+            {"id":14110, "colors":["black","brown","orange"]},
+            {"id":14111, "colors":["black","brown","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14112, "zone":"head", "category":"hat", "security":"e3779d4b8541cd9d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Orejas de conejo",
+        "outfitName":"BunnyChoc Girl",
+        "variations":[
+            {"id":14112, "colors":["black"]},
+            {"id":14113, "colors":["white"]},
+            {"id":14114, "colors":["red"]},
+            {"id":14115, "colors":["yellow"]},
+            {"id":14116, "colors":["blue"]},
+            {"id":14117, "colors":["green"]},
+            {"id":14118, "colors":["pink"]},
+            {"id":14119, "colors":["purple"]},
+            {"id":14120, "colors":["brown"]},
+            {"id":14121, "colors":["orange"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14122, "zone":"feet", "category":"shoes", "security":"56f2f14d9799878b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de tacón",
+        "outfitName":"Chocolate Royal",
+        "variations":[
+            {"id":14122, "colors":["brown"]},
+            {"id":14123, "colors":["white"]},
+            {"id":14124, "colors":["black"]},
+            {"id":14125, "colors":["blue"]},
+            {"id":14126, "colors":["blue"]},
+            {"id":14127, "colors":["purple"]},
+            {"id":14128, "colors":["red"]},
+            {"id":14129, "colors":["grey"]},
+            {"id":14130, "colors":["yellow"]},
+            {"id":14131, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14132, "zone":"arms", "category":"gloves", "security":"2070f0f9e42287fe", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Chocolate Royal",
+        "variations":[
+            {"id":14132, "colors":["brown"]},
+            {"id":14133, "colors":["white"]},
+            {"id":14134, "colors":["black"]},
+            {"id":14135, "colors":["blue"]},
+            {"id":14136, "colors":["blue"]},
+            {"id":14137, "colors":["purple"]},
+            {"id":14138, "colors":["red"]},
+            {"id":14139, "colors":["grey","silver"]},
+            {"id":14140, "colors":["yellow","golden"]},
+            {"id":14141, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14142, "zone":"torso_waistToKnee", "category":"dress", "security":"5853d2b82a074efc", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Chocolate Royal",
+        "variations":[
+            {"id":14142, "colors":["brown"]},
+            {"id":14143, "colors":["white","blue"]},
+            {"id":14144, "colors":["black"]},
+            {"id":14145, "colors":["blue"]},
+            {"id":14146, "colors":["blue"]},
+            {"id":14147, "colors":["purple"]},
+            {"id":14148, "colors":["red"]},
+            {"id":14149, "colors":["grey","silver"]},
+            {"id":14150, "colors":["golden","yellow"]},
+            {"id":14151, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14152, "zone":"arms", "category":"bag", "security":"7ea2268d5545c6ce", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Chocolate Royal",
+        "variations":[
+            {"id":14152, "colors":["brown"]},
+            {"id":14153, "colors":["white","blue"]},
+            {"id":14154, "colors":["black"]},
+            {"id":14155, "colors":["blue"]},
+            {"id":14156, "colors":["blue"]},
+            {"id":14157, "colors":["purple"]},
+            {"id":14158, "colors":["red"]},
+            {"id":14159, "colors":["grey"]},
+            {"id":14160, "colors":["orange","yellow"]},
+            {"id":14161, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14162, "zone":"head", "category":"wig", "security":"d2de4d17141e3bed", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Chocolate Royal",
+        "variations":[
+            {"id":14162, "colors":["brown"]},
+            {"id":14163, "colors":["white"]},
+            {"id":14164, "colors":["black"]},
+            {"id":14165, "colors":["blue"]},
+            {"id":14166, "colors":["blue"]},
+            {"id":14167, "colors":["purple"]},
+            {"id":14168, "colors":["red"]},
+            {"id":14169, "colors":["yellow"]},
+            {"id":14170, "colors":["orange"]},
+            {"id":14171, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14172, "zone":"waistToKnee", "category":"pants", "security":"77a146ff0251a05f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14172, "colors":["golden","yellow","multi"]},
+            {"id":14173, "colors":["golden","blue","multi"]},
+            {"id":14174, "colors":["silver","grey","black"]},
+            {"id":14175, "colors":["golden","brown"]},
+            {"id":14176, "colors":["silver","pink","multi"]},
+            {"id":14177, "colors":["silver","black","multi"]},
+            {"id":14178, "colors":["silver","white","multi"]},
+            {"id":14179, "colors":["golden","red","multi"]},
+            {"id":14180, "colors":["golden","purple","multi"]},
+            {"id":14181, "colors":["silver","green","multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14182, "zone":"feet", "category":"shoes", "security":"a4be3b23e1b0da39", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14182, "colors":["golden","green","blue"]},
+            {"id":14183, "colors":["golden","white","blue"]},
+            {"id":14184, "colors":["black","silver","grey"]},
+            {"id":14185, "colors":["golden","brown"]},
+            {"id":14186, "colors":["silver","blue","purple"]},
+            {"id":14187, "colors":["silver","purple","black"]},
+            {"id":14188, "colors":["silver","pink","brown"]},
+            {"id":14189, "colors":["golden","red","pink"]},
+            {"id":14190, "colors":["golden","yellow","orange"]},
+            {"id":14191, "colors":["blue","purple","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14192, "zone":"arms", "category":"gloves", "security":"35472bffd9124840", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14192, "colors":["blue"]},
+            {"id":14193, "colors":["blue","green"]},
+            {"id":14194, "colors":["grey"]},
+            {"id":14195, "colors":["brown"]},
+            {"id":14196, "colors":["pink"]},
+            {"id":14197, "colors":["black"]},
+            {"id":14198, "colors":["white"]},
+            {"id":14199, "colors":["orange"]},
+            {"id":14200, "colors":["green"]},
+            {"id":14201, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14202, "zone":"torso", "category":"top", "security":"acf90cdc69e19368", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14202, "colors":["golden","pink"]},
+            {"id":14203, "colors":["golden","white"]},
+            {"id":14204, "colors":["black","silver"]},
+            {"id":14205, "colors":["golden","brown"]},
+            {"id":14206, "colors":["silver","green"]},
+            {"id":14207, "colors":["silver","red"]},
+            {"id":14208, "colors":["silver","blue"]},
+            {"id":14209, "colors":["golden","brown"]},
+            {"id":14210, "colors":["golden","purple"]},
+            {"id":14211, "colors":["yellow","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14212, "zone":"torso", "category":"jacket", "security":"eac45e1e13c5dee2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14212, "colors":["golden","green","multi"]},
+            {"id":14213, "colors":["golden","white","multi"]},
+            {"id":14214, "colors":["silver","black","grey"]},
+            {"id":14215, "colors":["golden","brown"]},
+            {"id":14216, "colors":["silver","blue","multi"]},
+            {"id":14217, "colors":["silver","purple","multi"]},
+            {"id":14218, "colors":["silver","pink","multi"]},
+            {"id":14219, "colors":["golden","red","multi"]},
+            {"id":14220, "colors":["golden","yellow","multi"]},
+            {"id":14221, "colors":["blue","multi","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14222, "zone":"general", "category":"other", "security":"f99ec541670c8444", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Conejo",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14222, "colors":["white"]},
+            {"id":14223, "colors":["brown"]},
+            {"id":14224, "colors":["brown"]},
+            {"id":14225, "colors":["grey"]},
+            {"id":14226, "colors":["black"]},
+            {"id":14227, "colors":["grey","black"]},
+            {"id":14228, "colors":["brown"]},
+            {"id":14229, "colors":["white","black"]},
+            {"id":14230, "colors":["white","grey"]},
+            {"id":14231, "colors":["white","brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14232, "zone":"head", "category":"wig", "security":"56f8758d5a5afab0", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14232, "colors":["brown"]},
+            {"id":14233, "colors":["white"]},
+            {"id":14234, "colors":["black"]},
+            {"id":14235, "colors":["blue"]},
+            {"id":14236, "colors":["blue"]},
+            {"id":14237, "colors":["purple"]},
+            {"id":14238, "colors":["red"]},
+            {"id":14239, "colors":["yellow"]},
+            {"id":14240, "colors":["orange"]},
+            {"id":14241, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14242, "zone":"head", "category":"hat", "security":"d42d4f766ec40480", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Orejas",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14242, "colors":["brown"]},
+            {"id":14243, "colors":["white"]},
+            {"id":14244, "colors":["black"]},
+            {"id":14245, "colors":["blue"]},
+            {"id":14246, "colors":["blue"]},
+            {"id":14247, "colors":["purple"]},
+            {"id":14248, "colors":["red"]},
+            {"id":14249, "colors":["yellow"]},
+            {"id":14250, "colors":["orange"]},
+            {"id":14251, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14252, "zone":"head", "category":"hat", "security":"9f33d8ff5498ed43", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14252, "colors":["brown","green","blue"]},
+            {"id":14253, "colors":["blue","brown","white"]},
+            {"id":14254, "colors":["black","brown","grey"]},
+            {"id":14255, "colors":["brown"]},
+            {"id":14256, "colors":["blue","brown","green"]},
+            {"id":14257, "colors":["brown","purple","pink"]},
+            {"id":14258, "colors":["pink","brown","blue"]},
+            {"id":14259, "colors":["orange","red","brown"]},
+            {"id":14260, "colors":["yellow","brown","purple"]},
+            {"id":14261, "colors":["blue","brown","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14262, "zone":"general", "category":"other", "security":"a48f70c668fb9af9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Conejos",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14262, "colors":["brown"]},
+            {"id":14263, "colors":["grey","white"]},
+            {"id":14264, "colors":["grey","black"]},
+            {"id":14265, "colors":["white"]},
+            {"id":14266, "colors":["brown"]},
+            {"id":14267, "colors":["brown","white"]},
+            {"id":14268, "colors":["brown"]},
+            {"id":14269, "colors":["black","white"]},
+            {"id":14270, "colors":["black"]},
+            {"id":14271, "colors":["white","brown","black"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14272, "zone":"arms", "category":"bag", "security":"37b22fda4a9aaade", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cesta",
+        "outfitName":"Harlequin Hopper",
+        "variations":[
+            {"id":14272, "colors":["brown","golden","pink"]},
+            {"id":14273, "colors":["golden","brown","white"]},
+            {"id":14274, "colors":["silver","black","grey"]},
+            {"id":14275, "colors":["golden","brown"]},
+            {"id":14276, "colors":["silver","brown","green"]},
+            {"id":14277, "colors":["silver","brown","red"]},
+            {"id":14278, "colors":["silver","brown","blue"]},
+            {"id":14279, "colors":["golden","brown","orange"]},
+            {"id":14280, "colors":["brown","purple","golden"]},
+            {"id":14281, "colors":["white","blue","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
+        "releaseDate":"2026-04-02"
     }
 ]
