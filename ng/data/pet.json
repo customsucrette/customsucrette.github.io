@@ -362,5 +362,13 @@
     {
         "id":94, "security":"ab3267e3998ee798", "releaseDate":"2026-03-26", "name":"Eggstravagoose",
         "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"}
+    },
+    {
+        "id":95, "security":"6aa0f8441bd47950", "releaseDate":"2026-04-17", "name":"Takagatha",
+        "criteria":null
+    },
+    {
+        "id":96, "security":"a31800417777a4ce", "releaseDate":"2026-04-03", "name":"Thomas' Influence",
+        "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"}
     }
 ]

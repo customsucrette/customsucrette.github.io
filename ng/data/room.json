@@ -3372,7 +3372,46 @@
         "roomName":"Roy's Touch",
         "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"}
     },
-
+    {
+        "id":523, "roomId":107, "slot":"background", "releaseDate":"2026-04-03", "light":true, "security":"3057be012b30d000",
+        "name":"Paredes",
+        "roomName":"Thomas' Touch",
+        "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"C8CED3","colorLight":"1B5280"},
+            "night":{"color1":"567DCF","color2":"99A1B8","colorLight":"7C1B83"}
+        }
+    },
+    {
+        "id":524, "roomId":107, "slot":"slot1", "releaseDate":"2026-04-03", "light":false, "security":"ab00219e958de5b1",
+        "name":"Cama alta",
+        "roomName":"Thomas' Touch",
+        "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"}
+    },
+    {
+        "id":525, "roomId":107, "slot":"slot2", "releaseDate":"2026-04-03", "light":true, "security":"439f1b199d9e0016",
+        "name":"Sofá",
+        "roomName":"Thomas' Touch",
+        "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"}
+    },
+    {
+        "id":526, "roomId":107, "slot":"slot3", "releaseDate":"2026-04-03", "light":false, "security":"f9293c802dafe6d2",
+        "name":"Telescopio",
+        "roomName":"Thomas' Touch",
+        "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"}
+    },
+    {
+        "id":527, "roomId":107, "slot":"slot4", "releaseDate":"2026-04-03", "light":true, "security":"b3b3824ecc3f00e8",
+        "name":"Mesa",
+        "roomName":"Thomas' Touch",
+        "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"}
+    },
+    {
+        "id":528, "roomId":107, "slot":"slot5", "releaseDate":"2026-04-03", "light":false, "security":"071c869c3374b389",
+        "name":"Accesorios para motos",
+        "roomName":"Thomas' Touch",
+        "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"}
+    },
     {
         "id":529, "roomId":108, "slot":"background", "releaseDate":"2026-03-17", "light":true, "security":"dc3e70041edc28ad",
         "name":"Paredes",

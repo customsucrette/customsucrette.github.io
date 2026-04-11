@@ -24430,5 +24430,187 @@
             {"id":14281, "colors":["white","blue","silver"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
         "releaseDate":"2026-04-02"
+    },
+
+    {
+        "groupId":14283, "zone":"waistToKnee", "category":"pants", "security":"23881500130e18da", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jeans",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14283, "colors":["black"]},
+            {"id":14284, "colors":["blue"]},
+            {"id":14285, "colors":["grey"]},
+            {"id":14286, "colors":["blue"]},
+            {"id":14287, "colors":["white"]},
+            {"id":14288, "colors":["green"]},
+            {"id":14289, "colors":["pink"]},
+            {"id":14290, "colors":["red"]},
+            {"id":14291, "colors":["purple"]},
+            {"id":14292, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14293, "zone":"feet", "category":"shoes", "security":"a1ac163b33db8a33", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14293, "colors":["brown"]},
+            {"id":14294, "colors":["black"]},
+            {"id":14295, "colors":["grey"]},
+            {"id":14296, "colors":["blue"]},
+            {"id":14297, "colors":["white"]},
+            {"id":14298, "colors":["green"]},
+            {"id":14299, "colors":["pink"]},
+            {"id":14300, "colors":["red"]},
+            {"id":14301, "colors":["purple"]},
+            {"id":14302, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14303, "zone":"arms", "category":"armAccessory", "security":"19d10eb608a97beb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Reloj de pulsera",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14303, "colors":["black"]},
+            {"id":14304, "colors":["brown"]},
+            {"id":14305, "colors":["red"]},
+            {"id":14306, "colors":["white"]},
+            {"id":14307, "colors":["blue"]},
+            {"id":14308, "colors":["yellow"]},
+            {"id":14309, "colors":["purple"]},
+            {"id":14310, "colors":["grey"]},
+            {"id":14311, "colors":["pink"]},
+            {"id":14312, "colors":["green"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14313, "zone":"torso", "category":"top", "security":"e5e62723720c7e86", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14313, "colors":["grey"]},
+            {"id":14314, "colors":["blue"]},
+            {"id":14315, "colors":["green"]},
+            {"id":14316, "colors":["red"]},
+            {"id":14317, "colors":["purple"]},
+            {"id":14318, "colors":["black"]},
+            {"id":14319, "colors":["white"]},
+            {"id":14320, "colors":["pink"]},
+            {"id":14321, "colors":["yellow"]},
+            {"id":14322, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14323, "zone":"torso", "category":"jacket", "security":"7723294b18701c25", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14323, "colors":["red"]},
+            {"id":14324, "colors":["green"]},
+            {"id":14325, "colors":["black"]},
+            {"id":14326, "colors":["blue"]},
+            {"id":14327, "colors":["grey"]},
+            {"id":14328, "colors":["brown"]},
+            {"id":14329, "colors":["pink"]},
+            {"id":14330, "colors":["purple"]},
+            {"id":14331, "colors":["white"]},
+            {"id":14332, "colors":["yellow"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14333, "zone":"arms", "category":"gloves", "security":"39c64391cadd4048", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14333, "colors":["black","grey"]},
+            {"id":14334, "colors":["black","brown"]},
+            {"id":14335, "colors":["black","red"]},
+            {"id":14336, "colors":["black","white"]},
+            {"id":14337, "colors":["black","blue"]},
+            {"id":14338, "colors":["black","yellow"]},
+            {"id":14339, "colors":["black","purple"]},
+            {"id":14340, "colors":["black"]},
+            {"id":14341, "colors":["black","pink"]},
+            {"id":14342, "colors":["black","green"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14343, "zone":"torso", "category":"jacket", "security":"29f5a0ab2d0abb1d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14343, "colors":["black"]},
+            {"id":14344, "colors":["brown"]},
+            {"id":14345, "colors":["red"]},
+            {"id":14346, "colors":["white"]},
+            {"id":14347, "colors":["blue"]},
+            {"id":14348, "colors":["yellow"]},
+            {"id":14349, "colors":["purple"]},
+            {"id":14350, "colors":["grey"]},
+            {"id":14351, "colors":["pink"]},
+            {"id":14352, "colors":["green"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14353, "zone":"head", "category":"wig", "security":"93a00a274127f202", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14353, "colors":["orange"]},
+            {"id":14354, "colors":["brown"]},
+            {"id":14355, "colors":["white"]},
+            {"id":14356, "colors":["black"]},
+            {"id":14357, "colors":["blue"]},
+            {"id":14358, "colors":["blue"]},
+            {"id":14359, "colors":["purple"]},
+            {"id":14360, "colors":["red"]},
+            {"id":14361, "colors":["yellow"]},
+            {"id":14362, "colors":["orange"]},
+            {"id":14363, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14364, "zone":"head", "category":"hat", "security":"ead0fd10eddaa0c3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Casco",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14364, "colors":["black"]},
+            {"id":14365, "colors":["brown"]},
+            {"id":14366, "colors":["red"]},
+            {"id":14367, "colors":["white"]},
+            {"id":14368, "colors":["blue"]},
+            {"id":14369, "colors":["yellow"]},
+            {"id":14370, "colors":["purple"]},
+            {"id":14371, "colors":["grey"]},
+            {"id":14372, "colors":["pink"]},
+            {"id":14373, "colors":["green"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14374, "zone":"arms", "category":"bag", "security":"e510d08c94ed9a26", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Llaves",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14374, "colors":["silver","blue"]},
+            {"id":14375, "colors":["golden","green"]},
+            {"id":14376, "colors":["golden","black"]},
+            {"id":14377, "colors":["golden","red"]},
+            {"id":14378, "colors":["silver","golden"]},
+            {"id":14379, "colors":["silver","orange"]},
+            {"id":14380, "colors":["golden","pink"]},
+            {"id":14381, "colors":["golden","purple"]},
+            {"id":14382, "colors":["golden","white"]},
+            {"id":14383, "colors":["silver","blue"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
     }
 ]
