@@ -9,7 +9,7 @@
     {"id":17, "crushName":"Amanda", "security":"b050c1e281a88323", "info":"Amanda_DefaultShirt"},
     
     {"id":19, "crushName":"Amanda", "security":"6950ee5c00ed9f7d", "info":"Amanda_Chill"},
-
+    {"id":20, "crushName":"Roy", "security":"e5752e63d605be30", "info":"Roy_Boxer"},
     {"id":21, "crushName":"Roy", "security":"1abb70cc6640404f", "info":"Roy_Chill"},
     {"id":22, "crushName":"Roy", "security":"e9c52d8cff39b5a0", "info":"Roy_DefaultShirt"},
     {"id":23, "crushName":"Roy", "security":"de4844f5f2840ef7", "info":"Roy_DefaultTopless"},
@@ -156,6 +156,7 @@
     {"id":372, "crushName":"Devon", "security":"0ab55a3d7164f73d", "info":"Devon_SV26"},
     {"id":373, "crushName":"Jason", "security":"f48931ebcfc13edb", "info":"Jason_SV26"},
     
+    {"id":377, "crushName":"Jason", "security":"e85b47409006e1c3", "info":"Jason_Default_Messy_Hair"},
     {"id":378, "crushName":"Roy", "security":"bf6c1823b0a15394", "info":"Roy_Paques26"},
     {"id":379, "crushName":"Amanda", "security":"6319d48a91169b95", "info":"Amanda_Paques26"},
     {"id":380, "crushName":"Devon", "security":"c939ab4774c2bc2d", "info":"Devon_Paques26"},

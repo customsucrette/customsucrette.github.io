@@ -23655,7 +23655,222 @@
         ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
         "releaseDate":"2026-03-17"
     },
-
+    {
+        "groupId":13428, "zone":"feet", "category":"shoes", "security":"5aed7a8c7befdc4d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sneakers",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13428, "colors":["white","blue"]},
+            {"id":13429, "colors":["brown","white"]},
+            {"id":13430, "colors":["green","grey"]},
+            {"id":13431, "colors":["pink","white"]},
+            {"id":13432, "colors":["purple","white"]},
+            {"id":13433, "colors":["blue","pink"]},
+            {"id":13434, "colors":["black","red"]},
+            {"id":13435, "colors":["white","grey"]},
+            {"id":13436, "colors":["yellow","white"]},
+            {"id":13437, "colors":["grey","red"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13438, "zone":"torso", "category":"top", "security":"17fcecfb6928062e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13438, "colors":["blue","pink"]},
+            {"id":13439, "colors":["brown","blue"]},
+            {"id":13440, "colors":["green","blue"]},
+            {"id":13441, "colors":["pink","brown"]},
+            {"id":13442, "colors":["purple","white"]},
+            {"id":13443, "colors":["blue","green"]},
+            {"id":13444, "colors":["black","red"]},
+            {"id":13445, "colors":["white","yellow"]},
+            {"id":13446, "colors":["yellow","purple"]},
+            {"id":13447, "colors":["red","black"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13448, "zone":"torso", "category":"jacket", "security":"214b1e85b9fe7c8b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sudadera",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13448, "colors":["blue","pink"]},
+            {"id":13449, "colors":["brown","blue"]},
+            {"id":13450, "colors":["green","blue"]},
+            {"id":13451, "colors":["pink","brown"]},
+            {"id":13452, "colors":["purple","white"]},
+            {"id":13453, "colors":["blue","green"]},
+            {"id":13454, "colors":["black","red"]},
+            {"id":13455, "colors":["white","yellow"]},
+            {"id":13456, "colors":["yellow","purple"]},
+            {"id":13457, "colors":["red","black"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13458, "zone":"arms", "category":"bag", "security":"8f4a8fea4f8a443b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13458, "colors":["blue","pink"]},
+            {"id":13459, "colors":["brown","blue"]},
+            {"id":13460, "colors":["green","blue"]},
+            {"id":13461, "colors":["pink","brown"]},
+            {"id":13462, "colors":["purple","white"]},
+            {"id":13463, "colors":["blue","green"]},
+            {"id":13464, "colors":["black","red"]},
+            {"id":13465, "colors":["white","yellow"]},
+            {"id":13466, "colors":["yellow","purple"]},
+            {"id":13467, "colors":["red","black"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13468, "zone":"waistToKnee", "category":"pants", "security":"bc611d1fc14755f6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalón de chándal",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13468, "colors":["pink","blue"]},
+            {"id":13469, "colors":["blue","brown"]},
+            {"id":13470, "colors":["blue","green"]},
+            {"id":13471, "colors":["brown","pink"]},
+            {"id":13472, "colors":["white","purple"]},
+            {"id":13473, "colors":["green","blue"]},
+            {"id":13474, "colors":["red","black"]},
+            {"id":13475, "colors":["yellow","white"]},
+            {"id":13476, "colors":["yellow","purple"]},
+            {"id":13477, "colors":["red","black"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13478, "zone":"arms", "category":"bag", "security":"af0c1c658e9a6275", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gourde",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13478, "colors":["brown","green"]},
+            {"id":13479, "colors":["blue","green"]},
+            {"id":13480, "colors":["blue","green"]},
+            {"id":13481, "colors":["pink","green"]},
+            {"id":13482, "colors":["white","green"]},
+            {"id":13483, "colors":["green"]},
+            {"id":13484, "colors":["red","green"]},
+            {"id":13485, "colors":["yellow","green"]},
+            {"id":13486, "colors":["purple","green"]},
+            {"id":13487, "colors":["black","green"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13488, "zone":"torso_waistToKnee", "category":"underwear", "security":"46352ced49110ecc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13488, "colors":["red"]},
+            {"id":13489, "colors":["green"]},
+            {"id":13490, "colors":["brown"]},
+            {"id":13491, "colors":["blue"]},
+            {"id":13492, "colors":["brown"]},
+            {"id":13493, "colors":["black"]},
+            {"id":13494, "colors":["yellow"]},
+            {"id":13495, "colors":["white"]},
+            {"id":13496, "colors":["pink"]},
+            {"id":13497, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13498, "zone":"feet", "category":"shoes", "security":"258f55fee86b267b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13498, "colors":["black","red"]},
+            {"id":13499, "colors":["black","green"]},
+            {"id":13500, "colors":["black","brown"]},
+            {"id":13501, "colors":["black","blue"]},
+            {"id":13502, "colors":["black","brown"]},
+            {"id":13503, "colors":["black","grey"]},
+            {"id":13504, "colors":["black","yellow"]},
+            {"id":13505, "colors":["black","white"]},
+            {"id":13506, "colors":["black","pink"]},
+            {"id":13507, "colors":["black","purple"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13508, "zone":"torso", "category":"top", "security":"4ed0da11be429fcf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13508, "colors":["red"]},
+            {"id":13509, "colors":["green"]},
+            {"id":13510, "colors":["brown"]},
+            {"id":13511, "colors":["blue"]},
+            {"id":13512, "colors":["brown"]},
+            {"id":13513, "colors":["black"]},
+            {"id":13514, "colors":["yellow"]},
+            {"id":13515, "colors":["white"]},
+            {"id":13516, "colors":["pink"]},
+            {"id":13517, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13518, "zone":"waistToKnee", "category":"pants", "security":"c5944c690796a487", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13518, "colors":["black"]},
+            {"id":13519, "colors":["blue"]},
+            {"id":13520, "colors":["brown"]},
+            {"id":13521, "colors":["purple"]},
+            {"id":13522, "colors":["yellow"]},
+            {"id":13523, "colors":["red"]},
+            {"id":13524, "colors":["green"]},
+            {"id":13525, "colors":["brown"]},
+            {"id":13526, "colors":["white"]},
+            {"id":13527, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13528, "zone":"torso", "category":"jacket", "security":"c2f9448af121177c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13528, "colors":["grey"]},
+            {"id":13529, "colors":["blue"]},
+            {"id":13530, "colors":["blue"]},
+            {"id":13531, "colors":["white"]},
+            {"id":13532, "colors":["black"]},
+            {"id":13533, "colors":["brown"]},
+            {"id":13534, "colors":["brown"]},
+            {"id":13535, "colors":["green"]},
+            {"id":13536, "colors":["purple"]},
+            {"id":13537, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13538, "zone":"head", "category":"earring", "security":"5320e7b3bc6e1544", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piercing",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13538, "colors":["silver","red"]},
+            {"id":13539, "colors":["silver","green"]},
+            {"id":13540, "colors":["silver","brown"]},
+            {"id":13541, "colors":["silver","blue"]},
+            {"id":13542, "colors":["golden","brown"]},
+            {"id":13543, "colors":["golden","black"]},
+            {"id":13544, "colors":["silver","yellow"]},
+            {"id":13545, "colors":["golden","white"]},
+            {"id":13546, "colors":["silver","purple"]},
+            {"id":13547, "colors":["golden","pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
     {
         "groupId":13548, "zone":"feet", "category":"shoes", "security":"cae1a8db37c20542", "multiLayered":true, "layerBehavior":"normal",
         "name":"Botas",
@@ -23817,6 +24032,207 @@
             {"id":13613, "colors":["yellow","silver"]}
         ], "criteria":{"type":"calendar", "info":"2026-25", "text":"Desbloqueado en el calendario\nN°25 - 2026"},
         "releaseDate":"2026-03-01"
+    },
+
+    {
+        "groupId":13674, "zone":"arms", "category":"gloves", "security":"23ea75aca290bfba", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13674, "colors":["white"]},
+            {"id":13675, "colors":["brown"]},
+            {"id":13676, "colors":["black"]},
+            {"id":13677, "colors":["blue"]},
+            {"id":13678, "colors":["green"]},
+            {"id":13679, "colors":["purple"]},
+            {"id":13680, "colors":["red"]},
+            {"id":13681, "colors":["yellow"]},
+            {"id":13682, "colors":["brown"]},
+            {"id":13683, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13684, "zone":"torso", "category":"top", "security":"cd83fd4bd29a524c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13684, "colors":["white"]},
+            {"id":13685, "colors":["brown"]},
+            {"id":13686, "colors":["black"]},
+            {"id":13687, "colors":["blue"]},
+            {"id":13688, "colors":["green"]},
+            {"id":13689, "colors":["purple"]},
+            {"id":13690, "colors":["red"]},
+            {"id":13691, "colors":["yellow"]},
+            {"id":13692, "colors":["brown"]},
+            {"id":13693, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13694, "zone":"waistToKnee", "category":"pants", "security":"166c92ab227f3244", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13694, "colors":["brown","black"]},
+            {"id":13697, "colors":["white","black"], "variationNumber":2},
+            {"id":13698, "colors":["black"], "variationNumber":3},
+            {"id":13699, "colors":["grey","black"], "variationNumber":4},
+            {"id":13695, "colors":["pink","black"], "variationNumber":5},
+            {"id":13700, "colors":["red","black"], "variationNumber":6},
+            {"id":13696, "colors":["green","black"], "variationNumber":7},
+            {"id":13701, "colors":["brown","black"], "variationNumber":8},
+            {"id":13702, "colors":["yellow","black"], "variationNumber":9},
+            {"id":13703, "colors":["blue","black"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13704, "zone":"face", "category":"neckAccessory", "security":"e55817aeac0fc47c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corbata",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13704, "colors":["red"]},
+            {"id":13707, "colors":["white"], "variationNumber":2},
+            {"id":13711, "colors":["black"], "variationNumber":3},
+            {"id":13708, "colors":["brown"], "variationNumber":4},
+            {"id":13705, "colors":["pink"], "variationNumber":5},
+            {"id":13712, "colors":["red"], "variationNumber":6},
+            {"id":13706, "colors":["green"], "variationNumber":7},
+            {"id":13713, "colors":["purple"], "variationNumber":8},
+            {"id":13709, "colors":["yellow"], "variationNumber":9},
+            {"id":13710, "colors":["blue"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13714, "zone":"feet", "category":"shoes", "security":"52f839c868ae1d2b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13717, "colors":["grey","black"]},
+            {"id":13715, "colors":["white","black"], "variationNumber":2},
+            {"id":13716, "colors":["black"], "variationNumber":3},
+            {"id":13714, "colors":["blue","black"], "variationNumber":4},
+            {"id":13718, "colors":["green","black"], "variationNumber":5},
+            {"id":13719, "colors":["purple","black"], "variationNumber":6},
+            {"id":13720, "colors":["red","black"], "variationNumber":7},
+            {"id":13722, "colors":["yellow","black"], "variationNumber":8},
+            {"id":13721, "colors":["brown","black"], "variationNumber":9},
+            {"id":13723, "colors":["pink","black"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13724, "zone":"torso", "category":"jacket", "security":"9ac19ab95f7f048e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaleco",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13724, "colors":["grey"]},
+            {"id":13725, "colors":["white"]},
+            {"id":13726, "colors":["black"]},
+            {"id":13727, "colors":["brown"]},
+            {"id":13728, "colors":["pink"]},
+            {"id":13729, "colors":["red"]},
+            {"id":13730, "colors":["green"]},
+            {"id":13731, "colors":["purple"]},
+            {"id":13732, "colors":["yellow"]},
+            {"id":13733, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13734, "zone":"head", "category":"faceAccessory", "security":"9c7a116ad38fc0d0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Monóculo",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13738, "colors":["golden"]},
+            {"id":13739, "colors":["white"], "variationNumber":2},
+            {"id":13740, "colors":["black"], "variationNumber":3},
+            {"id":13734, "colors":["brown"], "variationNumber":4},
+            {"id":13735, "colors":["pink"], "variationNumber":5},
+            {"id":13736, "colors":["red"], "variationNumber":6},
+            {"id":13737, "colors":["purple"], "variationNumber":8},
+            {"id":13741, "colors":["green"], "variationNumber":7},
+            {"id":13742, "colors":["silver"], "variationNumber":9},
+            {"id":13743, "colors":["blue"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13744, "zone":"head", "category":"wig", "security":"6f27c1206bc366c4", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13744, "colors":["grey"]},
+            {"id":13745, "colors":["brown"]},
+            {"id":13746, "colors":["white"]},
+            {"id":13747, "colors":["black"]},
+            {"id":13748, "colors":["blue"]},
+            {"id":13749, "colors":["blue"]},
+            {"id":13750, "colors":["purple"]},
+            {"id":13751, "colors":["red"]},
+            {"id":13752, "colors":["yellow"]},
+            {"id":13753, "colors":["orange"]},
+            {"id":13754, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13755, "zone":"torso", "category":"jacket", "security":"a8662b0b23c9e0de", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13759, "colors":["blue","golden"]},
+            {"id":13760, "colors":["white","golden"], "variationNumber":2},
+            {"id":13761, "colors":["black","silver"], "variationNumber":3},
+            {"id":13755, "colors":["blue","golden"], "variationNumber":4},
+            {"id":13762, "colors":["green","silver"], "variationNumber":5},
+            {"id":13756, "colors":["purple","silver"], "variationNumber":6},
+            {"id":13757, "colors":["red","silver"], "variationNumber":7},
+            {"id":13763, "colors":["yellow","golden"], "variationNumber":8},
+            {"id":13758, "colors":["brown","golden"], "variationNumber":9},
+            {"id":13764, "colors":["grey","silver"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13765, "zone":"head", "category":"faceAccessory", "security":"b481ee96e1bb6d1e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Barba",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13766, "colors":["grey"]},
+            {"id":13767, "colors":["brown"], "variationNumber":2},
+            {"id":13768, "colors":["white"], "variationNumber":3},
+            {"id":13769, "colors":["black"], "variationNumber":4},
+            {"id":13770, "colors":["blue"], "variationNumber":5},
+            {"id":13771, "colors":["blue"], "variationNumber":6},
+            {"id":13765, "colors":["purple"], "variationNumber":7},
+            {"id":13772, "colors":["red"], "variationNumber":8},
+            {"id":13773, "colors":["yellow"], "variationNumber":9},
+            {"id":13774, "colors":["orange"], "variationNumber":10},
+            {"id":13775, "colors":["pink"], "variationNumber":11}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13776, "zone":"arms", "category":"bag", "security":"9a0f4478d0ece554", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bastón",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13776, "colors":["black","golden"]},
+            {"id":13777, "colors":["white","golden"]},
+            {"id":13778, "colors":["black","silver"]},
+            {"id":13779, "colors":["black","golden"]},
+            {"id":13780, "colors":["pink","silver"]},
+            {"id":13781, "colors":["red","silver"]},
+            {"id":13782, "colors":["green","silver"]},
+            {"id":13783, "colors":["purple","silver"]},
+            {"id":13784, "colors":["golden"]},
+            {"id":13785, "colors":["blue","golden"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
     },
 
     {
