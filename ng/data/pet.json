@@ -374,5 +374,9 @@
     {
         "id":96, "security":"a31800417777a4ce", "releaseDate":"2026-04-03", "name":"Thomas' Influence",
         "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"}
+    },
+    {
+        "id":97, "security":"65b7a14e028dff00", "releaseDate":"2026-05-20", "name":"Amanda's Influence",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
     }
 ]

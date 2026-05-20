@@ -777,6 +777,18 @@
         "roomName":"What the F***?",
         "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"}
     },
+    {
+        "id":120, "roomId":36, "slot":"slot3", "releaseDate":"2026-01-30", "light":false, "security":"94a8d138f261690a",
+        "name":"Aparador",
+        "roomName":"What the F***?",
+        "criteria":{"type":"jobTask", "info":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"}
+    },
+    {
+        "id":121, "roomId":36, "slot":"slot2", "releaseDate":"2026-01-30", "light":true, "security":"ec9e9786dbcb40e4",
+        "name":"Sofá",
+        "roomName":"What the F***?",
+        "criteria":{"type":"jobTask", "info":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"}
+    },
 
     {
         "id":123, "roomId":37, "slot":"background", "releaseDate":"2025-05-30", "light":true, "security":"7089d75b0651ca70",
@@ -893,7 +905,16 @@
         "roomName":"Space Capsule",
         "criteria":{"type":"jobTask", "info":"Casco", "text":"Desbloqueado en la Misión del día\nCasco"}
     },
-
+    {
+        "id":141, "roomId":40, "slot":"background", "releaseDate":"2026-01-30", "light":true, "security":"2a21b8ebf01038e8",
+        "name":"Paredes",
+        "roomName":"Dirty Garage",
+        "criteria":{"type":"jobTask", "info":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "backgroundColors":{
+            "day":{"color1":"DFE0E0","color2":"B8A9A9","colorLight":"043D82"},
+            "night":{"color1":"84BDFF","color2":"819DCC","colorLight":"0D35D2"}
+        }
+    },
     {
         "id":142, "roomId":40, "slot":"slot5", "releaseDate":"2025-08-01", "light":false, "security":"1b7327d349d626fd",
         "name":"Caja",
@@ -946,6 +967,14 @@
         "roomName":"Rock n' Wild",
         "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
+
+    {
+        "id":151, "roomId":41, "slot":"slot2", "releaseDate":"2026-01-30", "light":true, "security":"faa8c506700d98a0",
+        "name":"Mesa de billar",
+        "roomName":"Rock n' Wild",
+        "criteria":{"type":"jobTask", "info":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"}
+    },
+
     {
         "id":153, "roomId":42, "slot":"background", "releaseDate":"2024-04-17", "light":true, "security":"6b8af3fa1e2ee135",
         "name":"Paredes",
@@ -3663,5 +3692,45 @@
         "roomName":"Breathing Space",
         "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
         "backgroundColors":null
+    },
+    {
+        "id":565, "roomId":114, "slot":"background", "releaseDate":"2026-05-20", "light":true, "security":"ac3b92b1e2e72b07",
+        "name":"Paredes",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "backgroundColors":{
+            "day":{"color1":"EEFBFF","color2":"E4CFC0","colorLight":"2CDAFF"},
+            "night":{"color1":"FF9289","color2":"6C566D","colorLight":"F6AD5B"}
+        }
+    },
+    {
+        "id":566, "roomId":114, "slot":"slot1", "releaseDate":"2026-05-20", "light":true, "security":"7c653b20732fc5dc",
+        "name":"Cocina",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":567, "roomId":114, "slot":"slot2", "releaseDate":"2026-05-20", "light":false, "security":"84c9e84fde05f052",
+        "name":"Cama",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":568, "roomId":114, "slot":"slot3", "releaseDate":"2026-05-20", "light":false, "security":"09b03cd8c9efd685",
+        "name":"Mesa",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":569, "roomId":114, "slot":"slot4", "releaseDate":"2026-05-20", "light":false, "security":"02705ff4acd05210",
+        "name":"Perchero",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":570, "roomId":114, "slot":"slot5", "releaseDate":"2026-05-20", "light":false, "security":"7c4777a8b090b59e",
+        "name":"Mesa baja",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
     }
 ]

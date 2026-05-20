@@ -651,6 +651,24 @@
                     {"id":296, "colors":["pink"]}
                 ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"},
                 "releaseDate":"2026-04-02"
+            },
+            {
+                "groupId":297, "zone":"face", "category":"eyes", "security":"d2d47a715f1ccee2",
+                "name":"Ojos",
+                "outfitName":"Amanda's Vibe",
+                "variations":[
+                    {"id":297, "colors":["purple"]},
+                    {"id":298, "colors":["blue"]},
+                    {"id":299, "colors":["green"]},
+                    {"id":300, "colors":["brown"]},
+                    {"id":301, "colors":["black"]},
+                    {"id":302, "colors":["white"]},
+                    {"id":303, "colors":["pink"]},
+                    {"id":304, "colors":["red"]},
+                    {"id":305, "colors":["golden","yellow"]},
+                    {"id":306, "colors":["grey","silver"]}
+                ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+                "releaseDate":"2026-05-20"
             }
         ],
         "mouth":[

@@ -2226,7 +2226,24 @@
         ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"},
         "releaseDate":"2024-06-05"
     },
-
+    {
+        "groupId":1227, "zone":"feet", "category":"shoes", "security":"64b9e6f759c0c396", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1227, "colors":["white"]},
+            {"id":1228, "colors":["pink"]},
+            {"id":1229, "colors":["blue"]},
+            {"id":1230, "colors":["black"]},
+            {"id":1231, "colors":["yellow"]},
+            {"id":1232, "colors":["red"]},
+            {"id":1233, "colors":["green"]},
+            {"id":1234, "colors":["purple"]},
+            {"id":1235, "colors":["blue"]},
+            {"id":1236, "colors":["yellow","pink"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
     {
         "groupId":1237, "zone":"waistToKnee", "category":"skirt", "security":"0ba8e97aeb7c34dd", "multiLayered":false, "layerBehavior":"normal",
         "name":"Falda",
@@ -2250,16 +2267,16 @@
         "name":"Sujetador deportivo",
         "outfitName":"Hololove",
         "variations":[
-            {"id":1247, "colors":["undefined"]},
-            {"id":1248, "colors":["undefined"]},
-            {"id":1249, "colors":["undefined"]},
-            {"id":1250, "colors":["undefined"]},
-            {"id":1251, "colors":["undefined"]},
-            {"id":1252, "colors":["undefined"]},
-            {"id":1253, "colors":["undefined"]},
-            {"id":1254, "colors":["undefined"]},
-            {"id":1255, "colors":["undefined"]},
-            {"id":1256, "colors":["undefined"]}
+            {"id":1247, "colors":["grey","silver"]},
+            {"id":1248, "colors":["pink"]},
+            {"id":1249, "colors":["blue"]},
+            {"id":1250, "colors":["black"]},
+            {"id":1251, "colors":["golden","yellow"]},
+            {"id":1252, "colors":["red"]},
+            {"id":1253, "colors":["green"]},
+            {"id":1254, "colors":["purple"]},
+            {"id":1255, "colors":["blue"]},
+            {"id":1256, "colors":["white","yellow"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -2755,16 +2772,16 @@
         "name":"Leggings",
         "outfitName":"What the F***?",
         "variations":[
-            {"id":1529, "colors":["undefined"]},
-            {"id":1530, "colors":["undefined"]},
-            {"id":1531, "colors":["undefined"]},
-            {"id":1532, "colors":["undefined"]},
-            {"id":1533, "colors":["undefined"]},
-            {"id":1534, "colors":["undefined"]},
-            {"id":1535, "colors":["undefined"]},
-            {"id":1536, "colors":["undefined"]},
-            {"id":1537, "colors":["undefined"]},
-            {"id":1538, "colors":["undefined"]}
+            {"id":1529, "colors":["white","black"]},
+            {"id":1530, "colors":["blue","black"]},
+            {"id":1531, "colors":["green","black"]},
+            {"id":1532, "colors":["pink","black"]},
+            {"id":1533, "colors":["black"]},
+            {"id":1534, "colors":["yellow","black"]},
+            {"id":1535, "colors":["red","black"]},
+            {"id":1536, "colors":["blue","black"]},
+            {"id":1537, "colors":["purple","black"]},
+            {"id":1538, "colors":["pink","black"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -2845,16 +2862,16 @@
         "name":"Tatuajes",
         "outfitName":"Magical Heart",
         "variations":[
-            {"id":1579, "colors":["undefined"]},
-            {"id":1580, "colors":["undefined"]},
-            {"id":1581, "colors":["undefined"]},
-            {"id":1582, "colors":["undefined"]},
-            {"id":1583, "colors":["undefined"]},
-            {"id":1584, "colors":["undefined"]},
-            {"id":1585, "colors":["undefined"]},
-            {"id":1586, "colors":["undefined"]},
-            {"id":1587, "colors":["undefined"]},
-            {"id":1588, "colors":["undefined"]}
+            {"id":1579, "colors":["pink","multi"]},
+            {"id":1580, "colors":["purple","multi"]},
+            {"id":1581, "colors":["orange","multi"]},
+            {"id":1582, "colors":["yellow","multi"]},
+            {"id":1583, "colors":["green","multi"]},
+            {"id":1584, "colors":["blue","multi"]},
+            {"id":1585, "colors":["blue","multi"]},
+            {"id":1586, "colors":["purple","multi"]},
+            {"id":1587, "colors":["white","multi"]},
+            {"id":1588, "colors":["black","multi"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -2899,20 +2916,55 @@
         "name":"Piel Cyborg",
         "outfitName":"Future Enhancement",
         "variations":[
-            {"id":1609, "colors":["undefined"]},
-            {"id":1610, "colors":["undefined"]},
-            {"id":1611, "colors":["undefined"]},
-            {"id":1612, "colors":["undefined"]},
-            {"id":1613, "colors":["undefined"]},
-            {"id":1614, "colors":["undefined"]},
-            {"id":1615, "colors":["undefined"]},
-            {"id":1616, "colors":["undefined"]},
-            {"id":1617, "colors":["undefined"]},
-            {"id":1618, "colors":["undefined"]}
+            {"id":1609, "colors":["white"]},
+            {"id":1610, "colors":["black"]},
+            {"id":1611, "colors":["grey"]},
+            {"id":1612, "colors":["yellow"]},
+            {"id":1613, "colors":["brown"]},
+            {"id":1614, "colors":["red"]},
+            {"id":1615, "colors":["blue"]},
+            {"id":1616, "colors":["purple"]},
+            {"id":1617, "colors":["green"]},
+            {"id":1618, "colors":["brown"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
-
+    {
+        "groupId":1619, "zone":"feet", "category":"shoes", "security":"a44c5e641f599cec", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1619, "colors":["white","multi"]},
+            {"id":1620, "colors":["grey","multi","silver"]},
+            {"id":1621, "colors":["black","multi"]},
+            {"id":1622, "colors":["green","orange","multi"]},
+            {"id":1623, "colors":["green","multi"]},
+            {"id":1624, "colors":["golden","multi","purple"]},
+            {"id":1625, "colors":["blue","orange","multi"]},
+            {"id":1626, "colors":["purple","multi"]},
+            {"id":1627, "colors":["red","multi"]},
+            {"id":1628, "colors":["pink","grey","multi"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":1629, "zone":"arms", "category":"gloves", "security":"6a03fd3811a9fb17", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1629, "colors":["white","multi"]},
+            {"id":1630, "colors":["grey","multi","silver"]},
+            {"id":1631, "colors":["black","multi"]},
+            {"id":1632, "colors":["green","multi"]},
+            {"id":1633, "colors":["green","multi"]},
+            {"id":1634, "colors":["golden","multi","yellow"]},
+            {"id":1635, "colors":["blue","multi"]},
+            {"id":1636, "colors":["purple","multi"]},
+            {"id":1637, "colors":["red","multi"]},
+            {"id":1638, "colors":["pink","multi"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
     {
         "groupId":1639, "zone":"torso_waistToKnee", "category":"underwear", "security":"7a9f111f06d56936", "multiLayered":false, "layerBehavior":"normal",
         "name":"Body",
@@ -3004,7 +3056,24 @@
         ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"},
         "releaseDate":"2024-12-04"
     },
-
+    {
+        "groupId":1699, "zone":"torso_waistToKnee", "category":"dress", "security":"89b9f430f509078b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peto",
+        "outfitName":"Playing in the Rain",
+        "variations":[
+            {"id":1699, "colors":["blue"]},
+            {"id":1700, "colors":["brown"]},
+            {"id":1701, "colors":["green"]},
+            {"id":1702, "colors":["black"]},
+            {"id":1703, "colors":["blue"]},
+            {"id":1704, "colors":["purple"]},
+            {"id":1705, "colors":["red"]},
+            {"id":1706, "colors":["yellow"]},
+            {"id":1707, "colors":["white"]},
+            {"id":1708, "colors":["pink"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
     {
         "groupId":1709, "zone":"torso", "category":"jacket", "security":"97731a42d00a63ba", "multiLayered":true, "layerBehavior":"normal",
         "name":"Impermeable",
@@ -3028,16 +3097,16 @@
         "name":"Paraguas",
         "outfitName":"Playing In The Rain",
         "variations":[
-            {"id":1719, "colors":["undefined"]},
-            {"id":1720, "colors":["undefined"]},
-            {"id":1721, "colors":["undefined"]},
-            {"id":1722, "colors":["undefined"]},
-            {"id":1723, "colors":["undefined"]},
-            {"id":1724, "colors":["undefined"]},
-            {"id":1725, "colors":["undefined"]},
-            {"id":1726, "colors":["undefined"]},
-            {"id":1727, "colors":["undefined"]},
-            {"id":1728, "colors":["undefined"]}
+            {"id":1719, "colors":["green"]},
+            {"id":1720, "colors":["blue"]},
+            {"id":1721, "colors":["orange"]},
+            {"id":1722, "colors":["red","black"]},
+            {"id":1723, "colors":["white"]},
+            {"id":1724, "colors":["blue"]},
+            {"id":1725, "colors":["black"]},
+            {"id":1726, "colors":["pink"]},
+            {"id":1727, "colors":["brown"]},
+            {"id":1728, "colors":["yellow"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -3087,22 +3156,39 @@
         ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"},
         "releaseDate":"2025-02-05"
     },
-
+    {
+        "groupId":1750, "zone":"arms", "category":"gloves", "security":"a7867d5f757a052b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1750, "colors":["pink"]},
+            {"id":1751, "colors":["purple"]},
+            {"id":1752, "colors":["blue"]},
+            {"id":1753, "colors":["blue"]},
+            {"id":1754, "colors":["white"]},
+            {"id":1755, "colors":["black"]},
+            {"id":1756, "colors":["brown"]},
+            {"id":1757, "colors":["green"]},
+            {"id":1758, "colors":["yellow"]},
+            {"id":1759, "colors":["red"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
     {
         "groupId":1760, "zone":"general", "category":"other", "security":"5565b2b0db77bcec", "multiLayered":true, "layerBehavior":"normal",
         "name":"Parterre de flores",
         "outfitName":"Flowerly",
         "variations":[
-            {"id":1760, "colors":["undefined"]},
-            {"id":1761, "colors":["undefined"]},
-            {"id":1762, "colors":["undefined"]},
-            {"id":1763, "colors":["undefined"]},
-            {"id":1764, "colors":["undefined"]},
-            {"id":1765, "colors":["undefined"]},
-            {"id":1766, "colors":["undefined"]},
-            {"id":1767, "colors":["undefined"]},
-            {"id":1768, "colors":["undefined"]},
-            {"id":1769, "colors":["undefined"]}
+            {"id":1760, "colors":["pink"]},
+            {"id":1761, "colors":["purple"]},
+            {"id":1762, "colors":["blue"]},
+            {"id":1763, "colors":["blue"]},
+            {"id":1764, "colors":["white"]},
+            {"id":1765, "colors":["black"]},
+            {"id":1766, "colors":["brown"]},
+            {"id":1767, "colors":["green"]},
+            {"id":1768, "colors":["yellow"]},
+            {"id":1769, "colors":["red"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -3288,6 +3374,24 @@
         ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"},
         "releaseDate":"2024-12-04"
     },
+    {
+        "groupId":1900, "zone":"waistToKnee", "category":"pants", "security":"bf5901349e1444ac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Short",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1900, "colors":["black"]},
+            {"id":1901, "colors":["blue"]},
+            {"id":1902, "colors":["pink"]},
+            {"id":1903, "colors":["yellow"]},
+            {"id":1904, "colors":["green"]},
+            {"id":1905, "colors":["brown"]},
+            {"id":1906, "colors":["red"]},
+            {"id":1907, "colors":["purple"]},
+            {"id":1908, "colors":["white"]},
+            {"id":1909, "colors":["orange"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
 
     {
         "groupId":1920, "zone":"torso", "category":"jacket", "security":"f97d6b35857e0a95", "multiLayered":false, "layerBehavior":"normal",
@@ -3312,16 +3416,16 @@
         "name":"Brik de leche",
         "outfitName":"Kitty Girl",
         "variations":[
-            {"id":1930, "colors":["undefined"]},
-            {"id":1931, "colors":["undefined"]},
-            {"id":1932, "colors":["undefined"]},
-            {"id":1933, "colors":["undefined"]},
-            {"id":1934, "colors":["undefined"]},
-            {"id":1935, "colors":["undefined"]},
-            {"id":1936, "colors":["undefined"]},
-            {"id":1937, "colors":["undefined"]},
-            {"id":1938, "colors":["undefined"]},
-            {"id":1939, "colors":["undefined"]}
+            {"id":1930, "colors":["white","blue"]},
+            {"id":1931, "colors":["pink"]},
+            {"id":1932, "colors":["yellow"]},
+            {"id":1933, "colors":["white","multi"]},
+            {"id":1934, "colors":["purple"]},
+            {"id":1935, "colors":["green"]},
+            {"id":1936, "colors":["pink"]},
+            {"id":1937, "colors":["black"]},
+            {"id":1938, "colors":["white","yellow"]},
+            {"id":1939, "colors":["brown"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -5988,7 +6092,7 @@
         "name":"Lluvia",
         "outfitName":"Playing In The Rain",
         "variations":[
-            {"id":3433, "colors":["undefined"]}
+            {"id":3433, "colors":["blue"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -27185,16 +27289,16 @@
         "name":"Pezuñas",
         "outfitName":"Mini Goat Soul",
         "variations":[
-            {"id":15589, "colors":["brown"]},
-            {"id":15590, "colors":["undefined"]},
-            {"id":15591, "colors":["undefined"]},
-            {"id":15592, "colors":["undefined"]},
-            {"id":15593, "colors":["undefined"]},
-            {"id":15594, "colors":["undefined"]},
-            {"id":15595, "colors":["undefined"]},
-            {"id":15596, "colors":["undefined"]},
-            {"id":15597, "colors":["undefined"]},
-            {"id":15598, "colors":["undefined"]}
+            {"id":15589, "colors":["brown"], "variationNumber":1},
+            {"id":15590, "colors":["white"], "variationNumber":2},
+            {"id":15591, "colors":["brown"], "variationNumber":3},
+            {"id":15596, "colors":["black"], "variationNumber":4},
+            {"id":15592, "colors":["brown"], "variationNumber":5},
+            {"id":15593, "colors":["black","white"], "variationNumber":6},
+            {"id":15594, "colors":["grey"], "variationNumber":7},
+            {"id":15597, "colors":["brown"], "variationNumber":8},
+            {"id":15595, "colors":["brown"], "variationNumber":9},
+            {"id":15598, "colors":["white","black"], "variationNumber":10}
         ],"criteria":null,
         "releaseDate":"2026-05-11"
     },
@@ -27203,16 +27307,16 @@
         "name":"Joyas",
         "outfitName":"Mini Goat Soul",
         "variations":[
-            {"id":15600, "colors":["yellow","green","golden"]},
-            {"id":15599, "colors":["undefined"]},
-            {"id":15601, "colors":["undefined"]},
-            {"id":15602, "colors":["undefined"]},
-            {"id":15603, "colors":["undefined"]},
-            {"id":15604, "colors":["undefined"]},
-            {"id":15605, "colors":["undefined"]},
-            {"id":15606, "colors":["undefined"]},
-            {"id":15607, "colors":["undefined"]},
-            {"id":15608, "colors":["undefined"]}
+            {"id":15600, "colors":["yellow","green","golden"], "variationNumber":1},
+            {"id":15601, "colors":["purple","pink","golden"], "variationNumber":2},
+            {"id":15602, "colors":["white","blue","golden"], "variationNumber":3},
+            {"id":15603, "colors":["white","pink","silver"], "variationNumber":4},
+            {"id":15604, "colors":["blue","yellow","silver"], "variationNumber":5},
+            {"id":15605, "colors":["red","black","golden"], "variationNumber":6},
+            {"id":15606, "colors":["black","purple","golden"], "variationNumber":7},
+            {"id":15599, "colors":["yellow","red","silver"], "variationNumber":8},
+            {"id":15607, "colors":["purple","blue","silver"], "variationNumber":9},
+            {"id":15608, "colors":["brown","orange","silver"], "variationNumber":10}
         ],"criteria":null,
         "releaseDate":"2026-05-11"
     },
@@ -27221,16 +27325,16 @@
         "name":"Mangas",
         "outfitName":"Mini Goat Soul",
         "variations":[
-            {"id":15611, "colors":["green"]},
-            {"id":15609, "colors":["undefined"]},
-            {"id":15610, "colors":["undefined"]},
-            {"id":15612, "colors":["undefined"]},
-            {"id":15613, "colors":["undefined"]},
-            {"id":15614, "colors":["undefined"]},
-            {"id":15615, "colors":["undefined"]},
-            {"id":15616, "colors":["undefined"]},
-            {"id":15617, "colors":["undefined"]},
-            {"id":15618, "colors":["undefined"]}
+            {"id":15611, "colors":["green"], "variationNumber":1},
+            {"id":15609, "colors":["pink"], "variationNumber":2},
+            {"id":15612, "colors":["blue"], "variationNumber":3},
+            {"id":15610, "colors":["white"], "variationNumber":4},
+            {"id":15613, "colors":["yellow"], "variationNumber":5},
+            {"id":15614, "colors":["black"], "variationNumber":6},
+            {"id":15615, "colors":["purple"], "variationNumber":7},
+            {"id":15616, "colors":["red"], "variationNumber":8},
+            {"id":15617, "colors":["blue"], "variationNumber":9},
+            {"id":15618, "colors":["orange"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2026-05-11"
     },
@@ -27239,16 +27343,16 @@
         "name":"Vestido",
         "outfitName":"Mini Goat Soul",
         "variations":[
-            {"id":15620, "colors":["green"]},
-            {"id":15619, "colors":["undefined"]},
-            {"id":15621, "colors":["undefined"]},
-            {"id":15622, "colors":["undefined"]},
-            {"id":15623, "colors":["undefined"]},
-            {"id":15624, "colors":["undefined"]},
-            {"id":15625, "colors":["undefined"]},
-            {"id":15626, "colors":["undefined"]},
-            {"id":15627, "colors":["undefined"]},
-            {"id":15628, "colors":["undefined"]}
+            {"id":15620, "colors":["green"], "variationNumber":1},
+            {"id":15621, "colors":["pink"], "variationNumber":2},
+            {"id":15622, "colors":["blue"], "variationNumber":3},
+            {"id":15623, "colors":["white"], "variationNumber":4},
+            {"id":15624, "colors":["yellow"], "variationNumber":5},
+            {"id":15625, "colors":["black"], "variationNumber":6},
+            {"id":15619, "colors":["purple"], "variationNumber":7},
+            {"id":15626, "colors":["red"], "variationNumber":8},
+            {"id":15627, "colors":["blue"], "variationNumber":9},
+            {"id":15628, "colors":["orange"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2026-05-11"
     },
@@ -27258,15 +27362,15 @@
         "outfitName":"Mini Goat Soul",
         "variations":[
             {"id":15629, "colors":["yellow","green","golden"]},
-            {"id":15630, "colors":["undefined"]},
-            {"id":15631, "colors":["undefined"]},
-            {"id":15632, "colors":["undefined"]},
-            {"id":15633, "colors":["undefined"]},
-            {"id":15634, "colors":["undefined"]},
-            {"id":15635, "colors":["undefined"]},
-            {"id":15636, "colors":["undefined"]},
-            {"id":15637, "colors":["undefined"]},
-            {"id":15638, "colors":["undefined"]}
+            {"id":15630, "colors":["purple","pink","golden"]},
+            {"id":15631, "colors":["white","blue","golden"]},
+            {"id":15632, "colors":["pink","white","silver"]},
+            {"id":15633, "colors":["blue","yellow","golden"]},
+            {"id":15634, "colors":["red","black","golden"]},
+            {"id":15635, "colors":["black","purple","golden"]},
+            {"id":15636, "colors":["yellow","red","silver"]},
+            {"id":15637, "colors":["purple","blue","silver"]},
+            {"id":15638, "colors":["brown","orange","silver"]}
         ], "criteria":null,
         "releaseDate":"2026-05-11"   
     },
@@ -28191,5 +28295,216 @@
             {"id":16160, "colors":["green","blue","silver"]}
         ], "criteria":{"type":"pack", "info":"mini_outfit12 / Mini Cyber Rave", "text":"Desbloqueado en el Pack exclusivo\nMini Cyber Rave"},
         "releaseDate":"2026-05-11"
+    },
+
+    {
+        "groupId":16165, "zone":"arms", "category":"handNailPolish", "security":"3302bdb65f8e72d7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Esmalte uñas",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16165, "colors":["pink"]},
+            {"id":16166, "colors":["blue"]},
+            {"id":16167, "colors":["green"]},
+            {"id":16168, "colors":["brown"]},
+            {"id":16169, "colors":["black"]},
+            {"id":16170, "colors":["white"]},
+            {"id":16171, "colors":["purple"]},
+            {"id":16172, "colors":["red"]},
+            {"id":16173, "colors":["yellow"]},
+            {"id":16174, "colors":["green","blue"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16175, "zone":"torso_waistToKnee", "category":"underwear", "security":"364f81190fba707e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16175, "colors":["white"]},
+            {"id":16176, "colors":["pink"]},
+            {"id":16177, "colors":["brown"]},
+            {"id":16178, "colors":["red"]},
+            {"id":16179, "colors":["blue"]},
+            {"id":16180, "colors":["yellow"]},
+            {"id":16181, "colors":["blue","green"]},
+            {"id":16182, "colors":["black"]},
+            {"id":16183, "colors":["green"]},
+            {"id":16184, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16185, "zone":"feet", "category":"socks", "security":"5855405416b24263", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Medias",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16185, "colors":["black"]},
+            {"id":16186, "colors":["purple"]},
+            {"id":16187, "colors":["pink"]},
+            {"id":16188, "colors":["brown"]},
+            {"id":16189, "colors":["red"]},
+            {"id":16190, "colors":["green"]},
+            {"id":16191, "colors":["yellow"]},
+            {"id":16192, "colors":["green","blue"]},
+            {"id":16193, "colors":["blue"]},
+            {"id":16194, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16195, "zone":"arms", "category":"armAccessory", "security":"04050818d329500f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Reloj de pulsera",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16195, "colors":["golden"]},
+            {"id":16196, "colors":["purple"]},
+            {"id":16197, "colors":["pink"]},
+            {"id":16198, "colors":["black"]},
+            {"id":16199, "colors":["red"]},
+            {"id":16200, "colors":["green"]},
+            {"id":16201, "colors":["orange"]},
+            {"id":16202, "colors":["silver"]},
+            {"id":16203, "colors":["blue"]},
+            {"id":16204, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16205, "zone":"face", "category":"neckAccessory", "security":"50f172bf7a8c517a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16205, "colors":["golden"]},
+            {"id":16206, "colors":["purple"]},
+            {"id":16207, "colors":["pink"]},
+            {"id":16208, "colors":["black"]},
+            {"id":16209, "colors":["red"]},
+            {"id":16210, "colors":["green"]},
+            {"id":16211, "colors":["orange"]},
+            {"id":16212, "colors":["silver"]},
+            {"id":16213, "colors":["blue"]},
+            {"id":16214, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16215, "zone":"feet", "category":"shoes", "security":"06ebebf14b916e69", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de tacón",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16215, "colors":["purple"]},
+            {"id":16216, "colors":["blue"]},
+            {"id":16217, "colors":["green"]},
+            {"id":16218, "colors":["brown"]},
+            {"id":16219, "colors":["black"]},
+            {"id":16220, "colors":["white"]},
+            {"id":16221, "colors":["pink"]},
+            {"id":16222, "colors":["red"]},
+            {"id":16223, "colors":["yellow"]},
+            {"id":16224, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16225, "zone":"waistToKnee", "category":"skirt", "security":"eeea10c649d01dc4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16225, "colors":["pink"]},
+            {"id":16226, "colors":["blue"]},
+            {"id":16227, "colors":["green"]},
+            {"id":16228, "colors":["brown"]},
+            {"id":16229, "colors":["black"]},
+            {"id":16230, "colors":["white"]},
+            {"id":16231, "colors":["purple"]},
+            {"id":16232, "colors":["red"]},
+            {"id":16233, "colors":["yellow"]},
+            {"id":16234, "colors":["green","blue"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16235, "zone":"torso", "category":"top", "security":"1ebaa48194b61f37", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Camisa",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16235, "colors":["white"]},
+            {"id":16236, "colors":["pink"]},
+            {"id":16237, "colors":["brown"]},
+            {"id":16238, "colors":["red"]},
+            {"id":16239, "colors":["blue"]},
+            {"id":16240, "colors":["yellow"]},
+            {"id":16241, "colors":["blue","green"]},
+            {"id":16242, "colors":["black"]},
+            {"id":16243, "colors":["green"]},
+            {"id":16244, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16245, "zone":"torso", "category":"jacket", "security":"f8aff95c17e803e2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16245, "colors":["brown"]},
+            {"id":16246, "colors":["purple"]},
+            {"id":16247, "colors":["pink"]},
+            {"id":16248, "colors":["black"]},
+            {"id":16249, "colors":["red"]},
+            {"id":16250, "colors":["green"]},
+            {"id":16251, "colors":["yellow"]},
+            {"id":16252, "colors":["green","blue"]},
+            {"id":16253, "colors":["blue"]},
+            {"id":16254, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16255, "zone":"head", "category":"wig", "security":"e61da51308ba16ed", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16255, "colors":["yellow"]},
+            {"id":16256, "colors":["brown"]},
+            {"id":16257, "colors":["white"]},
+            {"id":16258, "colors":["black"]},
+            {"id":16259, "colors":["blue"]},
+            {"id":16260, "colors":["blue"]},
+            {"id":16261, "colors":["purple"]},
+            {"id":16262, "colors":["red"]},
+            {"id":16263, "colors":["yellow"]},
+            {"id":16264, "colors":["orange"]},
+            {"id":16265, "colors":["pink"]},
+            {"id":16266, "colors":["yellow"]},
+            {"id":16267, "colors":["brown"]},
+            {"id":16268, "colors":["white"]},
+            {"id":16269, "colors":["black"]},
+            {"id":16270, "colors":["blue"]},
+            {"id":16271, "colors":["blue"]},
+            {"id":16272, "colors":["purple"]},
+            {"id":16273, "colors":["red"]},
+            {"id":16274, "colors":["yellow"]},
+            {"id":16275, "colors":["orange"]},
+            {"id":16276, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16277, "zone":"arms", "category":"bag", "security":"2d3a097ea813bc55", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16277, "colors":["golden","pink"]},
+            {"id":16278, "colors":["blue","silver"]},
+            {"id":16279, "colors":["golden","green"]},
+            {"id":16280, "colors":["brown","silver"]},
+            {"id":16281, "colors":["black","silver"]},
+            {"id":16282, "colors":["golden","white"]},
+            {"id":16283, "colors":["golden","purple"]},
+            {"id":16284, "colors":["golden","red"]},
+            {"id":16285, "colors":["golden","yellow"]},
+            {"id":16286, "colors":["blue","green","silver"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
     }
 ]
