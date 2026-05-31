@@ -24155,7 +24155,114 @@
         ], "criteria":{"type":"calendar", "info":"2026-25", "text":"Desbloqueado en el calendario\nN°25 - 2026"},
         "releaseDate":"2026-03-01"
     },
-
+    {
+        "groupId":13614, "zone":"arms", "category":"gloves", "security":"a850a8d877d3f54f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13614, "colors":["pink"]},
+            {"id":13615, "colors":["white"]},
+            {"id":13616, "colors":["black","grey"]},
+            {"id":13617, "colors":["blue"]},
+            {"id":13618, "colors":["golden"]},
+            {"id":13619, "colors":["brown","orange"]},
+            {"id":13620, "colors":["red"]},
+            {"id":13621, "colors":["purple"]},
+            {"id":13622, "colors":["green"]},
+            {"id":13623, "colors":["grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13624, "zone":"general", "category":"other", "security":"6664a4645721bb2b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Alas",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13624, "colors":["blue"]},
+            {"id":13625, "colors":["white"]},
+            {"id":13626, "colors":["black"]},
+            {"id":13627, "colors":["orange"]},
+            {"id":13628, "colors":["purple"]},
+            {"id":13629, "colors":["yellow"]},
+            {"id":13630, "colors":["green"]},
+            {"id":13631, "colors":["red"]},
+            {"id":13632, "colors":["grey"]},
+            {"id":13633, "colors":["pink"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13634, "zone":"head", "category":"hat", "security":"4d10075bcd8d9701", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flores",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13634, "colors":["pink"]},
+            {"id":13635, "colors":["white"]},
+            {"id":13636, "colors":["black"]},
+            {"id":13637, "colors":["blue"]},
+            {"id":13638, "colors":["yellow"]},
+            {"id":13639, "colors":["orange","brown"]},
+            {"id":13640, "colors":["red"]},
+            {"id":13641, "colors":["purple"]},
+            {"id":13642, "colors":["green"]},
+            {"id":13643, "colors":["grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13644, "zone":"feet", "category":"shoes", "security":"f14956011038aa20", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas altas",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13644, "colors":["pink"]},
+            {"id":13645, "colors":["white"]},
+            {"id":13646, "colors":["black"]},
+            {"id":13647, "colors":["blue"]},
+            {"id":13648, "colors":["golden"]},
+            {"id":13649, "colors":["brown","orange"]},
+            {"id":13650, "colors":["red"]},
+            {"id":13651, "colors":["purple"]},
+            {"id":13652, "colors":["green"]},
+            {"id":13653, "colors":["grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13654, "zone":"waistToKnee", "category":"skirt", "security":"917efe9ae5e4c214", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13654, "colors":["green","pink"]},
+            {"id":13655, "colors":["white","brown"]},
+            {"id":13656, "colors":["black","grey"]},
+            {"id":13657, "colors":["blue","yellow"]},
+            {"id":13658, "colors":["golden","grey"]},
+            {"id":13659, "colors":["orange","brown","red"]},
+            {"id":13660, "colors":["red","purple"]},
+            {"id":13661, "colors":["purple","pink"]},
+            {"id":13662, "colors":["green","blue"]},
+            {"id":13663, "colors":["grey","blue"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13664, "zone":"torso", "category":"top", "security":"07dbc4fe3b86c2a7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13664, "colors":["pink"]},
+            {"id":13665, "colors":["white"]},
+            {"id":13666, "colors":["black"]},
+            {"id":13667, "colors":["blue"]},
+            {"id":13668, "colors":["golden"]},
+            {"id":13669, "colors":["orange"]},
+            {"id":13670, "colors":["red"]},
+            {"id":13671, "colors":["purple"]},
+            {"id":13672, "colors":["green"]},
+            {"id":13673, "colors":["grey","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
     {
         "groupId":13674, "zone":"arms", "category":"gloves", "security":"23ea75aca290bfba", "multiLayered":false, "layerBehavior":"normal",
         "name":"Guantes",
