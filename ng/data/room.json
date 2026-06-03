@@ -2609,36 +2609,31 @@
         "id":403, "roomId":86, "slot":"slot1", "releaseDate":"2025-06-15", "light":true, "security":"b308bd7b0c90ac70",
         "name":"Escritorio",
         "roomName":"Devon's Touch",
-        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
-        "backgroundColors":null
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     },
     {
         "id":404, "roomId":86, "slot":"slot2", "releaseDate":"2025-06-15", "light":true, "security":"e4d688d15badeaea",
         "name":"Cama",
         "roomName":"Devon's Touch",
-        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
-        "backgroundColors":null
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     },
     {
         "id":405, "roomId":86, "slot":"slot3", "releaseDate":"2025-06-15", "light":true, "security":"ce59b78b3d74d90f",
         "name":"Sillón",
         "roomName":"Devon's Touch",
-        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
-        "backgroundColors":null
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     },
     {
         "id":406, "roomId":86, "slot":"slot4", "releaseDate":"2025-06-15", "light":false, "security":"32913d8aa8f4f233",
         "name":"Vestidor",
         "roomName":"Devon's Touch",
-        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
-        "backgroundColors":null
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     },
     {
         "id":407, "roomId":86, "slot":"slot5", "releaseDate":"2025-06-15", "light":false, "security":"91ed42ba8c8d3eba",
         "name":"Mesa baja",
         "roomName":"Devon's Touch",
-        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
-        "backgroundColors":null
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     },
     {
         "id":408, "roomId":87, "slot":"background", "releaseDate":"2025-07-05", "light":true, "security":"9b6e3e08a6e3e2a8",
@@ -3662,36 +3657,31 @@
         "id":560, "roomId":113, "slot":"slot1", "releaseDate":"2026-05-01", "light":false, "security":"237a8d9eaf1db5db",
         "name":"Escalera",
         "roomName":"Breathing Space",
-        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
-        "backgroundColors":null
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"}
     },
     {
         "id":561, "roomId":113, "slot":"slot2", "releaseDate":"2026-05-01", "light":true, "security":"ab3771a02fc0c8a9",
         "name":"Banqueta",
         "roomName":"Breathing Space",
-        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
-        "backgroundColors":null
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"}
     },
     {
         "id":562, "roomId":113, "slot":"slot3", "releaseDate":"2026-05-01", "light":true, "security":"15a56bb69f4be852",
         "name":"Brasero",
         "roomName":"Breathing Space",
-        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
-        "backgroundColors":null
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"}
     },
     {
         "id":563, "roomId":113, "slot":"slot4", "releaseDate":"2026-05-01", "light":false, "security":"74f05913c41d89af",
         "name":"Pared vegetal",
         "roomName":"Breathing Space",
-        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
-        "backgroundColors":null
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"}
     },
     {
         "id":564, "roomId":113, "slot":"slot5", "releaseDate":"2026-05-01", "light":true, "security":"166156308f9c66d1",
         "name":"Pufs",
         "roomName":"Breathing Space",
-        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
-        "backgroundColors":null
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"}
     },
     {
         "id":565, "roomId":114, "slot":"background", "releaseDate":"2026-05-20", "light":true, "security":"ac3b92b1e2e72b07",
@@ -3732,5 +3722,46 @@
         "name":"Mesa baja",
         "roomName":"Amanda's Touch",
         "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":571, "roomId":115, "slot":"background", "releaseDate":"2026-06-01", "light":true, "security":"436b7a554793f258",
+        "name":"Paredes",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "backgroundColors":{
+            "day":{"color1":"FFFBED","color2":"CFB198","colorLight":"00D9FF"},
+            "night":{"color1":"84CAFF","color2":"A28B9F","colorLight":"00D9FF"}
+        }
+        
+    },
+    {
+        "id":572, "roomId":115, "slot":"slot5", "releaseDate":"2026-06-01", "light":false, "security":"0371839f19772a33",
+        "name":"Pétalos",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+    {
+        "id":573, "roomId":115, "slot":"slot4", "releaseDate":"2026-06-01", "light":false, "security":"dd89025cb2385794",
+        "name":"Silla",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+    {
+        "id":574, "roomId":115, "slot":"slot3", "releaseDate":"2026-06-01", "light":false, "security":"3157029d50266233",
+        "name":"Mesa auxiliar",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+    {
+        "id":575, "roomId":115, "slot":"slot2", "releaseDate":"2026-06-01", "light":true, "security":"f6f9974748b68b3b",
+        "name":"Mesa",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+    {
+        "id":576, "roomId":115, "slot":"slot1", "releaseDate":"2026-06-01", "light":false, "security":"f741d617683c0c76",
+        "name":"Salón",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
     }
 ]

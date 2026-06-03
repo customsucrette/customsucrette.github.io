@@ -378,5 +378,9 @@
     {
         "id":97, "security":"65b7a14e028dff00", "releaseDate":"2026-05-20", "name":"Amanda's Influence",
         "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":98, "security":"4eed1617738674c2", "releaseDate":"2026-06-01", "name":"Goose de la Rosa",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
     }
 ]

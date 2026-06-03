@@ -28613,5 +28613,203 @@
             {"id":16286, "colors":["blue","green","silver"]}
         ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
         "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16287, "zone":"head", "category":"wig", "security":"475edaf54f31d6ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16287, "colors":["brown"]},
+            {"id":16288, "colors":["white"]},
+            {"id":16289, "colors":["black"]},
+            {"id":16290, "colors":["blue"]},
+            {"id":16291, "colors":["blue"]},
+            {"id":16292, "colors":["purple"]},
+            {"id":16293, "colors":["red"]},
+            {"id":16294, "colors":["yellow"]},
+            {"id":16295, "colors":["orange"]},
+            {"id":16296, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16297, "zone":"head", "category":"earring", "security":"5d7e4eecdef686a3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16297, "colors":["red","golden"]},
+            {"id":16298, "colors":["white","golden"]},
+            {"id":16299, "colors":["black","silver"]},
+            {"id":16300, "colors":["blue","silver"]},
+            {"id":16301, "colors":["green","golden"]},
+            {"id":16302, "colors":["purple","golden"]},
+            {"id":16303, "colors":["grey","silver"]},
+            {"id":16304, "colors":["yellow","golden"]},
+            {"id":16305, "colors":["orange","silver"]},
+            {"id":16306, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16307, "zone":"head", "category":"hat", "security":"35d6d10d51509d92", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flores",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16307, "colors":["red"]},
+            {"id":16308, "colors":["white"]},
+            {"id":16309, "colors":["black","red"]},
+            {"id":16310, "colors":["blue"]},
+            {"id":16311, "colors":["green"]},
+            {"id":16312, "colors":["purple"]},
+            {"id":16313, "colors":["grey"]},
+            {"id":16314, "colors":["yellow"]},
+            {"id":16315, "colors":["orange"]},
+            {"id":16316, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16317, "zone":"feet", "category":"shoes", "security":"a487bbe62ae2a5ab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16317, "colors":["black","red"]},
+            {"id":16318, "colors":["black"]},
+            {"id":16319, "colors":["black"]},
+            {"id":16320, "colors":["black","blue"]},
+            {"id":16321, "colors":["black","green"]},
+            {"id":16322, "colors":["black","purple"]},
+            {"id":16323, "colors":["black","grey"]},
+            {"id":16324, "colors":["black","yellow"]},
+            {"id":16325, "colors":["black","orange"]},
+            {"id":16326, "colors":["black","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16327, "zone":"torso_waistToKnee", "category":"underwear", "security":"c192c78803d58e07", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16327, "colors":["red","black"]},
+            {"id":16328, "colors":["black","white"]},
+            {"id":16329, "colors":["black"]},
+            {"id":16330, "colors":["blue","black"]},
+            {"id":16331, "colors":["green","black"]},
+            {"id":16332, "colors":["purple","black"]},
+            {"id":16333, "colors":["grey","black"]},
+            {"id":16334, "colors":["yellow","black"]},
+            {"id":16335, "colors":["orange","black"]},
+            {"id":16336, "colors":["pink","black"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16337, "zone":"arms", "category":"armAccessory", "security":"122cf496f89bd099", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillo",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16337, "colors":["golden","red"]},
+            {"id":16338, "colors":["golden","white"]},
+            {"id":16339, "colors":["black","silver"]},
+            {"id":16340, "colors":["blue","silver"]},
+            {"id":16341, "colors":["golden","green"]},
+            {"id":16342, "colors":["golden","purple"]},
+            {"id":16343, "colors":["grey","silver"]},
+            {"id":16344, "colors":["golden","yellow"]},
+            {"id":16345, "colors":["orange","silver"]},
+            {"id":16346, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16347, "zone":"waistToKnee", "category":"skirt", "security":"288dba9377bca11b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16347, "colors":["red","black"]},
+            {"id":16348, "colors":["black","white"]},
+            {"id":16349, "colors":["black"]},
+            {"id":16350, "colors":["blue","black"]},
+            {"id":16351, "colors":["green","black"]},
+            {"id":16352, "colors":["purple","black"]},
+            {"id":16353, "colors":["grey","black"]},
+            {"id":16354, "colors":["yellow","black"]},
+            {"id":16355, "colors":["orange","black"]},
+            {"id":16356, "colors":["pink","black"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16357, "zone":"torso", "category":"jacket", "security":"60e163b27a030b2d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16357, "colors":["red"]},
+            {"id":16358, "colors":["white"]},
+            {"id":16359, "colors":["black"]},
+            {"id":16360, "colors":["blue"]},
+            {"id":16361, "colors":["green"]},
+            {"id":16362, "colors":["purple"]},
+            {"id":16363, "colors":["grey"]},
+            {"id":16364, "colors":["yellow"]},
+            {"id":16365, "colors":["orange"]},
+            {"id":16366, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16367, "zone":"arms", "category":"bag", "security":"7df8efc13ec7ac0a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Abanico",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16367, "colors":["black","red"]},
+            {"id":16368, "colors":["black","white"]},
+            {"id":16369, "colors":["black"]},
+            {"id":16370, "colors":["black","blue"]},
+            {"id":16371, "colors":["black","green"]},
+            {"id":16372, "colors":["black","purple"]},
+            {"id":16373, "colors":["black","grey"]},
+            {"id":16374, "colors":["black","yellow"]},
+            {"id":16375, "colors":["black","brown"]},
+            {"id":16376, "colors":["black","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16377, "zone":"torso", "category":"jacket", "security":"a1a6b40fc177111f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chal",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16377, "colors":["red"]},
+            {"id":16378, "colors":["white"]},
+            {"id":16379, "colors":["black"]},
+            {"id":16380, "colors":["blue"]},
+            {"id":16381, "colors":["green"]},
+            {"id":16382, "colors":["purple"]},
+            {"id":16383, "colors":["grey"]},
+            {"id":16384, "colors":["yellow"]},
+            {"id":16385, "colors":["brown"]},
+            {"id":16386, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16387, "zone":"general", "category":"other", "security":"95188584b0dd5d31", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pétalos",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16387, "colors":["red"]},
+            {"id":16388, "colors":["white"]},
+            {"id":16389, "colors":["black","red"]},
+            {"id":16390, "colors":["blue"]},
+            {"id":16391, "colors":["green"]},
+            {"id":16392, "colors":["purple"]},
+            {"id":16393, "colors":["grey"]},
+            {"id":16394, "colors":["yellow"]},
+            {"id":16395, "colors":["brown"]},
+            {"id":16396, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
     }
 ]
