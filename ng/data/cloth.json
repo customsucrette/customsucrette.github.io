@@ -28811,5 +28811,185 @@
             {"id":16396, "colors":["pink"]}
         ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
         "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16397, "zone":"general", "category":"other", "security":"4004650d48dfa5a4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Música",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16397, "colors":["blue"]},
+            {"id":16398, "colors":["pink"]},
+            {"id":16399, "colors":["white"]},
+            {"id":16400, "colors":["yellow"]},
+            {"id":16401, "colors":["green"]},
+            {"id":16402, "colors":["blue"]},
+            {"id":16403, "colors":["pink"]},
+            {"id":16404, "colors":["purple"]},
+            {"id":16405, "colors":["black"]},
+            {"id":16406, "colors":["red"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16407, "zone":"feet", "category":"socks", "security":"6791462c22261f96", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16407, "colors":["black","blue","green"]},
+            {"id":16408, "colors":["pink","black"]},
+            {"id":16409, "colors":["white","black"]},
+            {"id":16410, "colors":["yellow","black"]},
+            {"id":16411, "colors":["pink","black"]},
+            {"id":16412, "colors":["blue","black"]},
+            {"id":16413, "colors":["pink","black"]},
+            {"id":16414, "colors":["black","purple"]},
+            {"id":16415, "colors":["black"]},
+            {"id":16416, "colors":["black","red"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16417, "zone":"feet", "category":"shoes", "security":"9800da8841aeff81", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16417, "colors":["silver"]},
+            {"id":16418, "colors":["purple"]},
+            {"id":16419, "colors":["blue","green"]},
+            {"id":16420, "colors":["green"]},
+            {"id":16421, "colors":["pink"]},
+            {"id":16422, "colors":["golden"]},
+            {"id":16423, "colors":["white"]},
+            {"id":16424, "colors":["black"]},
+            {"id":16425, "colors":["red"]},
+            {"id":16426, "colors":["blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16427, "zone":"waistToKnee", "category":"skirt", "security":"ad4570a6ebb72196", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16427, "colors":["silver"]},
+            {"id":16428, "colors":["purple"]},
+            {"id":16429, "colors":["blue","green"]},
+            {"id":16430, "colors":["green"]},
+            {"id":16431, "colors":["pink"]},
+            {"id":16432, "colors":["golden"]},
+            {"id":16433, "colors":["white"]},
+            {"id":16434, "colors":["black"]},
+            {"id":16435, "colors":["red"]},
+            {"id":16436, "colors":["blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16437, "zone":"torso_waistToKnee", "category":"waist", "security":"61f7a1659b7e5104", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16437, "colors":["black","silver"]},
+            {"id":16438, "colors":["black","purple"]},
+            {"id":16439, "colors":["black","blue","green"]},
+            {"id":16440, "colors":["black","green"]},
+            {"id":16441, "colors":["black","pink"]},
+            {"id":16442, "colors":["black","golden"]},
+            {"id":16443, "colors":["black","white"]},
+            {"id":16444, "colors":["black"]},
+            {"id":16445, "colors":["red"]},
+            {"id":16446, "colors":["blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16447, "zone":"torso_waistToKnee", "category":"waist", "security":"6388bfcaae9a364b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Arnés",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16447, "colors":["silver"]},
+            {"id":16448, "colors":["purple"]},
+            {"id":16449, "colors":["blue","green"]},
+            {"id":16450, "colors":["green"]},
+            {"id":16451, "colors":["pink"]},
+            {"id":16452, "colors":["golden"]},
+            {"id":16453, "colors":["white"]},
+            {"id":16454, "colors":["black"]},
+            {"id":16455, "colors":["red"]},
+            {"id":16456, "colors":["blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16457, "zone":"torso", "category":"top", "security":"4f57bef8884389ae", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Top",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16457, "colors":["blue","green"]},
+            {"id":16458, "colors":["pink"]},
+            {"id":16459, "colors":["white"]},
+            {"id":16460, "colors":["yellow"]},
+            {"id":16461, "colors":["green"]},
+            {"id":16462, "colors":["blue"]},
+            {"id":16463, "colors":["pink"]},
+            {"id":16464, "colors":["purple"]},
+            {"id":16465, "colors":["black"]},
+            {"id":16466, "colors":["red"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16467, "zone":"arms", "category":"bag", "security":"1d216038838c054c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Micro",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16467, "colors":["black","silver"]},
+            {"id":16468, "colors":["black","purple"]},
+            {"id":16469, "colors":["black","blue","green"]},
+            {"id":16470, "colors":["black","green"]},
+            {"id":16471, "colors":["black","pink"]},
+            {"id":16472, "colors":["black","golden"]},
+            {"id":16473, "colors":["black","white"]},
+            {"id":16474, "colors":["black"]},
+            {"id":16475, "colors":["black","red"]},
+            {"id":16476, "colors":["black","blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16477, "zone":"head", "category":"wig", "security":"efa43dac9f570d14", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16477, "colors":["brown"]},
+            {"id":16478, "colors":["white"]},
+            {"id":16479, "colors":["black"]},
+            {"id":16480, "colors":["blue"]},
+            {"id":16481, "colors":["blue"]},
+            {"id":16482, "colors":["purple"]},
+            {"id":16483, "colors":["red"]},
+            {"id":16484, "colors":["yellow"]},
+            {"id":16485, "colors":["orange"]},
+            {"id":16486, "colors":["pink"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16487, "zone":"head", "category":"hat", "security":"fd03b3b565815f32", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Casco",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16487, "colors":["blue","silver"]},
+            {"id":16488, "colors":["pink","purple"]},
+            {"id":16489, "colors":["blue","green","white"]},
+            {"id":16490, "colors":["yellow","green"]},
+            {"id":16491, "colors":["green","pink"]},
+            {"id":16492, "colors":["blue","golden"]},
+            {"id":16493, "colors":["pink","white"]},
+            {"id":16494, "colors":["purple","black"]},
+            {"id":16495, "colors":["red","black"]},
+            {"id":16496, "colors":["red","blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
     }
 ]

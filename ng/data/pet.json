@@ -382,5 +382,9 @@
     {
         "id":98, "security":"4eed1617738674c2", "releaseDate":"2026-06-01", "name":"Goose de la Rosa",
         "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+    {
+        "id":99, "security":"f9afa0a93a0dc997", "releaseDate":"2026-06-18", "name":"Disco Gooser",
+        "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"}
     }
 ]
