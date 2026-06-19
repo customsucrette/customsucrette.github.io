@@ -1204,12 +1204,13 @@ function drawItemIcons (criteria, elmnt) {
         case "jobTask": icon = "jobTasks";break;
         case "pack":case "loyaltyPack": icon = "bankPacks";break;
         case "calendar": icon = "calendar";break;
-        case "gameEvent":case "gauge": icon = "gameEvents";break;
+        case "gameEvent":case "gauge": case "hunt": icon = "gameEvents";break;
     };
 
     let macaroon = "assets/game-event/";
-    if (criteria.type == "gameEvent") {
-        macaroon += `gacha/${(criteria.info).split("-")[0]}-icon.png`;
+    if (criteria.type == "gameEvent"  || criteria.type == "hunt") {
+        (criteria.type == "gameEvent") ? macaroon += "gacha" : macaroon += "hunt";
+        macaroon += `/${(criteria.info).split("-")[0]}-icon.png`;
     } else if ((criteria.type == "gauge")) {
         macaroon += "gauge/icon.png";
     };
