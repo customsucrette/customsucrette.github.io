@@ -1575,7 +1575,46 @@
         "roomName":"Sun 'n' Snack",
         "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"}
     },
-
+    {
+        "id":243, "roomId":57, "slot":"background", "releaseDate":"2026-06-30", "light":true, "security":"61574dd66ea427ad",
+        "name":"Paredes",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"C5C8EC","colorLight":"084771"},
+            "night":{"color1":"D49481","color2":"95B6DE","colorLight":"CA6C1D"}
+        }
+    },
+    {
+        "id":244, "roomId":57, "slot":"slot1", "releaseDate":"2026-06-30", "light":false, "security":"a9c0e0b3a549c591",
+        "name":"Tablas de surf",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"}
+    },
+    {
+        "id":245, "roomId":57, "slot":"slot2", "releaseDate":"2026-06-30", "light":true, "security":"46838bd157baa0a5",
+        "name":"Banco colgante",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"}
+    },
+    {
+        "id":246, "roomId":57, "slot":"slot3", "releaseDate":"2026-06-30", "light":false, "security":"ed0d241bb7c5833c",
+        "name":"Tumbona",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"}
+    },
+    {
+        "id":247, "roomId":57, "slot":"slot4", "releaseDate":"2026-06-30", "light":false, "security":"cd5b913d2b533d1a",
+        "name":"Sombrilla y nevera",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"}
+    },
+    {
+        "id":248, "roomId":57, "slot":"slot5", "releaseDate":"2026-06-30", "light":true, "security":"eb7040f1108ae56c",
+        "name":"Linterna",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"}
+    },
     {
         "id":249, "roomId":58, "slot":"background", "releaseDate":"2024-08-19", "light":true, "security":"3dee509c09d3daa8",
         "name":"Pérgola",

@@ -28991,5 +28991,186 @@
             {"id":16496, "colors":["red","blue"]}
         ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
         "releaseDate":"2026-06-18"
+    },
+
+    {
+        "groupId":16647, "zone":"feet", "category":"shoes", "security":"3e241e318f53d3a5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16647, "colors":["brown","orange"]},
+            {"id":16648, "colors":["red"]},
+            {"id":16649, "colors":["yellow"]},
+            {"id":16650, "colors":["black"]},
+            {"id":16651, "colors":["green"]},
+            {"id":16652, "colors":["blue"]},
+            {"id":16653, "colors":["white"]},
+            {"id":16654, "colors":["pink"]},
+            {"id":16655, "colors":["purple"]},
+            {"id":16656, "colors":["blue","green"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16657, "zone":"torso_waistToKnee", "category":"underwear", "security":"3c8dc5d71ec524d4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16657, "colors":["brown"]},
+            {"id":16658, "colors":["red"]},
+            {"id":16659, "colors":["yellow"]},
+            {"id":16660, "colors":["black"]},
+            {"id":16661, "colors":["green"]},
+            {"id":16662, "colors":["blue"]},
+            {"id":16663, "colors":["white"]},
+            {"id":16664, "colors":["pink"]},
+            {"id":16665, "colors":["purple"]},
+            {"id":16666, "colors":["blue","green"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16667, "zone":"torso_waistToKnee", "category":"dress", "security":"14b8e76d13999f61", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16667, "colors":["white"]},
+            {"id":16668, "colors":["black"]},
+            {"id":16669, "colors":["green"]},
+            {"id":16670, "colors":["brown"]},
+            {"id":16671, "colors":["yellow"]},
+            {"id":16672, "colors":["pink"]},
+            {"id":16673, "colors":["blue"]},
+            {"id":16674, "colors":["purple"]},
+            {"id":16675, "colors":["blue","green"]},
+            {"id":16676, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16677, "zone":"torso", "category":"jacket", "security":"a60db65c51ec7a13", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Kimono",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16677, "colors":["white"]},
+            {"id":16678, "colors":["black"]},
+            {"id":16679, "colors":["green"]},
+            {"id":16680, "colors":["brown"]},
+            {"id":16681, "colors":["yellow"]},
+            {"id":16682, "colors":["pink"]},
+            {"id":16683, "colors":["blue"]},
+            {"id":16684, "colors":["purple"]},
+            {"id":16685, "colors":["blue","green"]},
+            {"id":16686, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16687, "zone":"general", "category":"other", "security":"d8ccb03f731ceeb2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolsa de playa",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16687, "colors":["yellow","brown"]},
+            {"id":16688, "colors":["yellow","red"]},
+            {"id":16689, "colors":["yellow"]},
+            {"id":16690, "colors":["yellow","black"]},
+            {"id":16691, "colors":["yellow","green"]},
+            {"id":16692, "colors":["yellow","blue"]},
+            {"id":16693, "colors":["yellow","white"]},
+            {"id":16694, "colors":["yellow","pink"]},
+            {"id":16695, "colors":["yellow","purple"]},
+            {"id":16696, "colors":["blue","green","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16697, "zone":"face", "category":"neckAccessory", "security":"9b4a4bc31ffc2469", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16697, "colors":["golden"]},
+            {"id":16698, "colors":["silver"]},
+            {"id":16699, "colors":["green"]},
+            {"id":16700, "colors":["yellow"]},
+            {"id":16701, "colors":["brown"]},
+            {"id":16702, "colors":["pink"]},
+            {"id":16703, "colors":["white"]},
+            {"id":16704, "colors":["blue"]},
+            {"id":16705, "colors":["black"]},
+            {"id":16706, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16707, "zone":"arms", "category":"armAccessory", "security":"f0e96984713b0e39", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulseras",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16707, "colors":["golden"]},
+            {"id":16708, "colors":["silver"]},
+            {"id":16709, "colors":["green"]},
+            {"id":16710, "colors":["yellow"]},
+            {"id":16711, "colors":["brown"]},
+            {"id":16712, "colors":["pink"]},
+            {"id":16713, "colors":["white"]},
+            {"id":16714, "colors":["blue"]},
+            {"id":16715, "colors":["black"]},
+            {"id":16716, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16717, "zone":"head", "category":"faceAccessory", "security":"379a0b2310400245", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas de sol",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16717, "colors":["brown"]},
+            {"id":16718, "colors":["red"]},
+            {"id":16719, "colors":["yellow"]},
+            {"id":16720, "colors":["black"]},
+            {"id":16721, "colors":["green"]},
+            {"id":16722, "colors":["blue"]},
+            {"id":16723, "colors":["white"]},
+            {"id":16724, "colors":["pink"]},
+            {"id":16725, "colors":["purple"]},
+            {"id":16726, "colors":["blue","green"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16727, "zone":"head", "category":"earring", "security":"4f00c5ee4f626245", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16727, "colors":["golden"]},
+            {"id":16728, "colors":["silver"]},
+            {"id":16729, "colors":["green"]},
+            {"id":16730, "colors":["yellow"]},
+            {"id":16731, "colors":["brown"]},
+            {"id":16732, "colors":["pink"]},
+            {"id":16733, "colors":["white"]},
+            {"id":16734, "colors":["blue"]},
+            {"id":16735, "colors":["black"]},
+            {"id":16736, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16737, "zone":"head", "category":"hat", "security":"170d7b4163e52210", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16737, "colors":["brown","orange"]},
+            {"id":16738, "colors":["red","black"]},
+            {"id":16739, "colors":["yellow","green"]},
+            {"id":16740, "colors":["brown","black"]},
+            {"id":16741, "colors":["yellow","green"]},
+            {"id":16742, "colors":["pink","blue"]},
+            {"id":16743, "colors":["white","blue"]},
+            {"id":16744, "colors":["pink","purple"]},
+            {"id":16745, "colors":["blue","purple"]},
+            {"id":16746, "colors":["blue","green","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
     }
 ]
