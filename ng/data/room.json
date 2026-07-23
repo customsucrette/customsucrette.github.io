@@ -3802,5 +3802,86 @@
         "name":"Salón",
         "roomName":"Patio Al Fresco",
         "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+
+    {
+        "id":583, "roomId":118, "slot":"background", "releaseDate":"2026-07-22", "light":true, "security":"878e9014e4318ec3",
+        "name":"Cala",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "backgroundColors":{
+            "day":{"color1":"FAF4E6","color2":"DDFFFF","colorLight":"8B9197"},
+            "night":{"color1":"FFF6DB","color2":"FFCFA8","colorLight":"FF0E00"}
+        }
+    },
+    {
+        "id":584, "roomId":118, "slot":"slot1", "releaseDate":"2026-07-22", "light":false, "security":"b1d632ab1ae009b5",
+        "name":"Hamaca",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":585, "roomId":118, "slot":"slot2", "releaseDate":"2026-07-22", "light":false, "security":"556f6cb49b82e293",
+        "name":"Barco",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":586, "roomId":118, "slot":"slot3", "releaseDate":"2026-07-22", "light":false, "security":"22d237a9b2a41160",
+        "name":"Cofre",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":587, "roomId":118, "slot":"slot4", "releaseDate":"2026-07-22", "light":false, "security":"2efc5f02a59b634d",
+        "name":"Bandera",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":588, "roomId":118, "slot":"slot5", "releaseDate":"2026-07-22", "light":false, "security":"5b229ea7dbb4de19",
+        "name":"Barricas",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":589, "roomId":119, "slot":"background", "releaseDate":"2026-07-22", "light":false, "security":"b708395f1c05f681",
+        "name":"Fondos marinos",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "backgroundColors":{
+            "day":{"color1":"FFFBEA","color2":"9BCFF3","colorLight":null},
+            "night":{"color1":"9DCBFF","color2":"6572EB","colorLight":null}
+        }
+    },
+    {
+        "id":590, "roomId":119, "slot":"slot1", "releaseDate":"2026-07-22", "light":false, "security":"f6c362e223a35760",
+        "name":"Corales",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
+    },
+    {
+        "id":591, "roomId":119, "slot":"slot2", "releaseDate":"2026-07-22", "light":false, "security":"e3dd86cfa3d7ce1f",
+        "name":"Cama",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
+    },
+    {
+        "id":592, "roomId":119, "slot":"slot3", "releaseDate":"2026-07-22", "light":true, "security":"c122ac1f49fd5ae5",
+        "name":"Adivinación",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
+    },
+    {
+        "id":593, "roomId":119, "slot":"slot4", "releaseDate":"2026-07-22", "light":false, "security":"62b0d30a2761275c",
+        "name":"Estatua",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
+    },
+    {
+        "id":594, "roomId":119, "slot":"slot5", "releaseDate":"2026-07-22", "light":false, "security":"3141a77f35d61ae8",
+        "name":"Ancla",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
     }
 ]

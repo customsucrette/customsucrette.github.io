@@ -669,6 +669,24 @@
                     {"id":306, "colors":["grey","silver"]}
                 ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
                 "releaseDate":"2026-05-20"
+            },
+            {
+                "groupId":307, "zone":"face", "category":"eyes", "security":"89d102ff42d42e2f",
+                "name":"Ojos",
+                "outfitName":"Deep Sea Menace",
+                "variations":[
+                    {"id":307, "colors":["blue"]},
+                    {"id":308, "colors":["blue"]},
+                    {"id":309, "colors":["purple"]},
+                    {"id":310, "colors":["green"]},
+                    {"id":311, "colors":["white"]},
+                    {"id":312, "colors":["pink"]},
+                    {"id":313, "colors":["red"]},
+                    {"id":314, "colors":["yellow"]},
+                    {"id":315, "colors":["black"]},
+                    {"id":316, "colors":["grey"]}
+                ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+                "releaseDate":"2026-07-22"
             }
         ],
         "mouth":[
@@ -1022,6 +1040,24 @@
                     {"id":230, "colors":["brown","green"]}
                 ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"},
                 "releaseDate":"2026-02-10"
+            },
+            {
+                "groupId":231, "zone":"face", "category":"mouth", "security":"e016e1bf1eb601b1",
+                "name":"Boca",
+                "outfitName":"Deep Sea Menace",
+                "variations":[
+                    {"id":231, "colors":["blue"]},
+                    {"id":232, "colors":["blue"]},
+                    {"id":233, "colors":["purple"]},
+                    {"id":234, "colors":["green"]},
+                    {"id":235, "colors":["white"]},
+                    {"id":236, "colors":["pink"]},
+                    {"id":237, "colors":["red"]},
+                    {"id":238, "colors":["yellow"]},
+                    {"id":239, "colors":["black"]},
+                    {"id":240, "colors":["grey"]}
+                ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+                "releaseDate":"2026-07-22"
             }
         ]
     },

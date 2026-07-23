@@ -28992,7 +28992,268 @@
         ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
         "releaseDate":"2026-06-18"
     },
-
+    {
+        "groupId":16497, "zone":"feet", "category":"shoes", "security":"be97b1d40520ab3e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16497, "colors":["golden","black"]},
+            {"id":16498, "colors":["golden","red"]},
+            {"id":16499, "colors":["golden","green"]},
+            {"id":16500, "colors":["silver","white"]},
+            {"id":16501, "colors":["golden","grey"]},
+            {"id":16502, "colors":["silver","blue"]},
+            {"id":16503, "colors":["silver","yellow"]},
+            {"id":16504, "colors":["silver","purple"]},
+            {"id":16505, "colors":["silver","brown"]},
+            {"id":16506, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16507, "zone":"waistToKnee", "category":"pants", "security":"66522e0dc38b5e57", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pantalones capri",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16507, "colors":["golden","blue"]},
+            {"id":16508, "colors":["golden","red"]},
+            {"id":16509, "colors":["golden","green"]},
+            {"id":16510, "colors":["silver","blue","white"]},
+            {"id":16511, "colors":["golden","black"]},
+            {"id":16512, "colors":["silver","blue"]},
+            {"id":16513, "colors":["silver","yellow"]},
+            {"id":16514, "colors":["silver","purple"]},
+            {"id":16515, "colors":["silver","brown"]},
+            {"id":16516, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16517, "zone":"torso", "category":"top", "security":"46f2f13d78ca99b4", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16517, "colors":["golden","brown","blue"]},
+            {"id":16518, "colors":["golden","brown","red"]},
+            {"id":16519, "colors":["golden","brown","green"]},
+            {"id":16520, "colors":["silver","white","blue"]},
+            {"id":16521, "colors":["golden","black","grey"]},
+            {"id":16522, "colors":["silver","black","grey"]},
+            {"id":16523, "colors":["silver","brown","yellow"]},
+            {"id":16524, "colors":["silver","purple","brown"]},
+            {"id":16525, "colors":["silver","brown"]},
+            {"id":16526, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16527, "zone":"head", "category":"wig", "security":"60121140ec27bcee", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16527, "colors":["brown","golden"]},
+            {"id":16528, "colors":["white","golden"]},
+            {"id":16529, "colors":["black","golden"]},
+            {"id":16530, "colors":["blue","golden"]},
+            {"id":16531, "colors":["black","golden"]},
+            {"id":16532, "colors":["golden","purple"]},
+            {"id":16533, "colors":["brown","golden"]},
+            {"id":16534, "colors":["yellow","golden"]},
+            {"id":16535, "colors":["orange","golden"]},
+            {"id":16536, "colors":["pink","golden"]},
+            {"id":16537, "colors":["brown","silver"]},
+            {"id":16538, "colors":["white","silver"]},
+            {"id":16539, "colors":["black","silver"]},
+            {"id":16540, "colors":["blue","silver"]},
+            {"id":16541, "colors":["black","silver"]},
+            {"id":16542, "colors":["silver","purple"]},
+            {"id":16543, "colors":["brown","silver"]},
+            {"id":16544, "colors":["yellow","silver"]},
+            {"id":16545, "colors":["orange","silver"]},
+            {"id":16546, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16547, "zone":"head", "category":"hat", "security":"1750c617b394a7cb", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16547, "colors":["golden","black","blue"]},
+            {"id":16548, "colors":["golden","black","red"]},
+            {"id":16549, "colors":["golden","green"]},
+            {"id":16550, "colors":["silver","white","blue"]},
+            {"id":16551, "colors":["golden","black","grey"]},
+            {"id":16552, "colors":["silver","grey","blue"]},
+            {"id":16553, "colors":["silver","yellow","brown"]},
+            {"id":16554, "colors":["silver","purple","pink"]},
+            {"id":16555, "colors":["silver","brown","red"]},
+            {"id":16556, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16557, "zone":"arms", "category":"bag", "security":"17a4b1e867bf5081", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sable",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16557, "colors":["silver","golden","blue"]},
+            {"id":16558, "colors":["silver","golden","red"]},
+            {"id":16559, "colors":["green"]},
+            {"id":16560, "colors":["silver","white"]},
+            {"id":16561, "colors":["silver","black"]},
+            {"id":16562, "colors":["silver","brown","black"]},
+            {"id":16563, "colors":["golden","yellow"]},
+            {"id":16564, "colors":["silver","purple","brown"]},
+            {"id":16565, "colors":["silver","brown","blue"]},
+            {"id":16566, "colors":["pink","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16567, "zone":"general", "category":"tattoo", "security":"cade2fcded6758c6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Escamas",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16567, "colors":["blue"]},
+            {"id":16568, "colors":["pink"]},
+            {"id":16569, "colors":["red"]},
+            {"id":16570, "colors":["purple"]},
+            {"id":16571, "colors":["white"]},
+            {"id":16572, "colors":["black"]},
+            {"id":16573, "colors":["green"]},
+            {"id":16574, "colors":["silver"]},
+            {"id":16575, "colors":["yellow"]},
+            {"id":16576, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16577, "zone":"general", "category":"other", "security":"0674da83024bac3b", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Cola de sirena",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16577, "colors":["blue","yellow"]},
+            {"id":16578, "colors":["pink","green"]},
+            {"id":16579, "colors":["red","black"]},
+            {"id":16580, "colors":["purple","orange"]},
+            {"id":16581, "colors":["white","blue"]},
+            {"id":16582, "colors":["black","purple"]},
+            {"id":16583, "colors":["green","purple"]},
+            {"id":16584, "colors":["silver","white"]},
+            {"id":16585, "colors":["yellow","blue"]},
+            {"id":16586, "colors":["orange","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16587, "zone":"arms", "category":"gloves", "security":"28a97a26ee630b01", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16587, "colors":["brown"]},
+            {"id":16588, "colors":["blue"]},
+            {"id":16589, "colors":["black"]},
+            {"id":16590, "colors":["orange"]},
+            {"id":16591, "colors":["white"]},
+            {"id":16592, "colors":["purple"]},
+            {"id":16593, "colors":["pink"]},
+            {"id":16594, "colors":["green"]},
+            {"id":16595, "colors":["red"]},
+            {"id":16596, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16597, "zone":"torso_waistToKnee", "category":"waist", "security":"0bb5add593bc3860", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16597, "colors":["brown","green","yellow"]},
+            {"id":16598, "colors":["blue","pink"]},
+            {"id":16599, "colors":["black","purple","orange"]},
+            {"id":16600, "colors":["orange","green","blue"]},
+            {"id":16601, "colors":["white","green","purple"]},
+            {"id":16602, "colors":["black","purple","red"]},
+            {"id":16603, "colors":["pink","blue","purple"]},
+            {"id":16604, "colors":["green","black","white"]},
+            {"id":16605, "colors":["red","green","blue"]},
+            {"id":16606, "colors":["yellow","green","brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16607, "zone":"torso", "category":"top", "security":"ded2b59f204ed716", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16607, "colors":["blue","yellow"]},
+            {"id":16608, "colors":["green","pink"]},
+            {"id":16609, "colors":["black","red"]},
+            {"id":16610, "colors":["orange","purple"]},
+            {"id":16611, "colors":["white"]},
+            {"id":16612, "colors":["black"]},
+            {"id":16613, "colors":["purple","green"]},
+            {"id":16614, "colors":["white","grey"]},
+            {"id":16615, "colors":["blue","yellow"]},
+            {"id":16616, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16617, "zone":"head", "category":"wig", "security":"6ad2e97af3e55b88", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16617, "colors":["brown"]},
+            {"id":16618, "colors":["white"]},
+            {"id":16619, "colors":["black"]},
+            {"id":16620, "colors":["blue"]},
+            {"id":16621, "colors":["blue"]},
+            {"id":16622, "colors":["purple"]},
+            {"id":16623, "colors":["red"]},
+            {"id":16624, "colors":["yellow"]},
+            {"id":16625, "colors":["orange"]},
+            {"id":16626, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16627, "zone":"head", "category":"hat", "security":"4533dad2f90cfe1f", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Corona",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16627, "colors":["golden","yellow","blue"]},
+            {"id":16628, "colors":["golden","pink","green"]},
+            {"id":16629, "colors":["silver","red","black"]},
+            {"id":16630, "colors":["silver","purple","orange"]},
+            {"id":16631, "colors":["silver","purple","white"]},
+            {"id":16632, "colors":["silver","purple","white"]},
+            {"id":16633, "colors":["green","yellow","golden"]},
+            {"id":16634, "colors":["black","white","silver"]},
+            {"id":16635, "colors":["golden","blue","yellow"]},
+            {"id":16636, "colors":["golden","pink","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16637, "zone":"general", "category":"other", "security":"4c797769a591db82", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Piscis",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16637, "colors":["white","orange"]},
+            {"id":16638, "colors":["pink","orange","yellow"]},
+            {"id":16639, "colors":["black"]},
+            {"id":16640, "colors":["purple","blue","yellow"]},
+            {"id":16641, "colors":["white"]},
+            {"id":16642, "colors":["blue","yellow","black"]},
+            {"id":16643, "colors":["yellow","blue","white"]},
+            {"id":16644, "colors":["green"]},
+            {"id":16645, "colors":["red"]},
+            {"id":16646, "colors":["yellow","orange"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
     {
         "groupId":16647, "zone":"feet", "category":"shoes", "security":"3e241e318f53d3a5", "multiLayered":false, "layerBehavior":"normal",
         "name":"Sandalias",
@@ -29172,5 +29433,204 @@
             {"id":16746, "colors":["blue","green","white"]}
         ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
         "releaseDate":"2026-07-15"
+    },
+
+    {
+        "groupId":16807, "zone":"general", "category":"skin", "security":"80471410881ee89d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piel",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16807, "colors":["grey","blue"]},
+            {"id":16808, "colors":["blue"]},
+            {"id":16809, "colors":["purple"]},
+            {"id":16810, "colors":["green"]},
+            {"id":16811, "colors":["white","blue"]},
+            {"id":16812, "colors":["pink"]},
+            {"id":16813, "colors":["red"]},
+            {"id":16814, "colors":["yellow"]},
+            {"id":16815, "colors":["black"]},
+            {"id":16816, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16817, "zone":"torso_waistToKnee", "category":"underwear", "security":"8c0c4a46a5512806", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16817, "colors":["blue"]},
+            {"id":16818, "colors":["blue"]},
+            {"id":16819, "colors":["purple"]},
+            {"id":16820, "colors":["green"]},
+            {"id":16821, "colors":["white","blue"]},
+            {"id":16822, "colors":["pink"]},
+            {"id":16823, "colors":["red"]},
+            {"id":16824, "colors":["yellow"]},
+            {"id":16825, "colors":["black"]},
+            {"id":16826, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16827, "zone":"general", "category":"other", "security":"c6fe80f1a48eafaa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rabo",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16827, "colors":["blue"]},
+            {"id":16828, "colors":["blue"]},
+            {"id":16829, "colors":["purple"]},
+            {"id":16830, "colors":["green"]},
+            {"id":16831, "colors":["white","blue"]},
+            {"id":16832, "colors":["pink"]},
+            {"id":16833, "colors":["red"]},
+            {"id":16834, "colors":["yellow"]},
+            {"id":16835, "colors":["black"]},
+            {"id":16836, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16837, "zone":"face", "category":"neckAccessory", "security":"3db5be1c947ec8f4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16837, "colors":["brown"]},
+            {"id":16838, "colors":["black"]},
+            {"id":16839, "colors":["blue","green"]},
+            {"id":16840, "colors":["yellow"]},
+            {"id":16841, "colors":["blue"]},
+            {"id":16842, "colors":["purple"]},
+            {"id":16843, "colors":["green"]},
+            {"id":16844, "colors":["white"]},
+            {"id":16845, "colors":["red"]},
+            {"id":16846, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16847, "zone":"head", "category":"earring", "security":"437ece2382a60137", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Orejas",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16847, "colors":["blue"]},
+            {"id":16848, "colors":["blue"]},
+            {"id":16849, "colors":["purple"]},
+            {"id":16850, "colors":["green"]},
+            {"id":16851, "colors":["white","blue"]},
+            {"id":16852, "colors":["pink"]},
+            {"id":16853, "colors":["red"]},
+            {"id":16854, "colors":["yellow"]},
+            {"id":16855, "colors":["black"]},
+            {"id":16856, "colors":["grey","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16857, "zone":"head", "category":"wig", "security":"bde0718243d6b720", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16857, "colors":["brown"]},
+            {"id":16858, "colors":["white"]},
+            {"id":16859, "colors":["black"]},
+            {"id":16860, "colors":["blue"]},
+            {"id":16861, "colors":["blue"]},
+            {"id":16862, "colors":["purple"]},
+            {"id":16863, "colors":["red"]},
+            {"id":16864, "colors":["yellow"]},
+            {"id":16865, "colors":["orange"]},
+            {"id":16866, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16867, "zone":"arms", "category":"bag", "security":"62605f1879bb557b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tridente",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16867, "colors":["brown"]},
+            {"id":16868, "colors":["black"]},
+            {"id":16869, "colors":["blue","green"]},
+            {"id":16870, "colors":["yellow"]},
+            {"id":16871, "colors":["blue"]},
+            {"id":16872, "colors":["purple"]},
+            {"id":16873, "colors":["green"]},
+            {"id":16874, "colors":["white"]},
+            {"id":16875, "colors":["red"]},
+            {"id":16876, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16877, "zone":"arms", "category":"armAccessory", "security":"cec0241e5d3c0345", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Aletas",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16877, "colors":["blue"]},
+            {"id":16878, "colors":["blue"]},
+            {"id":16879, "colors":["purple"]},
+            {"id":16880, "colors":["green"]},
+            {"id":16881, "colors":["white"]},
+            {"id":16882, "colors":["pink"]},
+            {"id":16883, "colors":["red"]},
+            {"id":16884, "colors":["yellow"]},
+            {"id":16885, "colors":["black"]},
+            {"id":16886, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16887, "zone":"head", "category":"hat", "security":"a985be4f2144181f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16887, "colors":["blue"]},
+            {"id":16888, "colors":["blue"]},
+            {"id":16889, "colors":["purple"]},
+            {"id":16890, "colors":["green"]},
+            {"id":16891, "colors":["white","blue"]},
+            {"id":16892, "colors":["pink","purple"]},
+            {"id":16893, "colors":["red"]},
+            {"id":16894, "colors":["yellow"]},
+            {"id":16895, "colors":["black"]},
+            {"id":16896, "colors":["grey","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16897, "zone":"general", "category":"other", "security":"e1bda6d3c3aefa2a", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Morenas",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16897, "colors":["blue","green"]},
+            {"id":16898, "colors":["blue"]},
+            {"id":16899, "colors":["purple"]},
+            {"id":16900, "colors":["green"]},
+            {"id":16901, "colors":["white","blue"]},
+            {"id":16902, "colors":["pink"]},
+            {"id":16903, "colors":["red"]},
+            {"id":16904, "colors":["yellow"]},
+            {"id":16905, "colors":["black"]},
+            {"id":16906, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16907, "zone":"general", "category":"other", "security":"1dee6ebdd7298720", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bubbles",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16907, "colors":["blue"]},
+            {"id":16908, "colors":["blue"]},
+            {"id":16909, "colors":["purple"]},
+            {"id":16910, "colors":["green"]},
+            {"id":16911, "colors":["white"]},
+            {"id":16912, "colors":["pink"]},
+            {"id":16913, "colors":["red"]},
+            {"id":16914, "colors":["yellow"]},
+            {"id":16915, "colors":["black"]},
+            {"id":16916, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
     }
 ]

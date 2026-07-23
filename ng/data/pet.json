@@ -387,7 +387,10 @@
         "id":99, "security":"f9afa0a93a0dc997", "releaseDate":"2026-06-18", "name":"Disco Gooser",
         "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"}
     },
-
+    {
+        "id":100, "security":"301c0165cf1107e3", "releaseDate":"2026-07-22", "name":"Yellow SubGoose Marine",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
+    },
     {
         "id":101, "security":"9fcd16082d072c28", "releaseDate":"2026-07-22", "name":"Too Many Sunny Days",
         "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
