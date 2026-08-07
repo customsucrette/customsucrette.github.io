@@ -29434,7 +29434,114 @@
         ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
         "releaseDate":"2026-07-15"
     },
-
+    {
+        "groupId":16747, "zone":"torso_waistToKnee", "category":"underwear", "security":"965833c571510c6f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Biquini",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16747, "colors":["purple","green"]},
+            {"id":16748, "colors":["brown","white"]},
+            {"id":16749, "colors":["grey","black"]},
+            {"id":16750, "colors":["red","orange"]},
+            {"id":16751, "colors":["black","red"]},
+            {"id":16752, "colors":["white","blue"]},
+            {"id":16753, "colors":["golden","purple","yellow"]},
+            {"id":16754, "colors":["golden","pink","yellow"]},
+            {"id":16755, "colors":["green","pink"]},
+            {"id":16756, "colors":["blue","grey","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16757, "zone":"torso_waistToKnee", "category":"dress", "security":"8a482345e484b379", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mono corto",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16757, "colors":["blue"]},
+            {"id":16758, "colors":["pink"]},
+            {"id":16759, "colors":["red"]},
+            {"id":16760, "colors":["green"]},
+            {"id":16761, "colors":["purple"]},
+            {"id":16762, "colors":["grey"]},
+            {"id":16763, "colors":["white"]},
+            {"id":16764, "colors":["brown"]},
+            {"id":16765, "colors":["yellow"]},
+            {"id":16766, "colors":["black"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16767, "zone":"arms", "category":"bag", "security":"abadccaa62013716", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Casco",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16767, "colors":["pink"]},
+            {"id":16768, "colors":["brown","yellow"]},
+            {"id":16769, "colors":["white"]},
+            {"id":16770, "colors":["purple"]},
+            {"id":16771, "colors":["grey"]},
+            {"id":16772, "colors":["black"]},
+            {"id":16773, "colors":["orange"]},
+            {"id":16774, "colors":["red"]},
+            {"id":16775, "colors":["blue"]},
+            {"id":16776, "colors":["green"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16777, "zone":"arms", "category":"armAccessory", "security":"3a52621a7dc56ca8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Protectores de brazos",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16777, "colors":["white","purple","green"]},
+            {"id":16778, "colors":["white","brown"]},
+            {"id":16779, "colors":["white","grey","black"]},
+            {"id":16780, "colors":["white","red","orange"]},
+            {"id":16781, "colors":["white","black","red"]},
+            {"id":16782, "colors":["white","blue"]},
+            {"id":16783, "colors":["white","yellow","purple"]},
+            {"id":16784, "colors":["white","pink","yellow"]},
+            {"id":16785, "colors":["white","green","pink"]},
+            {"id":16786, "colors":["white","blue","grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16787, "zone":"feet", "category":"legAccessory", "security":"2d76bdddad524209", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Protectores de rodillas",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16787, "colors":["white","purple","green"]},
+            {"id":16788, "colors":["white","brown"]},
+            {"id":16789, "colors":["white","grey","black"]},
+            {"id":16790, "colors":["white","red","orange"]},
+            {"id":16791, "colors":["white","black","red"]},
+            {"id":16792, "colors":["white","blue"]},
+            {"id":16793, "colors":["white","yellow","purple"]},
+            {"id":16794, "colors":["white","pink","yellow"]},
+            {"id":16795, "colors":["white","green","pink"]},
+            {"id":16796, "colors":["white","blue","grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16797, "zone":"feet", "category":"shoes", "security":"d1fda7e9ab4cb103", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Patines",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16797, "colors":["green","purple"]},
+            {"id":16798, "colors":["white","brown"]},
+            {"id":16799, "colors":["black","grey"]},
+            {"id":16800, "colors":["orange","red"]},
+            {"id":16801, "colors":["black","red"]},
+            {"id":16802, "colors":["white","blue"]},
+            {"id":16803, "colors":["purple","yellow"]},
+            {"id":16804, "colors":["pink","yellow"]},
+            {"id":16805, "colors":["green","pink"]},
+            {"id":16806, "colors":["blue","grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
     {
         "groupId":16807, "zone":"general", "category":"skin", "security":"80471410881ee89d", "multiLayered":false, "layerBehavior":"normal",
         "name":"Piel",
