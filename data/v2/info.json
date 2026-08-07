@@ -1645,5 +1645,15 @@
 	{"groupId":36492, "category":"necklace", "name":"Collar Golden Memories"},
 	{"groupId":36493, "category":"accessory", "name":"Pendientes Golden Memories"},
 	{"groupId":36494, "category":"wig", "name":"Peluca Golden Memories"},
-	{"groupId":36495, "category":"hairAccessory", "name":"Rosas Golden Memories"}
+	{"groupId":36495, "category":"hairAccessory", "name":"Rosas Golden Memories"},
+	{"groupId":36496, "category":"accessory", "name":"Escamas Savage Waters"},
+	{"groupId":36506, "category":"wig", "name":"Peluca Savage Waters"},
+	{"groupId":36519, "category":"socks", "name":"Joyas Savage Waters"},
+	{"groupId":36529, "category":"hairAccessory", "name":"-- Savage Waters"},
+	{"groupId":36539, "category":"accessory", "name":"Charco Savage Waters"},
+	{"groupId":36549, "category":"Dress", "name":"Vestido Savage Waters"},
+	{"groupId":36559, "category":"accessory", "name":"-- Savage Waters"},
+	{"groupId":36569, "category":"purse", "name":"Tridente Savage Waters"},
+	{"groupId":36579, "category":"accessory", "name":"Guantes Savage Waters"},
+	{"groupId":36589, "category":"accessory", "name":"Agua Savage Waters"}
 ]
