@@ -1,3 +1,8 @@
+::placeholder {
+    color: #aaa;
+    font-style: italic;
+}
+
 html {
     box-sizing: border-box;
     font-family: Arvo, serif;
@@ -84,7 +89,7 @@ img {
     z-index: 2;
     top: -5px;
     right: 0;
-    width: 320px;
+    width: 380px;
     height: 150px;
     padding-top: 5px;
     padding-left: 10px;
@@ -157,7 +162,7 @@ img {
     margin-bottom: 10px;
 }
 
-season-selector {    
+season-selector {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -165,10 +170,13 @@ season-selector {
     height: 37px;
     width: 100%;
     overflow: hidden;
+    font-weight: bold;
 }
 
 season-selector a {
     cursor: pointer !important;
+    color:#000;
+    text-decoration: none;
 }
 
 season-selector-button .v1 {
@@ -207,12 +215,28 @@ season-selector-button .v1 {
     background: rgba(41,160,173,.5);
 }
 
+.ng{
+    background: rgba(198, 58, 95, .5);
+}
+
 .v1 .icon-container {
     color: #f85084;
 }
 
 .v2 .icon-container {
     color: #29a0ad;
+}
+
+.ng .icon-container {
+    color: #c63a5f;
+}
+
+.ng .icon-container svg {
+    fill: #c63a5f;
+    position: relative;
+    top: -4px;
+    left: 3px;
+    
 }
 
 .v1 .icon-container .icon {
@@ -222,6 +246,11 @@ season-selector-button .v1 {
 
 .v2 .icon-container .icon {
       background: url(https://www.corazondemelon.es/image/home/s3/icon/season-icon-hover.png) no-repeat;
+      background-size: contain;
+}
+
+.ng .icon-container .icon {
+      background: none;
       background-size: contain;
 }
 
@@ -282,6 +311,10 @@ season-selector-button .v1 {
     background: #29a0ad;
 }
 
+.ng.on-hover {
+    background: #c63a5f;
+}
+
 season-selector-button {
     margin-right: -1px;
     display: flex;
@@ -289,6 +322,10 @@ season-selector-button {
 }
 .on-hover {
     color: #fff !important;
+}
+
+.on-hover svg { 
+    fill: #fff !important;
 }
 
 .text.visible {
@@ -320,7 +357,7 @@ season-selector-button {
 
 .code-input form input, .code-container {
     margin: 13px auto;
-    width: 250px;
+    width: 280px;
     padding: 5px;
     border-radius: 10px;
     border: none;
@@ -1232,7 +1269,7 @@ season-selector-button {
     cursor: default;
 }
 
-.cdk-drag-placeholder {:not(.disabled);
+.cdk-drag-placeholder :not(.disabled){
     opacity: 0;
 }
 

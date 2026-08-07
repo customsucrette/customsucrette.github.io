@@ -1204,3 +1204,7 @@ function checkMaxSelect(categoria) {
         } return "select";
     } return "replace";
 };
+
+window.onbeforeunload = function () {
+     return "";
+};
