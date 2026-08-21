@@ -29739,5 +29739,186 @@
             {"id":16916, "colors":["grey"]}
         ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
         "releaseDate":"2026-07-22"
+    },
+
+    {
+        "groupId":17157, "zone":"general", "category":"tattoo", "security":"c16e2387ee3803bb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17157, "colors":["black"]},
+            {"id":17158, "colors":["white"]},
+            {"id":17159, "colors":["red"]},
+            {"id":17160, "colors":["yellow"]},
+            {"id":17161, "colors":["orange"]},
+            {"id":17162, "colors":["pink"]},
+            {"id":17163, "colors":["purple"]},
+            {"id":17164, "colors":["green"]},
+            {"id":17165, "colors":["blue"]},
+            {"id":17166, "colors":["blue","grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17167, "zone":"general", "category":"tattoo", "security":"22f5446de0ca3af4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17167, "colors":["black"]},
+            {"id":17168, "colors":["white"]},
+            {"id":17169, "colors":["red"]},
+            {"id":17170, "colors":["yellow"]},
+            {"id":17171, "colors":["orange"]},
+            {"id":17172, "colors":["pink"]},
+            {"id":17173, "colors":["purple"]},
+            {"id":17174, "colors":["green"]},
+            {"id":17175, "colors":["blue"]},
+            {"id":17176, "colors":["blue","grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17177, "zone":"head", "category":"wig", "security":"2b67a25697ae948c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17177, "colors":["brown"]},
+            {"id":17178, "colors":["white"]},
+            {"id":17179, "colors":["black"]},
+            {"id":17180, "colors":["blue"]},
+            {"id":17181, "colors":["blue"]},
+            {"id":17182, "colors":["purple"]},
+            {"id":17183, "colors":["red"]},
+            {"id":17184, "colors":["yellow"]},
+            {"id":17185, "colors":["orange"]},
+            {"id":17186, "colors":["pink"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17187, "zone":"feet", "category":"legAccessory", "security":"d278d8a16b9149ae", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulseras",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17187, "colors":["yellow","red","green"]},
+            {"id":17188, "colors":["white","green"]},
+            {"id":17189, "colors":["black","green"]},
+            {"id":17190, "colors":["blue","yellow","green"]},
+            {"id":17191, "colors":["grey","orange","green"]},
+            {"id":17192, "colors":["red","pink","green"]},
+            {"id":17193, "colors":["pink","purple","green"]},
+            {"id":17194, "colors":["orange","green"]},
+            {"id":17195, "colors":["blue","green"]},
+            {"id":17196, "colors":["green","grey","purple"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17197, "zone":"torso", "category":"top", "security":"bd022a556d8d22e6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17197, "colors":["red","brown"]},
+            {"id":17198, "colors":["white","grey"]},
+            {"id":17199, "colors":["black","grey"]},
+            {"id":17200, "colors":["yellow","brown"]},
+            {"id":17201, "colors":["orange","brown"]},
+            {"id":17202, "colors":["pink"]},
+            {"id":17203, "colors":["purple","pink"]},
+            {"id":17204, "colors":["green"]},
+            {"id":17205, "colors":["blue"]},
+            {"id":17206, "colors":["grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17207, "zone":"arms", "category":"armAccessory", "security":"c955aaf02e930357", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulseras",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17207, "colors":["yellow"]},
+            {"id":17208, "colors":["white"]},
+            {"id":17209, "colors":["black"]},
+            {"id":17210, "colors":["blue"]},
+            {"id":17211, "colors":["grey"]},
+            {"id":17212, "colors":["red"]},
+            {"id":17213, "colors":["pink"]},
+            {"id":17214, "colors":["orange"]},
+            {"id":17215, "colors":["green"]},
+            {"id":17216, "colors":["purple"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17217, "zone":"face", "category":"neckAccessory", "security":"37a3cfc91b3dfd41", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17217, "colors":["brown"]},
+            {"id":17218, "colors":["brown","white"]},
+            {"id":17219, "colors":["brown","black"]},
+            {"id":17220, "colors":["brown","golden"]},
+            {"id":17221, "colors":["brown","pink"]},
+            {"id":17222, "colors":["brown","red"]},
+            {"id":17223, "colors":["brown","purple"]},
+            {"id":17224, "colors":["brown","green"]},
+            {"id":17225, "colors":["brown","blue"]},
+            {"id":17226, "colors":["brown","grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17227, "zone":"waistToKnee", "category":"skirt", "security":"daa8d00d9f349ea5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda More",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17227, "colors":["brown","yellow","red"]},
+            {"id":17228, "colors":["white","green"]},
+            {"id":17229, "colors":["black","green"]},
+            {"id":17230, "colors":["brown","blue","yellow"]},
+            {"id":17231, "colors":["red","grey","orange"]},
+            {"id":17232, "colors":["pink","red","green"]},
+            {"id":17233, "colors":["purple","pink","green"]},
+            {"id":17234, "colors":["green","orange"]},
+            {"id":17235, "colors":["blue","green"]},
+            {"id":17236, "colors":["grey","purple","green"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17237, "zone":"head", "category":"hat", "security":"c9b8e2fdd45133f2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona Hei upo'o",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17237, "colors":["red","yellow","green"]},
+            {"id":17238, "colors":["white","green"]},
+            {"id":17239, "colors":["black","green"]},
+            {"id":17240, "colors":["yellow","blue","green"]},
+            {"id":17241, "colors":["grey","orange","green"]},
+            {"id":17242, "colors":["red","pink","green"]},
+            {"id":17243, "colors":["pink","purple","green"]},
+            {"id":17244, "colors":["green","orange"]},
+            {"id":17245, "colors":["blue","green"]},
+            {"id":17246, "colors":["purple","grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17247, "zone":"waistToKnee", "category":"skirt", "security":"0df8667cc0d2afa0", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Falda Pāreu",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17247, "colors":["red"]},
+            {"id":17248, "colors":["white"]},
+            {"id":17249, "colors":["black"]},
+            {"id":17250, "colors":["yellow"]},
+            {"id":17251, "colors":["orange"]},
+            {"id":17252, "colors":["pink"]},
+            {"id":17253, "colors":["pink","purple"]},
+            {"id":17254, "colors":["green"]},
+            {"id":17255, "colors":["blue"]},
+            {"id":17256, "colors":["grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
     }
 ]
