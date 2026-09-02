@@ -687,6 +687,24 @@
                     {"id":316, "colors":["grey"]}
                 ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
                 "releaseDate":"2026-07-22"
+            },
+            {
+                "groupId":317, "zone":"face", "category":"eyes", "security":"8f90ef33427efb3b",
+                "name":"Ojos",
+                "outfitName":"Fox Illusion",
+                "variations":[
+                    {"id":317, "colors":["orange","red"]},
+                    {"id":318, "colors":["blue"]},
+                    {"id":319, "colors":["white"]},
+                    {"id":320, "colors":["black"]},
+                    {"id":321, "colors":["black"]},
+                    {"id":322, "colors":["purple"]},
+                    {"id":323, "colors":["green","yellow"]},
+                    {"id":324, "colors":["green"]},
+                    {"id":325, "colors":["orange"]},
+                    {"id":326, "colors":["brown"]}
+                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+                "releaseDate":"2026-09-02"
             }
         ],
         "mouth":[

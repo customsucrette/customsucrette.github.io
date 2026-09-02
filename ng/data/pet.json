@@ -398,5 +398,17 @@
     {
         "id":102, "security":"be0ad8d0f5ef8d81", "releaseDate":"2026-08-18", "name":"Little Mergoose",
         "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"}
+    },
+    {
+        "id":103, "security":"f379f7769dd6c6b8", "releaseDate":"2026-09-09", "name":"Honk Against the Machine",
+        "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"}
+    },
+    {
+        "id":104, "security":"69cc395eb33bd730", "releaseDate":"2026-09-09", "name":"Kapoose",
+        "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"}
+    },
+    {
+        "id":107, "security":"ab4eb6fc32e83585", "releaseDate":"2026-09-09", "name":"Too Cute to Slay",
+        "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"}
     }
 ]

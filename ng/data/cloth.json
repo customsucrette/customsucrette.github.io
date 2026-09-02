@@ -29920,5 +29920,1429 @@
             {"id":17256, "colors":["grey"]}
         ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
         "releaseDate":"2026-08-18"
+    },
+
+    {
+        "groupId":17377, "zone":"general", "category":"other", "security":"f9203a1e95b4b91f", "multiLayered":false, "layerBehavior":"frontInBack",
+        "name":"Cola de zorro",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17377, "colors":["white","brown"]},
+            {"id":17378, "colors":["white"]},
+            {"id":17379, "colors":["black"]},
+            {"id":17380, "colors":["blue"]},
+            {"id":17381, "colors":["blue"]},
+            {"id":17382, "colors":["purple"]},
+            {"id":17383, "colors":["red"]},
+            {"id":17384, "colors":["yellow"]},
+            {"id":17385, "colors":["orange"]},
+            {"id":17386, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17387, "zone":"feet", "category":"shoes", "security":"b6971ef1cced7605", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias Geta",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17387, "colors":["red","black"]},
+            {"id":17388, "colors":["blue","black"]},
+            {"id":17389, "colors":["golden","pink"]},
+            {"id":17390, "colors":["black","grey"]},
+            {"id":17391, "colors":["black","pink"]},
+            {"id":17392, "colors":["black","purple"]},
+            {"id":17393, "colors":["brown","yellow"]},
+            {"id":17394, "colors":["black","green"]},
+            {"id":17395, "colors":["brown","orange"]},
+            {"id":17396, "colors":["brown","black"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17397, "zone":"general", "category":"tattoo", "security":"776f1ea0eb3f4726", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuajes",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17397, "colors":["red"]},
+            {"id":17398, "colors":["blue"]},
+            {"id":17399, "colors":["white"]},
+            {"id":17400, "colors":["black"]},
+            {"id":17401, "colors":["pink"]},
+            {"id":17402, "colors":["purple"]},
+            {"id":17403, "colors":["yellow"]},
+            {"id":17404, "colors":["green"]},
+            {"id":17405, "colors":["orange"]},
+            {"id":17406, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17407, "zone":"general", "category":"tattoo", "security":"db90608e8b1e4ee0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17407, "colors":["red"]},
+            {"id":17408, "colors":["blue"]},
+            {"id":17409, "colors":["white"]},
+            {"id":17410, "colors":["black"]},
+            {"id":17411, "colors":["pink"]},
+            {"id":17412, "colors":["purple"]},
+            {"id":17413, "colors":["yellow"]},
+            {"id":17414, "colors":["green"]},
+            {"id":17415, "colors":["orange"]},
+            {"id":17416, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17417, "zone":"torso_waistToKnee", "category":"dress", "security":"93ddc3bfb0054911", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Kimono",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17417, "colors":["red","multi"]},
+            {"id":17418, "colors":["blue","pink","multi"]},
+            {"id":17419, "colors":["white","multi"]},
+            {"id":17420, "colors":["black","multi"]},
+            {"id":17421, "colors":["pink","multi"]},
+            {"id":17422, "colors":["purple","multi"]},
+            {"id":17423, "colors":["yellow","multi"]},
+            {"id":17424, "colors":["green","multi"]},
+            {"id":17425, "colors":["orange","multi"]},
+            {"id":17426, "colors":["brown","multi"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17427, "zone":"torso_waistToKnee", "category":"waist", "security":"a296fe58e9919d38", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Accesorio",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17427, "colors":["red","yellow","blue"]},
+            {"id":17428, "colors":["blue","white","pink"]},
+            {"id":17429, "colors":["pink","yellow","green"]},
+            {"id":17430, "colors":["red","brown","green"]},
+            {"id":17431, "colors":["green","blue","purple"]},
+            {"id":17432, "colors":["black","grey","purple"]},
+            {"id":17433, "colors":["brown","green","yellow"]},
+            {"id":17434, "colors":["yellow","orange","brown"]},
+            {"id":17435, "colors":["blue","brown","green"]},
+            {"id":17436, "colors":["blue","green","purple"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17437, "zone":"torso_waistToKnee", "category":"waist", "security":"32aaaa65baff5d6c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Obi",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17437, "colors":["blue","black","red"]},
+            {"id":17438, "colors":["yellow","white","pink"]},
+            {"id":17439, "colors":["white","pink","yellow"]},
+            {"id":17440, "colors":["green","red","black"]},
+            {"id":17441, "colors":["white","green","purple"]},
+            {"id":17442, "colors":["grey","white","red"]},
+            {"id":17443, "colors":["blue","pink","yellow"]},
+            {"id":17444, "colors":["brown","pink","black"]},
+            {"id":17445, "colors":["black","red","grey"]},
+            {"id":17446, "colors":["pink","purple","yellow"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17447, "zone":"arms", "category":"bag", "security":"f1f43356e6392b0c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Kiseru",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17447, "colors":["red","silver"]},
+            {"id":17448, "colors":["blue","silver"]},
+            {"id":17449, "colors":["grey","white"]},
+            {"id":17450, "colors":["black","golden"]},
+            {"id":17451, "colors":["pink","golden"]},
+            {"id":17452, "colors":["purple","black"]},
+            {"id":17453, "colors":["silver","yellow"]},
+            {"id":17454, "colors":["silver","green"]},
+            {"id":17455, "colors":["golden","orange"]},
+            {"id":17456, "colors":["silver","brown"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17457, "zone":"torso", "category":"jacket", "security":"f3ddfede4fd8ca93", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Uchikake",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17457, "colors":["red"]},
+            {"id":17458, "colors":["blue"], "variationNumber":2},
+            {"id":17459, "colors":["white"], "variationNumber":3},
+            {"id":17460, "colors":["black"], "variationNumber":4},
+            {"id":17461, "colors":["pink"], "variationNumber":5},
+            {"id":17462, "colors":["purple"], "variationNumber":6},
+            {"id":17463, "colors":["yellow"], "variationNumber":7},
+            {"id":17464, "colors":["green"], "variationNumber":8},
+            {"id":17466, "colors":["orange"], "variationNumber":9},
+            {"id":17465, "colors":["brown"], "variationNumber":10}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17467, "zone":"head", "category":"wig", "security":"3df31e9c1e776d44", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17467, "colors":["brown"]},
+            {"id":17468, "colors":["white"]},
+            {"id":17469, "colors":["black"]},
+            {"id":17470, "colors":["blue"]},
+            {"id":17471, "colors":["blue"]},
+            {"id":17472, "colors":["purple"]},
+            {"id":17473, "colors":["red"]},
+            {"id":17474, "colors":["yellow"]},
+            {"id":17475, "colors":["orange"]},
+            {"id":17476, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17477, "zone":"general", "category":"other", "security":"4888c83431a5a7a0", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Orejas de zorro",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17477, "colors":["brown"]},
+            {"id":17478, "colors":["white"]},
+            {"id":17479, "colors":["black"]},
+            {"id":17480, "colors":["blue"]},
+            {"id":17481, "colors":["blue"]},
+            {"id":17482, "colors":["purple"]},
+            {"id":17483, "colors":["red"]},
+            {"id":17484, "colors":["yellow"]},
+            {"id":17485, "colors":["orange"]},
+            {"id":17486, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17487, "zone":"head", "category":"hat", "security":"5df597ff4428565e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Máscara",
+        "outfitName":"Fox Illusion",
+        "variations":[
+            {"id":17487, "colors":["white","red"]},
+            {"id":17488, "colors":["black","red","blue"]},
+            {"id":17489, "colors":["red","white","blue"]},
+            {"id":17490, "colors":["brown","white","black"]},
+            {"id":17491, "colors":["purple","blue","yellow"]},
+            {"id":17492, "colors":["orange","red","black"]},
+            {"id":17493, "colors":["green","red","blue"]},
+            {"id":17494, "colors":["yellow","black","blue"]},
+            {"id":17495, "colors":["blue","red","green"]},
+            {"id":17496, "colors":["pink","purple","yellow"]}
+        ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17497, "zone":"face", "category":"makeup", "security":"555a70994da2ee5d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Herida",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17497, "colors":["red"]},
+            {"id":17498, "colors":["black"]},
+            {"id":17499, "colors":["green"]},
+            {"id":17500, "colors":["yellow"]},
+            {"id":17501, "colors":["brown"]},
+            {"id":17502, "colors":["pink"]},
+            {"id":17503, "colors":["blue"]},
+            {"id":17504, "colors":["white"]},
+            {"id":17505, "colors":["purple"]},
+            {"id":17506, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17507, "zone":"general", "category":"other", "security":"c369dae2e82a2f92", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Estandarte",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17507, "colors":["blue","silver"]},
+            {"id":17508, "colors":["black","silver"]},
+            {"id":17509, "colors":["green","golden"]},
+            {"id":17510, "colors":["yellow","silver"]},
+            {"id":17511, "colors":["brown","golden"]},
+            {"id":17512, "colors":["pink","golden"]},
+            {"id":17513, "colors":["red","golden"]},
+            {"id":17514, "colors":["white","pink"]},
+            {"id":17515, "colors":["purple","white"]},
+            {"id":17516, "colors":["grey","black"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17517, "zone":"head", "category":"wig", "security":"0c8eee4be18d39f2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17517, "colors":["brown"]},
+            {"id":17518, "colors":["white"]},
+            {"id":17519, "colors":["black"]},
+            {"id":17520, "colors":["blue"]},
+            {"id":17521, "colors":["blue"]},
+            {"id":17522, "colors":["purple"]},
+            {"id":17523, "colors":["red"]},
+            {"id":17524, "colors":["yellow"]},
+            {"id":17525, "colors":["orange"]},
+            {"id":17526, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17527, "zone":"feet", "category":"shoes", "security":"96a227504c607fa0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Espinilleras",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17527, "colors":["silver","golden"]},
+            {"id":17528, "colors":["red","golden"]},
+            {"id":17529, "colors":["golden","silver","yellow"]},
+            {"id":17530, "colors":["brown","golden"]},
+            {"id":17531, "colors":["golden","green"]},
+            {"id":17532, "colors":["purple"]},
+            {"id":17533, "colors":["silver","black"]},
+            {"id":17534, "colors":["pink"]},
+            {"id":17535, "colors":["white"]},
+            {"id":17536, "colors":["silver","blue"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17537, "zone":"torso_waistToKnee", "category":"dress", "security":"7743a068cb1ff7c2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sobrevesta",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17537, "colors":["silver","blue"]},
+            {"id":17538, "colors":["silver","black"]},
+            {"id":17539, "colors":["silver","green"]},
+            {"id":17540, "colors":["silver","yellow"]},
+            {"id":17541, "colors":["silver","brown"]},
+            {"id":17542, "colors":["silver","pink"]},
+            {"id":17543, "colors":["silver","red"]},
+            {"id":17544, "colors":["silver","white"]},
+            {"id":17545, "colors":["silver","purple"]},
+            {"id":17546, "colors":["silver","grey"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17547, "zone":"arms", "category":"gloves", "security":"d27f4d3e0a2e1d12", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Guanteletes",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17547, "colors":["silver","golden"]},
+            {"id":17548, "colors":["red","golden"]},
+            {"id":17549, "colors":["golden","silver","yellow"]},
+            {"id":17550, "colors":["brown","golden"]},
+            {"id":17551, "colors":["green","golden"]},
+            {"id":17552, "colors":["purple"]},
+            {"id":17553, "colors":["silver","black"]},
+            {"id":17554, "colors":["pink"]},
+            {"id":17555, "colors":["white"]},
+            {"id":17556, "colors":["silver","blue"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17557, "zone":"arms", "category":"bag", "security":"acf8cee5cabbcd53", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Escudo",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17557, "colors":["silver","brown"]},
+            {"id":17558, "colors":["red","brown"]},
+            {"id":17559, "colors":["golden","brown"]},
+            {"id":17560, "colors":["brown"]},
+            {"id":17561, "colors":["green","brown"]},
+            {"id":17562, "colors":["purple","brown"]},
+            {"id":17563, "colors":["black","brown"]},
+            {"id":17564, "colors":["pink","brown"]},
+            {"id":17565, "colors":["white","brown"]},
+            {"id":17566, "colors":["blue","brown"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17567, "zone":"torso", "category":"jacket", "security":"78c15d4ce9226af8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Armure",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17567, "colors":["silver","golden","blue"]},
+            {"id":17568, "colors":["red","golden","black"]},
+            {"id":17569, "colors":["silver","golden","green"]},
+            {"id":17570, "colors":["brown","golden","yellow"]},
+            {"id":17571, "colors":["golden","green","brown"]},
+            {"id":17572, "colors":["pink","purple"]},
+            {"id":17573, "colors":["silver","black","red"]},
+            {"id":17574, "colors":["pink","white"]},
+            {"id":17575, "colors":["white","purple"]},
+            {"id":17576, "colors":["silver","blue","black"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17577, "zone":"torso", "category":"jacket", "security":"2018cf9ee7081bef", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Capa",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17577, "colors":["silver","blue"]},
+            {"id":17578, "colors":["red","black"]},
+            {"id":17579, "colors":["golden","green"]},
+            {"id":17580, "colors":["brown","yellow"]},
+            {"id":17581, "colors":["green","brown"]},
+            {"id":17582, "colors":["pink","purple"]},
+            {"id":17583, "colors":["red","black"]},
+            {"id":17584, "colors":["pink","white"]},
+            {"id":17585, "colors":["white","purple"]},
+            {"id":17586, "colors":["grey","blue"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17587, "zone":"head", "category":"hat", "security":"390139ee8c6a6f99", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Yelmo",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17587, "colors":["silver","blue"]},
+            {"id":17588, "colors":["black","red"]},
+            {"id":17589, "colors":["green","golden"]},
+            {"id":17590, "colors":["brown","yellow"]},
+            {"id":17591, "colors":["brown","green"]},
+            {"id":17592, "colors":["purple","pink"]},
+            {"id":17593, "colors":["black","red"]},
+            {"id":17594, "colors":["pink","white"]},
+            {"id":17595, "colors":["white","purple"]},
+            {"id":17596, "colors":["blue","grey"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17597, "zone":"arms", "category":"bag", "security":"6a0b178ed2a0a5fa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Espada",
+        "outfitName":"Honorbound",
+        "variations":[
+            {"id":17597, "colors":["silver","golden","blue"]},
+            {"id":17598, "colors":["silver","golden","black"]},
+            {"id":17599, "colors":["silver","golden","green"]},
+            {"id":17600, "colors":["silver","golden","yellow"]},
+            {"id":17601, "colors":["silver","golden","orange"]},
+            {"id":17602, "colors":["golden","pink","purple"]},
+            {"id":17603, "colors":["golden","silver","red"]},
+            {"id":17604, "colors":["golden","white","pink"]},
+            {"id":17605, "colors":["purple","silver","white"]},
+            {"id":17606, "colors":["silver","black","blue"]}
+        ], "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17607, "zone":"torso", "category":"top", "security":"685e2b016486046b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Loli Jeans",
+        "variations":[
+            {"id":17607, "colors":["blue"]},
+            {"id":17608, "colors":["green"]},
+            {"id":17609, "colors":["brown"]},
+            {"id":17610, "colors":["purple"]},
+            {"id":17611, "colors":["yellow"]},
+            {"id":17612, "colors":["black"]},
+            {"id":17613, "colors":["white"]},
+            {"id":17614, "colors":["grey"]},
+            {"id":17615, "colors":["pink"]},
+            {"id":17616, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17617, "zone":"torso_waistToKnee", "category":"dress", "security":"2524cf639dbb9396", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Loli Jeans",
+        "variations":[
+            {"id":17617, "colors":["blue"]},
+            {"id":17618, "colors":["blue"]},
+            {"id":17619, "colors":["green"]},
+            {"id":17620, "colors":["white"]},
+            {"id":17621, "colors":["black"]},
+            {"id":17622, "colors":["red"]},
+            {"id":17623, "colors":["pink"]},
+            {"id":17624, "colors":["purple"]},
+            {"id":17625, "colors":["brown"]},
+            {"id":17626, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17627, "zone":"feet", "category":"shoes", "security":"02892686a8f70c92", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Loli Jeans",
+        "variations":[
+            {"id":17627, "colors":["brown","golden"]},
+            {"id":17628, "colors":["blue","golden"]},
+            {"id":17629, "colors":["green","golden"]},
+            {"id":17630, "colors":["white","silver"]},
+            {"id":17631, "colors":["silver","brown","yellow"]},
+            {"id":17632, "colors":["black","golden"]},
+            {"id":17633, "colors":["pink","golden"]},
+            {"id":17634, "colors":["purple","silver"]},
+            {"id":17635, "colors":["brown","silver"]},
+            {"id":17636, "colors":["red","golden"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17637, "zone":"face", "category":"neckAccessory", "security":"0ee22ba8a0d94bdb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Loli Jeans",
+        "variations":[
+            {"id":17637, "colors":["white","golden"]},
+            {"id":17638, "colors":["blue","golden"]},
+            {"id":17639, "colors":["green","golden"]},
+            {"id":17640, "colors":["white","silver"]},
+            {"id":17641, "colors":["silver","yellow"]},
+            {"id":17642, "colors":["black","golden"]},
+            {"id":17643, "colors":["pink","golden"]},
+            {"id":17644, "colors":["purple","silver"]},
+            {"id":17645, "colors":["silver","brown"]},
+            {"id":17646, "colors":["red","golden"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17647, "zone":"arms", "category":"bag", "security":"113c7af5f7d30dbc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Loli Jeans",
+        "variations":[
+            {"id":17647, "colors":["brown","golden"]},
+            {"id":17648, "colors":["blue","golden"]},
+            {"id":17649, "colors":["green","golden"]},
+            {"id":17650, "colors":["purple","silver"]},
+            {"id":17651, "colors":["yellow","silver"]},
+            {"id":17652, "colors":["black","golden"]},
+            {"id":17653, "colors":["white","golden"]},
+            {"id":17654, "colors":["silver","grey"]},
+            {"id":17655, "colors":["pink","silver"]},
+            {"id":17656, "colors":["golden","red"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17657, "zone":"head", "category":"earring", "security":"8b3f4903a90fd7b0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Loli Jeans",
+        "variations":[
+            {"id":17657, "colors":["golden"]},
+            {"id":17658, "colors":["blue"]},
+            {"id":17659, "colors":["green"]},
+            {"id":17660, "colors":["white"]},
+            {"id":17661, "colors":["silver"]},
+            {"id":17662, "colors":["black"]},
+            {"id":17663, "colors":["pink"]},
+            {"id":17664, "colors":["purple"]},
+            {"id":17665, "colors":["brown"]},
+            {"id":17666, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17667, "zone":"feet", "category":"shoes", "security":"cd7b338e55dbb818", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de tacón",
+        "outfitName":"Hypnotic Flow",
+        "variations":[
+            {"id":17667, "colors":["pink","blue","yellow"]},
+            {"id":17668, "colors":["blue","green"]},
+            {"id":17669, "colors":["pink","yellow","orange"]},
+            {"id":17670, "colors":["green","blue"]},
+            {"id":17671, "colors":["orange","yellow","pink"]},
+            {"id":17672, "colors":["red","purple"]},
+            {"id":17673, "colors":["blue","brown"]},
+            {"id":17674, "colors":["orange","brown","yellow"]},
+            {"id":17675, "colors":["white","purple","blue"]},
+            {"id":17676, "colors":["black","blue","purple"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17677, "zone":"face", "category":"neckAccessory", "security":"59846a25bdfe504d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Hypnotic Flow",
+        "variations":[
+            {"id":17677, "colors":["purple","yellow","golden"]},
+            {"id":17678, "colors":["blue","green","silver"]},
+            {"id":17679, "colors":["pink","golden","red"]},
+            {"id":17680, "colors":["green","blue","golden"]},
+            {"id":17681, "colors":["orange","pink","golden"]},
+            {"id":17682, "colors":["red","purple","golden"]},
+            {"id":17683, "colors":["blue","brown","silver"]},
+            {"id":17684, "colors":["orange","brown","golden"]},
+            {"id":17685, "colors":["white","silver","blue"]},
+            {"id":17686, "colors":["black","silver","purple"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17687, "zone":"head", "category":"earring", "security":"eca08fa8f33ba470", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Pendientes",
+        "outfitName":"Hypnotic Flow",
+        "variations":[
+            {"id":17687, "colors":["purple","yellow"]},
+            {"id":17688, "colors":["blue","green"]},
+            {"id":17689, "colors":["pink","yellow"]},
+            {"id":17690, "colors":["green","blue"]},
+            {"id":17691, "colors":["orange","pink","yellow"]},
+            {"id":17692, "colors":["red","purple"]},
+            {"id":17693, "colors":["blue","brown"]},
+            {"id":17694, "colors":["orange","brown","yellow"]},
+            {"id":17695, "colors":["white","purple","blue"]},
+            {"id":17696, "colors":["black","blue","purple"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17697, "zone":"arms", "category":"armAccessory", "security":"ee8f3925bb5aa276", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillo",
+        "outfitName":"Hypnotic Flow",
+        "variations":[
+            {"id":17697, "colors":["pink","yellow"]},
+            {"id":17698, "colors":["blue","green"]},
+            {"id":17699, "colors":["pink","yellow"]},
+            {"id":17700, "colors":["green","blue"]},
+            {"id":17701, "colors":["orange","yellow"]},
+            {"id":17702, "colors":["red","purple"]},
+            {"id":17703, "colors":["blue","brown"]},
+            {"id":17704, "colors":["orange","brown","yellow"]},
+            {"id":17705, "colors":["white","purple","blue"]},
+            {"id":17706, "colors":["black","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17707, "zone":"waistToKnee", "category":"pants", "security":"c9e700a237380f2b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Hypnotic Flow",
+        "variations":[
+            {"id":17707, "colors":["purple"]},
+            {"id":17708, "colors":["blue"]},
+            {"id":17709, "colors":["pink","red"]},
+            {"id":17710, "colors":["green"]},
+            {"id":17711, "colors":["orange","yellow"]},
+            {"id":17712, "colors":["red"]},
+            {"id":17713, "colors":["blue","brown"]},
+            {"id":17714, "colors":["orange","brown"]},
+            {"id":17715, "colors":["white","purple","blue"]},
+            {"id":17716, "colors":["black","purple"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17717, "zone":"torso", "category":"top", "security":"cfe59321e4427e1b", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Camiseta",
+        "outfitName":"Hypnotic Flow",
+        "variations":[
+            {"id":17717, "colors":["purple"]},
+            {"id":17718, "colors":["blue"]},
+            {"id":17719, "colors":["pink","red"]},
+            {"id":17720, "colors":["green"]},
+            {"id":17721, "colors":["orange","yellow"]},
+            {"id":17722, "colors":["red"]},
+            {"id":17723, "colors":["blue","brown"]},
+            {"id":17724, "colors":["orange","brown"]},
+            {"id":17725, "colors":["white","purple","blue"]},
+            {"id":17726, "colors":["black","purple"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17727, "zone":"arms", "category":"armAccessory", "security":"a6c6c37eebdc78b3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Urban Cowgirl",
+        "variations":[
+            {"id":17727, "colors":["silver","blue"]},
+            {"id":17728, "colors":["brown","silver"]},
+            {"id":17729, "colors":["black"]},
+            {"id":17730, "colors":["white","blue"]},
+            {"id":17731, "colors":["blue"]},
+            {"id":17732, "colors":["purple"]},
+            {"id":17733, "colors":["pink"]},
+            {"id":17734, "colors":["red","black"]},
+            {"id":17735, "colors":["yellow","golden"]},
+            {"id":17736, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17737, "zone":"torso_waistToKnee", "category":"dress", "security":"1118ec7e22bb7adf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Urban Cowgirl",
+        "variations":[
+            {"id":17737, "colors":["brown"]},
+            {"id":17738, "colors":["brown"]},
+            {"id":17739, "colors":["red"]},
+            {"id":17740, "colors":["white"]},
+            {"id":17741, "colors":["blue"]},
+            {"id":17742, "colors":["purple"]},
+            {"id":17743, "colors":["pink"]},
+            {"id":17744, "colors":["black"]},
+            {"id":17745, "colors":["yellow"]},
+            {"id":17746, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17747, "zone":"torso_waistToKnee", "category":"waist", "security":"32c699c0cb265c00", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Urban Cowgirl",
+        "variations":[
+            {"id":17747, "colors":["golden","brown"]},
+            {"id":17748, "colors":["silver","brown"]},
+            {"id":17749, "colors":["black","silver"]},
+            {"id":17750, "colors":["white","silver"]},
+            {"id":17751, "colors":["blue","golden"]},
+            {"id":17752, "colors":["purple","golden"]},
+            {"id":17753, "colors":["pink","golden"]},
+            {"id":17754, "colors":["red","golden"]},
+            {"id":17755, "colors":["yellow","silver"]},
+            {"id":17756, "colors":["green","silver"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17757, "zone":"feet", "category":"shoes", "security":"f8aa10650bd057ad", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas camperas",
+        "outfitName":"Urban Cowgirl",
+        "variations":[
+            {"id":17757, "colors":["brown"]},
+            {"id":17758, "colors":["brown"]},
+            {"id":17759, "colors":["black"]},
+            {"id":17760, "colors":["white"]},
+            {"id":17761, "colors":["blue"]},
+            {"id":17762, "colors":["purple"]},
+            {"id":17763, "colors":["pink"]},
+            {"id":17764, "colors":["red"]},
+            {"id":17765, "colors":["yellow"]},
+            {"id":17766, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17767, "zone":"arms", "category":"bag", "security":"6263d6b20e40b390", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Urban Cowgirl",
+        "variations":[
+            {"id":17767, "colors":["brown","silver"]},
+            {"id":17768, "colors":["brown","silver"]},
+            {"id":17769, "colors":["red","golden"]},
+            {"id":17770, "colors":["blue","silver"]},
+            {"id":17771, "colors":["white","golden"]},
+            {"id":17772, "colors":["purple","golden"]},
+            {"id":17773, "colors":["pink","golden"]},
+            {"id":17774, "colors":["black","silver"]},
+            {"id":17775, "colors":["yellow","silver"]},
+            {"id":17776, "colors":["green","silver"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17777, "zone":"head", "category":"earring", "security":"ad70aa058ecc9232", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Pendientes",
+        "outfitName":"Urban Cowgirl",
+        "variations":[
+            {"id":17777, "colors":["silver","blue"]},
+            {"id":17778, "colors":["silver","brown"]},
+            {"id":17779, "colors":["black"]},
+            {"id":17780, "colors":["white","blue"]},
+            {"id":17781, "colors":["blue"]},
+            {"id":17782, "colors":["purple"]},
+            {"id":17783, "colors":["pink"]},
+            {"id":17784, "colors":["red","black"]},
+            {"id":17785, "colors":["yellow","golden"]},
+            {"id":17786, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17787, "zone":"torso", "category":"jacket", "security":"4c965839bb807ff3", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Urban Cowgirl",
+        "variations":[
+            {"id":17787, "colors":["brown"]},
+            {"id":17788, "colors":["brown"]},
+            {"id":17789, "colors":["black"]},
+            {"id":17790, "colors":["blue"]},
+            {"id":17791, "colors":["white"]},
+            {"id":17792, "colors":["purple"]},
+            {"id":17793, "colors":["pink"]},
+            {"id":17794, "colors":["red"]},
+            {"id":17795, "colors":["yellow"]},
+            {"id":17796, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17797, "zone":"feet", "category":"shoes", "security":"91977af4cebcc6c9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Horned Baroque",
+        "variations":[
+            {"id":17797, "colors":["black","red"]},
+            {"id":17798, "colors":["brown","orange"]},
+            {"id":17799, "colors":["brown","green"]},
+            {"id":17800, "colors":["blue","green"]},
+            {"id":17801, "colors":["red","black"]},
+            {"id":17802, "colors":["grey","purple"]},
+            {"id":17803, "colors":["white","blue"]},
+            {"id":17804, "colors":["purple","blue"]},
+            {"id":17805, "colors":["pink","white"]},
+            {"id":17806, "colors":["yellow","brown"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17807, "zone":"torso", "category":"top", "security":"72468eca9d9401d0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Horned Baroque",
+        "variations":[
+            {"id":17807, "colors":["white"]},
+            {"id":17808, "colors":["brown"]},
+            {"id":17809, "colors":["purple"]},
+            {"id":17810, "colors":["grey"]},
+            {"id":17811, "colors":["green"]},
+            {"id":17812, "colors":["green"]},
+            {"id":17813, "colors":["pink"]},
+            {"id":17814, "colors":["yellow"]},
+            {"id":17815, "colors":["blue"]},
+            {"id":17816, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17817, "zone":"waistToKnee", "category":"pants", "security":"e99656d9db6e4b3f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Horned Baroque",
+        "variations":[
+            {"id":17817, "colors":["brown","yellow"]},
+            {"id":17818, "colors":["red","blue"]},
+            {"id":17819, "colors":["brown","green"]},
+            {"id":17820, "colors":["purple","blue"]},
+            {"id":17821, "colors":["brown","blue"]},
+            {"id":17822, "colors":["black","red"]},
+            {"id":17823, "colors":["white","blue"]},
+            {"id":17824, "colors":["pink","yellow"]},
+            {"id":17825, "colors":["pink","yellow"]},
+            {"id":17826, "colors":["grey","brown"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17827, "zone":"torso_waistToKnee", "category":"waist", "security":"dbaea41ee0ccc87e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Horned Baroque",
+        "variations":[
+            {"id":17827, "colors":["brown","yellow"]},
+            {"id":17828, "colors":["red","blue"]},
+            {"id":17829, "colors":["brown","green"]},
+            {"id":17830, "colors":["purple","blue"]},
+            {"id":17831, "colors":["brown","blue"]},
+            {"id":17832, "colors":["black","red"]},
+            {"id":17833, "colors":["white","blue"]},
+            {"id":17834, "colors":["pink","yellow"]},
+            {"id":17835, "colors":["pink","yellow"]},
+            {"id":17836, "colors":["grey","brown"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17837, "zone":"torso_waistToKnee", "category":"waist", "security":"d7df3b77f1460c8a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piercing",
+        "outfitName":"Horned Baroque",
+        "variations":[
+            {"id":17837, "colors":["golden","white"]},
+            {"id":17838, "colors":["golden","red"]},
+            {"id":17839, "colors":["golden","green"]},
+            {"id":17840, "colors":["golden","purple"]},
+            {"id":17841, "colors":["golden","blue"]},
+            {"id":17842, "colors":["golden","black"]},
+            {"id":17843, "colors":["golden","red"]},
+            {"id":17844, "colors":["golden","pink"]},
+            {"id":17845, "colors":["golden","yellow"]},
+            {"id":17846, "colors":["golden","orange"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17847, "zone":"torso", "category":"jacket", "security":"ca6890aad938dee2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Horned Baroque",
+        "variations":[
+            {"id":17847, "colors":["brown","yellow"]},
+            {"id":17848, "colors":["red","blue"]},
+            {"id":17849, "colors":["brown","green"]},
+            {"id":17850, "colors":["purple","blue"]},
+            {"id":17851, "colors":["brown","blue"]},
+            {"id":17852, "colors":["black","red"]},
+            {"id":17853, "colors":["white","blue"]},
+            {"id":17854, "colors":["pink","yellow"]},
+            {"id":17855, "colors":["pink","yellow"]},
+            {"id":17856, "colors":["grey","brown"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17857, "zone":"head", "category":"hat", "security":"866938dedac0d32b", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Tocado",
+        "outfitName":"Horned Baroque",
+        "variations":[
+            {"id":17857, "colors":["golden","red"]},
+            {"id":17858, "colors":["brown","blue"]},
+            {"id":17859, "colors":["green","orange"]},
+            {"id":17860, "colors":["purple","yellow"]},
+            {"id":17861, "colors":["blue","white"]},
+            {"id":17862, "colors":["black","pink"]},
+            {"id":17863, "colors":["white","green"]},
+            {"id":17864, "colors":["yellow","green"]},
+            {"id":17865, "colors":["pink","black"]},
+            {"id":17866, "colors":["silver","purple"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17867, "zone":"head", "category":"hat", "security":"ffb95b36f154c8a2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cuernos",
+        "outfitName":"Horned Baroque",
+        "variations":[
+            {"id":17867, "colors":["brown"]},
+            {"id":17868, "colors":["black"]},
+            {"id":17869, "colors":["white"]},
+            {"id":17870, "colors":["purple"]},
+            {"id":17871, "colors":["green"]},
+            {"id":17872, "colors":["red"]},
+            {"id":17873, "colors":["blue"]},
+            {"id":17874, "colors":["pink"]},
+            {"id":17875, "colors":["yellow"]},
+            {"id":17876, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17877, "zone":"feet", "category":"shoes", "security":"ddaa8218fe5b2c7d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Primavera",
+        "variations":[
+            {"id":17877, "colors":["golden"]},
+            {"id":17878, "colors":["silver"]},
+            {"id":17879, "colors":["brown","golden"]},
+            {"id":17880, "colors":["pink"]},
+            {"id":17881, "colors":["white"]},
+            {"id":17882, "colors":["blue"]},
+            {"id":17883, "colors":["purple"]},
+            {"id":17884, "colors":["orange"]},
+            {"id":17885, "colors":["black"]},
+            {"id":17886, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17887, "zone":"torso_waistToKnee", "category":"dress", "security":"4fd094ef3c383d2f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Primavera",
+        "variations":[
+            {"id":17887, "colors":["green"]},
+            {"id":17888, "colors":["red"]},
+            {"id":17889, "colors":["brown"]},
+            {"id":17890, "colors":["pink"]},
+            {"id":17891, "colors":["blue"]},
+            {"id":17892, "colors":["black"]},
+            {"id":17893, "colors":["white"]},
+            {"id":17894, "colors":["yellow"]},
+            {"id":17895, "colors":["purple"]},
+            {"id":17896, "colors":["orange"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17897, "zone":"torso", "category":"top", "security":"dae2b5115e4f8a0d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Primavera",
+        "variations":[
+            {"id":17897, "colors":["green"]},
+            {"id":17898, "colors":["black"]},
+            {"id":17899, "colors":["brown"]},
+            {"id":17900, "colors":["yellow"]},
+            {"id":17901, "colors":["white"]},
+            {"id":17902, "colors":["blue","green"]},
+            {"id":17903, "colors":["pink"]},
+            {"id":17904, "colors":["orange"]},
+            {"id":17905, "colors":["purple"]},
+            {"id":17906, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17907, "zone":"arms", "category":"bag", "security":"f5431dab14a1f008", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Primavera",
+        "variations":[
+            {"id":17907, "colors":["green"]},
+            {"id":17908, "colors":["black","grey"]},
+            {"id":17909, "colors":["brown"]},
+            {"id":17910, "colors":["pink","yellow"]},
+            {"id":17911, "colors":["blue","white"]},
+            {"id":17912, "colors":["grey","black"]},
+            {"id":17913, "colors":["purple"]},
+            {"id":17914, "colors":["orange"]},
+            {"id":17915, "colors":["black","white"]},
+            {"id":17916, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17917, "zone":"head", "category":"earring", "security":"453448a482a166cf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Primavera",
+        "variations":[
+            {"id":17917, "colors":["golden","green","pink"]},
+            {"id":17918, "colors":["black","pink","silver"]},
+            {"id":17919, "colors":["golden","brown"]},
+            {"id":17920, "colors":["golden","pink","yellow"]},
+            {"id":17921, "colors":["silver","blue"]},
+            {"id":17922, "colors":["silver","black"]},
+            {"id":17923, "colors":["pink","purple","silver"]},
+            {"id":17924, "colors":["golden","orange","yellow"]},
+            {"id":17925, "colors":["silver","white"]},
+            {"id":17926, "colors":["golden","green","red"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":17927, "zone":"head", "category":"hat", "security":"81459bde7cb5d675", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Prendedor",
+        "outfitName":"Primavera",
+        "variations":[
+            {"id":17927, "colors":["golden","green","white"]},
+            {"id":17928, "colors":["red","silver","white"]},
+            {"id":17929, "colors":["brown","golden","orange"]},
+            {"id":17930, "colors":["golden","pink","white"]},
+            {"id":17931, "colors":["blue","silver","white"]},
+            {"id":17932, "colors":["silver","black"]},
+            {"id":17933, "colors":["purple","silver","white"]},
+            {"id":17934, "colors":["golden","white","yellow"]},
+            {"id":17935, "colors":["silver","white"]},
+            {"id":17936, "colors":["golden","red","white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+
+    {
+        "groupId":18043, "zone":"feet", "category":"socks", "security":"ae4aacaf5a4af5c0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Scholar Colors",
+        "variations":[
+            {"id":18043, "colors":["yellow","black"]},
+            {"id":18044, "colors":["blue","black"]},
+            {"id":18045, "colors":["pink","black"]},
+            {"id":18046, "colors":["green","black"]},
+            {"id":18047, "colors":["red","black"]},
+            {"id":18048, "colors":["orange","black"]},
+            {"id":18049, "colors":["purple","black"]},
+            {"id":18050, "colors":["black","grey"]},
+            {"id":18051, "colors":["brown","black"]},
+            {"id":18052, "colors":["white","grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18053, "zone":"feet", "category":"shoes", "security":"ce61e903ff8fa013", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bailarinas",
+        "outfitName":"Scholar Colors",
+        "variations":[
+            {"id":18053, "colors":["yellow"]},
+            {"id":18054, "colors":["blue"]},
+            {"id":18055, "colors":["pink"]},
+            {"id":18056, "colors":["green"]},
+            {"id":18057, "colors":["red"]},
+            {"id":18058, "colors":["orange"]},
+            {"id":18059, "colors":["purple"]},
+            {"id":18060, "colors":["black"]},
+            {"id":18061, "colors":["brown"]},
+            {"id":18062, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18063, "zone":"waistToKnee", "category":"skirt", "security":"11d729c0162af6f0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Scholar Colors",
+        "variations":[
+            {"id":18063, "colors":["yellow","black"]},
+            {"id":18064, "colors":["blue","black"]},
+            {"id":18065, "colors":["pink","black"]},
+            {"id":18066, "colors":["green","black"]},
+            {"id":18067, "colors":["red","black"]},
+            {"id":18068, "colors":["orange","black"]},
+            {"id":18069, "colors":["purple","black"]},
+            {"id":18070, "colors":["grey","black"]},
+            {"id":18071, "colors":["brown","black"]},
+            {"id":18072, "colors":["white","black"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18073, "zone":"arms", "category":"bag", "security":"06b1fdb52395a867", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mochila",
+        "outfitName":"Scholar Colors",
+        "variations":[
+            {"id":18073, "colors":["yellow","black"]},
+            {"id":18074, "colors":["blue","black"]},
+            {"id":18075, "colors":["pink","black"]},
+            {"id":18076, "colors":["green","black"]},
+            {"id":18077, "colors":["red","black"]},
+            {"id":18078, "colors":["orange","black"]},
+            {"id":18079, "colors":["purple","black"]},
+            {"id":18080, "colors":["grey","black"]},
+            {"id":18081, "colors":["brown","black"]},
+            {"id":18082, "colors":["white","black"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18083, "zone":"torso", "category":"top", "security":"1af4fba8040e2e4e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Scholar Colors",
+        "variations":[
+            {"id":18083, "colors":["yellow","white"]},
+            {"id":18084, "colors":["blue","white"]},
+            {"id":18085, "colors":["pink","white"]},
+            {"id":18086, "colors":["green","white"]},
+            {"id":18087, "colors":["red","white"]},
+            {"id":18088, "colors":["orange","white"]},
+            {"id":18089, "colors":["purple","white"]},
+            {"id":18090, "colors":["grey","white"]},
+            {"id":18091, "colors":["brown","white"]},
+            {"id":18092, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18093, "zone":"head", "category":"faceAccessory", "security":"e076460e3791d105", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Scholar Colors",
+        "variations":[
+            {"id":18093, "colors":["golden","grey"]},
+            {"id":18094, "colors":["silver","blue"]},
+            {"id":18095, "colors":["silver","pink"]},
+            {"id":18096, "colors":["golden","green"]},
+            {"id":18097, "colors":["golden","red"]},
+            {"id":18098, "colors":["silver","orange"]},
+            {"id":18099, "colors":["silver","purple"]},
+            {"id":18100, "colors":["golden"]},
+            {"id":18101, "colors":["golden","brown"]},
+            {"id":18102, "colors":["golden","white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18103, "zone":"feet", "category":"shoes", "security":"a4443c207fccd9f1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Born to Rebel",
+        "variations":[
+            {"id":18103, "colors":["silver","black"]},
+            {"id":18104, "colors":["silver","yellow"]},
+            {"id":18105, "colors":["silver","brown"]},
+            {"id":18106, "colors":["silver","green"]},
+            {"id":18107, "colors":["silver","green"]},
+            {"id":18108, "colors":["silver","blue"]},
+            {"id":18109, "colors":["silver","purple"]},
+            {"id":18110, "colors":["silver","pink"]},
+            {"id":18111, "colors":["silver","white"]},
+            {"id":18112, "colors":["silver","red"]}
+        ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18113, "zone":"torso", "category":"top", "security":"74a3c385d13427b1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top de red",
+        "outfitName":"Born to Rebel",
+        "variations":[
+            {"id":18113, "colors":["black"]},
+            {"id":18114, "colors":["yellow"]},
+            {"id":18115, "colors":["brown"]},
+            {"id":18116, "colors":["green"]},
+            {"id":18117, "colors":["green"]},
+            {"id":18118, "colors":["blue"]},
+            {"id":18119, "colors":["purple"]},
+            {"id":18120, "colors":["pink"]},
+            {"id":18121, "colors":["white"]},
+            {"id":18122, "colors":["red"]}
+        ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18123, "zone":"waistToKnee", "category":"pants", "security":"1a4293f4d0dff5d0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Born to Rebel",
+        "variations":[
+            {"id":18123, "colors":["silver","black","red"]},
+            {"id":18124, "colors":["silver","black","yellow"]},
+            {"id":18125, "colors":["silver","black","brown"]},
+            {"id":18126, "colors":["silver","black","green"]},
+            {"id":18127, "colors":["silver","black","green"]},
+            {"id":18128, "colors":["silver","black","blue"]},
+            {"id":18129, "colors":["silver","black","purple"]},
+            {"id":18130, "colors":["silver","black","pink"]},
+            {"id":18131, "colors":["silver","black","white"]},
+            {"id":18132, "colors":["silver","black","grey"]}
+        ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18133, "zone":"waistToKnee", "category":"skirt", "security":"6967adce34cd6707", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Born to Rebel",
+        "variations":[
+            {"id":18133, "colors":["silver","red"]},
+            {"id":18134, "colors":["silver","yellow"]},
+            {"id":18135, "colors":["silver","brown"]},
+            {"id":18136, "colors":["silver","green"]},
+            {"id":18137, "colors":["silver","green"]},
+            {"id":18138, "colors":["silver","blue"]},
+            {"id":18139, "colors":["silver","purple"]},
+            {"id":18140, "colors":["silver","pink"]},
+            {"id":18141, "colors":["silver","white"]},
+            {"id":18142, "colors":["silver","grey"]}
+        ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18143, "zone":"torso", "category":"top", "security":"dbae7230b159668c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Born to Rebel",
+        "variations":[
+            {"id":18143, "colors":["silver","black","red"]},
+            {"id":18144, "colors":["silver","black","yellow"]},
+            {"id":18145, "colors":["silver","black","brown"]},
+            {"id":18146, "colors":["silver","black","green"]},
+            {"id":18147, "colors":["silver","black","green"]},
+            {"id":18148, "colors":["silver","black","blue"]},
+            {"id":18149, "colors":["silver","black","purple"]},
+            {"id":18150, "colors":["silver","black","pink"]},
+            {"id":18151, "colors":["silver","black","white"]},
+            {"id":18152, "colors":["silver","black","grey"]}
+        ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18153, "zone":"torso_waistToKnee", "category":"waist", "security":"411ee10ba3c9c92d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Born to Rebel",
+        "variations":[
+            {"id":18153, "colors":["silver","black"]},
+            {"id":18154, "colors":["silver","yellow"]},
+            {"id":18155, "colors":["silver","brown"]},
+            {"id":18156, "colors":["silver","green"]},
+            {"id":18157, "colors":["silver","green"]},
+            {"id":18158, "colors":["silver","blue"]},
+            {"id":18159, "colors":["silver","purple"]},
+            {"id":18160, "colors":["silver","pink"]},
+            {"id":18161, "colors":["silver","white"]},
+            {"id":18162, "colors":["silver","red"]}
+        ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18163, "zone":"torso", "category":"jacket", "security":"102e59f7b20e0cbf", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Born to Rebel",
+        "variations":[
+            {"id":18163, "colors":["silver","black","red"]},
+            {"id":18164, "colors":["silver","black","yellow"]},
+            {"id":18165, "colors":["silver","black","brown"]},
+            {"id":18166, "colors":["silver","black","green"]},
+            {"id":18167, "colors":["silver","black","green"]},
+            {"id":18168, "colors":["silver","black","blue"]},
+            {"id":18169, "colors":["silver","black","purple"]},
+            {"id":18170, "colors":["silver","black","pink"]},
+            {"id":18171, "colors":["silver","black","white"]},
+            {"id":18172, "colors":["silver","black","grey"]}
+        ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18173, "zone":"face", "category":"neckAccessory", "security":"039c995da1a75a57", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Collar",
+        "outfitName":"Born to Rebel",
+        "variations":[
+            {"id":18173, "colors":["silver","black"]},
+            {"id":18174, "colors":["silver","yellow"]},
+            {"id":18175, "colors":["silver","brown"]},
+            {"id":18176, "colors":["silver","green"]},
+            {"id":18177, "colors":["silver","green"]},
+            {"id":18178, "colors":["silver","blue"]},
+            {"id":18179, "colors":["silver","purple"]},
+            {"id":18180, "colors":["silver","pink"]},
+            {"id":18181, "colors":["silver","white"]},
+            {"id":18182, "colors":["silver","red"]}
+        ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18183, "zone":"arms", "category":"bag", "security":"0c03b0590fae8f7f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Born to Rebel",
+        "variations":[
+            {"id":18183, "colors":["silver","black","red"]},
+            {"id":18184, "colors":["silver","black","yellow"]},
+            {"id":18185, "colors":["silver","black","brown"]},
+            {"id":18186, "colors":["silver","black","green"]},
+            {"id":18187, "colors":["silver","black","green"]},
+            {"id":18188, "colors":["silver","black","blue"]},
+            {"id":18189, "colors":["silver","black","purple"]},
+            {"id":18190, "colors":["silver","black","pink"]},
+            {"id":18191, "colors":["silver","black","white"]},
+            {"id":18192, "colors":["silver","black","grey"]}
+        ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18193, "zone":"head", "category":"wig", "security":"f36d519469d96e6b", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Born to Rebel",
+        "variations":[
+            {"id":18193, "colors":["black","red"]},
+            {"id":18194, "colors":["black","yellow"]},
+            {"id":18195, "colors":["black","brown"]},
+            {"id":18196, "colors":["black","green"]},
+            {"id":18197, "colors":["black","green"]},
+            {"id":18198, "colors":["black","blue"]},
+            {"id":18199, "colors":["black","purple"]},
+            {"id":18200, "colors":["black","pink"]},
+            {"id":18201, "colors":["black","white"]},
+            {"id":18202, "colors":["black","grey"]}
+        ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18203, "zone":"torso_waistToKnee", "category":"waist", "security":"bf6257f32f1e6dfe", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Gentle Magician",
+        "variations":[
+            {"id":18203, "colors":["silver","pink"]},
+            {"id":18204, "colors":["silver","black"]},
+            {"id":18205, "colors":["silver","white"]},
+            {"id":18206, "colors":["silver","purple"]},
+            {"id":18207, "colors":["silver","blue"]},
+            {"id":18208, "colors":["green"]},
+            {"id":18209, "colors":["brown","red"]},
+            {"id":18210, "colors":["brown","golden"]},
+            {"id":18211, "colors":["yellow","golden"]},
+            {"id":18212, "colors":["silver","grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18213, "zone":"torso", "category":"jacket", "security":"aabd54cbaa43b028", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Abrigo",
+        "outfitName":"Gentle Magician",
+        "variations":[
+            {"id":18213, "colors":["silver","pink"]},
+            {"id":18214, "colors":["silver","black"]},
+            {"id":18215, "colors":["silver","white"]},
+            {"id":18216, "colors":["silver","purple"]},
+            {"id":18217, "colors":["silver","blue"]},
+            {"id":18218, "colors":["green"]},
+            {"id":18219, "colors":["brown","red"]},
+            {"id":18220, "colors":["brown","golden"]},
+            {"id":18221, "colors":["yellow","golden"]},
+            {"id":18222, "colors":["silver","grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18223, "zone":"feet", "category":"legAccessory", "security":"22546ee119d87c18", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Joyas",
+        "outfitName":"Gentle Magician",
+        "variations":[
+            {"id":18223, "colors":["silver","pink"]},
+            {"id":18224, "colors":["silver","black"]},
+            {"id":18225, "colors":["silver","white"]},
+            {"id":18226, "colors":["silver","purple"]},
+            {"id":18227, "colors":["silver","blue"]},
+            {"id":18228, "colors":["green"]},
+            {"id":18229, "colors":["brown","red"]},
+            {"id":18230, "colors":["brown","golden"]},
+            {"id":18231, "colors":["yellow","golden"]},
+            {"id":18232, "colors":["silver","grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18233, "zone":"head", "category":"earring", "security":"0a701c6dc18906f2", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Orejas",
+        "outfitName":"Gentle Magician",
+        "variations":[
+            {"id":18233, "colors":["pink"]},
+            {"id":18234, "colors":["pink"]},
+            {"id":18235, "colors":["brown","yellow"]},
+            {"id":18236, "colors":["brown","orange"]},
+            {"id":18237, "colors":["brown"]},
+            {"id":18238, "colors":["brown","pink"]},
+            {"id":18239, "colors":["brown"]},
+            {"id":18240, "colors":["blue"]},
+            {"id":18241, "colors":["white"]},
+            {"id":18242, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18243, "zone":"arms", "category":"bag", "security":"576894630b9f1f04", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cetro",
+        "outfitName":"Gentle Magician",
+        "variations":[
+            {"id":18243, "colors":["silver","pink"]},
+            {"id":18244, "colors":["silver","black"]},
+            {"id":18245, "colors":["silver","white"]},
+            {"id":18246, "colors":["silver","purple"]},
+            {"id":18247, "colors":["silver","blue"]},
+            {"id":18248, "colors":["green"]},
+            {"id":18249, "colors":["brown","red"]},
+            {"id":18250, "colors":["brown","golden"]},
+            {"id":18251, "colors":["yellow","golden"]},
+            {"id":18252, "colors":["silver","grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18253, "zone":"head", "category":"faceAccessory", "security":"4c3b52d18864b1e7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Joya",
+        "outfitName":"Gentle Magician",
+        "variations":[
+            {"id":18253, "colors":["silver","pink"]},
+            {"id":18254, "colors":["silver","black"]},
+            {"id":18255, "colors":["silver","white"]},
+            {"id":18256, "colors":["silver","purple"]},
+            {"id":18257, "colors":["silver","blue"]},
+            {"id":18258, "colors":["green"]},
+            {"id":18259, "colors":["brown","red"]},
+            {"id":18260, "colors":["golden","brown"]},
+            {"id":18261, "colors":["golden","yellow"]},
+            {"id":18262, "colors":["silver","grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18263, "zone":"torso_waistToKnee", "category":"dress", "security":"c3b403831e2c0e09", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Gentle Magician",
+        "variations":[
+            {"id":18263, "colors":["pink"]},
+            {"id":18264, "colors":["black"]},
+            {"id":18265, "colors":["white"]},
+            {"id":18266, "colors":["purple"]},
+            {"id":18267, "colors":["blue"]},
+            {"id":18268, "colors":["green"]},
+            {"id":18269, "colors":["red"]},
+            {"id":18270, "colors":["brown"]},
+            {"id":18271, "colors":["yellow"]},
+            {"id":18272, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-02"
     }
 ]
