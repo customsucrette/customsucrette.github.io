@@ -90,6 +90,24 @@
                     {"id":29, "colors":["black"]}
                 ], "criteria":null,
                 "releaseDate":"2026-01-05"
+            },
+            {
+                "groupId":30, "zone":"head", "category":"eyebrows", "security":"2daff7bb70508334",
+                "name":"Cejas",
+                "outfitName":"Born to Rebel",
+                "variations":[
+                    {"id":30, "colors":["red"]},
+                    {"id":31, "colors":["yellow"]},
+                    {"id":32, "colors":["yellow"]},
+                    {"id":33, "colors":["green"]},
+                    {"id":34, "colors":["blue","green"]},
+                    {"id":35, "colors":["blue"]},
+                    {"id":36, "colors":["purple"]},
+                    {"id":37, "colors":["pink"]},
+                    {"id":38, "colors":["white"]},
+                    {"id":39, "colors":["grey"]}
+                ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+                "releaseDate":"2026-09-02"
             }
         ],
         "eyes":[
