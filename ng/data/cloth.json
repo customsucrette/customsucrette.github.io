@@ -29921,7 +29921,222 @@
         ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
         "releaseDate":"2026-08-18"
     },
-
+    {
+        "groupId":17257, "zone":"feet", "category":"shoes", "security":"6dcc46b7820a24b3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17257, "colors":["blue"]},
+            {"id":17258, "colors":["pink"]},
+            {"id":17259, "colors":["red"]},
+            {"id":17260, "colors":["green"]},
+            {"id":17261, "colors":["black"]},
+            {"id":17262, "colors":["white"]},
+            {"id":17263, "colors":["blue"]},
+            {"id":17264, "colors":["brown"]},
+            {"id":17265, "colors":["brown"]},
+            {"id":17266, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17267, "zone":"torso", "category":"top", "security":"cd2abade2e00b890", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17267, "colors":["blue"]},
+            {"id":17268, "colors":["pink"]},
+            {"id":17269, "colors":["red"]},
+            {"id":17270, "colors":["green"]},
+            {"id":17271, "colors":["black"]},
+            {"id":17272, "colors":["white"]},
+            {"id":17273, "colors":["blue"]},
+            {"id":17274, "colors":["brown"]},
+            {"id":17275, "colors":["brown"]},
+            {"id":17276, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17277, "zone":"waistToKnee", "category":"pants", "security":"dfd34745ff09cf80", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Short",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17277, "colors":["pink"]},
+            {"id":17278, "colors":["blue"]},
+            {"id":17279, "colors":["black"]},
+            {"id":17280, "colors":["white"]},
+            {"id":17281, "colors":["red"]},
+            {"id":17282, "colors":["green"]},
+            {"id":17283, "colors":["brown"]},
+            {"id":17284, "colors":["blue"]},
+            {"id":17285, "colors":["purple"]},
+            {"id":17286, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17287, "zone":"torso", "category":"jacket", "security":"13ede06dfb3f9aa2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Blazer",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17287, "colors":["pink"]},
+            {"id":17288, "colors":["blue"]},
+            {"id":17289, "colors":["black"]},
+            {"id":17290, "colors":["white"]},
+            {"id":17291, "colors":["red"]},
+            {"id":17292, "colors":["green"]},
+            {"id":17293, "colors":["brown"]},
+            {"id":17294, "colors":["blue"]},
+            {"id":17295, "colors":["purple"]},
+            {"id":17296, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17297, "zone":"arms", "category":"bag", "security":"a345e2a16c8aa7f2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17297, "colors":["blue","pink","golden"]},
+            {"id":17298, "colors":["pink","blue","silver"]},
+            {"id":17299, "colors":["red","black","golden"]},
+            {"id":17300, "colors":["green","golden"]},
+            {"id":17301, "colors":["black","red","golden"]},
+            {"id":17302, "colors":["white","green","silver"]},
+            {"id":17303, "colors":["blue","silver"]},
+            {"id":17304, "colors":["brown","blue","silver"]},
+            {"id":17305, "colors":["brown","purple","golden"]},
+            {"id":17306, "colors":["purple","orange","silver"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17307, "zone":"head", "category":"earring", "security":"d84ec8d2fa384d75", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17307, "colors":["golden","yellow"]},
+            {"id":17308, "colors":["pink"]},
+            {"id":17309, "colors":["red"]},
+            {"id":17310, "colors":["green"]},
+            {"id":17311, "colors":["black"]},
+            {"id":17312, "colors":["white"]},
+            {"id":17313, "colors":["blue"]},
+            {"id":17314, "colors":["silver","grey"]},
+            {"id":17315, "colors":["brown"]},
+            {"id":17316, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17317, "zone":"feet", "category":"socks", "security":"40938bdbb25a560f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17317, "colors":["black"]},
+            {"id":17318, "colors":["red"]},
+            {"id":17319, "colors":["blue"]},
+            {"id":17320, "colors":["green"]},
+            {"id":17321, "colors":["purple"]},
+            {"id":17322, "colors":["yellow"]},
+            {"id":17323, "colors":["white"]},
+            {"id":17324, "colors":["pink"]},
+            {"id":17325, "colors":["brown"]},
+            {"id":17326, "colors":["green","blue"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17327, "zone":"feet", "category":"shoes", "security":"f052690ec96cedf1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de tacón",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17327, "colors":["black","golden"]},
+            {"id":17328, "colors":["red","golden"]},
+            {"id":17329, "colors":["blue","silver"]},
+            {"id":17330, "colors":["green","golden"]},
+            {"id":17331, "colors":["purple","golden"]},
+            {"id":17332, "colors":["yellow","silver"]},
+            {"id":17333, "colors":["white","silver"]},
+            {"id":17334, "colors":["pink","golden"]},
+            {"id":17335, "colors":["brown","silver"]},
+            {"id":17336, "colors":["green","blue","silver"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17337, "zone":"waistToKnee", "category":"skirt", "security":"65a87b55ecfb1ed7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17337, "colors":["black"]},
+            {"id":17338, "colors":["red"]},
+            {"id":17339, "colors":["blue"]},
+            {"id":17340, "colors":["green"]},
+            {"id":17341, "colors":["purple"]},
+            {"id":17342, "colors":["yellow"]},
+            {"id":17343, "colors":["white"]},
+            {"id":17344, "colors":["pink"]},
+            {"id":17345, "colors":["brown"]},
+            {"id":17346, "colors":["green","blue"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17347, "zone":"torso", "category":"top", "security":"a1b787062633f936", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Camiseta",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17347, "colors":["black"]},
+            {"id":17348, "colors":["red"]},
+            {"id":17349, "colors":["blue"]},
+            {"id":17350, "colors":["green"]},
+            {"id":17351, "colors":["purple"]},
+            {"id":17352, "colors":["yellow"]},
+            {"id":17353, "colors":["white"]},
+            {"id":17354, "colors":["pink"]},
+            {"id":17355, "colors":["brown"]},
+            {"id":17356, "colors":["green","blue"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17357, "zone":"arms", "category":"bag", "security":"1528d12acdc1de43", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17357, "colors":["golden","black"]},
+            {"id":17358, "colors":["golden","red"]},
+            {"id":17359, "colors":["silver","blue"]},
+            {"id":17360, "colors":["golden","green"]},
+            {"id":17361, "colors":["golden","purple"]},
+            {"id":17362, "colors":["silver","yellow"]},
+            {"id":17363, "colors":["silver","white"]},
+            {"id":17364, "colors":["golden","pink"]},
+            {"id":17365, "colors":["silver","brown"]},
+            {"id":17366, "colors":["silver","green","blue"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17367, "zone":"head", "category":"earring", "security":"72ce9e96b63b8dd8", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17367, "colors":["golden","black"]},
+            {"id":17368, "colors":["golden","red"]},
+            {"id":17369, "colors":["silver","blue"]},
+            {"id":17370, "colors":["golden","green"]},
+            {"id":17371, "colors":["golden","purple"]},
+            {"id":17372, "colors":["silver","yellow"]},
+            {"id":17373, "colors":["silver","white"]},
+            {"id":17374, "colors":["golden","pink"]},
+            {"id":17375, "colors":["silver","brown"]},
+            {"id":17376, "colors":["silver","green","blue"]}
+        ], "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"},
+        "releaseDate":"2026-09-18"
+    },
     {
         "groupId":17377, "zone":"general", "category":"other", "security":"f9203a1e95b4b91f", "multiLayered":false, "layerBehavior":"frontInBack",
         "name":"Cola de zorro",
@@ -31344,5 +31559,186 @@
             {"id":18272, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-02"
+    },
+
+    {
+        "groupId":18661, "zone":"feet", "category":"shoes", "security":"349b54b88ad663e5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18661, "colors":["blue"]},
+            {"id":18662, "colors":["black"]},
+            {"id":18663, "colors":["purple"]},
+            {"id":18664, "colors":["yellow"]},
+            {"id":18665, "colors":["red"]},
+            {"id":18666, "colors":["brown"]},
+            {"id":18667, "colors":["white"]},
+            {"id":18668, "colors":["blue","green"]},
+            {"id":18669, "colors":["green"]},
+            {"id":18670, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18671, "zone":"waistToKnee", "category":"skirt", "security":"e672ffdfd424222d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18671, "colors":["purple"]},
+            {"id":18672, "colors":["yellow"]},
+            {"id":18673, "colors":["blue"]},
+            {"id":18674, "colors":["white"]},
+            {"id":18675, "colors":["orange"]},
+            {"id":18676, "colors":["pink"]},
+            {"id":18677, "colors":["red"]},
+            {"id":18678, "colors":["black"]},
+            {"id":18679, "colors":["brown"]},
+            {"id":18680, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18681, "zone":"torso_waistToKnee", "category":"waist", "security":"84ab6c92b5d2cfdf", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chal",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18681, "colors":["green"]},
+            {"id":18682, "colors":["brown"]},
+            {"id":18683, "colors":["pink"]},
+            {"id":18684, "colors":["purple"]},
+            {"id":18685, "colors":["red"]},
+            {"id":18686, "colors":["green"]},
+            {"id":18687, "colors":["black"]},
+            {"id":18688, "colors":["blue"]},
+            {"id":18689, "colors":["white"]},
+            {"id":18690, "colors":["yellow"]}
+        ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18691, "zone":"torso_waistToKnee", "category":"waist", "security":"5de897bfc1aff2d7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18691, "colors":["golden"]},
+            {"id":18692, "colors":["silver"]},
+            {"id":18693, "colors":["brown"]},
+            {"id":18694, "colors":["blue"]},
+            {"id":18695, "colors":["pink"]},
+            {"id":18696, "colors":["black"]},
+            {"id":18697, "colors":["green"]},
+            {"id":18698, "colors":["white"]},
+            {"id":18699, "colors":["purple"]},
+            {"id":18700, "colors":["red"]}
+        ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18701, "zone":"general", "category":"other", "security":"c7422039af6e8388", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gato",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18701, "colors":["black"]},
+            {"id":18702, "colors":["white"]},
+            {"id":18703, "colors":["grey"]},
+            {"id":18704, "colors":["black","white"]},
+            {"id":18705, "colors":["black","white","brown"]},
+            {"id":18706, "colors":["black","white","brown"]},
+            {"id":18707, "colors":["white","orange"]},
+            {"id":18708, "colors":["white","brown"]},
+            {"id":18709, "colors":["orange"]},
+            {"id":18710, "colors":["black","brown"]}
+        ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18711, "zone":"torso", "category":"top", "security":"d89c5c974744cb8d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18711, "colors":["black","brown"]},
+            {"id":18712, "colors":["black","red"]},
+            {"id":18713, "colors":["white","brown"]},
+            {"id":18714, "colors":["pink","purple"]},
+            {"id":18715, "colors":["brown","purple"]},
+            {"id":18716, "colors":["red","black"]},
+            {"id":18717, "colors":["brown","blue"]},
+            {"id":18718, "colors":["brown","green"]},
+            {"id":18719, "colors":["brown","yellow"]},
+            {"id":18720, "colors":["grey","purple"]}
+        ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18721, "zone":"face", "category":"neckAccessory", "security":"5b8a8da7389ed0ba", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18721, "colors":["red","green"]},
+            {"id":18722, "colors":["purple","yellow"]},
+            {"id":18723, "colors":["blue","orange"]},
+            {"id":18724, "colors":["white","blue"]},
+            {"id":18725, "colors":["black","red"]},
+            {"id":18726, "colors":["brown","blue"]},
+            {"id":18727, "colors":["green","red"]},
+            {"id":18728, "colors":["yellow","blue"]},
+            {"id":18729, "colors":["pink","green"]},
+            {"id":18730, "colors":["blue","green","orange"]}
+        ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18731, "zone":"arms", "category":"bag", "security":"0c530311c0529411", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Poción",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18731, "colors":["blue"]},
+            {"id":18732, "colors":["red"]},
+            {"id":18733, "colors":["pink"]},
+            {"id":18734, "colors":["purple"]},
+            {"id":18735, "colors":["yellow"]},
+            {"id":18736, "colors":["orange"]},
+            {"id":18737, "colors":["white"]},
+            {"id":18738, "colors":["black"]},
+            {"id":18739, "colors":["green"]},
+            {"id":18740, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18741, "zone":"head", "category":"earring", "security":"83f1d28c95ab91ea", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Pendientes",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18741, "colors":["golden","blue"]},
+            {"id":18742, "colors":["golden","red"]},
+            {"id":18743, "colors":["silver","pink"]},
+            {"id":18744, "colors":["golden","purple"]},
+            {"id":18745, "colors":["silver","white"]},
+            {"id":18746, "colors":["golden","green"]},
+            {"id":18747, "colors":["silver","yellow"]},
+            {"id":18748, "colors":["golden","orange"]},
+            {"id":18749, "colors":["silver","black"]},
+            {"id":18750, "colors":["silver","blue"]}
+        ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18751, "zone":"head", "category":"wig", "security":"45a774c4a7ed67b4", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18751, "colors":["brown"]},
+            {"id":18752, "colors":["white"]},
+            {"id":18753, "colors":["black"]},
+            {"id":18754, "colors":["blue"]},
+            {"id":18755, "colors":["blue"]},
+            {"id":18756, "colors":["purple"]},
+            {"id":18757, "colors":["red"]},
+            {"id":18758, "colors":["yellow"]},
+            {"id":18759, "colors":["orange"]},
+            {"id":18760, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "releaseDate":"2026-09-15"
     }
 ]

@@ -4043,5 +4043,46 @@
         "name":"Ambiente",
         "roomName":"Ruins of a Forgotten Oath",
         "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"}
+    },
+
+    {
+        "id":621, "roomId":125, "slot":"background", "releaseDate":"2026-09-15", "light":true, "security":"b3d6bc7a80ffe3c0",
+        "name":"Paredes",
+        "roomName":"A Touch of Magic",
+        "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
+        "backgroundColors":{
+            "day":{"color1":"DAEDE7","color2":"C6B6CB","colorLight":"73AE20"},
+            "night":{"color1":"B699D0","color2":"E5B3CF","colorLight":"FF00D3"}
+        }
+    },
+    {
+        "id":622, "roomId":125, "slot":"slot1", "releaseDate":"2026-09-15", "light":false, "security":"d0711fc1bd584d89",
+        "name":"Cocina",
+        "roomName":"A Touch of Magic",
+        "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"}
+    },
+    {
+        "id":623, "roomId":125, "slot":"slot2", "releaseDate":"2026-09-15", "light":true, "security":"6a1b380863f41d20",
+        "name":"Isla",
+        "roomName":"A Touch of Magic",
+        "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"}
+    },
+    {
+        "id":624, "roomId":125, "slot":"slot3", "releaseDate":"2026-09-15", "light":false, "security":"dbbcf1f098c1e6e9",
+        "name":"Mesas y sillas",
+        "roomName":"A Touch of Magic",
+        "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"}
+    },
+    {
+        "id":625, "roomId":125, "slot":"slot4", "releaseDate":"2026-09-15", "light":false, "security":"b6a7bb2849721af7",
+        "name":"Perchero",
+        "roomName":"A Touch of Magic",
+        "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"}
+    },
+    {
+        "id":626, "roomId":125, "slot":"slot5", "releaseDate":"2026-09-15", "light":true, "security":"533a26c5fe409d6a",
+        "name":"Caldero",
+        "roomName":"A Touch of Magic",
+        "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"}
     }
 ]

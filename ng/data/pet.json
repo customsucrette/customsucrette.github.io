@@ -410,5 +410,15 @@
     {
         "id":107, "security":"ab4eb6fc32e83585", "releaseDate":"2026-09-09", "name":"Too Cute to Slay",
         "criteria":{"type":"pack", "info":"Honorbound", "text":"Desbloqueado en el Pack exclusivo\nHonorbound"}
+    },
+
+    {
+        "id":112, "security":"7a02af0c5aa72c16", "releaseDate":"2026-09-18", "name":"Honkle Goose",
+        "criteria":{"type":"episode", "info":"25", "text":"Desbloqueado en el episodio 25"}
+    },
+
+    {
+        "id":114, "security":"26eab31ca1560894", "releaseDate":"2026-09-15", "name":"Goose Apprentice",
+        "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"}
     }
 ]
