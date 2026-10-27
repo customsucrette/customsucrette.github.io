@@ -31974,5 +31974,763 @@
             {"id":18890, "colors":["silver","black"]}
         ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
         "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18891, "zone":"general", "category":"tattoo", "security":"727a1050ea481817", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sangre",
+        "outfitName":"Prom Queen",
+        "variations":[
+            {"id":18891, "colors":["red"]},
+            {"id":18892, "colors":["blue"]},
+            {"id":18893, "colors":["purple"]},
+            {"id":18894, "colors":["green"]},
+            {"id":18895, "colors":["black"]},
+            {"id":18896, "colors":["pink"]},
+            {"id":18897, "colors":["yellow"]},
+            {"id":18898, "colors":["orange"]},
+            {"id":18899, "colors":["blue","green"]},
+            {"id":18900, "colors":["white"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":18901, "zone":"feet", "category":"shoes", "security":"e081d69fc277c19a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de tacón",
+        "outfitName":"Prom Queen",
+        "variations":[
+            {"id":18901, "colors":["silver"]},
+            {"id":18902, "colors":["golden"]},
+            {"id":18903, "colors":["red"]},
+            {"id":18904, "colors":["purple"]},
+            {"id":18905, "colors":["black"]},
+            {"id":18906, "colors":["green"]},
+            {"id":18907, "colors":["pink"]},
+            {"id":18908, "colors":["white"]},
+            {"id":18909, "colors":["blue"]},
+            {"id":18910, "colors":["brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":18911, "zone":"torso_waistToKnee", "category":"dress", "security":"be1c76f65682477c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Prom Queen",
+        "variations":[
+            {"id":18911, "colors":["pink","red"]},
+            {"id":18912, "colors":["white","red"]},
+            {"id":18913, "colors":["black","red"]},
+            {"id":18914, "colors":["blue","red"]},
+            {"id":18915, "colors":["red"]},
+            {"id":18916, "colors":["yellow","red"]},
+            {"id":18917, "colors":["purple","red"]},
+            {"id":18918, "colors":["silver","grey","red"]},
+            {"id":18919, "colors":["green","red"]},
+            {"id":18920, "colors":["green","blue","red"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":18921, "zone":"arms", "category":"armAccessory", "security":"aacf3f9c032d9b8a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Prom Queen",
+        "variations":[
+            {"id":18921, "colors":["green","red","white"]},
+            {"id":18922, "colors":["green","blue","pink"]},
+            {"id":18923, "colors":["green","pink","black"]},
+            {"id":18924, "colors":["green","pink","purple"]},
+            {"id":18925, "colors":["green","brown","white"]},
+            {"id":18926, "colors":["green","pink","purple"]},
+            {"id":18927, "colors":["green","orange","blue"]},
+            {"id":18928, "colors":["green","black","white"]},
+            {"id":18929, "colors":["green","yellow","white"]},
+            {"id":18930, "colors":["white","yellow","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":18931, "zone":"arms", "category":"bag", "security":"0ad7bba749ca03eb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ramo",
+        "outfitName":"Prom Queen",
+        "variations":[
+            {"id":18931, "colors":["green","red","pink"]},
+            {"id":18932, "colors":["green","grey","white"]},
+            {"id":18933, "colors":["green","black","red"]},
+            {"id":18934, "colors":["green","blue","red"]},
+            {"id":18935, "colors":["green","black","red"]},
+            {"id":18936, "colors":["green","yellow","brown"]},
+            {"id":18937, "colors":["green","purple","yellow"]},
+            {"id":18938, "colors":["green","grey","black"]},
+            {"id":18939, "colors":["green","brown","white"]},
+            {"id":18940, "colors":["green","blue","red"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":18941, "zone":"torso_waistToKnee", "category":"waist", "security":"2f7b8857ab61183f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bufanda",
+        "outfitName":"Prom Queen",
+        "variations":[
+            {"id":18941, "colors":["white","golden","red"]},
+            {"id":18942, "colors":["white","golden"]},
+            {"id":18943, "colors":["black","golden","red"]},
+            {"id":18944, "colors":["blue","golden","red"]},
+            {"id":18945, "colors":["golden","red"]},
+            {"id":18946, "colors":["golden","red","green"]},
+            {"id":18947, "colors":["golden","white"]},
+            {"id":18948, "colors":["golden","white"]},
+            {"id":18949, "colors":["golden","white"]},
+            {"id":18950, "colors":["golden","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":18951, "zone":"head", "category":"wig", "security":"598ccdf2bcc36b04", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Prom Queen",
+        "variations":[
+            {"id":18951, "colors":["brown","red"]},
+            {"id":18952, "colors":["white","red"]},
+            {"id":18953, "colors":["black","red"]},
+            {"id":18954, "colors":["blue","red"]},
+            {"id":18955, "colors":["blue","red"]},
+            {"id":18956, "colors":["purple","red"]},
+            {"id":18957, "colors":["red"]},
+            {"id":18958, "colors":["yellow","red"]},
+            {"id":18959, "colors":["orange","red"]},
+            {"id":18960, "colors":["pink","red"]},
+            {"id":18961, "colors":["brown"]},
+            {"id":18962, "colors":["white"]},
+            {"id":18963, "colors":["black"]},
+            {"id":18964, "colors":["blue"]},
+            {"id":18965, "colors":["blue"]},
+            {"id":18966, "colors":["purple"]},
+            {"id":18967, "colors":["red"]},
+            {"id":18968, "colors":["yellow"]},
+            {"id":18969, "colors":["orange"]},
+            {"id":18970, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":18971, "zone":"head", "category":"hat", "security":"5b74cb4f6eb201df", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Diadema",
+        "outfitName":"Prom Queen",
+        "variations":[
+            {"id":18971, "colors":["silver","pink","red"]},
+            {"id":18972, "colors":["golden","white","red"]},
+            {"id":18973, "colors":["red","black"]},
+            {"id":18974, "colors":["red","purple","blue"]},
+            {"id":18975, "colors":["red","black"]},
+            {"id":18976, "colors":["red","green","yellow"]},
+            {"id":18977, "colors":["red","pink","purple"]},
+            {"id":18978, "colors":["red","white","grey"]},
+            {"id":18979, "colors":["red","blue","green"]},
+            {"id":18980, "colors":["red","brown","green"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":18981, "zone":"general", "category":"skin", "security":"ac42c1bb74f9efda", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piel",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":18981, "colors":["green"]},
+            {"id":18982, "colors":["blue"]},
+            {"id":18983, "colors":["black"]},
+            {"id":18984, "colors":["white","blue"]},
+            {"id":18985, "colors":["pink"]},
+            {"id":18986, "colors":["orange","yellow"]},
+            {"id":18987, "colors":["grey"]},
+            {"id":18988, "colors":["brown"]},
+            {"id":18989, "colors":["red"]},
+            {"id":18990, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":18991, "zone":"arms", "category":"gloves", "security":"e919bc23934bc0d6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vendas",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":18991, "colors":["white"]},
+            {"id":18992, "colors":["black"]},
+            {"id":18993, "colors":["red"]},
+            {"id":18994, "colors":["green"]},
+            {"id":18995, "colors":["purple"]},
+            {"id":18996, "colors":["brown"]},
+            {"id":18997, "colors":["pink"]},
+            {"id":18998, "colors":["brown"]},
+            {"id":18999, "colors":["blue"]},
+            {"id":19000, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19001, "zone":"torso_waistToKnee", "category":"underwear", "security":"f675c820c3e131c7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":19001, "colors":["white"]},
+            {"id":19002, "colors":["black"]},
+            {"id":19003, "colors":["red"]},
+            {"id":19004, "colors":["green"]},
+            {"id":19005, "colors":["purple"]},
+            {"id":19006, "colors":["brown"]},
+            {"id":19007, "colors":["pink"]},
+            {"id":19008, "colors":["brown"]},
+            {"id":19009, "colors":["blue"]},
+            {"id":19010, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19011, "zone":"feet", "category":"socks", "security":"0254a39802c68379", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vendas",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":19011, "colors":["white"]},
+            {"id":19012, "colors":["black"]},
+            {"id":19013, "colors":["red"]},
+            {"id":19014, "colors":["green"]},
+            {"id":19015, "colors":["purple"]},
+            {"id":19016, "colors":["brown"]},
+            {"id":19017, "colors":["pink"]},
+            {"id":19018, "colors":["brown"]},
+            {"id":19019, "colors":["blue"]},
+            {"id":19020, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19021, "zone":"torso_waistToKnee", "category":"dress", "security":"8388ce9d34414980", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":19021, "colors":["red","white"]},
+            {"id":19022, "colors":["black","purple"]},
+            {"id":19023, "colors":["black","red"]},
+            {"id":19024, "colors":["green","orange"]},
+            {"id":19025, "colors":["purple","blue"]},
+            {"id":19026, "colors":["orange","pink"]},
+            {"id":19027, "colors":["pink","white"]},
+            {"id":19028, "colors":["brown","green"]},
+            {"id":19029, "colors":["blue","brown"]},
+            {"id":19030, "colors":["grey","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19031, "zone":"face", "category":"neckAccessory", "security":"75b090f166b3ec58", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tornillo",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":19031, "colors":["silver"]},
+            {"id":19032, "colors":["golden"]},
+            {"id":19033, "colors":["blue"]},
+            {"id":19034, "colors":["purple"]},
+            {"id":19035, "colors":["white"]},
+            {"id":19036, "colors":["pink"]},
+            {"id":19037, "colors":["black"]},
+            {"id":19038, "colors":["green"]},
+            {"id":19039, "colors":["brown"]},
+            {"id":19040, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19041, "zone":"head", "category":"faceAccessory", "security":"978c63266bf353eb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vendas",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":19041, "colors":["white"]},
+            {"id":19042, "colors":["black"]},
+            {"id":19043, "colors":["red"]},
+            {"id":19044, "colors":["green"]},
+            {"id":19045, "colors":["purple"]},
+            {"id":19046, "colors":["brown"]},
+            {"id":19047, "colors":["pink"]},
+            {"id":19048, "colors":["brown"]},
+            {"id":19049, "colors":["blue"]},
+            {"id":19050, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19051, "zone":"torso", "category":"jacket", "security":"b8ae488d982d8677", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Abrigo",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":19051, "colors":["black","white"]},
+            {"id":19052, "colors":["black","white"]},
+            {"id":19053, "colors":["black","red"]},
+            {"id":19054, "colors":["black","green"]},
+            {"id":19055, "colors":["black","purple"]},
+            {"id":19056, "colors":["black","orange"]},
+            {"id":19057, "colors":["black","pink"]},
+            {"id":19058, "colors":["black","brown"]},
+            {"id":19059, "colors":["black","blue"]},
+            {"id":19060, "colors":["black","grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19061, "zone":"torso_waistToKnee", "category":"waist", "security":"67a4242502d9b441", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Corsé",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":19061, "colors":["black","golden"]},
+            {"id":19062, "colors":["white","silver"]},
+            {"id":19063, "colors":["blue","silver"]},
+            {"id":19064, "colors":["grey","silver"]},
+            {"id":19065, "colors":["blue","green","silver"]},
+            {"id":19066, "colors":["purple","golden"]},
+            {"id":19067, "colors":["yellow","silver"]},
+            {"id":19068, "colors":["pink","golden"]},
+            {"id":19069, "colors":["green","golden"]},
+            {"id":19070, "colors":["red","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19071, "zone":"head", "category":"wig", "security":"1e5b01153a8a265e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":19071, "colors":["white","brown"]},
+            {"id":19072, "colors":["white","black"]},
+            {"id":19073, "colors":["white","black"]},
+            {"id":19074, "colors":["white","blue"]},
+            {"id":19075, "colors":["white","blue"]},
+            {"id":19076, "colors":["white","purple"]},
+            {"id":19077, "colors":["white","red"]},
+            {"id":19078, "colors":["white","yellow"]},
+            {"id":19079, "colors":["white","orange"]},
+            {"id":19080, "colors":["white","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19081, "zone":"general", "category":"other", "security":"f8e264cc12d77350", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Rayos",
+        "outfitName":"Scientist's Creature",
+        "variations":[
+            {"id":19081, "colors":["white"]},
+            {"id":19082, "colors":["pink"]},
+            {"id":19083, "colors":["yellow"]},
+            {"id":19084, "colors":["red"]},
+            {"id":19085, "colors":["green"]},
+            {"id":19086, "colors":["green","blue"]},
+            {"id":19087, "colors":["orange"]},
+            {"id":19088, "colors":["purple"]},
+            {"id":19089, "colors":["black"]},
+            {"id":19090, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19091, "zone":"feet", "category":"shoes", "security":"b34507d87c24cb1f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas altas",
+        "outfitName":"Amoris' Nightmare",
+        "variations":[
+            {"id":19091, "colors":["black"]},
+            {"id":19092, "colors":["brown"]},
+            {"id":19093, "colors":["grey"]},
+            {"id":19094, "colors":["white"]},
+            {"id":19095, "colors":["green"]},
+            {"id":19096, "colors":["pink"]},
+            {"id":19097, "colors":["red"]},
+            {"id":19098, "colors":["blue"]},
+            {"id":19099, "colors":["brown"]},
+            {"id":19100, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19101, "zone":"waistToKnee", "category":"skirt", "security":"311309fac7f4766e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Amoris' Nightmare",
+        "variations":[
+            {"id":19101, "colors":["black"]},
+            {"id":19102, "colors":["brown"]},
+            {"id":19103, "colors":["grey"]},
+            {"id":19104, "colors":["white"]},
+            {"id":19105, "colors":["green"]},
+            {"id":19106, "colors":["pink"]},
+            {"id":19107, "colors":["red"]},
+            {"id":19108, "colors":["blue"]},
+            {"id":19109, "colors":["orange"]},
+            {"id":19110, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19111, "zone":"arms", "category":"armAccessory", "security":"e1f33af83863a819", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Garras",
+        "outfitName":"Amoris' Nightmare",
+        "variations":[
+            {"id":19111, "colors":["silver"]},
+            {"id":19112, "colors":["orange"]},
+            {"id":19113, "colors":["black"]},
+            {"id":19114, "colors":["white"]},
+            {"id":19115, "colors":["green"]},
+            {"id":19116, "colors":["purple"]},
+            {"id":19117, "colors":["golden"]},
+            {"id":19118, "colors":["blue"]},
+            {"id":19119, "colors":["brown"]},
+            {"id":19120, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19121, "zone":"torso", "category":"top", "security":"6a2a22f159db454e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jersey",
+        "outfitName":"Amoris' Nightmare",
+        "variations":[
+            {"id":19121, "colors":["red","green"]},
+            {"id":19122, "colors":["orange","black"]},
+            {"id":19123, "colors":["black","purple"]},
+            {"id":19124, "colors":["blue","pink"]},
+            {"id":19125, "colors":["red","white"]},
+            {"id":19126, "colors":["pink","purple"]},
+            {"id":19127, "colors":["black","grey"]},
+            {"id":19128, "colors":["blue","brown"]},
+            {"id":19129, "colors":["green","yellow"]},
+            {"id":19130, "colors":["purple","orange"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19131, "zone":"head", "category":"wig", "security":"2715efad479acdba", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Amoris' Nightmare",
+        "variations":[
+            {"id":19131, "colors":["brown"]},
+            {"id":19132, "colors":["white"]},
+            {"id":19133, "colors":["black"]},
+            {"id":19134, "colors":["blue"]},
+            {"id":19135, "colors":["blue"]},
+            {"id":19136, "colors":["purple"]},
+            {"id":19137, "colors":["red"]},
+            {"id":19138, "colors":["yellow"]},
+            {"id":19139, "colors":["orange"]},
+            {"id":19140, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19141, "zone":"head", "category":"faceAccessory", "security":"1f161c0fb3670b49", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Máscara",
+        "outfitName":"Amoris' Nightmare",
+        "variations":[
+            {"id":19141, "colors":["white"]},
+            {"id":19142, "colors":["orange"]},
+            {"id":19143, "colors":["black"]},
+            {"id":19144, "colors":["brown"]},
+            {"id":19145, "colors":["red"]},
+            {"id":19146, "colors":["pink"]},
+            {"id":19147, "colors":["grey"]},
+            {"id":19148, "colors":["blue"]},
+            {"id":19149, "colors":["green"]},
+            {"id":19150, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19151, "zone":"waistToKnee", "category":"pants", "security":"06c6a54166e9bb16", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Mini Juice",
+        "variations":[
+            {"id":19151, "colors":["black","white"]},
+            {"id":19152, "colors":["black","orange"]},
+            {"id":19153, "colors":["black","red"]},
+            {"id":19154, "colors":["black","green"]},
+            {"id":19155, "colors":["black","purple"]},
+            {"id":19156, "colors":["black","pink"]},
+            {"id":19157, "colors":["black","yellow"]},
+            {"id":19158, "colors":["black","blue"]},
+            {"id":19159, "colors":["black","grey"]},
+            {"id":19160, "colors":["black","brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Juice (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19161, "zone":"torso", "category":"jacket", "security":"5d718b689b7a5f8f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Mini Juice",
+        "variations":[
+            {"id":19161, "colors":["black","white"]},
+            {"id":19162, "colors":["black","orange"]},
+            {"id":19163, "colors":["black","red"]},
+            {"id":19164, "colors":["black","green"]},
+            {"id":19165, "colors":["black","purple"]},
+            {"id":19166, "colors":["black","pink"]},
+            {"id":19167, "colors":["black","yellow"]},
+            {"id":19168, "colors":["black","blue"]},
+            {"id":19169, "colors":["black","grey"]},
+            {"id":19170, "colors":["black","brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Juice (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19171, "zone":"head", "category":"wig", "security":"9d4e5ca7625e60ca", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Mini Juice",
+        "variations":[
+            {"id":19171, "colors":["green"]},
+            {"id":19172, "colors":["orange"]},
+            {"id":19173, "colors":["red"]},
+            {"id":19174, "colors":["green"]},
+            {"id":19175, "colors":["purple"]},
+            {"id":19176, "colors":["pink"]},
+            {"id":19177, "colors":["yellow"]},
+            {"id":19178, "colors":["blue"]},
+            {"id":19179, "colors":["grey"]},
+            {"id":19180, "colors":["brown"]},
+            {"id":19181, "colors":["brown"]},
+            {"id":19182, "colors":["white"]},
+            {"id":19183, "colors":["black"]},
+            {"id":19184, "colors":["blue"]},
+            {"id":19185, "colors":["blue"]},
+            {"id":19186, "colors":["purple"]},
+            {"id":19187, "colors":["red"]},
+            {"id":19188, "colors":["yellow"]},
+            {"id":19189, "colors":["orange"]},
+            {"id":19190, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Juice (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19191, "zone":"waistToKnee", "category":"pants", "security":"1f33dbf5353963c4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19191, "colors":["brown","golden"]},
+            {"id":19192, "colors":["black","silver"]},
+            {"id":19193, "colors":["brown","golden"]},
+            {"id":19194, "colors":["grey","golden"]},
+            {"id":19195, "colors":["red","golden"]},
+            {"id":19196, "colors":["green","golden"]},
+            {"id":19197, "colors":["blue","silver"]},
+            {"id":19198, "colors":["orange","golden"]},
+            {"id":19199, "colors":["white","silver"]},
+            {"id":19200, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19201, "zone":"feet", "category":"shoes", "security":"e999732920691d9f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19201, "colors":["brown","golden"]},
+            {"id":19202, "colors":["black","silver"]},
+            {"id":19203, "colors":["brown","golden"]},
+            {"id":19204, "colors":["grey","golden"]},
+            {"id":19205, "colors":["red","golden"]},
+            {"id":19206, "colors":["green","golden"]},
+            {"id":19207, "colors":["blue","silver"]},
+            {"id":19208, "colors":["orange","golden"]},
+            {"id":19209, "colors":["white","silver"]},
+            {"id":19210, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19211, "zone":"face", "category":"neckAccessory", "security":"bb134fc8cfc19ca1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19211, "colors":["red","golden"]},
+            {"id":19212, "colors":["purple","silver"]},
+            {"id":19213, "colors":["pink","golden"]},
+            {"id":19214, "colors":["black","golden"]},
+            {"id":19215, "colors":["brown","golden"]},
+            {"id":19216, "colors":["green","golden"]},
+            {"id":19217, "colors":["blue","silver"]},
+            {"id":19218, "colors":["yellow","golden"]},
+            {"id":19219, "colors":["white","silver"]},
+            {"id":19220, "colors":["grey","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19221, "zone":"torso", "category":"top", "security":"906f4dc75e196f8b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19221, "colors":["white","golden"]},
+            {"id":19222, "colors":["purple","silver"]},
+            {"id":19223, "colors":["pink","golden"]},
+            {"id":19224, "colors":["red","golden"]},
+            {"id":19225, "colors":["black","golden"]},
+            {"id":19226, "colors":["green","golden"]},
+            {"id":19227, "colors":["blue","silver"]},
+            {"id":19228, "colors":["yellow","golden"]},
+            {"id":19229, "colors":["grey","silver"]},
+            {"id":19230, "colors":["white","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19231, "zone":"torso", "category":"jacket", "security":"cf87c17ec7ae89e8", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19231, "colors":["red","golden"]},
+            {"id":19232, "colors":["purple","silver"]},
+            {"id":19233, "colors":["pink","golden"]},
+            {"id":19234, "colors":["black","golden"]},
+            {"id":19235, "colors":["brown","golden"]},
+            {"id":19236, "colors":["green","golden"]},
+            {"id":19237, "colors":["blue","silver"]},
+            {"id":19238, "colors":["yellow","golden"]},
+            {"id":19239, "colors":["white","silver"]},
+            {"id":19240, "colors":["grey","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19241, "zone":"feet", "category":"legAccessory", "security":"84c418575ad4ac8f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Daga",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19241, "colors":["brown","red","golden"]},
+            {"id":19242, "colors":["black","purple","silver"]},
+            {"id":19243, "colors":["brown","pink","golden"]},
+            {"id":19244, "colors":["grey","black","golden"]},
+            {"id":19245, "colors":["red","black","golden"]},
+            {"id":19246, "colors":["green","black","golden"]},
+            {"id":19247, "colors":["blue","silver"]},
+            {"id":19248, "colors":["orange","yellow","golden"]},
+            {"id":19249, "colors":["white","silver"]},
+            {"id":19250, "colors":["pink","white","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19251, "zone":"torso_waistToKnee", "category":"waist", "security":"8455ac62b0b27c40", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19251, "colors":["brown","red","golden"]},
+            {"id":19252, "colors":["black","purple","silver"]},
+            {"id":19253, "colors":["brown","pink","golden"]},
+            {"id":19254, "colors":["grey","black","golden"]},
+            {"id":19255, "colors":["red","brown","golden"]},
+            {"id":19256, "colors":["green","golden"]},
+            {"id":19257, "colors":["blue","silver"]},
+            {"id":19258, "colors":["orange","golden"]},
+            {"id":19259, "colors":["white","silver"]},
+            {"id":19260, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19261, "zone":"torso", "category":"jacket", "security":"5a088130347ff291", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Abrigo",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19261, "colors":["brown","red","golden"]},
+            {"id":19262, "colors":["black","purple","silver"]},
+            {"id":19263, "colors":["brown","pink","golden"]},
+            {"id":19264, "colors":["grey","black","golden"]},
+            {"id":19265, "colors":["red","brown","golden"]},
+            {"id":19266, "colors":["green","golden"]},
+            {"id":19267, "colors":["blue","silver"]},
+            {"id":19268, "colors":["orange","golden"]},
+            {"id":19269, "colors":["white","silver"]},
+            {"id":19270, "colors":["pink","grey","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19271, "zone":"head", "category":"hat", "security":"36113ee8ec71afd3", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19271, "colors":["brown","golden"]},
+            {"id":19272, "colors":["black","silver"]},
+            {"id":19273, "colors":["brown","golden"]},
+            {"id":19274, "colors":["grey","golden"]},
+            {"id":19275, "colors":["red","golden"]},
+            {"id":19276, "colors":["green","golden"]},
+            {"id":19277, "colors":["blue","silver"]},
+            {"id":19278, "colors":["orange","golden"]},
+            {"id":19279, "colors":["white","silver"]},
+            {"id":19280, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19281, "zone":"arms", "category":"bag", "security":"f11961b12100b52f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ballesta",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19281, "colors":["silver","golden","brown"]},
+            {"id":19282, "colors":["silver","black","brown"]},
+            {"id":19283, "colors":["silver","golden","brown"]},
+            {"id":19284, "colors":["silver","golden","black"]},
+            {"id":19285, "colors":["brown","golden","black"]},
+            {"id":19286, "colors":["brown","golden","black"]},
+            {"id":19287, "colors":["brown","blue","silver"]},
+            {"id":19288, "colors":["brown","golden"]},
+            {"id":19289, "colors":["grey","silver"]},
+            {"id":19290, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19291, "zone":"head", "category":"wig", "security":"dd59ae1b7e3ade62", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Mini Cara Mia",
+        "variations":[
+            {"id":19291, "colors":["brown"]},
+            {"id":19292, "colors":["white"]},
+            {"id":19293, "colors":["black"]},
+            {"id":19294, "colors":["blue"]},
+            {"id":19295, "colors":["blue"]},
+            {"id":19296, "colors":["purple"]},
+            {"id":19297, "colors":["red"]},
+            {"id":19298, "colors":["yellow"]},
+            {"id":19299, "colors":["orange"]},
+            {"id":19300, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19301, "zone":"torso_waistToKnee", "category":"dress", "security":"bba2e9a219074402", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Mini Cara Mia",
+        "variations":[
+            {"id":19301, "colors":["black"]},
+            {"id":19302, "colors":["red"]},
+            {"id":19303, "colors":["white"]},
+            {"id":19304, "colors":["brown"]},
+            {"id":19305, "colors":["purple"]},
+            {"id":19306, "colors":["blue"]},
+            {"id":19307, "colors":["green"]},
+            {"id":19308, "colors":["pink"]},
+            {"id":19309, "colors":["yellow"]},
+            {"id":19310, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19311, "zone":"face", "category":"neckAccessory", "security":"a8ac9387ba7a2de4", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Mini Cara Mia",
+        "variations":[
+            {"id":19311, "colors":["black"]},
+            {"id":19312, "colors":["red"]},
+            {"id":19313, "colors":["white"]},
+            {"id":19314, "colors":["brown"]},
+            {"id":19315, "colors":["purple"]},
+            {"id":19316, "colors":["blue"]},
+            {"id":19317, "colors":["green"]},
+            {"id":19318, "colors":["pink"]},
+            {"id":19319, "colors":["yellow"]},
+            {"id":19320, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-10-27"
     }
 ]

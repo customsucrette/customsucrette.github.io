@@ -4084,5 +4084,85 @@
         "name":"Caldero",
         "roomName":"A Touch of Magic",
         "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"}
+    },
+    {
+        "id":627, "roomId":126, "slot":"background", "releaseDate":"2026-10-27", "light":true, "security":"d5a72ba6cb9088a4",
+        "name":"Paredes",
+        "roomName":"Something Happened Here",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"},
+        "backgroundColors":{
+            "day":{"color1":"9AA3AD","color2":"B4ABA3","colorLight":"1B1E30"},
+            "night":{"color1":"C07775","color2":"607092","colorLight":"2C1A1A"}
+        }
+    },
+    {
+        "id":628, "roomId":126, "slot":"slot1", "releaseDate":"2026-10-27", "light":true, "security":"965193911893f0ff",
+        "name":"Escalera",
+        "roomName":"Something Happened Here",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"}
+    },
+    {
+        "id":629, "roomId":126, "slot":"slot2", "releaseDate":"2026-10-27", "light":true, "security":"df0ea85e80a26446",
+        "name":"Sofá",
+        "roomName":"Something Happened Here",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"}
+    },
+    {
+        "id":630, "roomId":126, "slot":"slot3", "releaseDate":"2026-10-27", "light":true, "security":"9ddf6f73688beedb",
+        "name":"Sillón",
+        "roomName":"Something Happened Here",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"}
+    },
+    {
+        "id":631, "roomId":126, "slot":"slot4", "releaseDate":"2026-10-27", "light":false, "security":"17f86b5ae16f04f9",
+        "name":"Biblioteca",
+        "roomName":"Something Happened Here",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"}
+    },
+    {
+        "id":632, "roomId":126, "slot":"slot5", "releaseDate":"2026-10-27", "light":false, "security":"0804136350ff57f0",
+        "name":"Colchón",
+        "roomName":"Something Happened Here",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"}
+    },
+    {
+        "id":633, "roomId":127, "slot":"background", "releaseDate":"2026-10-27", "light":true, "security":"719c90fbc908a470",
+        "name":"Paredes",
+        "roomName":"It's Alive !",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+        "backgroundColors":{
+            "day":{"color1":"A3ACB1","color2":"99A591","colorLight":"121C3B"},
+            "night":{"color1":"95B188","color2":"A1B4AB","colorLight":"1D2A27"}
+        }
+    },
+    {
+        "id":634, "roomId":127, "slot":"slot1", "releaseDate":"2026-10-27", "light":false, "security":"5b3d225afdc38d47",
+        "name":"Biblioteca",
+        "roomName":"It's Alive !",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"}
+    },
+    {
+        "id":635, "roomId":127, "slot":"slot2", "releaseDate":"2026-10-27", "light":true, "security":"4b2796ca320036c3",
+        "name":"Tabla de experimentos",
+        "roomName":"It's Alive !",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"}
+    },
+    {
+        "id":636, "roomId":127, "slot":"slot3", "releaseDate":"2026-10-27", "light":true, "security":"dcd7556dc25bab1d",
+        "name":"Frascos",
+        "roomName":"It's Alive !",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"}
+    },
+    {
+        "id":637, "roomId":127, "slot":"slot4", "releaseDate":"2026-10-27", "light":true, "security":"b01be671e9464a98",
+        "name":"Criatura",
+        "roomName":"It's Alive !",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"}
+    },
+    {
+        "id":638, "roomId":127, "slot":"slot5", "releaseDate":"2026-10-27", "light":true, "security":"89b082d60eaa43b4",
+        "name":"Mesa",
+        "roomName":"It's Alive !",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"}
     }
 ]

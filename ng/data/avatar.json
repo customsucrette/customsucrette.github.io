@@ -108,6 +108,15 @@
                     {"id":39, "colors":["grey"]}
                 ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
                 "releaseDate":"2026-09-02"
+            },
+            {
+                "id":40, "zone":"head", "category":"eyebrows", "security":"57257d3ae1ce130e",
+                "name":"Cejas",
+                "outfitName":"Scientist's Creature",
+                "variations":[
+                    {"id":40, "colors":["black", "white"]}
+                ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+                "releaseDate":"2026-10-27"
             }
         ],
         "eyes":[
@@ -1094,6 +1103,24 @@
                     {"id":240, "colors":["grey"]}
                 ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
                 "releaseDate":"2026-07-22"
+            },
+            {
+                "groupId":241, "zone":"face", "category":"mouth", "security":"89da5f44ca366213",
+                "name":"Boca",
+                "outfitName":"Scientist's Creature",
+                "variations":[
+                    {"id":241, "colors":["black","purple"]},
+                    {"id":242, "colors":["black","pink"]},
+                    {"id":243, "colors":["black","white"]},
+                    {"id":244, "colors":["black","blue"]},
+                    {"id":245, "colors":["black","yellow"]},
+                    {"id":246, "colors":["black","green"]},
+                    {"id":247, "colors":["black","red"]},
+                    {"id":248, "colors":["black","green"]},
+                    {"id":249, "colors":["black","grey"]},
+                    {"id":250, "colors":["black","orange"]}
+                ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+                "releaseDate":"2026-10-27"
             }
         ]
     },

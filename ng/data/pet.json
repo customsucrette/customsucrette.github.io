@@ -424,5 +424,13 @@
     {
         "id":115, "security":"255503dfcb0f3f11", "releaseDate":"2026-10-01", "name":"Bubblegoose",
         "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado durante el evento\nPink October"}
+    },
+    {
+        "id":116, "security":"fef930dac34cf5e7", "releaseDate":"2026-10-20", "name":"Weregoose",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado durante el evento\nHalloween 2026"}
+    },
+    {
+        "id":117, "security":"a3b2e088a3b96624", "releaseDate":"2026-10-27", "name":"Dr. Frangoostein",
+        "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"}
     }
 ]
