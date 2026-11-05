@@ -117,6 +117,33 @@
                     {"id":40, "colors":["black", "white"]}
                 ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
                 "releaseDate":"2026-10-27"
+            },
+            {
+                "groupId":41, "zone":"head", "category":"eyebrows", "security":"b95b33ae73c13164",
+                "name":"Cejas",
+                "outfitName":"Labret",
+                "variations":[
+                    {"id":41, "colors":["black"]}
+                ], "criteria":{"type":"pack", "info":"mini_mkt10 / Mini Labret", "text":"Desbloqueado en el Pack exclusivo\nLabret"},
+                "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":42, "zone":"head", "category":"eyebrows", "security":"870ad4bfdda0bba5",
+                "name":"Cejas",
+                "outfitName":"Studs",
+                "variations":[
+                    {"id":42, "colors":["silver"]},
+                    {"id":43, "colors":["golden","yellow"]},
+                    {"id":44, "colors":["blue"]},
+                    {"id":45, "colors":["green"]},
+                    {"id":46, "colors":["pink"]},
+                    {"id":47, "colors":["black"]},
+                    {"id":48, "colors":["purple"]},
+                    {"id":49, "colors":["red"]},
+                    {"id":50, "colors":["orange"]},
+                    {"id":51, "colors":["white"]}
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             }
         ],
         "eyes":[
@@ -732,6 +759,115 @@
                     {"id":326, "colors":["brown"]}
                 ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
                 "releaseDate":"2026-09-02"
+            },
+            {
+                "groupId":327, "zone":"face", "category":"eyes", "security":"7a08f7366519cd82",
+                "name":"Ojos",
+                "outfitName":"Labret",
+                "variations":[
+                    {"id":327, "colors":["pink"]},
+                    {"id":328, "colors":["blue"]},
+                    {"id":329, "colors":["red"]},
+                    {"id":330, "colors":["purple"]},
+                    {"id":331, "colors":["black"]},
+                    {"id":332, "colors":["white"]},
+                    {"id":333, "colors":["yellow"]},
+                    {"id":334, "colors":["green"]},
+                    {"id":335, "colors":["pink"]},
+                    {"id":336, "colors":["orange"]}
+                ], "criteria":{"type":"pack", "info":"mini_mkt10 / Mini Labret", "text":"Desbloqueado en el Pack exclusivo\nLabret"},
+                "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":337, "zone":"face", "category":"eyes", "security":"0171d884756f71e8",
+                "name":"Ojos",
+                "outfitName":"Galaxy",
+                "variations":[
+                    {"id":337, "colors":["blue"]},
+                    {"id":338, "colors":["blue"]},
+                    {"id":339, "colors":["purple"]},
+                    {"id":340, "colors":["pink"]},
+                    {"id":341, "colors":["red"]},
+                    {"id":342, "colors":["orange"]},
+                    {"id":343, "colors":["yellow"]},
+                    {"id":344, "colors":["green"]},
+                    {"id":345, "colors":["blue","white"]},
+                    {"id":346, "colors":["black","grey"]}
+                ], "criteria":{"type":"pack", "info":"mini_mkt11 / Mini Galaxy", "text":"Desbloqueado en el Pack exclusivo\nGalaxy"},
+                "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":347, "zone":"face", "category":"eyes", "security":"16e77c3d2124ae57",
+                "name":"Ojos",
+                "outfitName":"Cyber",
+                "variations":[
+                    {"id":347, "colors":["orange"]},
+                    {"id":348, "colors":["pink"]},
+                    {"id":349, "colors":["blue"]},
+                    {"id":350, "colors":["green"]},
+                    {"id":351, "colors":["yellow"]},
+                    {"id":352, "colors":["black"]},
+                    {"id":353, "colors":["white"]},
+                    {"id":354, "colors":["purple"]},
+                    {"id":355, "colors":["red"]},
+                    {"id":356, "colors":["grey"]}
+                ], "criteria":{"type":"pack", "info":"mini_mkt09 / Mini Cyber", "text":"Desbloqueado en el Pack exclusivo\nCyber"},
+                "releaseDate":"2026-11-04"
+            },
+            
+            {
+                "groupId":367, "zone":"face", "category":"eyes", "security":"268def0b05800603",
+                "name":"Ojos",
+                "outfitName":"Butterflies",
+                "variations":[
+                    {"id":368, "colors":["blue"]},
+                    {"id":367, "colors":["orange","yellow"], "variationNumber":2},
+                    {"id":369, "colors":["red"], "variationNumber":3},
+                    {"id":370, "colors":["black","green"], "variationNumber":4},
+                    {"id":371, "colors":["purple"], "variationNumber":5},
+                    {"id":372, "colors":["pink","yellow"], "variationNumber":6},
+                    {"id":373, "colors":["blue","white"], "variationNumber":7},
+                    {"id":374, "colors":["green"], "variationNumber":8},
+                    {"id":375, "colors":["brown"], "variationNumber":9},
+                    {"id":376, "colors":["pink"], "variationNumber":10}
+                ], "criteria":{"type":"pack", "info":"mini_mkt08 / Mini Butterflies", "text":"Desbloqueado en el Pack exclusivo\nButterflies"},
+                "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":377, "zone":"face", "category":"eyes", "security":"7f3c3ba5a64c3614",
+                "name":"Ojos",
+                "outfitName":"Studs",
+                "variations":[
+                    {"id":377, "colors":["orange"]},
+                    {"id":378, "colors":["blue"]},
+                    {"id":379, "colors":["pink"]},
+                    {"id":380, "colors":["yellow"]},
+                    {"id":381, "colors":["purple"]},
+                    {"id":382, "colors":["red"]},
+                    {"id":383, "colors":["black"]},
+                    {"id":384, "colors":["blue"]},
+                    {"id":385, "colors":["green"]},
+                    {"id":386, "colors":["white"]}
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":387, "zone":"face", "category":"eyes", "security":"900a3fcdfff56f34",
+                "name":"Ojos",
+                "outfitName":"Starside",
+                "variations":[
+                    {"id":387, "colors":["pink"]},
+                    {"id":388, "colors":["red"]},
+                    {"id":389, "colors":["purple"]},
+                    {"id":390, "colors":["blue"]},
+                    {"id":391, "colors":["golden","yellow"]},
+                    {"id":392, "colors":["grey","silver"]},
+                    {"id":393, "colors":["black"]},
+                    {"id":394, "colors":["green"]},
+                    {"id":395, "colors":["blue"]},
+                    {"id":396, "colors":["brown"]}
+                ], "criteria":{"type":"pack", "info":"mini_mkt12 / Mini Starside", "text":"Desbloqueado en el Pack exclusivo\nStarside"},
+                "releaseDate":"2026-11-04"
             }
         ],
         "mouth":[
@@ -1121,6 +1257,114 @@
                     {"id":250, "colors":["black","orange"]}
                 ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
                 "releaseDate":"2026-10-27"
+            },
+            {
+                "groupId":251, "zone":"face", "category":"mouth", "security":"b3c024e78ae2536d",
+                "name":"Boca",
+                "outfitName":"Galaxy",
+                "variations":[
+                    {"id":251, "colors":["blue"]},
+                    {"id":252, "colors":["blue"]},
+                    {"id":253, "colors":["purple"]},
+                    {"id":254, "colors":["pink"]},
+                    {"id":255, "colors":["red"]},
+                    {"id":256, "colors":["orange"]},
+                    {"id":257, "colors":["golden","yellow"]},
+                    {"id":258, "colors":["green"]},
+                    {"id":259, "colors":["blue","white"]},
+                    {"id":260, "colors":["black"]}
+                ], "criteria":{"type":"pack", "info":"mini_mkt11 / Mini Galaxy", "text":"Desbloqueado en el Pack exclusivo\nGalaxy"},
+                "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":261, "zone":"face", "category":"mouth", "security":"23cfcf9eab087b02",
+                "name":"Boca",
+                "outfitName":"Butterflies",
+                "variations":[
+                    {"id":262, "colors":["blue"]},
+                    {"id":261, "colors":["orange"], "variationNumber":2},
+                    {"id":263, "colors":["black","red"], "variationNumber":3},
+                    {"id":264, "colors":["black","blue"], "variationNumber":4},
+                    {"id":265, "colors":["purple"], "variationNumber":5},
+                    {"id":266, "colors":["brown","yellow"], "variationNumber":6},
+                    {"id":267, "colors":["blue","white"], "variationNumber":7},
+                    {"id":268, "colors":["green"], "variationNumber":8},
+                    {"id":269, "colors":["brown"], "variationNumber":9},
+                    {"id":270, "colors":["pink"], "variationNumber":10}
+                ], "criteria":{"type":"pack", "info":"mini_mkt08 / Mini Butterflies", "text":"Desbloqueado en el Pack exclusivo\nButterflies"},
+                "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":271, "zone":"face", "category":"mouth", "security":"f454e769e588cf0c",
+                "name":"Boca",
+                "outfitName":"Cyber",
+                "variations":[
+                    {"id":271, "colors":["blue","purple"]},
+                    {"id":272, "colors":["blue","green"]},
+                    {"id":273, "colors":["green","yellow"]},
+                    {"id":274, "colors":["pink","yellow"]},
+                    {"id":275, "colors":["pink","purple"]},
+                    {"id":276, "colors":["purple","red"]},
+                    {"id":277, "colors":["purple","white"]},
+                    {"id":278, "colors":["orange","yellow"]},
+                    {"id":279, "colors":["black","purple"]},
+                    {"id":280, "colors":["blue","grey"]}
+                ], "criteria":{"type":"pack", "info":"mini_mkt09 / Mini Cyber", "text":"Desbloqueado en el Pack exclusivo\nCyber"},
+                "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":281, "zone":"face", "category":"mouth", "security":"586f1a2b2a7d0c21",
+                "name":"Boca",
+                "outfitName":"Studs",
+                "variations":[
+                    {"id":281, "colors":["brown","silver"]},
+                    {"id":282, "colors":["brown","golden"]},
+                    {"id":283, "colors":["pink","silver"]},
+                    {"id":284, "colors":["golden","pink"]},
+                    {"id":285, "colors":["black","silver"]},
+                    {"id":286, "colors":["black","golden"]},
+                    {"id":287, "colors":["red","silver"]},
+                    {"id":288, "colors":["golden","red"]},
+                    {"id":289, "colors":["pink","silver"]},
+                    {"id":290, "colors":["golden","pink"]}
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":291, "zone":"face", "category":"mouth", "security":"6b1e917286df65b9",
+                "name":"Boca",
+                "outfitName":"Starside",
+                "variations":[
+                    {"id":291, "colors":["pink"]},
+                    {"id":292, "colors":["red"]},
+                    {"id":293, "colors":["purple"]},
+                    {"id":294, "colors":["blue"]},
+                    {"id":295, "colors":["golden","yellow"]},
+                    {"id":296, "colors":["grey","silver"]},
+                    {"id":297, "colors":["black"]},
+                    {"id":298, "colors":["green"]},
+                    {"id":299, "colors":["blue"]},
+                    {"id":300, "colors":["brown"]}
+                ], "criteria":{"type":"pack", "info":"mini_mkt12 / Mini Starside", "text":"Desbloqueado en el Pack exclusivo\nStarside"},
+                "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":301, "zone":"face", "category":"mouth", "security":"c2e61ce62ea131ab",
+                "name":"Boca",
+                "outfitName":"Labret",
+                "variations":[
+                    {"id":301, "colors":["pink"]},
+                    {"id":302, "colors":["blue"]},
+                    {"id":303, "colors":["red"]},
+                    {"id":304, "colors":["purple"]},
+                    {"id":305, "colors":["black"]},
+                    {"id":306, "colors":["white"]},
+                    {"id":307, "colors":["yellow"]},
+                    {"id":308, "colors":["green"]},
+                    {"id":309, "colors":["pink"]},
+                    {"id":310, "colors":["orange"]}
+                ], "criteria":{"type":"pack", "info":"mini_mkt10 / Mini Labret", "text":"Desbloqueado en el Pack exclusivo\nLabret"},
+                "releaseDate":"2026-11-04"
             }
         ]
     },

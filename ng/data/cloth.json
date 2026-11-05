@@ -32732,5 +32732,753 @@
             {"id":19320, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19321, "zone":"feet", "category":"shoes", "security":"e7a7fa6e3fb277c1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas altas",
+        "outfitName":"Mini Versailles",
+        "variations":[
+            {"id":19321, "colors":["blue","white"]},
+            {"id":19322, "colors":["pink"]},
+            {"id":19323, "colors":["green"]},
+            {"id":19324, "colors":["purple"]},
+            {"id":19325, "colors":["yellow"]},
+            {"id":19326, "colors":["white"]},
+            {"id":19327, "colors":["black","grey"]},
+            {"id":19328, "colors":["red"]},
+            {"id":19329, "colors":["blue"]},
+            {"id":19330, "colors":["green"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit55 / Mini Versailles", "text":"Desbloqueado en el Pack exclusivo\nMini Versailles"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19331, "zone":"torso", "category":"top", "security":"12a4d6304595d214", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corsé",
+        "outfitName":"Mini Versailles",
+        "variations":[
+            {"id":19331, "colors":["blue"]},
+            {"id":19332, "colors":["pink"]},
+            {"id":19333, "colors":["green"]},
+            {"id":19334, "colors":["purple"]},
+            {"id":19335, "colors":["yellow"]},
+            {"id":19336, "colors":["white"]},
+            {"id":19337, "colors":["black","grey"]},
+            {"id":19338, "colors":["red"]},
+            {"id":19339, "colors":["blue"]},
+            {"id":19340, "colors":["green"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit55 / Mini Versailles", "text":"Desbloqueado en el Pack exclusivo\nMini Versailles"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19341, "zone":"torso_waistToKnee", "category":"waist", "security":"aa91b4ce52659e37", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cesta",
+        "outfitName":"Mini Versailles",
+        "variations":[
+            {"id":19341, "colors":["white"]},
+            {"id":19342, "colors":["pink"]},
+            {"id":19343, "colors":["green"]},
+            {"id":19344, "colors":["purple"]},
+            {"id":19345, "colors":["yellow"]},
+            {"id":19346, "colors":["blue"]},
+            {"id":19347, "colors":["black","grey"]},
+            {"id":19348, "colors":["red"]},
+            {"id":19349, "colors":["blue"]},
+            {"id":19350, "colors":["green"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit55 / Mini Versailles", "text":"Desbloqueado en el Pack exclusivo\nMini Versailles"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19351, "zone":"head", "category":"hat", "security":"ffb8570048bdbec1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Mini Versailles",
+        "variations":[
+            {"id":19351, "colors":["blue"]},
+            {"id":19352, "colors":["pink"]},
+            {"id":19353, "colors":["green"]},
+            {"id":19354, "colors":["purple"]},
+            {"id":19355, "colors":["yellow"]},
+            {"id":19356, "colors":["white","blue"]},
+            {"id":19357, "colors":["black","grey"]},
+            {"id":19358, "colors":["red"]},
+            {"id":19359, "colors":["blue"]},
+            {"id":19360, "colors":["green"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit55 / Mini Versailles", "text":"Desbloqueado en el Pack exclusivo\nMini Versailles"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19361, "zone":"waistToKnee", "category":"pants", "security":"c050a5aca9c1b04c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Mini Punk Spirit",
+        "variations":[
+            {"id":19361, "colors":["black","red"]},
+            {"id":19362, "colors":["black","blue"]},
+            {"id":19363, "colors":["black","pink"]},
+            {"id":19364, "colors":["black","pink"]},
+            {"id":19365, "colors":["black","grey"]},
+            {"id":19366, "colors":["black","yellow"]},
+            {"id":19367, "colors":["black","green"]},
+            {"id":19368, "colors":["black"]},
+            {"id":19369, "colors":["black","white"]},
+            {"id":19370, "colors":["black","orange"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit46 / Mini Punk Spirit", "text":"Desbloqueado en el Pack exclusivo\nMini Punk Spirit"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19371, "zone":"torso_waistToKnee", "category":"waist", "security":"30c755d7b9fe7b06", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Arnés",
+        "outfitName":"Mini Punk Spirit",
+        "variations":[
+            {"id":19371, "colors":["black","silver"]},
+            {"id":19372, "colors":["white","golden"]},
+            {"id":19373, "colors":["blue","silver"]},
+            {"id":19374, "colors":["yellow","golden"]},
+            {"id":19375, "colors":["red","golden"]},
+            {"id":19376, "colors":["brown","golden"]},
+            {"id":19377, "colors":["grey","silver"]},
+            {"id":19378, "colors":["green","silver"]},
+            {"id":19379, "colors":["pink","golden"]},
+            {"id":19380, "colors":["purple","silver"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit46 / Mini Punk Spirit", "text":"Desbloqueado en el Pack exclusivo\nMini Punk Spirit"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19381, "zone":"head", "category":"wig", "security":"4fba8401cd2c0d74", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Mini Punk Spirit",
+        "variations":[
+            {"id":19381, "colors":["brown"]},
+            {"id":19382, "colors":["white"]},
+            {"id":19383, "colors":["black"]},
+            {"id":19384, "colors":["blue"]},
+            {"id":19385, "colors":["blue"]},
+            {"id":19386, "colors":["purple"]},
+            {"id":19387, "colors":["red"]},
+            {"id":19388, "colors":["yellow"]},
+            {"id":19389, "colors":["orange"]},
+            {"id":19390, "colors":["pink"]},
+            {"id":19391, "colors":["brown","yellow"]},
+            {"id":19392, "colors":["white","blue"]},
+            {"id":19393, "colors":["black","pink"]},
+            {"id":19394, "colors":["blue","orange"]},
+            {"id":19395, "colors":["blue","orange"]},
+            {"id":19396, "colors":["purple","green","pink"]},
+            {"id":19397, "colors":["red","yellow"]},
+            {"id":19398, "colors":["yellow"]},
+            {"id":19399, "colors":["orange","blue","pink"]},
+            {"id":19400, "colors":["pink","orange"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit46 / Mini Punk Spirit", "text":"Desbloqueado en el Pack exclusivo\nMini Punk Spirit"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19401, "zone":"torso", "category":"top", "security":"aed8f85cb62b9cc8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Mini Gentlewoman",
+        "variations":[
+            {"id":19401, "colors":["white"]},
+            {"id":19402, "colors":["black"]},
+            {"id":19403, "colors":["blue"]},
+            {"id":19404, "colors":["red"]},
+            {"id":19405, "colors":["yellow"]},
+            {"id":19406, "colors":["green"]},
+            {"id":19407, "colors":["purple"]},
+            {"id":19408, "colors":["pink"]},
+            {"id":19409, "colors":["brown"]},
+            {"id":19410, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit47 / Mini Gentlewoman", "text":"Desbloqueado en el Pack exclusivo\nMini Gentlewoman"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19411, "zone":"waistToKnee", "category":"pants", "security":"60cca59108fbde99", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Mini Gentlewoman",
+        "variations":[
+            {"id":19411, "colors":["black"]},
+            {"id":19412, "colors":["red"]},
+            {"id":19413, "colors":["white"]},
+            {"id":19414, "colors":["blue"]},
+            {"id":19415, "colors":["green"]},
+            {"id":19416, "colors":["brown"]},
+            {"id":19417, "colors":["pink"]},
+            {"id":19418, "colors":["yellow"]},
+            {"id":19419, "colors":["purple"]},
+            {"id":19420, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit47 / Mini Gentlewoman", "text":"Desbloqueado en el Pack exclusivo\nMini Gentlewoman"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19421, "zone":"head", "category":"faceAccessory", "security":"8e38384ec60c337b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Parche del ojo",
+        "outfitName":"Mini Gentlewoman",
+        "variations":[
+            {"id":19421, "colors":["golden","red"]},
+            {"id":19422, "colors":["black","blue"]},
+            {"id":19423, "colors":["white"]},
+            {"id":19424, "colors":["green","black"]},
+            {"id":19425, "colors":["brown","purple"]},
+            {"id":19426, "colors":["orange","blue"]},
+            {"id":19427, "colors":["silver","green"]},
+            {"id":19428, "colors":["golden","brown"]},
+            {"id":19429, "colors":["purple","pink"]},
+            {"id":19430, "colors":["pink","yellow"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit47 / Mini Gentlewoman", "text":"Desbloqueado en el Pack exclusivo\nMini Gentlewoman"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19431, "zone":"torso", "category":"top", "security":"2b3de7002457b53e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Mini Star Puffs",
+        "variations":[
+            {"id":19431, "colors":["blue"]},
+            {"id":19432, "colors":["blue"]},
+            {"id":19433, "colors":["purple"]},
+            {"id":19434, "colors":["pink"]},
+            {"id":19435, "colors":["yellow"]},
+            {"id":19436, "colors":["black"]},
+            {"id":19437, "colors":["white"]},
+            {"id":19438, "colors":["green"]},
+            {"id":19439, "colors":["red"]},
+            {"id":19440, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit49 / Mini Star Puffs", "text":"Desbloqueado en el Pack exclusivo\nMini Star Puffs"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19441, "zone":"torso_waistToKnee", "category":"waist", "security":"39326b1122e39adc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Mini Star Puffs",
+        "variations":[
+            {"id":19441, "colors":["golden"]},
+            {"id":19442, "colors":["pink"]},
+            {"id":19443, "colors":["green"]},
+            {"id":19444, "colors":["white"]},
+            {"id":19445, "colors":["brown"]},
+            {"id":19446, "colors":["silver"]},
+            {"id":19447, "colors":["blue"]},
+            {"id":19448, "colors":["black"]},
+            {"id":19449, "colors":["yellow"]},
+            {"id":19450, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit49 / Mini Star Puffs", "text":"Desbloqueado en el Pack exclusivo\nMini Star Puffs"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19451, "zone":"head", "category":"wig", "security":"050b7ec0bb59e83b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Mini Star Puffs",
+        "variations":[
+            {"id":19451, "colors":["brown"]},
+            {"id":19452, "colors":["white"]},
+            {"id":19453, "colors":["black"]},
+            {"id":19454, "colors":["blue"]},
+            {"id":19455, "colors":["blue"]},
+            {"id":19456, "colors":["purple"]},
+            {"id":19457, "colors":["red"]},
+            {"id":19458, "colors":["yellow"]},
+            {"id":19459, "colors":["orange"]},
+            {"id":19460, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit49 / Mini Star Puffs", "text":"Desbloqueado en el Pack exclusivo\nMini Star Puffs"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19461, "zone":"head", "category":"faceAccessory", "security":"a7aef959a8a2c9e0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas",
+        "outfitName":"Mini Star Puffs",
+        "variations":[
+            {"id":19461, "colors":["yellow","orange"]},
+            {"id":19462, "colors":["pink","blue"]},
+            {"id":19463, "colors":["green","blue"]},
+            {"id":19464, "colors":["white","grey"]},
+            {"id":19465, "colors":["black","brown"]},
+            {"id":19466, "colors":["red","orange"]},
+            {"id":19467, "colors":["blue","white"]},
+            {"id":19468, "colors":["black","red"]},
+            {"id":19469, "colors":["yellow","green"]},
+            {"id":19470, "colors":["purple","orange"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit49 / Mini Star Puffs", "text":"Desbloqueado en el Pack exclusivo\nMini Star Puffs"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19471, "zone":"head", "category":"hat", "security":"bc22f8b7d5719041", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hennin",
+        "outfitName":"Mini Fin'amor",
+        "variations":[
+            {"id":19471, "colors":["pink","golden"]},
+            {"id":19472, "colors":["red","golden"]},
+            {"id":19473, "colors":["silver","blue"]},
+            {"id":19474, "colors":["green","golden"]},
+            {"id":19475, "colors":["yellow","silver"]},
+            {"id":19476, "colors":["blue","golden"]},
+            {"id":19477, "colors":["silver","purple"]},
+            {"id":19478, "colors":["silver","brown"]},
+            {"id":19479, "colors":["silver","white","blue"]},
+            {"id":19480, "colors":["black","golden"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit54 / Mini Fin'amor", "text":"Desbloqueado en el Pack exclusivo\nMini Fin'amor"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19481, "zone":"waistToKnee", "category":"skirt", "security":"ea861be44e9fd1bb", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Mini Fin'amor",
+        "variations":[
+            {"id":19481, "colors":["pink","golden"]},
+            {"id":19482, "colors":["red","golden"]},
+            {"id":19483, "colors":["silver","blue"]},
+            {"id":19484, "colors":["green","golden"]},
+            {"id":19485, "colors":["yellow","silver"]},
+            {"id":19486, "colors":["blue","golden"]},
+            {"id":19487, "colors":["silver","purple"]},
+            {"id":19488, "colors":["silver","brown"]},
+            {"id":19489, "colors":["silver","white","blue"]},
+            {"id":19490, "colors":["black","golden"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit54 / Mini Fin'amor", "text":"Desbloqueado en el Pack exclusivo\nMini Fin'amor"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19491, "zone":"torso", "category":"top", "security":"7ffcd35ecdc3413c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Mini Fin'amor",
+        "variations":[
+            {"id":19491, "colors":["pink","golden"]},
+            {"id":19492, "colors":["red","golden"]},
+            {"id":19493, "colors":["silver","blue"]},
+            {"id":19494, "colors":["green","golden"]},
+            {"id":19495, "colors":["yellow","silver"]},
+            {"id":19496, "colors":["blue","golden"]},
+            {"id":19497, "colors":["silver","purple"]},
+            {"id":19498, "colors":["silver","brown"]},
+            {"id":19499, "colors":["silver","white","blue"]},
+            {"id":19500, "colors":["black","golden"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit54 / Mini Fin'amor", "text":"Desbloqueado en el Pack exclusivo\nMini Fin'amor"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19501, "zone":"feet", "category":"shoes", "security":"a7516d82ff5d2c1a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Mini Fin'amor",
+        "variations":[
+            {"id":19501, "colors":["pink","golden"]},
+            {"id":19502, "colors":["red","golden"]},
+            {"id":19503, "colors":["silver","blue"]},
+            {"id":19504, "colors":["green","golden"]},
+            {"id":19505, "colors":["yellow","silver"]},
+            {"id":19506, "colors":["blue","golden"]},
+            {"id":19507, "colors":["silver","purple"]},
+            {"id":19508, "colors":["silver","brown"]},
+            {"id":19509, "colors":["silver","white","blue"]},
+            {"id":19510, "colors":["black","golden"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit54 / Mini Fin'amor", "text":"Desbloqueado en el Pack exclusivo\nMini Fin'amor"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19511, "zone":"head", "category":"faceAccessory", "security":"579d8676e3f26ae4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mariposa",
+        "outfitName":"Butterflies",
+        "variations":[
+            {"id":19512, "colors":["blue"]},
+            {"id":19511, "colors":["orange","brown"], "variationNumber":2},
+            {"id":19513, "colors":["red","black"], "variationNumber":3},
+            {"id":19514, "colors":["blue","black"], "variationNumber":4},
+            {"id":19515, "colors":["purple","blue"], "variationNumber":5},
+            {"id":19516, "colors":["orange","pink"], "variationNumber":6},
+            {"id":19517, "colors":["blue","white"], "variationNumber":7},
+            {"id":19518, "colors":["green","blue"], "variationNumber":8},
+            {"id":19519, "colors":["brown","red"], "variationNumber":9},
+            {"id":19520, "colors":["pink","yellow"], "variationNumber":10}
+        ], "criteria":{"type":"pack","info":"mini_mkt08 / Butterflies","text":"Desbloqueado en el Pack exclusivo\nButterflies"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19521, "zone":"face", "category":"makeup", "security":"8f0c93fda6efa78a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maquillaje",
+        "outfitName":"Galaxy",
+        "variations":[
+            {"id":19521, "colors":["blue"]},
+            {"id":19522, "colors":["blue"]},
+            {"id":19523, "colors":["purple"]},
+            {"id":19524, "colors":["pink"]},
+            {"id":19525, "colors":["red"]},
+            {"id":19526, "colors":["orange"]},
+            {"id":19527, "colors":["yellow","golden"]},
+            {"id":19528, "colors":["green"]},
+            {"id":19529, "colors":["blue","white"]},
+            {"id":19530, "colors":["black"]}
+        ], "criteria":{"type":"pack","info":"mini_mkt11 / Galaxy","text":"Desbloqueado en el Pack exclusivo\nGalaxy"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19531, "zone":"face", "category":"makeup", "security":"b15f562d584558ea", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maquillaje",
+        "outfitName":"Cyber",
+        "variations":[
+            {"id":19531, "colors":["purple","blue"]},
+            {"id":19532, "colors":["green","blue"]},
+            {"id":19533, "colors":["yellow"]},
+            {"id":19534, "colors":["pink"]},
+            {"id":19535, "colors":["purple"]},
+            {"id":19536, "colors":["red"]},
+            {"id":19537, "colors":["white"]},
+            {"id":19538, "colors":["orange"]},
+            {"id":19539, "colors":["black"]},
+            {"id":19540, "colors":["grey"]}
+        ], "criteria":{"type":"pack","info":"mini_mkt09 / Cyber","text":"Desbloqueado en el Pack exclusivo\nCyber"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19541, "zone":"waistToKnee", "category":"pants", "security":"f6ab1954c4e27302", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Mini Spring Lace",
+        "variations":[
+            {"id":19542, "colors":["blue"]},
+            {"id":19543, "colors":["red"], "variationNumber":2},
+            {"id":19544, "colors":["blue"], "variationNumber":3},
+            {"id":19545, "colors":["pink"], "variationNumber":4},
+            {"id":19546, "colors":["green"], "variationNumber":5},
+            {"id":19547, "colors":["black"], "variationNumber":6},
+            {"id":19548, "colors":["purple"], "variationNumber":7},
+            {"id":19549, "colors":["white"], "variationNumber":8},
+            {"id":19550, "colors":["brown","orange"], "variationNumber":9},
+            {"id":19541, "colors":["yellow"], "variationNumber":10}
+        ], "criteria":{"type":"pack", "info":"mini_outfit50 / Mini Spring Lace", "text":"Desbloqueado en el Pack exclusivo\nMini Spring Lace"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19551, "zone":"torso", "category":"top", "security":"b112d17c2808bff1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Mini Spring Lace",
+        "variations":[
+            {"id":19551, "colors":["white"]},
+            {"id":19552, "colors":["black"]},
+            {"id":19553, "colors":["pink"]},
+            {"id":19554, "colors":["yellow"]},
+            {"id":19555, "colors":["purple"]},
+            {"id":19556, "colors":["red"]},
+            {"id":19557, "colors":["blue"]},
+            {"id":19558, "colors":["brown"]},
+            {"id":19559, "colors":["green"]},
+            {"id":19560, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit50 / Mini Spring Lace", "text":"Desbloqueado en el Pack exclusivo\nMini Spring Lace"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19561, "zone":"head", "category":"hat", "security":"60759eda481d6b2a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bandana",
+        "outfitName":"Mini Spring Lace",
+        "variations":[
+            {"id":19561, "colors":["white"]},
+            {"id":19562, "colors":["black"]},
+            {"id":19563, "colors":["pink"]},
+            {"id":19564, "colors":["yellow"]},
+            {"id":19565, "colors":["purple"]},
+            {"id":19566, "colors":["red"]},
+            {"id":19567, "colors":["blue"]},
+            {"id":19568, "colors":["brown"]},
+            {"id":19569, "colors":["green"]},
+            {"id":19570, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit50 / Mini Spring Lace", "text":"Desbloqueado en el Pack exclusivo\nMini Spring Lace"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19571, "zone":"torso_waistToKnee", "category":"dress", "security":"0ae70203438293f5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Mini Tennis Court",
+        "variations":[
+            {"id":19571, "colors":["blue"]},
+            {"id":19572, "colors":["red"]},
+            {"id":19573, "colors":["pink"]},
+            {"id":19574, "colors":["orange"]},
+            {"id":19575, "colors":["yellow"]},
+            {"id":19576, "colors":["green"]},
+            {"id":19577, "colors":["white"]},
+            {"id":19578, "colors":["black"]},
+            {"id":19579, "colors":["brown"]},
+            {"id":19580, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit52 / Mini Tennis Court", "text":"Desbloqueado en el Pack exclusivo\nMini Tennis Court"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19581, "zone":"arms", "category":"bag", "security":"47492cbc93169691", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Raqueta",
+        "outfitName":"Mini Tennis Court",
+        "variations":[
+            {"id":19581, "colors":["black","white"]},
+            {"id":19582, "colors":["black"]},
+            {"id":19583, "colors":["blue"]},
+            {"id":19584, "colors":["yellow"]},
+            {"id":19585, "colors":["pink"]},
+            {"id":19586, "colors":["orange"]},
+            {"id":19587, "colors":["purple"]},
+            {"id":19588, "colors":["red"]},
+            {"id":19589, "colors":["green"]},
+            {"id":19590, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit52 / Mini Tennis Court", "text":"Desbloqueado en el Pack exclusivo\nMini Tennis Court"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19591, "zone":"arms", "category":"armAccessory", "security":"80a2519cde9f49e4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Mini Tennis Court",
+        "variations":[
+            {"id":19591, "colors":["blue"]},
+            {"id":19592, "colors":["red"]},
+            {"id":19593, "colors":["pink"]},
+            {"id":19594, "colors":["orange"]},
+            {"id":19595, "colors":["yellow"]},
+            {"id":19596, "colors":["green"]},
+            {"id":19597, "colors":["white"]},
+            {"id":19598, "colors":["black"]},
+            {"id":19599, "colors":["brown"]},
+            {"id":19600, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit52 / Mini Tennis Court", "text":"Desbloqueado en el Pack exclusivo\nMini Tennis Court"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19601, "zone":"head", "category":"hat", "security":"ff7ce8bb122aea1b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Visera",
+        "outfitName":"Mini Tennis Court",
+        "variations":[
+            {"id":19601, "colors":["blue"]},
+            {"id":19602, "colors":["red"]},
+            {"id":19603, "colors":["pink"]},
+            {"id":19604, "colors":["orange"]},
+            {"id":19605, "colors":["yellow"]},
+            {"id":19606, "colors":["green"]},
+            {"id":19607, "colors":["white"]},
+            {"id":19608, "colors":["black"]},
+            {"id":19609, "colors":["brown"]},
+            {"id":19610, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit52 / Mini Tennis Court", "text":"Desbloqueado en el Pack exclusivo\nMini Tennis Court"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19611, "zone":"head", "category":"hat", "security":"f0db414d232be1aa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gorro",
+        "outfitName":"Mini King's Jester",
+        "variations":[
+            {"id":19611, "colors":["white","red","golden"]},
+            {"id":19612, "colors":["purple","pink","golden"]},
+            {"id":19613, "colors":["blue","pink","golden"]},
+            {"id":19614, "colors":["white","yellow","golden"]},
+            {"id":19615, "colors":["white","blue","silver"]},
+            {"id":19616, "colors":["white","black","silver"]},
+            {"id":19617, "colors":["blue","green","silver"]},
+            {"id":19618, "colors":["pink","silver"]},
+            {"id":19619, "colors":["red","blue","golden"]},
+            {"id":19620, "colors":["white","grey","silver"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit65 / Mini King's Jester", "text":"Desbloqueado en el Pack exclusivo\nMini King's Jester"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19621, "zone":"face", "category":"neckAccessory", "security":"2ddddd7fc52eeef4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Mini King's Jester",
+        "variations":[
+            {"id":19621, "colors":["white","red","golden"]},
+            {"id":19622, "colors":["purple","pink","golden"]},
+            {"id":19623, "colors":["blue","pink","golden"]},
+            {"id":19624, "colors":["white","yellow","golden"]},
+            {"id":19625, "colors":["white","blue","silver"]},
+            {"id":19626, "colors":["white","black","silver"]},
+            {"id":19627, "colors":["green","blue","silver"]},
+            {"id":19628, "colors":["pink","silver"]},
+            {"id":19629, "colors":["red","blue","golden"]},
+            {"id":19630, "colors":["white","grey","silver"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit65 / Mini King's Jester", "text":"Desbloqueado en el Pack exclusivo\nMini King's Jester"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19631, "zone":"torso", "category":"top", "security":"dfce57362ed065b1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corsé",
+        "outfitName":"Mini King's Jester",
+        "variations":[
+            {"id":19631, "colors":["white","red","golden"]},
+            {"id":19632, "colors":["purple","pink","golden"]},
+            {"id":19633, "colors":["blue","pink","golden"]},
+            {"id":19634, "colors":["white","yellow","golden"]},
+            {"id":19635, "colors":["white","blue","silver"]},
+            {"id":19636, "colors":["white","black","silver"]},
+            {"id":19637, "colors":["green","blue","silver"]},
+            {"id":19638, "colors":["pink","silver"]},
+            {"id":19639, "colors":["red","blue","golden"]},
+            {"id":19640, "colors":["white","grey","silver"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit65 / Mini King's Jester", "text":"Desbloqueado en el Pack exclusivo\nMini King's Jester"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19641, "zone":"arms", "category":"bag", "security":"7482347f6d30fbd7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Balón",
+        "outfitName":"Mini Slam Dunk",
+        "variations":[
+            {"id":19641, "colors":["orange","black"]},
+            {"id":19642, "colors":["white","yellow"]},
+            {"id":19643, "colors":["green","orange"]},
+            {"id":19644, "colors":["blue","yellow"]},
+            {"id":19645, "colors":["blue","white"]},
+            {"id":19646, "colors":["black","red"]},
+            {"id":19647, "colors":["white","grey"]},
+            {"id":19648, "colors":["pink","black"]},
+            {"id":19649, "colors":["yellow","purple"]},
+            {"id":19650, "colors":["pink","white"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit69 / Mini Slam Dunk", "text":"Desbloqueado en el Pack exclusivo\nMini Slam Dunk"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19651, "zone":"torso", "category":"top", "security":"0e41d4976593960c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Mini Slam Dunk",
+        "variations":[
+            {"id":19651, "colors":["red"]},
+            {"id":19652, "colors":["yellow"]},
+            {"id":19653, "colors":["green"]},
+            {"id":19654, "colors":["blue"]},
+            {"id":19655, "colors":["blue"]},
+            {"id":19656, "colors":["black"]},
+            {"id":19657, "colors":["orange"]},
+            {"id":19658, "colors":["pink"]},
+            {"id":19659, "colors":["purple"]},
+            {"id":19660, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit69 / Mini Slam Dunk", "text":"Desbloqueado en el Pack exclusivo\nMini Slam Dunk"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19661, "zone":"arms", "category":"gloves", "security":"a6f2fcadbc14110f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Mini Slam Dunk",
+        "variations":[
+            {"id":19661, "colors":["red"]},
+            {"id":19662, "colors":["yellow"]},
+            {"id":19663, "colors":["green"]},
+            {"id":19664, "colors":["blue"]},
+            {"id":19665, "colors":["blue"]},
+            {"id":19666, "colors":["black"]},
+            {"id":19667, "colors":["orange"]},
+            {"id":19668, "colors":["pink"]},
+            {"id":19669, "colors":["purple"]},
+            {"id":19670, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit69 / Mini Slam Dunk", "text":"Desbloqueado en el Pack exclusivo\nMini Slam Dunk"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19671, "zone":"waistToKnee", "category":"pants", "security":"072fef76e550d6d4", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Short",
+        "outfitName":"Mini Slam Dunk",
+        "variations":[
+            {"id":19671, "colors":["red"]},
+            {"id":19672, "colors":["yellow"]},
+            {"id":19673, "colors":["green"]},
+            {"id":19674, "colors":["blue"]},
+            {"id":19675, "colors":["blue"]},
+            {"id":19676, "colors":["black"]},
+            {"id":19677, "colors":["orange"]},
+            {"id":19678, "colors":["pink"]},
+            {"id":19679, "colors":["purple"]},
+            {"id":19680, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit69 / Mini Slam Dunk", "text":"Desbloqueado en el Pack exclusivo\nMini Slam Dunk"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19681, "zone":"torso", "category":"top", "security":"1b79ea213b1ca174", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jersey",
+        "outfitName":"Mini Pastel Goth",
+        "variations":[
+            {"id":19682, "colors":["green","purple"]},
+            {"id":19683, "colors":["pink","black"], "variationNumber":2},
+            {"id":19684, "colors":["grey","black"], "variationNumber":3},
+            {"id":19685, "colors":["yellow","orange"], "variationNumber":4},
+            {"id":19686, "colors":["black","white"], "variationNumber":5},
+            {"id":19687, "colors":["green","purple"], "variationNumber":6},
+            {"id":19681, "colors":["red","blue"], "variationNumber":7},
+            {"id":19688, "colors":["black","brown"], "variationNumber":8},
+            {"id":19689, "colors":["yellow","blue"], "variationNumber":9},
+            {"id":19690, "colors":["pink","blue"], "variationNumber":10}
+        ], "criteria":{"type":"pack", "info":"mini_outfit48 / Mini Pastel Goth", "text":"Desbloqueado en el Pack exclusivo\nMini Pastel Goth"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19691, "zone":"arms", "category":"bag", "security":"1344af412d951b22", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Mini Pastel Goth",
+        "variations":[
+            {"id":19691, "colors":["black","purple"]},
+            {"id":19692, "colors":["green","pink"]},
+            {"id":19693, "colors":["grey","black"]},
+            {"id":19694, "colors":["yellow","orange"]},
+            {"id":19695, "colors":["white","blue"]},
+            {"id":19696, "colors":["purple","green"]},
+            {"id":19697, "colors":["red","blue"]},
+            {"id":19698, "colors":["brown"]},
+            {"id":19699, "colors":["blue","yellow"]},
+            {"id":19700, "colors":["pink","white"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit48 / Mini Pastel Goth", "text":"Desbloqueado en el Pack exclusivo\nMini Pastel Goth"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19701, "zone":"head", "category":"wig", "security":"5ba3ed0f4af036b0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Mini Pastel Goth",
+        "variations":[
+            {"id":19701, "colors":["purple","pink"]},
+            {"id":19702, "colors":["green","pink"]},
+            {"id":19703, "colors":["black","grey"]},
+            {"id":19704, "colors":["orange","yellow"]},
+            {"id":19705, "colors":["black","white"]},
+            {"id":19706, "colors":["purple","green"]},
+            {"id":19707, "colors":["red","white"]},
+            {"id":19708, "colors":["brown","orange"]},
+            {"id":19709, "colors":["yellow","blue"]},
+            {"id":19710, "colors":["pink","blue"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit48 / Mini Pastel Goth", "text":"Desbloqueado en el Pack exclusivo\nMini Pastel Goth"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19711, "zone":"head", "category":"hat", "security":"c64d87101ad5e802", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Prendedores",
+        "outfitName":"Mini Pastel Goth",
+        "variations":[
+            {"id":19711, "colors":["multi"]},
+            {"id":19712, "colors":["multi"]},
+            {"id":19713, "colors":["white","grey"]},
+            {"id":19714, "colors":["yellow","orange"]},
+            {"id":19715, "colors":["black","white"]},
+            {"id":19716, "colors":["green","pink"]},
+            {"id":19717, "colors":["blue","red"]},
+            {"id":19718, "colors":["orange","brown"]},
+            {"id":19719, "colors":["yellow","blue"]},
+            {"id":19720, "colors":["pink","blue"]}
+        ], "criteria":{"type":"pack", "info":"mini_outfit48 / Mini Pastel Goth", "text":"Desbloqueado en el Pack exclusivo\nMini Pastel Goth"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19721, "zone":"face", "category":"makeup", "security":"94e8206ca6187615", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Estrellas",
+        "outfitName":"Starside",
+        "variations":[
+            {"id":19721, "colors":["pink"]},
+            {"id":19722, "colors":["red"]},
+            {"id":19723, "colors":["purple"]},
+            {"id":19724, "colors":["blue"]},
+            {"id":19725, "colors":["golden"]},
+            {"id":19726, "colors":["silver"]},
+            {"id":19727, "colors":["black"]},
+            {"id":19728, "colors":["green"]},
+            {"id":19729, "colors":["blue"]},
+            {"id":19730, "colors":["brown"]}
+        ], "criteria":{"type":"pack","info":"mini_mkt12 / Starside","text":"Desbloqueado en el Pack exclusivo\nStarside"},
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19731, "zone":"head", "category":"faceAccessory", "security":"d254aa3f75a9da7f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piercings",
+        "outfitName":"Studs",
+        "variations":[
+            {"id":19740, "colors":["grey","silver"]},
+            {"id":19732, "colors":["golden","yellow"], "variationNumber":2},
+            {"id":19733, "colors":["blue"], "variationNumber":3},
+            {"id":19734, "colors":["green"], "variationNumber":4},
+            {"id":19735, "colors":["pink"], "variationNumber":5},
+            {"id":19736, "colors":["black"], "variationNumber":6},
+            {"id":19737, "colors":["purple"], "variationNumber":7},
+            {"id":19738, "colors":["red"], "variationNumber":8},
+            {"id":19739, "colors":["golden","orange"], "variationNumber":9},
+            {"id":19731, "colors":["white"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-11-04"
     }
 ]

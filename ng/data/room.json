@@ -4164,5 +4164,46 @@
         "name":"Mesa",
         "roomName":"It's Alive !",
         "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"}
+    },
+
+    {
+        "id":645, "roomId":129, "slot":"background", "releaseDate":"2026-10-28", "light":true, "security":"081e393ca181404b",
+        "name":"Paredes",
+        "roomName":"Hygge Haven",
+        "criteria":{"type":"calendar", "info":"2026-32", "text":"Desbloqueado en el calendario\nN°32 - 2026"},
+        "backgroundColors":{
+            "day":{"color1":"E8FAF1","color2":"CBB5AC","colorLight":"AE9E20"},
+            "night":{"color1":"71B1EA","color2":"9FA2B0","colorLight":"00E1FF"}
+        }
+    },
+    {
+        "id":646, "roomId":129, "slot":"slot1", "releaseDate":"2026-10-28", "light":true, "security":"00c7ce122d8a8bed",
+        "name":"Baño",
+        "roomName":"Hygge Haven",
+        "criteria":{"type":"calendar", "info":"2026-32", "text":"Desbloqueado en el calendario\nN°32 - 2026"}
+    },
+    {
+        "id":647, "roomId":129, "slot":"slot2", "releaseDate":"2026-10-28", "light":true, "security":"60fd7e60bfb87063",
+        "name":"Cama",
+        "roomName":"Hygge Haven",
+        "criteria":{"type":"calendar", "info":"2026-32", "text":"Desbloqueado en el calendario\nN°32 - 2026"}
+    },
+    {
+        "id":648, "roomId":129, "slot":"slot3", "releaseDate":"2026-10-28", "light":true, "security":"72cfff87bc60ef37",
+        "name":"Sillón",
+        "roomName":"Hygge Haven",
+        "criteria":{"type":"calendar", "info":"2026-32", "text":"Desbloqueado en el calendario\nN°32 - 2026"}
+    },
+    {
+        "id":649, "roomId":129, "slot":"slot4", "releaseDate":"2026-10-28", "light":true, "security":"1e82573ad8d702b6",
+        "name":"Chimenea",
+        "roomName":"Hygge Haven",
+        "criteria":{"type":"calendar", "info":"2026-32", "text":"Desbloqueado en el calendario\nN°32 - 2026"}
+    },
+    {
+        "id":650, "roomId":129, "slot":"slot5", "releaseDate":"2026-10-28", "light":false, "security":"1252bf8a224475de",
+        "name":"Banqueta",
+        "roomName":"Hygge Haven",
+        "criteria":{"type":"calendar", "info":"2026-32", "text":"Desbloqueado en el calendario\nN°32 - 2026"}
     }
 ]

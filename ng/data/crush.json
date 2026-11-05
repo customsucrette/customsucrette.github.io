@@ -174,12 +174,16 @@
     {"id":423, "crushName":"Devon", "security":"a188763d0dca2f7c", "info":"Devon_Wet_Summer26"},
 
     {"id":426, "crushName":"Roy", "security":"6dd17876d45424e2", "info":"Roy_HW26"},
+    {"id":427, "crushName":"Roy", "security":"963cb42560417eac", "info":"Roy_shirtless_HW26"},
 
     {"id":429, "crushName":"Amanda", "security":"f4b08c41a0ff7243", "info":"Amanda_HW26"},
+    {"id":430, "crushName":"Amanda", "security":"5eade556238e2dc2", "info":"Amanda_shirtless_HW26"},
 
     {"id":434, "crushName":"Jason", "security":"1901b2fdf7b3ab47", "info":"Jason_HW26"},
-
+    {"id":435, "crushName":"Jason", "security":"acf0d89cafbba4d2", "info":"Jason_shirtless_HW26"},
     {"id":436, "crushName":"Devon", "security":"ff2005bee994fb9b", "info":"Devon_HW26"},
+    {"id":437, "crushName":"Devon", "security":"fa802ea1ca3095ea", "info":"Devon_shirtless_HW26"},
 
-    {"id":438, "crushName":"Thomas", "security":"ac3215def43dfe6b", "info":"Thomas_HW26"}
+    {"id":438, "crushName":"Thomas", "security":"ac3215def43dfe6b", "info":"Thomas_HW26"},
+    {"id":439, "crushName":"Thomas", "security":"5b6ea43dd70e7562", "info":"Thomas_shirtless_HW26"}
 ]
