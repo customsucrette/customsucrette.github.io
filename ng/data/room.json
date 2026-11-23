@@ -4205,5 +4205,45 @@
         "name":"Banqueta",
         "roomName":"Hygge Haven",
         "criteria":{"type":"calendar", "info":"2026-32", "text":"Desbloqueado en el calendario\nN°32 - 2026"}
+    },
+    {
+        "id":651, "roomId":130, "slot":"background", "releaseDate":"2026-11-18", "light":true, "security":"f1f5a3b605fdf21e",
+        "name":"Paredes",
+        "roomName":"Desert Sanctuary",
+        "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+        "backgroundColors":{
+            "day":{"color1":"FBE6CC","color2":"ECC7C0","colorLight":"AE6920"},
+            "night":{"color1":"FFB165","color2":"8F4D55","colorLight":"A42C07"}
+        }
+    },
+    {
+        "id":652, "roomId":130, "slot":"slot1", "releaseDate":"2026-11-18", "light":true, "security":"6968eb18989f57e0",
+        "name":"Cama",
+        "roomName":"Desert Sanctuary",
+        "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"}
+    },
+    {
+        "id":653, "roomId":130, "slot":"slot2", "releaseDate":"2026-11-18", "light":true, "security":"6eec7da3ec9bb8d2",
+        "name":"Estanque",
+        "roomName":"Desert Sanctuary",
+        "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"}
+    },
+    {
+        "id":654, "roomId":130, "slot":"slot3", "releaseDate":"2026-11-18", "light":true, "security":"ffbae0488875e190",
+        "name":"Globos",
+        "roomName":"Desert Sanctuary",
+        "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"}
+    },
+    {
+        "id":655, "roomId":130, "slot":"slot4", "releaseDate":"2026-11-18", "light":true, "security":"19b878ca803f32cb",
+        "name":"Estatua",
+        "roomName":"Desert Sanctuary",
+        "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"}
+    },
+    {
+        "id":656, "roomId":130, "slot":"slot5", "releaseDate":"2026-11-18", "light":true, "security":"814a7fa9f8ce7f98",
+        "name":"Arena",
+        "roomName":"Desert Sanctuary",
+        "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"}
     }
 ]

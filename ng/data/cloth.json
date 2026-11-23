@@ -33480,5 +33480,167 @@
             {"id":19731, "colors":["white"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19741, "zone":"face", "category":"makeup", "security":"9d0ccff7602e2919", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuajes",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19741, "colors":["blue"]},
+            {"id":19742, "colors":["green"]},
+            {"id":19743, "colors":["purple"]},
+            {"id":19744, "colors":["pink"]},
+            {"id":19745, "colors":["brown"]},
+            {"id":19746, "colors":["brown"]},
+            {"id":19747, "colors":["yellow"]},
+            {"id":19748, "colors":["red"]},
+            {"id":19749, "colors":["white"]},
+            {"id":19750, "colors":["black"]}
+        ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+        "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19751, "zone":"head", "category":"faceAccessory", "security":"e5f7cfb2e2fd3f75", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Accesorio",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19751, "colors":["black"]},
+            {"id":19752, "colors":["orange"]},
+            {"id":19753, "colors":["blue"]},
+            {"id":19754, "colors":["pink"]},
+            {"id":19755, "colors":["purple"]},
+            {"id":19756, "colors":["yellow","golden"]},
+            {"id":19757, "colors":["red"]},
+            {"id":19758, "colors":["silver","grey"]},
+            {"id":19759, "colors":["green"]},
+            {"id":19760, "colors":["white"]}
+        ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+        "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19761, "zone":"torso_waistToKnee", "category":"dress", "security":"2b1d636f2aea5769", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19761, "colors":["brown","yellow"]},
+            {"id":19762, "colors":["green"]},
+            {"id":19763, "colors":["purple"]},
+            {"id":19764, "colors":["pink"]},
+            {"id":19765, "colors":["blue","green"]},
+            {"id":19766, "colors":["blue"]},
+            {"id":19767, "colors":["orange"]},
+            {"id":19768, "colors":["red"]},
+            {"id":19769, "colors":["white"]},
+            {"id":19770, "colors":["black"]}
+        ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+        "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19771, "zone":"torso_waistToKnee", "category":"waist", "security":"f789d69ac15cdcf1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19771, "colors":["yellow","golden"]},
+            {"id":19772, "colors":["orange"]},
+            {"id":19773, "colors":["blue"]},
+            {"id":19774, "colors":["pink"]},
+            {"id":19775, "colors":["purple"]},
+            {"id":19776, "colors":["black"]},
+            {"id":19777, "colors":["red"]},
+            {"id":19778, "colors":["silver","grey"]},
+            {"id":19779, "colors":["green"]},
+            {"id":19780, "colors":["white"]}
+        ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+        "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19781, "zone":"head", "category":"wig", "security":"2926ddbe7a0d7df5", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19781, "colors":["brown"]},
+            {"id":19782, "colors":["white"]},
+            {"id":19783, "colors":["black"]},
+            {"id":19784, "colors":["blue"]},
+            {"id":19785, "colors":["blue"]},
+            {"id":19786, "colors":["purple"]},
+            {"id":19787, "colors":["red"]},
+            {"id":19788, "colors":["yellow"]},
+            {"id":19789, "colors":["orange"]},
+            {"id":19790, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+        "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19791, "zone":"head", "category":"faceAccessory", "security":"a61e3a7c6df8954f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Joya",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19791, "colors":["yellow","golden"]},
+            {"id":19792, "colors":["orange"]},
+            {"id":19793, "colors":["blue"]},
+            {"id":19794, "colors":["pink"]},
+            {"id":19795, "colors":["purple"]},
+            {"id":19796, "colors":["black"]},
+            {"id":19797, "colors":["red"]},
+            {"id":19798, "colors":["silver","grey"]},
+            {"id":19799, "colors":["green"]},
+            {"id":19800, "colors":["white"]}
+        ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+        "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19801, "zone":"head", "category":"hat", "security":"d587313ca2cd0f9e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Capucha",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19801, "colors":["brown","yellow"]},
+            {"id":19802, "colors":["green"]},
+            {"id":19803, "colors":["purple"]},
+            {"id":19804, "colors":["pink"]},
+            {"id":19805, "colors":["blue","green"]},
+            {"id":19806, "colors":["blue"]},
+            {"id":19807, "colors":["orange"]},
+            {"id":19808, "colors":["red"]},
+            {"id":19809, "colors":["white"]},
+            {"id":19810, "colors":["black"]}
+        ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+        "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19811, "zone":"head", "category":"hat", "security":"bee192464b3d9472", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Velo",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19811, "colors":["brown"]},
+            {"id":19812, "colors":["green"]},
+            {"id":19813, "colors":["purple"]},
+            {"id":19814, "colors":["pink"]},
+            {"id":19815, "colors":["blue","green"]},
+            {"id":19816, "colors":["blue"]},
+            {"id":19817, "colors":["yellow"]},
+            {"id":19818, "colors":["red"]},
+            {"id":19819, "colors":["white"]},
+            {"id":19820, "colors":["black"]}
+        ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+        "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19821, "zone":"general", "category":"other", "security":"c2f10cc321638f0f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Arena",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19821, "colors":["brown","yellow"]},
+            {"id":19822, "colors":["green"]},
+            {"id":19823, "colors":["purple"]},
+            {"id":19824, "colors":["pink"]},
+            {"id":19825, "colors":["blue","green"]},
+            {"id":19826, "colors":["blue"]},
+            {"id":19827, "colors":["orange","yellow"]},
+            {"id":19828, "colors":["red"]},
+            {"id":19829, "colors":["white"]},
+            {"id":19830, "colors":["black"]}
+        ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+        "releaseDate":"2026-11-18"
     }
 ]

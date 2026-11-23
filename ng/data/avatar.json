@@ -814,7 +814,24 @@
                 ], "criteria":{"type":"pack", "info":"mini_mkt09 / Mini Cyber", "text":"Desbloqueado en el Pack exclusivo\nCyber"},
                 "releaseDate":"2026-11-04"
             },
-            
+            {
+                "groupId":357, "zone":"face", "category":"eyes", "security":"bff4e335840a2ee9",
+                "name":"Ojos",
+                "outfitName":"Desert Diviner",
+                "variations":[
+                    {"id":357, "colors":["blue"]},
+                    {"id":358, "colors":["green"]},
+                    {"id":359, "colors":["purple"]},
+                    {"id":360, "colors":["pink"]},
+                    {"id":361, "colors":["brown"]},
+                    {"id":362, "colors":["brown"]},
+                    {"id":363, "colors":["yellow"]},
+                    {"id":364, "colors":["red"]},
+                    {"id":365, "colors":["white"]},
+                    {"id":366, "colors":["black"]}
+                ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
+                "releaseDate":"2026-11-18"
+            },
             {
                 "groupId":367, "zone":"face", "category":"eyes", "security":"268def0b05800603",
                 "name":"Ojos",

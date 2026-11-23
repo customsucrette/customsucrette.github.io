@@ -432,5 +432,9 @@
     {
         "id":117, "security":"a3b2e088a3b96624", "releaseDate":"2026-10-27", "name":"Dr. Frangoostein",
         "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"}
+    },
+    {
+        "id":118, "security":"5fe0c5007de777c9", "releaseDate":"2026-11-18", "name":"Al Mawis",
+        "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"}
     }
 ]
