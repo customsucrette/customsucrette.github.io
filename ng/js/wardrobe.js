@@ -1127,6 +1127,7 @@ function checkPet(c) {
         // Reemplazar
         sucrette.pet.outfit = c;
         c = c.split("-");
+        $("#pet-base").hide();
         $("#pet-outfit").show();
         $("#pet-outfit").attr("src", composePetUrl("full", c[0], c[1]));
         return true;
@@ -1136,6 +1137,7 @@ function checkPet(c) {
         sucrette.pet.outfit = null;
         $("#pet-outfit").hide();
         $("#pet-outfit").removeAttr("src");
+        $("#pet-base").show();
         return false;
 
     };
@@ -1144,11 +1146,12 @@ function checkPet(c) {
 function drawPet() {
     if (sucrette.pet.status) {
         $("#asng-pet").show();
-        $("#pet-base").show();
+        // $("#pet-base").show();
         if (sucrette.pet.outfit != null) {
             $("#pet-outfit").attr("src", composePetUrl("full", (sucrette.pet.outfit).split("-")[0], (sucrette.pet.outfit).split("-")[1]));
             $("#pet-outfit").show();
         } else {
+            $("#pet-base").show();
             $("#pet-outfit").hide();
         };
     } else {
