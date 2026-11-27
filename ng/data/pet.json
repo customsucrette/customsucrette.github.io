@@ -436,5 +436,9 @@
     {
         "id":118, "security":"5fe0c5007de777c9", "releaseDate":"2026-11-18", "name":"Al Mawis",
         "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"}
+    },
+    {
+        "id":120, "security":"83d725cf5437b6b8", "releaseDate":"2026-11-27", "name":"Goosinn",
+        "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"}
     }
 ]

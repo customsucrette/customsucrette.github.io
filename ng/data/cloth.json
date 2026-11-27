@@ -33642,5 +33642,276 @@
             {"id":19830, "colors":["black"]}
         ], "criteria":{"type":"gauge", "info":"Desert Diviner", "text":"Desbloqueado durante el evento de medidor\nDesert Diviner"},
         "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19831, "zone":"general", "category":"tattoo", "security":"2a878c1aec867976", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuajes",
+        "outfitName":"Cyber Valkyrie",
+        "variations":[
+            {"id":19831, "colors":["black","silver","blue"]},
+            {"id":19832, "colors":["black","green","silver"]},
+            {"id":19833, "colors":["red","silver","black"]},
+            {"id":19834, "colors":["orange","silver","black"]},
+            {"id":19835, "colors":["yellow","silver","black"]},
+            {"id":19836, "colors":["pink","silver","black"]},
+            {"id":19837, "colors":["purple","silver","black"]},
+            {"id":19838, "colors":["white","silver","black"]},
+            {"id":19839, "colors":["black","silver"]},
+            {"id":19840, "colors":["green","blue","silver"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":19841, "zone":"waistToKnee", "category":"pants", "security":"ffbb392fe4ff83c5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalones",
+        "outfitName":"Cyber Valkyrie",
+        "variations":[
+            {"id":19841, "colors":["blue"]},
+            {"id":19842, "colors":["green"]},
+            {"id":19843, "colors":["red"]},
+            {"id":19844, "colors":["brown"]},
+            {"id":19845, "colors":["grey"]},
+            {"id":19846, "colors":["pink"]},
+            {"id":19847, "colors":["purple"]},
+            {"id":19848, "colors":["white"]},
+            {"id":19849, "colors":["black"]},
+            {"id":19850, "colors":["green","blue"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":19851, "zone":"feet", "category":"shoes", "security":"d77eae165fc9885b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Cyber Valkyrie",
+        "variations":[
+            {"id":19851, "colors":["blue","silver"]},
+            {"id":19852, "colors":["green","silver"]},
+            {"id":19853, "colors":["red","silver"]},
+            {"id":19854, "colors":["orange","silver","brown"]},
+            {"id":19855, "colors":["yellow","silver"]},
+            {"id":19856, "colors":["pink","silver"]},
+            {"id":19857, "colors":["purple","silver"]},
+            {"id":19858, "colors":["white","silver"]},
+            {"id":19859, "colors":["black","silver"]},
+            {"id":19860, "colors":["green","blue","silver"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":19861, "zone":"torso", "category":"top", "security":"eb90f81204add511", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Túnica",
+        "outfitName":"Cyber Valkyrie",
+        "variations":[
+            {"id":19861, "colors":["blue","silver"]},
+            {"id":19862, "colors":["green"]},
+            {"id":19863, "colors":["red","silver"]},
+            {"id":19864, "colors":["orange","silver","brown"]},
+            {"id":19865, "colors":["silver","yellow"]},
+            {"id":19866, "colors":["pink","silver"]},
+            {"id":19867, "colors":["purple","silver"]},
+            {"id":19868, "colors":["white","silver"]},
+            {"id":19869, "colors":["black","silver"]},
+            {"id":19870, "colors":["green","blue","silver"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":19871, "zone":"torso", "category":"jacket", "security":"75b3169efb727713", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Capa",
+        "outfitName":"Cyber Valkyrie",
+        "variations":[
+            {"id":19871, "colors":["blue","silver"]},
+            {"id":19872, "colors":["green","silver"]},
+            {"id":19873, "colors":["red","silver"]},
+            {"id":19874, "colors":["brown","silver","orange"]},
+            {"id":19875, "colors":["yellow","silver"]},
+            {"id":19876, "colors":["pink","silver"]},
+            {"id":19877, "colors":["purple","silver"]},
+            {"id":19878, "colors":["white","silver"]},
+            {"id":19879, "colors":["black","silver"]},
+            {"id":19880, "colors":["green","blue","silver"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":19881, "zone":"head", "category":"wig", "security":"9df81b197c7d8e13", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Cyber Valkyrie",
+        "variations":[
+            {"id":19881, "colors":["brown"]},
+            {"id":19882, "colors":["white"]},
+            {"id":19883, "colors":["black"]},
+            {"id":19884, "colors":["blue"]},
+            {"id":19885, "colors":["blue"]},
+            {"id":19886, "colors":["purple"]},
+            {"id":19887, "colors":["red"]},
+            {"id":19888, "colors":["yellow"]},
+            {"id":19889, "colors":["orange"]},
+            {"id":19890, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":19891, "zone":"head", "category":"hat", "security":"75a0f927abb03f98", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Casco",
+        "outfitName":"Cyber Valkyrie",
+        "variations":[
+            {"id":19891, "colors":["blue","silver"]},
+            {"id":19892, "colors":["green","silver"]},
+            {"id":19893, "colors":["red","silver"]},
+            {"id":19894, "colors":["orange","silver"]},
+            {"id":19895, "colors":["yellow","silver"]},
+            {"id":19896, "colors":["pink","silver"]},
+            {"id":19897, "colors":["purple","silver"]},
+            {"id":19898, "colors":["white","silver"]},
+            {"id":19899, "colors":["black","silver"]},
+            {"id":19900, "colors":["green","blue","silver"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":19901, "zone":"arms", "category":"bag", "security":"29fa18ca0b5540ac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hacha",
+        "outfitName":"Cyber Valkyrie",
+        "variations":[
+            {"id":19901, "colors":["blue","silver"]},
+            {"id":19902, "colors":["green","silver"]},
+            {"id":19903, "colors":["red","silver"]},
+            {"id":19904, "colors":["orange","silver"]},
+            {"id":19905, "colors":["yellow","silver"]},
+            {"id":19906, "colors":["pink","silver"]},
+            {"id":19907, "colors":["purple","silver"]},
+            {"id":19908, "colors":["white","silver"]},
+            {"id":19909, "colors":["black","silver"]},
+            {"id":19910, "colors":["green","blue","silver"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":19911, "zone":"general", "category":"other", "security":"4ad5fd037f94bf52", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ambiente",
+        "outfitName":"Cyber Valkyrie",
+        "variations":[
+            {"id":19911, "colors":["blue"]},
+            {"id":19912, "colors":["green"]},
+            {"id":19913, "colors":["red"]},
+            {"id":19914, "colors":["orange"]},
+            {"id":19915, "colors":["yellow"]},
+            {"id":19916, "colors":["pink"]},
+            {"id":19917, "colors":["purple"]},
+            {"id":19918, "colors":["white"]},
+            {"id":19919, "colors":["black"]},
+            {"id":19920, "colors":["green","blue"]}
+        ], "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+        "releaseDate":"2026-11-27"
+    },
+
+    {
+        "groupId":20041, "zone":"feet", "category":"shoes", "security":"af9fe2c55a2ad473", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias Geta",
+        "outfitName":"Yuki Matsuri",
+        "variations":[
+            {"id":20041, "colors":["white","blue","brown"]},
+            {"id":20042, "colors":["white","yellow","brown"]},
+            {"id":20043, "colors":["white","pink","brown"]},
+            {"id":20044, "colors":["white","grey"]},
+            {"id":20045, "colors":["white","green","brown"]},
+            {"id":20046, "colors":["white","red","black"]},
+            {"id":20047, "colors":["white","black","brown"]},
+            {"id":20048, "colors":["white","purple","brown"]},
+            {"id":20049, "colors":["white","orange","brown"]},
+            {"id":20050, "colors":["white","brown"]}
+        ], "criteria":{"type":"calendar", "info":"2026-33", "text":"Desbloqueado en el calendario\nN°33 - 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":20051, "zone":"torso_waistToKnee", "category":"dress", "security":"d2923173881197aa", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Furisode",
+        "outfitName":"Yuki Matsuri",
+        "variations":[
+            {"id":20051, "colors":["blue"]},
+            {"id":20052, "colors":["yellow"]},
+            {"id":20053, "colors":["pink"]},
+            {"id":20054, "colors":["white"]},
+            {"id":20055, "colors":["green"]},
+            {"id":20056, "colors":["red"]},
+            {"id":20057, "colors":["black"]},
+            {"id":20058, "colors":["purple"]},
+            {"id":20059, "colors":["orange"]},
+            {"id":20060, "colors":["brown"]}
+        ], "criteria":{"type":"calendar", "info":"2026-33", "text":"Desbloqueado en el calendario\nN°33 - 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":20061, "zone":"arms", "category":"bag", "security":"09974bd88cea41b0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Kinchaku",
+        "outfitName":"Yuki Matsuri",
+        "variations":[
+            {"id":20061, "colors":["blue","purple"]},
+            {"id":20062, "colors":["yellow","orange"]},
+            {"id":20063, "colors":["pink","blue"]},
+            {"id":20064, "colors":["white","grey"]},
+            {"id":20065, "colors":["green","brown"]},
+            {"id":20066, "colors":["red","brown"]},
+            {"id":20067, "colors":["black","red"]},
+            {"id":20068, "colors":["purple","blue"]},
+            {"id":20069, "colors":["orange","red"]},
+            {"id":20070, "colors":["brown","blue"]}
+        ], "criteria":{"type":"calendar", "info":"2026-33", "text":"Desbloqueado en el calendario\nN°33 - 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":20071, "zone":"torso_waistToKnee", "category":"waist", "security":"c244efb5317f1e50", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Obi",
+        "outfitName":"Yuki Matsuri",
+        "variations":[
+            {"id":20071, "colors":["yellow","orange","pink"]},
+            {"id":20072, "colors":["green","blue","orange"]},
+            {"id":20073, "colors":["purple","brown","pink"]},
+            {"id":20074, "colors":["pink","blue","yellow"]},
+            {"id":20075, "colors":["brown","black","yellow"]},
+            {"id":20076, "colors":["black","red","grey"]},
+            {"id":20077, "colors":["red","green","yellow"]},
+            {"id":20078, "colors":["blue","yellow","white"]},
+            {"id":20079, "colors":["grey","pink","black"]},
+            {"id":20080, "colors":["white","orange","brown"]}
+        ], "criteria":{"type":"calendar", "info":"2026-33", "text":"Desbloqueado en el calendario\nN°33 - 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":20081, "zone":"head", "category":"hat", "security":"d763ff63983a7d64", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Kanzashi",
+        "outfitName":"Yuki Matsuri",
+        "variations":[
+            {"id":20081, "colors":["blue","white"]},
+            {"id":20082, "colors":["yellow","white"]},
+            {"id":20083, "colors":["pink","white"]},
+            {"id":20084, "colors":["white"]},
+            {"id":20085, "colors":["white","green"]},
+            {"id":20086, "colors":["white","red"]},
+            {"id":20087, "colors":["white","black"]},
+            {"id":20088, "colors":["white","purple"]},
+            {"id":20089, "colors":["white","orange"]},
+            {"id":20090, "colors":["white","brown"]}
+        ], "criteria":{"type":"calendar", "info":"2026-33", "text":"Desbloqueado en el calendario\nN°33 - 2026"},
+        "releaseDate":"2026-11-27"
+    },
+    {
+        "groupId":20091, "zone":"torso", "category":"jacket", "security":"908cf6497757c090", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Haori",
+        "outfitName":"Yuki Matsuri",
+        "variations":[
+            {"id":20091, "colors":["purple"]},
+            {"id":20092, "colors":["orange"]},
+            {"id":20093, "colors":["yellow"]},
+            {"id":20094, "colors":["blue"]},
+            {"id":20095, "colors":["brown"]},
+            {"id":20096, "colors":["black"]},
+            {"id":20097, "colors":["pink"]},
+            {"id":20098, "colors":["white"]},
+            {"id":20099, "colors":["green"]},
+            {"id":20100, "colors":["red"]}
+        ], "criteria":{"type":"calendar", "info":"2026-33", "text":"Desbloqueado en el calendario\nN°33 - 2026"},
+        "releaseDate":"2026-11-27"
     }
 ]

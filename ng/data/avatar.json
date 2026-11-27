@@ -885,6 +885,24 @@
                     {"id":396, "colors":["brown"]}
                 ], "criteria":{"type":"pack", "info":"mini_mkt12 / Mini Starside", "text":"Desbloqueado en el Pack exclusivo\nStarside"},
                 "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":397, "zone":"face", "category":"eyes", "security":"a45f4eeecb5a4faa",
+                "name":"Ojos",
+                "outfitName":"Cyber Valkyrie",
+                "variations":[
+                    {"id":397, "colors":["blue"]},
+                    {"id":398, "colors":["green"]},
+                    {"id":399, "colors":["red"]},
+                    {"id":400, "colors":["orange"]},
+                    {"id":401, "colors":["yellow"]},
+                    {"id":402, "colors":["pink"]},
+                    {"id":403, "colors":["purple"]},
+                    {"id":404, "colors":["white"]},
+                    {"id":405, "colors":["black"]},
+                    {"id":406, "colors":["blue"]}
+                ], "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+                "releaseDate":"2026-11-27"
             }
         ],
         "mouth":[

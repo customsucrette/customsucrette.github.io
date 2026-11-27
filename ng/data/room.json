@@ -4165,7 +4165,46 @@
         "roomName":"It's Alive !",
         "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"}
     },
-
+    {
+        "id":639, "roomId":128, "slot":"background", "releaseDate":"2026-11-27", "light":true, "security":"1bc084a9c8bb9b91",
+        "name":"Paredes",
+        "roomName":"Völund's Fieldforge",
+        "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"},
+        "backgroundColors":{
+            "day":{"color1":"45A3FF","color2":"9F99A8","colorLight":"091652"},
+            "night":{"color1":"ECA15C","color2":"8A5F52","colorLight":"382919"}
+        }
+    },
+    {
+        "id":640, "roomId":128, "slot":"slot1", "releaseDate":"2026-11-27", "light":true, "security":"cd89f5a9aca93bae",
+        "name":"Mecha",
+        "roomName":"Völund's Fieldforge",
+        "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"}
+    },
+    {
+        "id":641, "roomId":128, "slot":"slot2", "releaseDate":"2026-11-27", "light":true, "security":"b1c703c5b497a612",
+        "name":"Horno de forja",
+        "roomName":"Völund's Fieldforge",
+        "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"}
+    },
+    {
+        "id":642, "roomId":128, "slot":"slot3", "releaseDate":"2026-11-27", "light":true, "security":"093651c6e04639db",
+        "name":"Lobo",
+        "roomName":"Völund's Fieldforge",
+        "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"}
+    },
+    {
+        "id":643, "roomId":128, "slot":"slot4", "releaseDate":"2026-11-27", "light":true, "security":"7a377aabb0af742b",
+        "name":"Yunque",
+        "roomName":"Völund's Fieldforge",
+        "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"}
+    },
+    {
+        "id":644, "roomId":128, "slot":"slot5", "releaseDate":"2026-11-27", "light":true, "security":"15325686cf3f014a",
+        "name":"Baúl",
+        "roomName":"Völund's Fieldforge",
+        "criteria":{"type":"pack", "info":"Black Friday 2026", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2026"}
+    },
     {
         "id":645, "roomId":129, "slot":"background", "releaseDate":"2026-10-28", "light":true, "security":"081e393ca181404b",
         "name":"Paredes",
